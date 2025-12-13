@@ -31,6 +31,7 @@
 </div>
 
 <script>
+// Hardcoded base path for GitHub Pages
 const BASE_PATH = '/OsuIraqRecentScores';
 
 // Utility: format ISO date to YYYY-MM-DD
@@ -38,50 +39,56 @@ function formatDate(d){return d.toISOString().split('T')[0];}
 
 // Load index.json
 function loadIndex() {
-  fetch(`${BASE_PATH}/data/index.json`).then(r=>r.json()).then(idx=>{
-    const calendar = document.getElementById('calendar');
-    calendar.innerHTML = '';
+  fetch(`${BASE_PATH}/data/index.json`)
+    .then(r => r.json())
+    .then(idx => {
+      const calendar = document.getElementById('calendar');
+      calendar.innerHTML = '';
 
-    if(!idx.available_dates || idx.available_dates.length===0){
-      calendar.textContent = "No archived dates yet.";
-      document.getElementById('scoresList').textContent = "No scores available.";
-      return;
-    }
+      if (!idx.available_dates || idx.available_dates.length === 0) {
+        calendar.textContent = "No archived dates yet.";
+        document.getElementById('scoresList').textContent = "No scores available.";
+        return;
+      }
 
-    // Sort descending (newest first)
-    idx.available_dates.sort((a,b)=>b.localeCompare(a));
+      // Sort descending (newest first)
+      idx.available_dates.sort((a,b) => b.localeCompare(a));
 
-    // Build calendar buttons
-    idx.available_dates.forEach(date=>{
-      const btn = document.createElement('button');
-      btn.textContent = date;
-      btn.onclick = ()=>loadDate(date);
-      calendar.appendChild(btn);
+      // Build calendar buttons
+      idx.available_dates.forEach(date => {
+        const btn = document.createElement('button');
+        btn.textContent = date;
+        btn.onclick = () => loadDate(date);
+        calendar.appendChild(btn);
+      });
+
+      // Load today automatically if exists, else latest available
+      const today = formatDate(new Date());
+      if (idx.available_dates.includes(today)) loadDate(today);
+      else loadDate(idx.available_dates[0]);
+    })
+    .catch(err => {
+      console.error("Failed to load index.json:", err);
+      document.getElementById('scoresList').textContent = "Failed to load scores.";
     });
-
-    // Load today automatically if exists
-    const today = formatDate(new Date());
-    if(idx.available_dates.includes(today)) loadDate(today);
-    else loadDate(idx.available_dates[0]); // fallback to latest
-  });
 }
 
-// Load scores for a given date
-function loadDate(date){
+// Load scores for a specific date
+function loadDate(date) {
   const [year, month, day] = date.split('-');
   fetch(`${BASE_PATH}/data/${year}/${month}/${day}.json`)
-    .then(r=>r.json())
-    .then(data=>{
+    .then(r => r.json())
+    .then(data => {
       document.getElementById('lastUpdated').textContent = 'Last updated: ' + data.generated_at;
       const container = document.getElementById('scoresList');
       container.innerHTML = '';
 
-      if(!data.scores || data.scores.length===0){
+      if (!data.scores || data.scores.length === 0) {
         container.textContent = 'No scores for this day.';
         return;
       }
 
-      data.scores.forEach(s=>{
+      data.scores.forEach(s => {
         const div = document.createElement('div');
         div.className = 'score';
         div.innerHTML = `
@@ -98,13 +105,13 @@ function loadDate(date){
         container.appendChild(div);
       });
     })
-    .catch(err=>{
+    .catch(err => {
       console.error("Failed to load JSON:", err);
       document.getElementById('scoresList').textContent = "Failed to load scores.";
     });
 }
 
-// Initialize
+// Initialize page
 loadIndex();
 </script>
 </body>
