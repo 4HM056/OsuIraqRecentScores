@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>FancyToastOsu! — Daily Scores</title>
+<title>FancyToastOsu! — Calendar Archive</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -13,17 +13,15 @@
     <small id="lastUpdated">Last updated: --</small>
   </header>
 
-  <div id="mainContent">
-    <aside id="calendarSection">
-      <h2>Previous Days</h2>
-      <div id="calendar"></div>
-    </aside>
+  <section id="calendarSection">
+    <h2>Calendar</h2>
+    <div id="calendar"></div>
+  </section>
 
-    <section id="todayScores">
-      <h2>Scores</h2>
-      <div id="scoresList">Loading...</div>
-    </section>
-  </div>
+  <section id="scoresSection">
+    <h2>Scores for <span id="selectedDate">--</span></h2>
+    <div id="scoresList">Select a day to view scores</div>
+  </section>
 
   <footer>
     Data powered by osu! API v2 • Archived daily
@@ -31,87 +29,93 @@
 </div>
 
 <script>
-// Hardcoded base path for GitHub Pages
 const BASE_PATH = '/OsuIraqRecentScores';
 
-// Utility: format ISO date to YYYY-MM-DD
+// Utility: format YYYY-MM-DD
 function formatDate(d){return d.toISOString().split('T')[0];}
 
 // Load index.json
-function loadIndex() {
-  fetch(`${BASE_PATH}/data/index.json`)
-    .then(r => r.json())
-    .then(idx => {
-      const calendar = document.getElementById('calendar');
-      calendar.innerHTML = '';
+async function loadIndex() {
+  try {
+    const res = await fetch(`${BASE_PATH}/data/index.json`);
+    const idx = await res.json();
 
-      if (!idx.available_dates || idx.available_dates.length === 0) {
-        calendar.textContent = "No archived dates yet.";
-        document.getElementById('scoresList').textContent = "No scores available.";
-        return;
-      }
+    if(!idx.available_dates || idx.available_dates.length===0){
+      document.getElementById('calendar').textContent = "No archived dates yet.";
+      return;
+    }
 
-      // Sort descending (newest first)
-      idx.available_dates.sort((a,b) => b.localeCompare(a));
-
-      // Build calendar buttons
-      idx.available_dates.forEach(date => {
-        const btn = document.createElement('button');
-        btn.textContent = date;
-        btn.onclick = () => loadDate(date);
-        calendar.appendChild(btn);
-      });
-
-      // Load today automatically if exists, else latest available
-      const today = formatDate(new Date());
-      if (idx.available_dates.includes(today)) loadDate(today);
-      else loadDate(idx.available_dates[0]);
-    })
-    .catch(err => {
-      console.error("Failed to load index.json:", err);
-      document.getElementById('scoresList').textContent = "Failed to load scores.";
-    });
+    buildCalendar(idx.available_dates);
+  } catch(e){
+    console.error("Failed to load index.json:", e);
+    document.getElementById('calendar').textContent = "Error loading calendar";
+  }
 }
 
-// Load scores for a specific date
-function loadDate(date) {
+// Build a simple clickable calendar
+function buildCalendar(dates){
+  const calendar = document.getElementById('calendar');
+  calendar.innerHTML = '';
+
+  const today = formatDate(new Date());
+
+  dates.sort().forEach(date => {
+    const btn = document.createElement('button');
+    btn.textContent = date;
+    btn.className = (date === today) ? 'today' : '';
+    btn.onclick = () => loadScores(date);
+    calendar.appendChild(btn);
+  });
+
+  // Auto-load today if exists
+  if(dates.includes(today)) loadScores(today);
+  else loadScores(dates[dates.length-1]); // fallback latest
+}
+
+// Load scores for selected day
+async function loadScores(date){
   const [year, month, day] = date.split('-');
-  fetch(`${BASE_PATH}/data/${year}/${month}/${day}.json`)
-    .then(r => r.json())
-    .then(data => {
-      document.getElementById('lastUpdated').textContent = 'Last updated: ' + data.generated_at;
-      const container = document.getElementById('scoresList');
-      container.innerHTML = '';
+  document.getElementById('selectedDate').textContent = date;
+  const container = document.getElementById('scoresList');
+  container.textContent = "Loading...";
 
-      if (!data.scores || data.scores.length === 0) {
-        container.textContent = 'No scores for this day.';
-        return;
-      }
+  try {
+    const res = await fetch(`${BASE_PATH}/data/${year}/${month}/${day}.json`);
+    if(!res.ok) throw new Error("JSON not found for this day");
+    const data = await res.json();
 
-      data.scores.forEach(s => {
-        const div = document.createElement('div');
-        div.className = 'score';
-        div.innerHTML = `
-          <div class="cover"><img src="${s.beatmapset.cover}" alt="map cover"></div>
-          <div class="info">
-            <div class="player">${s.user} (${s.country})</div>
-            <div class="meta">
-              Rank: ${s.rank} | Acc: ${(s.accuracy*100).toFixed(2)}% | Combo: ${s.combo}x | Mods: ${s.mods.join(', ') || "None"} | ${s.pp || "N/A"}pp
-            </div>
-            <div class="mapTitle">${s.beatmapset.title}</div>
-            <div class="time">Submitted: ${new Date(s.created_at).toLocaleString()}</div>
+    container.innerHTML = '';
+
+    if(!data.scores || data.scores.length===0){
+      container.textContent = "No scores for this day.";
+      return;
+    }
+
+    data.scores.forEach(s => {
+      const div = document.createElement('div');
+      div.className = 'score';
+      div.innerHTML = `
+        <div class="cover"><img src="${s.beatmapset.cover}" alt="map cover"></div>
+        <div class="info">
+          <div class="player">${s.user} (${s.country})</div>
+          <div class="meta">
+            Rank: ${s.rank} | Acc: ${(s.accuracy*100).toFixed(2)}% | Combo: ${s.combo}x | Mods: ${s.mods.join(', ') || "None"} | ${s.pp || "N/A"}pp
           </div>
-        `;
-        container.appendChild(div);
-      });
-    })
-    .catch(err => {
-      console.error("Failed to load JSON:", err);
-      document.getElementById('scoresList').textContent = "Failed to load scores.";
+          <div class="mapTitle">${s.beatmapset.title}</div>
+          <div class="time">Submitted: ${new Date(s.created_at).toLocaleString()}</div>
+        </div>
+      `;
+      container.appendChild(div);
     });
+
+    document.getElementById('lastUpdated').textContent = 'Last updated: ' + data.generated_at;
+
+  } catch(e){
+    container.textContent = "No scores for this day.";
+  }
 }
 
-// Initialize page
+// Initialize
 loadIndex();
 </script>
 </body>
