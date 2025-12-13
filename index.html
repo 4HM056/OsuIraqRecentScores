@@ -33,12 +33,21 @@
    Simple calendar + daily fetch
 -----------------------------*/
 
-// Utility: format ISO date to YYYY-MM-DD
+// Base path for GitHub Pages: auto-detect
+const BASE_PATH = location.pathname.replace(/\/[^/]*$/, ''); 
+// example: "/REPO_NAME/" if hosted as github.io/REPO_NAME/
+
 function formatDate(d){return d.toISOString().split('T')[0];}
 
-// Load index.json to get available dates
-fetch('data/index.json').then(r=>r.json()).then(idx=>{
+// Load index.json
+fetch(`${BASE_PATH}/data/index.json`).then(r=>r.json()).then(idx=>{
   const calendar = document.getElementById('calendar');
+  if(!idx.available_dates || idx.available_dates.length===0){
+    calendar.textContent = "No archived dates yet.";
+    document.getElementById('scoresList').textContent = "No scores available.";
+    return;
+  }
+
   idx.available_dates.sort((a,b)=>b.localeCompare(a)).forEach(date=>{
     const btn = document.createElement('button');
     btn.textContent = date;
@@ -46,7 +55,7 @@ fetch('data/index.json').then(r=>r.json()).then(idx=>{
     calendar.appendChild(btn);
   });
 
-  // Load today if exists, fallback to latest available
+  // Load today if exists, fallback to latest
   const today = formatDate(new Date());
   if(idx.available_dates.includes(today)) loadDate(today);
   else loadDate(idx.available_dates[idx.available_dates.length-1]);
@@ -54,16 +63,19 @@ fetch('data/index.json').then(r=>r.json()).then(idx=>{
 
 // Load scores for a given date
 function loadDate(date){
-  fetch(`data/${date.slice(0,4)}/${date.slice(5,7)}/${date.slice(8,10)}.json`)
+  const [year, month, day] = date.split('-');
+  fetch(`${BASE_PATH}/data/${year}/${month}/${day}.json`)
     .then(r=>r.json())
     .then(data=>{
       document.getElementById('lastUpdated').textContent = 'Last updated: ' + data.generated_at;
       const container = document.getElementById('scoresList');
       container.innerHTML = '';
+
       if(!data.scores || data.scores.length===0){
         container.textContent = 'No scores for this day.';
         return;
       }
+
       data.scores.forEach(s=>{
         const div = document.createElement('div');
         div.className = 'score';
@@ -72,14 +84,18 @@ function loadDate(date){
           <div class="info">
             <div class="player">${s.user} (${s.country})</div>
             <div class="meta">
-              Rank: ${s.rank} | Acc: ${(s.accuracy*100).toFixed(2)}% | Combo: ${s.combo}x | Mods: ${s.mods.join(', ')} | ${s.pp}pp
+              Rank: ${s.rank} | Acc: ${(s.accuracy*100).toFixed(2)}% | Combo: ${s.combo}x | Mods: ${s.mods.join(', ') || "None"} | ${s.pp || "N/A"}pp
             </div>
             <div class="mapTitle">${s.beatmapset.title}</div>
-            <div class="time">Submitted: ${s.created_at}</div>
+            <div class="time">Submitted: ${new Date(s.created_at).toLocaleString()}</div>
           </div>
         `;
         container.appendChild(div);
       });
+    })
+    .catch(err=>{
+      console.error("Failed to load JSON:", err);
+      document.getElementById('scoresList').textContent = "Failed to load scores.";
     });
 }
 </script>
