@@ -1,0 +1,241 @@
+{
+  "date": "2025-12-14",
+  "country": "IQ",
+  "generated_at": "2025-12-14T01:45:52.370Z",
+  "scores": [
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4953918172,
+      "rank": "A",
+      "accuracy": 0.9715585893060296,
+      "pp": 270.208,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 218,
+      "created_at": "2025-12-14T01:44:46Z",
+      "beatmapset": {
+        "id": 1309426,
+        "title": "What The Hell (Sped Up & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/1309426/covers/card.jpg?1748340290"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4953917461,
+      "rank": "A",
+      "accuracy": 0.9527702089009991,
+      "pp": 181.394,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 185,
+      "created_at": "2025-12-14T01:42:20Z",
+      "beatmapset": {
+        "id": 1575739,
+        "title": "Stay",
+        "cover": "https://assets.ppy.sh/beatmaps/1575739/covers/card.jpg?1645781587"
+      }
+    },
+    {
+      "user": "6xSeven",
+      "user_id": 29452442,
+      "country": "IQ",
+      "score_id": 4953917085,
+      "rank": "B",
+      "accuracy": 0.898628503279666,
+      "pp": 137.613,
+      "mods": [],
+      "combo": 839,
+      "created_at": "2025-12-14T01:41:06Z",
+      "beatmapset": {
+        "id": 518426,
+        "title": "Sonata No.14 in cis-Moll, Op. 27/2 - 3. Satz",
+        "cover": "https://assets.ppy.sh/beatmaps/518426/covers/card.jpg?1622109835"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.958904109589041,
+      "pp": null,
+      "mods": [
+        "HD",
+        "HR"
+      ],
+      "combo": 120,
+      "created_at": "2025-12-14T01:39:26Z",
+      "beatmapset": {
+        "id": 2390174,
+        "title": "Jump Pack",
+        "cover": "https://assets.ppy.sh/beatmaps/2390174/covers/card.jpg?1754204443"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9371069182389937,
+      "pp": null,
+      "mods": [
+        "HD",
+        "HR"
+      ],
+      "combo": 126,
+      "created_at": "2025-12-14T01:38:43Z",
+      "beatmapset": {
+        "id": 2293648,
+        "title": "DT Jump Pack",
+        "cover": "https://assets.ppy.sh/beatmaps/2293648/covers/card.jpg?1743348618"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4953914848,
+      "rank": "A",
+      "accuracy": 0.9629629629629629,
+      "pp": 223.699,
+      "mods": [
+        "HD",
+        "HR"
+      ],
+      "combo": 215,
+      "created_at": "2025-12-14T01:33:44Z",
+      "beatmapset": {
+        "id": 2235601,
+        "title": "Temptation (feat. Rebecca) (Nightcore Mix)",
+        "cover": "https://assets.ppy.sh/beatmaps/2235601/covers/card.jpg?1749116184"
+      }
+    },
+    {
+      "user": "6xSeven",
+      "user_id": 29452442,
+      "country": "IQ",
+      "score_id": 4953912621,
+      "rank": "B",
+      "accuracy": 0.9032023289665211,
+      "pp": 64.6355,
+      "mods": [],
+      "combo": 172,
+      "created_at": "2025-12-14T01:26:21Z",
+      "beatmapset": {
+        "id": 59025,
+        "title": "Kyouki Chinden (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/59025/covers/card.jpg?1650618946"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4953804054,
+      "rank": "A",
+      "accuracy": 0.9451659451659452,
+      "pp": 239.989,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 123,
+      "created_at": "2025-12-13T20:43:06Z",
+      "beatmapset": {
+        "id": 2282704,
+        "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2282704/covers/card.jpg?1756038849"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4953801150,
+      "rank": "A",
+      "accuracy": 0.9633507853403142,
+      "pp": 325.723,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 138,
+      "created_at": "2025-12-13T20:36:41Z",
+      "beatmapset": {
+        "id": 2425417,
+        "title": "Determinate (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2425417/covers/card.jpg?1761335172"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4953800425,
+      "rank": "A",
+      "accuracy": 0.9284467713787086,
+      "pp": 234.652,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 93,
+      "created_at": "2025-12-13T20:35:07Z",
+      "beatmapset": {
+        "id": 2425417,
+        "title": "Determinate (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2425417/covers/card.jpg?1761335172"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4953799851,
+      "rank": "A",
+      "accuracy": 0.9312169312169312,
+      "pp": 220.825,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 139,
+      "created_at": "2025-12-13T20:33:49Z",
+      "beatmapset": {
+        "id": 2425417,
+        "title": "Determinate (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2425417/covers/card.jpg?1761335172"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4953799428,
+      "rank": "A",
+      "accuracy": 0.9603603603603603,
+      "pp": 281.296,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 230,
+      "created_at": "2025-12-13T20:32:53Z",
+      "beatmapset": {
+        "id": 2425417,
+        "title": "Determinate (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2425417/covers/card.jpg?1761335172"
+      }
+    }
+  ]
+}
