@@ -1,0 +1,302 @@
+{
+  "date": "2025-12-17",
+  "country": "IQ",
+  "generated_at": "2025-12-17T01:27:27.355Z",
+  "scores": [
+    {
+      "user": "6xSeven",
+      "user_id": 29452442,
+      "country": "IQ",
+      "score_id": 4955359505,
+      "rank": "B",
+      "accuracy": 0.9182948490230906,
+      "pp": 194.071,
+      "mods": [
+        "DT"
+      ],
+      "combo": 453,
+      "created_at": "2025-12-17T00:15:34Z",
+      "beatmapset": {
+        "id": 1905234,
+        "title": "Life Sux (Sped Up Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/1905234/covers/card.jpg?1673887050"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4955359504,
+      "rank": "B",
+      "accuracy": 0.8579040852575488,
+      "pp": 64.4485,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 250,
+      "created_at": "2025-12-17T00:15:34Z",
+      "beatmapset": {
+        "id": 1905234,
+        "title": "Life Sux (Sped Up Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/1905234/covers/card.jpg?1673887050"
+      }
+    },
+    {
+      "user": "6xSeven",
+      "user_id": 29452442,
+      "country": "IQ",
+      "score_id": 4955349808,
+      "rank": "B",
+      "accuracy": 0.8650793650793651,
+      "pp": 120.766,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 151,
+      "created_at": "2025-12-16T23:43:00Z",
+      "beatmapset": {
+        "id": 2398052,
+        "title": "Golden",
+        "cover": "https://assets.ppy.sh/beatmaps/2398052/covers/card.jpg?1753850095"
+      }
+    },
+    {
+      "user": "6xSeven",
+      "user_id": 29452442,
+      "country": "IQ",
+      "score_id": 4955348755,
+      "rank": "A",
+      "accuracy": 0.9518115942028985,
+      "pp": 144.365,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 306,
+      "created_at": "2025-12-16T23:39:28Z",
+      "beatmapset": {
+        "id": 2398052,
+        "title": "Golden",
+        "cover": "https://assets.ppy.sh/beatmaps/2398052/covers/card.jpg?1753850095"
+      }
+    },
+    {
+      "user": "6xSeven",
+      "user_id": 29452442,
+      "country": "IQ",
+      "score_id": 4955348070,
+      "rank": "A",
+      "accuracy": 0.9839080459770115,
+      "pp": 277.583,
+      "mods": [],
+      "combo": 568,
+      "created_at": "2025-12-16T23:37:11Z",
+      "beatmapset": {
+        "id": 2398052,
+        "title": "Golden",
+        "cover": "https://assets.ppy.sh/beatmaps/2398052/covers/card.jpg?1753850095"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4955347982,
+      "rank": "S",
+      "accuracy": 0.9920318725099602,
+      "pp": 146.218,
+      "mods": [],
+      "combo": 349,
+      "created_at": "2025-12-16T23:36:53Z",
+      "beatmapset": {
+        "id": 443589,
+        "title": "Meaning",
+        "cover": "https://assets.ppy.sh/beatmaps/443589/covers/card.jpg?1650638535"
+      }
+    },
+    {
+      "user": "6xSeven",
+      "user_id": 29452442,
+      "country": "IQ",
+      "score_id": 4955346585,
+      "rank": "A",
+      "accuracy": 0.9862068965517241,
+      "pp": 243.256,
+      "mods": [],
+      "combo": 533,
+      "created_at": "2025-12-16T23:32:24Z",
+      "beatmapset": {
+        "id": 2398052,
+        "title": "Golden",
+        "cover": "https://assets.ppy.sh/beatmaps/2398052/covers/card.jpg?1753850095"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9386322463768116,
+      "pp": null,
+      "mods": [],
+      "combo": 198,
+      "created_at": "2025-12-16T22:05:42Z",
+      "beatmapset": {
+        "id": 2341996,
+        "title": "Nevermind (feat. Justin Magnaye) (Sped Up Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2341996/covers/card.jpg?1744925445"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "B",
+      "accuracy": 0.907673860911271,
+      "pp": null,
+      "mods": [],
+      "combo": 172,
+      "created_at": "2025-12-16T22:02:49Z",
+      "beatmapset": {
+        "id": 2353973,
+        "title": "Candy (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2353973/covers/card.jpg?1750264251"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9479166666666666,
+      "pp": null,
+      "mods": [],
+      "combo": 55,
+      "created_at": "2025-12-16T21:59:58Z",
+      "beatmapset": {
+        "id": 2431526,
+        "title": "Jump Pack 1",
+        "cover": "https://assets.ppy.sh/beatmaps/2431526/covers/card.jpg?1760121061"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "B",
+      "accuracy": 0.894880174291939,
+      "pp": null,
+      "mods": [],
+      "combo": 194,
+      "created_at": "2025-12-16T16:35:12Z",
+      "beatmapset": {
+        "id": 1042921,
+        "title": "FLARE (Speed Up Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/1042921/covers/card.jpg?1622014246"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4955149054,
+      "rank": "B",
+      "accuracy": 0.8949096880131363,
+      "pp": 186.651,
+      "mods": [
+        "HD",
+        "NC"
+      ],
+      "combo": 104,
+      "created_at": "2025-12-16T15:43:26Z",
+      "beatmapset": {
+        "id": 2379887,
+        "title": "This Little Girl (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2379887/covers/card.jpg?1749535372"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4955148593,
+      "rank": "A",
+      "accuracy": 0.9403292181069959,
+      "pp": 218.305,
+      "mods": [
+        "HD",
+        "NC"
+      ],
+      "combo": 102,
+      "created_at": "2025-12-16T15:42:23Z",
+      "beatmapset": {
+        "id": 2379887,
+        "title": "This Little Girl (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2379887/covers/card.jpg?1749535372"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4955146857,
+      "rank": "A",
+      "accuracy": 0.9264069264069265,
+      "pp": 201.561,
+      "mods": [
+        "HD",
+        "NC"
+      ],
+      "combo": 128,
+      "created_at": "2025-12-16T15:38:34Z",
+      "beatmapset": {
+        "id": 2282704,
+        "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2282704/covers/card.jpg?1756038849"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4955146446,
+      "rank": "A",
+      "accuracy": 0.9737373737373738,
+      "pp": 312.431,
+      "mods": [
+        "HD",
+        "NC"
+      ],
+      "combo": 146,
+      "created_at": "2025-12-16T15:37:39Z",
+      "beatmapset": {
+        "id": 2390209,
+        "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535"
+      }
+    },
+    {
+      "user": "L e n",
+      "user_id": 10286650,
+      "country": "IQ",
+      "score_id": 4955075376,
+      "rank": "A",
+      "accuracy": 0.9818304172274562,
+      "pp": null,
+      "mods": [],
+      "combo": 425,
+      "created_at": "2025-12-16T12:44:11Z",
+      "beatmapset": {
+        "id": 399096,
+        "title": "Turkish March - Owata \\(^o^)/",
+        "cover": "https://assets.ppy.sh/beatmaps/399096/covers/card.jpg?1622098240"
+      }
+    }
+  ]
+}
