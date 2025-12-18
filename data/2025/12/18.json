@@ -1,0 +1,376 @@
+{
+  "date": "2025-12-18",
+  "country": "IQ",
+  "generated_at": "2025-12-18T01:27:48.465Z",
+  "scores": [
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4955853094,
+      "rank": "B",
+      "accuracy": 0.9141975308641975,
+      "pp": 133.963,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 73,
+      "created_at": "2025-12-18T01:21:40Z",
+      "beatmapset": {
+        "id": 917345,
+        "title": "POP/STARS",
+        "cover": "https://assets.ppy.sh/beatmaps/917345/covers/card.jpg?1650674742"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4955852785,
+      "rank": "A",
+      "accuracy": 0.9352409638554217,
+      "pp": 197.357,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 123,
+      "created_at": "2025-12-18T01:20:31Z",
+      "beatmapset": {
+        "id": 2314502,
+        "title": "blu",
+        "cover": "https://assets.ppy.sh/beatmaps/2314502/covers/card.jpg?1745681749"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4955851949,
+      "rank": "B",
+      "accuracy": 0.8959931798806479,
+      "pp": 154.267,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 144,
+      "created_at": "2025-12-18T01:17:27Z",
+      "beatmapset": {
+        "id": 352726,
+        "title": "Skyclad no Kansokusha",
+        "cover": "https://assets.ppy.sh/beatmaps/352726/covers/card.jpg?1650633682"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9655172413793104,
+      "pp": null,
+      "mods": [
+        "HD"
+      ],
+      "combo": 333,
+      "created_at": "2025-12-18T01:07:14Z",
+      "beatmapset": {
+        "id": 2140158,
+        "title": "Hardtekk Jump Training",
+        "cover": "https://assets.ppy.sh/beatmaps/2140158/covers/card.jpg?1762099276"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4955842929,
+      "rank": "B",
+      "accuracy": 0.9073150457190358,
+      "pp": 110.437,
+      "mods": [
+        "HD"
+      ],
+      "combo": 311,
+      "created_at": "2025-12-18T00:42:56Z",
+      "beatmapset": {
+        "id": 248876,
+        "title": "BLACK or WHITE?",
+        "cover": "https://assets.ppy.sh/beatmaps/248876/covers/card.jpg?1622080973"
+      }
+    },
+    {
+      "user": "Boiled_Aids",
+      "user_id": 11706528,
+      "country": "IQ",
+      "score_id": 4955840523,
+      "rank": "S",
+      "accuracy": 0.9878193701723114,
+      "pp": 284.835,
+      "mods": [],
+      "combo": 706,
+      "created_at": "2025-12-18T00:34:18Z",
+      "beatmapset": {
+        "id": 437797,
+        "title": "Soukai Rock",
+        "cover": "https://assets.ppy.sh/beatmaps/437797/covers/card.jpg?1650640838"
+      }
+    },
+    {
+      "user": "Boiled_Aids",
+      "user_id": 11706528,
+      "country": "IQ",
+      "score_id": 4955839884,
+      "rank": "A",
+      "accuracy": 0.9852744310575636,
+      "pp": 217.307,
+      "mods": [],
+      "combo": 432,
+      "created_at": "2025-12-18T00:31:51Z",
+      "beatmapset": {
+        "id": 437797,
+        "title": "Soukai Rock",
+        "cover": "https://assets.ppy.sh/beatmaps/437797/covers/card.jpg?1650640838"
+      }
+    },
+    {
+      "user": "Boiled_Aids",
+      "user_id": 11706528,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9393404004711425,
+      "pp": null,
+      "mods": [],
+      "combo": 354,
+      "created_at": "2025-12-17T23:54:46Z",
+      "beatmapset": {
+        "id": 465653,
+        "title": "Rip & Tear",
+        "cover": "https://assets.ppy.sh/beatmaps/465653/covers/card.jpg?1465516426"
+      }
+    },
+    {
+      "user": "Boiled_Aids",
+      "user_id": 11706528,
+      "country": "IQ",
+      "score_id": 4955816437,
+      "rank": "B",
+      "accuracy": 0.8860696517412935,
+      "pp": 127.927,
+      "mods": [
+        "DT"
+      ],
+      "combo": 120,
+      "created_at": "2025-12-17T23:12:46Z",
+      "beatmapset": {
+        "id": 950289,
+        "title": "JUSTadICE (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/950289/covers/card.jpg?1650680553"
+      }
+    },
+    {
+      "user": "Boiled_Aids",
+      "user_id": 11706528,
+      "country": "IQ",
+      "score_id": 4955815726,
+      "rank": "C",
+      "accuracy": 0.8567164179104477,
+      "pp": 145.846,
+      "mods": [
+        "DT"
+      ],
+      "combo": 184,
+      "created_at": "2025-12-17T23:10:32Z",
+      "beatmapset": {
+        "id": 950289,
+        "title": "JUSTadICE (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/950289/covers/card.jpg?1650680553"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "B",
+      "accuracy": 0.8651685393258427,
+      "pp": null,
+      "mods": [],
+      "combo": 39,
+      "created_at": "2025-12-17T22:49:43Z",
+      "beatmapset": {
+        "id": 1664062,
+        "title": "Julaaaan's Triangle Jump Training 2",
+        "cover": "https://assets.ppy.sh/beatmaps/1664062/covers/card.jpg?1643430681"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9632107023411371,
+      "pp": null,
+      "mods": [],
+      "combo": 254,
+      "created_at": "2025-12-17T22:48:40Z",
+      "beatmapset": {
+        "id": 2293648,
+        "title": "DT Jump Pack",
+        "cover": "https://assets.ppy.sh/beatmaps/2293648/covers/card.jpg?1743348618"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9356955380577427,
+      "pp": null,
+      "mods": [],
+      "combo": 139,
+      "created_at": "2025-12-17T22:24:44Z",
+      "beatmapset": {
+        "id": 1706736,
+        "title": "I Really Like You (sped up ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/1706736/covers/card.jpg?1650279638"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4955799318,
+      "rank": "A",
+      "accuracy": 0.96484375,
+      "pp": 194.267,
+      "mods": [],
+      "combo": 198,
+      "created_at": "2025-12-17T22:22:38Z",
+      "beatmapset": {
+        "id": 2310271,
+        "title": "Kani*Do-Luck! (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/2310271/covers/card.jpg?1749328197"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9409090909090909,
+      "pp": null,
+      "mods": [],
+      "combo": 112,
+      "created_at": "2025-12-17T22:19:17Z",
+      "beatmapset": {
+        "id": 2230441,
+        "title": "my love life needs a lobotomy",
+        "cover": "https://assets.ppy.sh/beatmaps/2230441/covers/card.jpg?1726066886"
+      }
+    },
+    {
+      "user": "L e n",
+      "user_id": 10286650,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9588167053364269,
+      "pp": null,
+      "mods": [],
+      "combo": 656,
+      "created_at": "2025-12-17T17:28:11Z",
+      "beatmapset": {
+        "id": 1294966,
+        "title": "sink to the deep sea world",
+        "cover": "https://assets.ppy.sh/beatmaps/1294966/covers/card.jpg?1702573221"
+      }
+    },
+    {
+      "user": "L e n",
+      "user_id": 10286650,
+      "country": "IQ",
+      "score_id": 4955666687,
+      "rank": "XH",
+      "accuracy": 1,
+      "pp": 33.0745,
+      "mods": [
+        "HD",
+        "HR"
+      ],
+      "combo": 203,
+      "created_at": "2025-12-17T17:15:59Z",
+      "beatmapset": {
+        "id": 1620540,
+        "title": "Say Goodbye (Sped Up & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/1620540/covers/card.jpg?1638136478"
+      }
+    },
+    {
+      "user": "L e n",
+      "user_id": 10286650,
+      "country": "IQ",
+      "score_id": 4955663666,
+      "rank": "A",
+      "accuracy": 0.9921752738654147,
+      "pp": 84.2258,
+      "mods": [
+        "HD",
+        "HR"
+      ],
+      "combo": 359,
+      "created_at": "2025-12-17T17:09:17Z",
+      "beatmapset": {
+        "id": 372144,
+        "title": "Whatever I Do (feat. Kostja)",
+        "cover": "https://assets.ppy.sh/beatmaps/372144/covers/card.jpg?1622095689"
+      }
+    },
+    {
+      "user": "L e n",
+      "user_id": 10286650,
+      "country": "IQ",
+      "score_id": 4955661945,
+      "rank": "XH",
+      "accuracy": 1,
+      "pp": 27.633,
+      "mods": [
+        "HD",
+        "HR"
+      ],
+      "combo": 257,
+      "created_at": "2025-12-17T17:05:34Z",
+      "beatmapset": {
+        "id": 850453,
+        "title": "Yasashisa no Riyuu (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/850453/covers/card.jpg?1650670485"
+      }
+    },
+    {
+      "user": "L e n",
+      "user_id": 10286650,
+      "country": "IQ",
+      "score_id": 4955660256,
+      "rank": "A",
+      "accuracy": 0.9721435316336167,
+      "pp": 204.377,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 256,
+      "created_at": "2025-12-17T17:01:51Z",
+      "beatmapset": {
+        "id": 315799,
+        "title": "Ikanaide",
+        "cover": "https://assets.ppy.sh/beatmaps/315799/covers/card.jpg?1622086592"
+      }
+    }
+  ]
+}
