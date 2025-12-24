@@ -1,0 +1,195 @@
+{
+  "date": "2025-12-24",
+  "country": "IQ",
+  "generated_at": "2025-12-24T01:39:33.088Z",
+  "scores": [
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4958815047,
+      "rank": "B",
+      "accuracy": 0.8658008658008658,
+      "pp": 206.81,
+      "mods": [
+        "DT"
+      ],
+      "combo": 119,
+      "created_at": "2025-12-23T21:14:25Z",
+      "beatmapset": {
+        "id": 2282704,
+        "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2282704/covers/card.jpg?1756038849"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4958811802,
+      "rank": "C",
+      "accuracy": 0.8187830687830688,
+      "pp": 161.175,
+      "mods": [
+        "DT"
+      ],
+      "combo": 53,
+      "created_at": "2025-12-23T21:06:43Z",
+      "beatmapset": {
+        "id": 1073074,
+        "title": "PADORU / PADORU",
+        "cover": "https://assets.ppy.sh/beatmaps/1073074/covers/card.jpg?1650689325"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4958809495,
+      "rank": "B",
+      "accuracy": 0.8725490196078431,
+      "pp": 248.364,
+      "mods": [
+        "DT"
+      ],
+      "combo": 109,
+      "created_at": "2025-12-23T21:01:10Z",
+      "beatmapset": {
+        "id": 1209835,
+        "title": "Today is Gonna be a Great Day (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/1209835/covers/card.jpg?1650698753"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4958808992,
+      "rank": "C",
+      "accuracy": 0.8607843137254902,
+      "pp": 291.615,
+      "mods": [
+        "DT"
+      ],
+      "combo": 120,
+      "created_at": "2025-12-23T20:59:58Z",
+      "beatmapset": {
+        "id": 1209835,
+        "title": "Today is Gonna be a Great Day (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/1209835/covers/card.jpg?1650698753"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4958808697,
+      "rank": "B",
+      "accuracy": 0.8774509803921569,
+      "pp": 233.397,
+      "mods": [
+        "DT"
+      ],
+      "combo": 91,
+      "created_at": "2025-12-23T20:59:14Z",
+      "beatmapset": {
+        "id": 1209835,
+        "title": "Today is Gonna be a Great Day (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/1209835/covers/card.jpg?1650698753"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4958609149,
+      "rank": "A",
+      "accuracy": 0.969785575048733,
+      "pp": 178.351,
+      "mods": [
+        "HD"
+      ],
+      "combo": 344,
+      "created_at": "2025-12-23T13:32:08Z",
+      "beatmapset": {
+        "id": 2241059,
+        "title": "Zettai Tokken Shuchou Shimasu! Hoshi Syoko Solo Remix (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2241059/covers/card.jpg?1739037230"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "B",
+      "accuracy": 0.9052511415525114,
+      "pp": null,
+      "mods": [
+        "HD"
+      ],
+      "combo": 87,
+      "created_at": "2025-12-23T13:28:19Z",
+      "beatmapset": {
+        "id": 2103097,
+        "title": "The Ketchup Song (Asereje) (Sped Up & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2103097/covers/card.jpg?1706842840"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.928082191780822,
+      "pp": null,
+      "mods": [
+        "HD"
+      ],
+      "combo": 69,
+      "created_at": "2025-12-23T13:27:04Z",
+      "beatmapset": {
+        "id": 2103097,
+        "title": "The Ketchup Song (Asereje) (Sped Up & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2103097/covers/card.jpg?1706842840"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "B",
+      "accuracy": 0.8825214899713467,
+      "pp": null,
+      "mods": [
+        "HD"
+      ],
+      "combo": 69,
+      "created_at": "2025-12-23T13:23:58Z",
+      "beatmapset": {
+        "id": 1664062,
+        "title": "Julaaaan's Triangle Jump Training 2",
+        "cover": "https://assets.ppy.sh/beatmaps/1664062/covers/card.jpg?1643430681"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "C",
+      "accuracy": 0.8099331423113658,
+      "pp": null,
+      "mods": [],
+      "combo": 57,
+      "created_at": "2025-12-23T13:22:33Z",
+      "beatmapset": {
+        "id": 1664062,
+        "title": "Julaaaan's Triangle Jump Training 2",
+        "cover": "https://assets.ppy.sh/beatmaps/1664062/covers/card.jpg?1643430681"
+      }
+    }
+  ]
+}
