@@ -1,0 +1,198 @@
+{
+  "date": "2025-12-26",
+  "country": "IQ",
+  "generated_at": "2025-12-26T01:40:42.203Z",
+  "scores": [
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4959864037,
+      "rank": "A",
+      "accuracy": 0.9629629629629629,
+      "pp": 277.533,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 117,
+      "created_at": "2025-12-26T00:57:21Z",
+      "beatmapset": {
+        "id": 2379887,
+        "title": "This Little Girl (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2379887/covers/card.jpg?1749535372"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4959863830,
+      "rank": "A",
+      "accuracy": 0.9422718808193669,
+      "pp": 212.547,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 147,
+      "created_at": "2025-12-26T00:56:31Z",
+      "beatmapset": {
+        "id": 2379887,
+        "title": "This Little Girl (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2379887/covers/card.jpg?1749535372"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4959862630,
+      "rank": "B",
+      "accuracy": 0.8938714499252616,
+      "pp": 158.769,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 101,
+      "created_at": "2025-12-26T00:52:21Z",
+      "beatmapset": {
+        "id": 2287463,
+        "title": "CHRISTMAS * ROCK",
+        "cover": "https://assets.ppy.sh/beatmaps/2287463/covers/card.jpg?1734432565"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4959860948,
+      "rank": "A",
+      "accuracy": 0.9360119047619048,
+      "pp": 212.395,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 152,
+      "created_at": "2025-12-26T00:46:26Z",
+      "beatmapset": {
+        "id": 2282704,
+        "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2282704/covers/card.jpg?1756038849"
+      }
+    },
+    {
+      "user": "Y a d",
+      "user_id": 19521102,
+      "country": "IQ",
+      "score_id": 4959860638,
+      "rank": "A",
+      "accuracy": 0.9670958512160229,
+      "pp": 229.817,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 112,
+      "created_at": "2025-12-26T00:45:15Z",
+      "beatmapset": {
+        "id": 2284526,
+        "title": "Santa Senpai (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2284526/covers/card.jpg?1734177179"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4959836129,
+      "rank": "A",
+      "accuracy": 0.9511784511784511,
+      "pp": 307.906,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 99,
+      "created_at": "2025-12-25T23:24:54Z",
+      "beatmapset": {
+        "id": 2294177,
+        "title": "Take a Hint feat. Victoria Justice & Elizabeth Gillies (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2294177/covers/card.jpg?1736370924"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4959835630,
+      "rank": "B",
+      "accuracy": 0.9124579124579124,
+      "pp": 246.927,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 165,
+      "created_at": "2025-12-25T23:23:19Z",
+      "beatmapset": {
+        "id": 2294177,
+        "title": "Take a Hint feat. Victoria Justice & Elizabeth Gillies (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2294177/covers/card.jpg?1736370924"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4959833977,
+      "rank": "A",
+      "accuracy": 0.9878472222222222,
+      "pp": 393.314,
+      "mods": [],
+      "combo": 229,
+      "created_at": "2025-12-25T23:18:09Z",
+      "beatmapset": {
+        "id": 2285243,
+        "title": "Time to Say Goodbye (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/2285243/covers/card.jpg?1736632238"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4959833061,
+      "rank": "A",
+      "accuracy": 0.9475465313028765,
+      "pp": 234.14,
+      "mods": [],
+      "combo": 134,
+      "created_at": "2025-12-25T23:15:17Z",
+      "beatmapset": {
+        "id": 2285243,
+        "title": "Time to Say Goodbye (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/2285243/covers/card.jpg?1736632238"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4959832742,
+      "rank": "A",
+      "accuracy": 0.9576988155668359,
+      "pp": 263.438,
+      "mods": [],
+      "combo": 103,
+      "created_at": "2025-12-25T23:14:15Z",
+      "beatmapset": {
+        "id": 2285243,
+        "title": "Time to Say Goodbye (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/2285243/covers/card.jpg?1736632238"
+      }
+    }
+  ]
+}
