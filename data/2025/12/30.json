@@ -1,0 +1,94 @@
+{
+  "date": "2025-12-30",
+  "country": "IQ",
+  "generated_at": "2025-12-30T01:41:29.063Z",
+  "scores": [
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4961732394,
+      "rank": "B",
+      "accuracy": 0.9133333333333333,
+      "pp": 177.435,
+      "mods": [],
+      "combo": 399,
+      "created_at": "2025-12-29T19:24:29Z",
+      "beatmapset": {
+        "id": 2018522,
+        "title": "L'erisia (Primary Logic)",
+        "cover": "https://assets.ppy.sh/beatmaps/2018522/covers/card.jpg?1713097562"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4961729736,
+      "rank": "C",
+      "accuracy": 0.7109912445278299,
+      "pp": 16.0529,
+      "mods": [
+        "NF"
+      ],
+      "combo": 189,
+      "created_at": "2025-12-29T19:18:24Z",
+      "beatmapset": {
+        "id": 1835572,
+        "title": "The Frozen Land",
+        "cover": "https://assets.ppy.sh/beatmaps/1835572/covers/card.jpg?1671049565"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4961725893,
+      "rank": "B",
+      "accuracy": 0.8911158493248046,
+      "pp": 119.317,
+      "mods": [],
+      "combo": 1327,
+      "created_at": "2025-12-29T19:09:27Z",
+      "beatmapset": {
+        "id": 575330,
+        "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.",
+        "cover": "https://assets.ppy.sh/beatmaps/575330/covers/card.jpg?1633532938"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "B",
+      "accuracy": 0.8661417322834646,
+      "pp": null,
+      "mods": [],
+      "combo": 147,
+      "created_at": "2025-12-29T18:59:22Z",
+      "beatmapset": {
+        "id": 1495669,
+        "title": "Jump & Stream Practice",
+        "cover": "https://assets.ppy.sh/beatmaps/1495669/covers/card.jpg?1657980031"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 4961721035,
+      "rank": "B",
+      "accuracy": 0.9183587140439933,
+      "pp": 85.3621,
+      "mods": [],
+      "combo": 388,
+      "created_at": "2025-12-29T18:58:34Z",
+      "beatmapset": {
+        "id": 336471,
+        "title": "Everything will freeze",
+        "cover": "https://assets.ppy.sh/beatmaps/336471/covers/card.jpg?1650631201"
+      }
+    }
+  ]
+}
