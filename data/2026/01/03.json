@@ -1,0 +1,105 @@
+{
+  "date": "2026-01-03",
+  "country": "IQ",
+  "generated_at": "2026-01-03T01:28:38.596Z",
+  "scores": [
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4963293093,
+      "rank": "A",
+      "accuracy": 0.9851088201603666,
+      "pp": 422.397,
+      "mods": [
+        "HD",
+        "HR"
+      ],
+      "combo": 375,
+      "created_at": "2026-01-02T03:46:39Z",
+      "beatmapset": {
+        "id": 2474192,
+        "title": "Presenter* (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4963292298,
+      "rank": "A",
+      "accuracy": 0.9794520547945206,
+      "pp": 255.722,
+      "mods": [
+        "HD",
+        "HR"
+      ],
+      "combo": 300,
+      "created_at": "2026-01-02T03:43:39Z",
+      "beatmapset": {
+        "id": 2474192,
+        "title": "Presenter* (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4963291914,
+      "rank": "A",
+      "accuracy": 0.958904109589041,
+      "pp": 200.827,
+      "mods": [
+        "HD",
+        "HR"
+      ],
+      "combo": 274,
+      "created_at": "2026-01-02T03:42:11Z",
+      "beatmapset": {
+        "id": 2474192,
+        "title": "Presenter* (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4963290997,
+      "rank": "A",
+      "accuracy": 0.9644902634593356,
+      "pp": 223.932,
+      "mods": [
+        "HD"
+      ],
+      "combo": 278,
+      "created_at": "2026-01-02T03:38:35Z",
+      "beatmapset": {
+        "id": 2474192,
+        "title": "Presenter* (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4963288118,
+      "rank": "A",
+      "accuracy": 0.9896907216494846,
+      "pp": 370.913,
+      "mods": [
+        "HD"
+      ],
+      "combo": 345,
+      "created_at": "2026-01-02T03:27:48Z",
+      "beatmapset": {
+        "id": 2474192,
+        "title": "Presenter* (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186"
+      }
+    }
+  ]
+}
