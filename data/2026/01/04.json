@@ -1,0 +1,188 @@
+{
+  "date": "2026-01-04",
+  "country": "IQ",
+  "generated_at": "2026-01-04T01:52:01.416Z",
+  "scores": [
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9557913351016799,
+      "pp": null,
+      "mods": [
+        "HD"
+      ],
+      "combo": 264,
+      "created_at": "2026-01-03T23:47:47Z",
+      "beatmapset": {
+        "id": 1327467,
+        "title": "You Are The Only One",
+        "cover": "https://assets.ppy.sh/beatmaps/1327467/covers/card.jpg?1612319422"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9352564102564103,
+      "pp": null,
+      "mods": [
+        "HD"
+      ],
+      "combo": 130,
+      "created_at": "2026-01-03T23:43:28Z",
+      "beatmapset": {
+        "id": 2390174,
+        "title": "Jump Pack",
+        "cover": "https://assets.ppy.sh/beatmaps/2390174/covers/card.jpg?1754204443"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "C",
+      "accuracy": 0.8162926018287614,
+      "pp": null,
+      "mods": [],
+      "combo": 77,
+      "created_at": "2026-01-03T23:42:46Z",
+      "beatmapset": {
+        "id": 1611861,
+        "title": "Axel F (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/1611861/covers/card.jpg?1637721052"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.9402985074626866,
+      "pp": null,
+      "mods": [
+        "HD"
+      ],
+      "combo": 188,
+      "created_at": "2026-01-03T23:42:17Z",
+      "beatmapset": {
+        "id": 2293648,
+        "title": "DT Jump Pack",
+        "cover": "https://assets.ppy.sh/beatmaps/2293648/covers/card.jpg?1743348618"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4964180112,
+      "rank": "A",
+      "accuracy": 0.9868055555555556,
+      "pp": 193.072,
+      "mods": [
+        "HD"
+      ],
+      "combo": 534,
+      "created_at": "2026-01-03T23:40:13Z",
+      "beatmapset": {
+        "id": 1264838,
+        "title": "Discommunication Alien (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/1264838/covers/card.jpg?1650701962"
+      }
+    },
+    {
+      "user": "Biscuits0",
+      "user_id": 23843313,
+      "country": "IQ",
+      "score_id": 4964178521,
+      "rank": "B",
+      "accuracy": 0.8976897689768977,
+      "pp": 160.557,
+      "mods": [
+        "HD",
+        "DT"
+      ],
+      "combo": 87,
+      "created_at": "2026-01-03T23:35:41Z",
+      "beatmapset": {
+        "id": 2294177,
+        "title": "Take a Hint feat. Victoria Justice & Elizabeth Gillies (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2294177/covers/card.jpg?1736370924"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "C",
+      "accuracy": 0.7630579297245964,
+      "pp": null,
+      "mods": [],
+      "combo": 337,
+      "created_at": "2026-01-03T23:34:19Z",
+      "beatmapset": {
+        "id": 2102468,
+        "title": "Skibidi Toilet GAMMA",
+        "cover": "https://assets.ppy.sh/beatmaps/2102468/covers/card.jpg?1704803442"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "C",
+      "accuracy": 0.7150997150997151,
+      "pp": null,
+      "mods": [],
+      "combo": 123,
+      "created_at": "2026-01-03T23:33:26Z",
+      "beatmapset": {
+        "id": 2102468,
+        "title": "Skibidi Toilet GAMMA",
+        "cover": "https://assets.ppy.sh/beatmaps/2102468/covers/card.jpg?1704803442"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "C",
+      "accuracy": 0.8076923076923077,
+      "pp": null,
+      "mods": [],
+      "combo": 207,
+      "created_at": "2026-01-03T23:32:28Z",
+      "beatmapset": {
+        "id": 2102468,
+        "title": "Skibidi Toilet GAMMA",
+        "cover": "https://assets.ppy.sh/beatmaps/2102468/covers/card.jpg?1704803442"
+      }
+    },
+    {
+      "user": "ghoul534",
+      "user_id": 24991953,
+      "country": "IQ",
+      "score_id": 0,
+      "rank": "C",
+      "accuracy": 0.768281101614435,
+      "pp": null,
+      "mods": [],
+      "combo": 293,
+      "created_at": "2026-01-03T23:31:39Z",
+      "beatmapset": {
+        "id": 2102468,
+        "title": "Skibidi Toilet GAMMA",
+        "cover": "https://assets.ppy.sh/beatmaps/2102468/covers/card.jpg?1704803442"
+      }
+    }
+  ]
+}
