@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 147,
-    "longest": 147,
-    "last_updated": "2026-07-23"
+    "current": 148,
+    "longest": 148,
+    "last_updated": "2026-07-24"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -44074,6 +44074,329 @@
         "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535",
         "unique_players": 8
+      }
+    },
+    "2026-07-24": {
+      "total_scores": 489,
+      "peak_hour_baghdad": 6,
+      "top_grinder": {
+        "user": "NstR",
+        "user_id": 27935485,
+        "count": 62,
+        "scores": [
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055684905,
+            "rank": "A",
+            "accuracy": 0.9295774647887324,
+            "pp": 32.5244,
+            "mods": [
+              "HR",
+              "DT"
+            ],
+            "combo": 116,
+            "created_at": "2026-07-23T05:28:55Z",
+            "beatmapset": {
+              "id": 705423,
+              "title": "Miniministop Hitoyasumi no Uta[Mokuyoubi]Gakusei no Uta",
+              "cover": "https://assets.ppy.sh/beatmaps/705423/covers/card.jpg?1645788448",
+              "stars": 2.27362
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055684801,
+            "rank": "S",
+            "accuracy": 0.9407407407407408,
+            "pp": 9.42388,
+            "mods": [
+              "HR",
+              "DT"
+            ],
+            "combo": 85,
+            "created_at": "2026-07-23T05:28:23Z",
+            "beatmapset": {
+              "id": 705423,
+              "title": "Miniministop Hitoyasumi no Uta[Mokuyoubi]Gakusei no Uta",
+              "cover": "https://assets.ppy.sh/beatmaps/705423/covers/card.jpg?1645788448",
+              "stars": 1.48698
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055684677,
+            "rank": "X",
+            "accuracy": 1,
+            "pp": 14.7062,
+            "mods": [
+              "HR",
+              "DT"
+            ],
+            "combo": 66,
+            "created_at": "2026-07-23T05:27:49Z",
+            "beatmapset": {
+              "id": 705423,
+              "title": "Miniministop Hitoyasumi no Uta[Mokuyoubi]Gakusei no Uta",
+              "cover": "https://assets.ppy.sh/beatmaps/705423/covers/card.jpg?1645788448",
+              "stars": 1.20517
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055684117,
+            "rank": "S",
+            "accuracy": 0.9487179487179487,
+            "pp": 29.476,
+            "mods": [
+              "HR"
+            ],
+            "combo": 141,
+            "created_at": "2026-07-23T05:25:01Z",
+            "beatmapset": {
+              "id": 816264,
+              "title": "MY REZHEM KINOLENTY (feat. Cut The Crap)",
+              "cover": "https://assets.ppy.sh/beatmaps/816264/covers/card.jpg?1622143933",
+              "stars": 2.94538
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055683881,
+            "rank": "B",
+            "accuracy": 0.8772893772893773,
+            "pp": 35.2777,
+            "mods": [
+              "DT"
+            ],
+            "combo": 42,
+            "created_at": "2026-07-23T05:23:56Z",
+            "beatmapset": {
+              "id": 816264,
+              "title": "MY REZHEM KINOLENTY (feat. Cut The Crap)",
+              "cover": "https://assets.ppy.sh/beatmaps/816264/covers/card.jpg?1622143933",
+              "stars": 2.94538
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055683747,
+            "rank": "B",
+            "accuracy": 0.8589743589743589,
+            "pp": 31.2697,
+            "mods": [
+              "DT"
+            ],
+            "combo": 54,
+            "created_at": "2026-07-23T05:23:18Z",
+            "beatmapset": {
+              "id": 816264,
+              "title": "MY REZHEM KINOLENTY (feat. Cut The Crap)",
+              "cover": "https://assets.ppy.sh/beatmaps/816264/covers/card.jpg?1622143933",
+              "stars": 2.94538
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055683573,
+            "rank": "S",
+            "accuracy": 0.9591836734693877,
+            "pp": 24.5814,
+            "mods": [
+              "HR",
+              "DT"
+            ],
+            "combo": 97,
+            "created_at": "2026-07-23T05:22:28Z",
+            "beatmapset": {
+              "id": 816264,
+              "title": "MY REZHEM KINOLENTY (feat. Cut The Crap)",
+              "cover": "https://assets.ppy.sh/beatmaps/816264/covers/card.jpg?1622143933",
+              "stars": 2.03492
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055683450,
+            "rank": "B",
+            "accuracy": 0.8843537414965986,
+            "pp": 10.7733,
+            "mods": [
+              "HR",
+              "DT"
+            ],
+            "combo": 32,
+            "created_at": "2026-07-23T05:21:52Z",
+            "beatmapset": {
+              "id": 816264,
+              "title": "MY REZHEM KINOLENTY (feat. Cut The Crap)",
+              "cover": "https://assets.ppy.sh/beatmaps/816264/covers/card.jpg?1622143933",
+              "stars": 2.03492
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055683303,
+            "rank": "S",
+            "accuracy": 0.9696969696969697,
+            "pp": 7.57252,
+            "mods": [
+              "HR",
+              "DT"
+            ],
+            "combo": 106,
+            "created_at": "2026-07-23T05:21:13Z",
+            "beatmapset": {
+              "id": 816264,
+              "title": "MY REZHEM KINOLENTY (feat. Cut The Crap)",
+              "cover": "https://assets.ppy.sh/beatmaps/816264/covers/card.jpg?1622143933",
+              "stars": 1.34674
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055682683,
+            "rank": "A",
+            "accuracy": 0.9302600472813238,
+            "pp": 21.9708,
+            "mods": [
+              "HR",
+              "DT"
+            ],
+            "combo": 222,
+            "created_at": "2026-07-23T05:18:12Z",
+            "beatmapset": {
+              "id": 925628,
+              "title": "Love Dramatic feat. Ihara Rikka (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/925628/covers/card.jpg?1622156082",
+              "stars": 2.00677
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055682035,
+            "rank": "B",
+            "accuracy": 0.8713235294117647,
+            "pp": 10.9917,
+            "mods": [
+              "HR",
+              "DT"
+            ],
+            "combo": 145,
+            "created_at": "2026-07-23T05:14:55Z",
+            "beatmapset": {
+              "id": 2280225,
+              "title": "Polar 240",
+              "cover": "https://assets.ppy.sh/beatmaps/2280225/covers/card.jpg?1740443610",
+              "stars": 1.93913
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055681323,
+            "rank": "C",
+            "accuracy": 0.8254504504504504,
+            "pp": 29.7135,
+            "mods": [],
+            "combo": 82,
+            "created_at": "2026-07-23T05:11:22Z",
+            "beatmapset": {
+              "id": 2390209,
+              "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535",
+              "stars": 4.15701
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055680938,
+            "rank": "C",
+            "accuracy": 0.8463356973995272,
+            "pp": 28.5793,
+            "mods": [
+              "HR"
+            ],
+            "combo": 72,
+            "created_at": "2026-07-23T05:09:30Z",
+            "beatmapset": {
+              "id": 2390209,
+              "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535",
+              "stars": 3.60537
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055679971,
+            "rank": "B",
+            "accuracy": 0.8839080459770114,
+            "pp": 19.3392,
+            "mods": [
+              "HR",
+              "DT"
+            ],
+            "combo": 101,
+            "created_at": "2026-07-23T05:04:31Z",
+            "beatmapset": {
+              "id": 2282704,
+              "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2282704/covers/card.jpg?1756038849",
+              "stars": 2.31734
+            }
+          },
+          {
+            "user": "NstR",
+            "user_id": 27935485,
+            "country": "IQ",
+            "score_id": 5055679276,
+            "rank": "A",
+            "accuracy": 0.9488752556237219,
+            "pp": 24.0739,
+            "mods": [
+              "HR"
+            ],
+            "combo": 170,
+            "created_at": "2026-07-23T05:01:01Z",
+            "beatmapset": {
+              "id": 2379887,
+              "title": "This Little Girl (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2379887/covers/card.jpg?1749535372",
+              "stars": 3.0943
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Despacito ft. R3 Music Box",
+        "cover": "https://assets.ppy.sh/beatmaps/798007/covers/card.jpg?1650665377",
+        "unique_players": 16
       }
     }
   }
