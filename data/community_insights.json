@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 148,
-    "longest": 148,
-    "last_updated": "2026-07-24"
+    "current": 149,
+    "longest": 149,
+    "last_updated": "2026-07-25"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -44397,6 +44397,296 @@
         "title": "Despacito ft. R3 Music Box",
         "cover": "https://assets.ppy.sh/beatmaps/798007/covers/card.jpg?1650665377",
         "unique_players": 16
+      }
+    },
+    "2026-07-25": {
+      "total_scores": 491,
+      "peak_hour_baghdad": 14,
+      "top_grinder": {
+        "user": "teto abo tez",
+        "user_id": 39878144,
+        "count": 66,
+        "scores": [
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144729358,
+            "rank": "D",
+            "accuracy": 0.6506024096385542,
+            "pp": 4.98416,
+            "mods": [],
+            "combo": 79,
+            "created_at": "2026-07-25T01:59:42Z",
+            "beatmapset": {
+              "id": 1001507,
+              "title": "Kan Saete Kuyashiiwa",
+              "cover": "https://assets.ppy.sh/beatmaps/1001507/covers/card.jpg?1650685521",
+              "stars": 3.66939
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144707378,
+            "rank": "C",
+            "accuracy": 0.7660455486542443,
+            "pp": 10.683,
+            "mods": [],
+            "combo": 99,
+            "created_at": "2026-07-25T01:54:02Z",
+            "beatmapset": {
+              "id": 1322727,
+              "title": "USSEEWA",
+              "cover": "https://assets.ppy.sh/beatmaps/1322727/covers/card.jpg?1650705701",
+              "stars": 3.78093
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144692460,
+            "rank": "C",
+            "accuracy": 0.7126254622292657,
+            "pp": 8.16235,
+            "mods": [],
+            "combo": 78,
+            "created_at": "2026-07-25T01:50:12Z",
+            "beatmapset": {
+              "id": 1454027,
+              "title": "Hashire Uma Musume",
+              "cover": "https://assets.ppy.sh/beatmaps/1454027/covers/card.jpg?1650709485",
+              "stars": 3.80433
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144674706,
+            "rank": "C",
+            "accuracy": 0.700207468879668,
+            "pp": 8.14374,
+            "mods": [],
+            "combo": 74,
+            "created_at": "2026-07-25T01:45:31Z",
+            "beatmapset": {
+              "id": 2294338,
+              "title": "Tetoris",
+              "cover": "https://assets.ppy.sh/beatmaps/2294338/covers/card.jpg?1735651250",
+              "stars": 3.83718
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144663176,
+            "rank": "C",
+            "accuracy": 0.7066974595842956,
+            "pp": 11.1517,
+            "mods": [],
+            "combo": 76,
+            "created_at": "2026-07-25T01:42:28Z",
+            "beatmapset": {
+              "id": 2331063,
+              "title": "Telepathy feat. Hatsune Miku",
+              "cover": "https://assets.ppy.sh/beatmaps/2331063/covers/card.jpg?1740682609",
+              "stars": 3.68143
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144651955,
+            "rank": "D",
+            "accuracy": 0.6521836007130125,
+            "pp": 6.20567,
+            "mods": [],
+            "combo": 76,
+            "created_at": "2026-07-25T01:39:30Z",
+            "beatmapset": {
+              "id": 1635625,
+              "title": "PRESERVED VAMPIRE",
+              "cover": "https://assets.ppy.sh/beatmaps/1635625/covers/card.jpg?1779908848",
+              "stars": 4.03013
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144612712,
+            "rank": "C",
+            "accuracy": 0.7041573867854491,
+            "pp": 10.857,
+            "mods": [],
+            "combo": 123,
+            "created_at": "2026-07-25T01:29:24Z",
+            "beatmapset": {
+              "id": 2340739,
+              "title": "LEMON MELON COOKIE",
+              "cover": "https://assets.ppy.sh/beatmaps/2340739/covers/card.jpg?1742244375",
+              "stars": 3.65386
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144591393,
+            "rank": "C",
+            "accuracy": 0.7851731601731602,
+            "pp": 11.5131,
+            "mods": [],
+            "combo": 151,
+            "created_at": "2026-07-25T01:23:55Z",
+            "beatmapset": {
+              "id": 2493675,
+              "title": "Teto the 31st",
+              "cover": "https://assets.ppy.sh/beatmaps/2493675/covers/card.jpg?1768509281",
+              "stars": 3.23876
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144536858,
+            "rank": "D",
+            "accuracy": 0.6358515573227302,
+            "pp": 6.28054,
+            "mods": [],
+            "combo": 106,
+            "created_at": "2026-07-25T01:09:49Z",
+            "beatmapset": {
+              "id": 2543525,
+              "title": "corrupted (Keep yr distance) feat. Kasane Teto",
+              "cover": "https://assets.ppy.sh/beatmaps/2543525/covers/card.jpg?1782804420",
+              "stars": 3.70122
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144505133,
+            "rank": "D",
+            "accuracy": 0.48464912280701755,
+            "pp": 4.98331,
+            "mods": [],
+            "combo": 54,
+            "created_at": "2026-07-25T01:01:36Z",
+            "beatmapset": {
+              "id": 2538369,
+              "title": "Butterfly VIP",
+              "cover": "https://assets.ppy.sh/beatmaps/2538369/covers/card.jpg?1782184417",
+              "stars": 4.33026
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144492313,
+            "rank": "C",
+            "accuracy": 0.7179266895761741,
+            "pp": 8.81853,
+            "mods": [],
+            "combo": 93,
+            "created_at": "2026-07-25T00:58:19Z",
+            "beatmapset": {
+              "id": 1784359,
+              "title": "Ai no Uta",
+              "cover": "https://assets.ppy.sh/beatmaps/1784359/covers/card.jpg?1747870553",
+              "stars": 3.66741
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144477540,
+            "rank": "D",
+            "accuracy": 0.6485148514851485,
+            "pp": 19.1833,
+            "mods": [],
+            "combo": 29,
+            "created_at": "2026-07-25T00:54:26Z",
+            "beatmapset": {
+              "id": 2374646,
+              "title": "Machine Love (Poicyss' Pearto Cover)",
+              "cover": "https://assets.ppy.sh/beatmaps/2374646/covers/card.jpg?1748106714",
+              "stars": 3.87632
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144471478,
+            "rank": "C",
+            "accuracy": 0.7484709480122325,
+            "pp": null,
+            "mods": [],
+            "combo": 159,
+            "created_at": "2026-07-25T00:52:52Z",
+            "beatmapset": {
+              "id": 2403948,
+              "title": "BIRDBRAIN (w/ OK Glass) feat. Kasane Teto",
+              "cover": "https://assets.ppy.sh/beatmaps/2403948/covers/card.jpg?1773950409",
+              "stars": 3.34405
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144392103,
+            "rank": "D",
+            "accuracy": 0.5336879432624113,
+            "pp": 8.51758,
+            "mods": [
+              "NF"
+            ],
+            "combo": 16,
+            "created_at": "2026-07-25T00:32:37Z",
+            "beatmapset": {
+              "id": 2510616,
+              "title": "Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2510616/covers/card.jpg?1772320588",
+              "stars": 3.67767
+            }
+          },
+          {
+            "user": "teto abo tez",
+            "user_id": 39878144,
+            "country": "IQ",
+            "score_id": 7144385625,
+            "rank": "D",
+            "accuracy": 0.2986627043090639,
+            "pp": 2.52004,
+            "mods": [
+              "NF"
+            ],
+            "combo": 23,
+            "created_at": "2026-07-25T00:31:00Z",
+            "beatmapset": {
+              "id": 2565755,
+              "title": "Approve please, Genie!",
+              "cover": "https://assets.ppy.sh/beatmaps/2565755/covers/card.jpg?1781051582",
+              "stars": 5.37652
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "I Don't Know (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
+        "unique_players": 15
       }
     }
   }
