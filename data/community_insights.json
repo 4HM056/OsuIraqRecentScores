@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 149,
-    "longest": 149,
-    "last_updated": "2026-07-25"
+    "current": 150,
+    "longest": 150,
+    "last_updated": "2026-07-26"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -44687,6 +44687,296 @@
         "title": "I Don't Know (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
         "unique_players": 15
+      }
+    },
+    "2026-07-26": {
+      "total_scores": 349,
+      "peak_hour_baghdad": 4,
+      "top_grinder": {
+        "user": "brianmoser1123",
+        "user_id": 39498643,
+        "count": 58,
+        "scores": [
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151304858,
+            "rank": "C",
+            "accuracy": 0.7023060796645703,
+            "pp": 22.8189,
+            "mods": [],
+            "combo": 124,
+            "created_at": "2026-07-26T02:01:49Z",
+            "beatmapset": {
+              "id": 2341780,
+              "title": "Green Greens",
+              "cover": "https://assets.ppy.sh/beatmaps/2341780/covers/card.jpg?1751506308",
+              "stars": 5.15259
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151283932,
+            "rank": "B",
+            "accuracy": 0.8856382978723404,
+            "pp": 66.3878,
+            "mods": [],
+            "combo": 256,
+            "created_at": "2026-07-26T01:56:04Z",
+            "beatmapset": {
+              "id": 52401,
+              "title": "Solar Sect of Mystic Wisdom ~ Nuclear Fusion",
+              "cover": "https://assets.ppy.sh/beatmaps/52401/covers/card.jpg?1650623859",
+              "stars": 5.13852
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151269817,
+            "rank": "A",
+            "accuracy": 0.9521876409562472,
+            "pp": null,
+            "mods": [],
+            "combo": 644,
+            "created_at": "2026-07-26T01:52:18Z",
+            "beatmapset": {
+              "id": 934878,
+              "title": "RAISE MY SWORD",
+              "cover": "https://assets.ppy.sh/beatmaps/934878/covers/card.jpg?1650680256",
+              "stars": 4.91099
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151253604,
+            "rank": "C",
+            "accuracy": 0.7436426116838488,
+            "pp": 35.8231,
+            "mods": [],
+            "combo": 149,
+            "created_at": "2026-07-26T01:47:57Z",
+            "beatmapset": {
+              "id": 2168939,
+              "title": "I'm the Rain",
+              "cover": "https://assets.ppy.sh/beatmaps/2168939/covers/card.jpg?1725928896",
+              "stars": 5.8542
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151238944,
+            "rank": "C",
+            "accuracy": 0.7725744476464937,
+            "pp": 39.8126,
+            "mods": [],
+            "combo": 118,
+            "created_at": "2026-07-26T01:44:00Z",
+            "beatmapset": {
+              "id": 2091498,
+              "title": "Yoyuyoku",
+              "cover": "https://assets.ppy.sh/beatmaps/2091498/covers/card.jpg?1702879691",
+              "stars": 5.68476
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151221385,
+            "rank": "B",
+            "accuracy": 0.8986225895316804,
+            "pp": null,
+            "mods": [
+              "DT"
+            ],
+            "combo": 344,
+            "created_at": "2026-07-26T01:39:15Z",
+            "beatmapset": {
+              "id": 1214145,
+              "title": "Children",
+              "cover": "https://assets.ppy.sh/beatmaps/1214145/covers/card.jpg?1642876444",
+              "stars": 3.74362
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151205707,
+            "rank": "B",
+            "accuracy": 0.8714824485059472,
+            "pp": 37.6342,
+            "mods": [],
+            "combo": 327,
+            "created_at": "2026-07-26T01:35:04Z",
+            "beatmapset": {
+              "id": 2352829,
+              "title": "Epitaph",
+              "cover": "https://assets.ppy.sh/beatmaps/2352829/covers/card.jpg?1749302877",
+              "stars": 5.29497
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151155463,
+            "rank": "B",
+            "accuracy": 0.8424703891708968,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 88,
+            "created_at": "2026-07-26T01:21:40Z",
+            "beatmapset": {
+              "id": 303778,
+              "title": "A Young Girl, So Vivid in the Night",
+              "cover": "https://assets.ppy.sh/beatmaps/303778/covers/card.jpg?1622085242",
+              "stars": 8.93389
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151139486,
+            "rank": "C",
+            "accuracy": 0.803758471965496,
+            "pp": 45.3354,
+            "mods": [],
+            "combo": 101,
+            "created_at": "2026-07-26T01:17:22Z",
+            "beatmapset": {
+              "id": 586889,
+              "title": "Oriental Blossom",
+              "cover": "https://assets.ppy.sh/beatmaps/586889/covers/card.jpg?1650648422",
+              "stars": 5.75342
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151091976,
+            "rank": "C",
+            "accuracy": 0.7787068004459309,
+            "pp": 51.6752,
+            "mods": [],
+            "combo": 202,
+            "created_at": "2026-07-26T01:04:37Z",
+            "beatmapset": {
+              "id": 2013928,
+              "title": "Duo Cup",
+              "cover": "https://assets.ppy.sh/beatmaps/2013928/covers/card.jpg?1731683154",
+              "stars": 5.78279
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151079833,
+            "rank": "B",
+            "accuracy": 0.8998316498316499,
+            "pp": 73.5097,
+            "mods": [],
+            "combo": 263,
+            "created_at": "2026-07-26T01:01:20Z",
+            "beatmapset": {
+              "id": 423500,
+              "title": "Melissa (TV size ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/423500/covers/card.jpg?1650637932",
+              "stars": 5.00579
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151071521,
+            "rank": "C",
+            "accuracy": 0.7583182093163945,
+            "pp": 25.0623,
+            "mods": [],
+            "combo": 372,
+            "created_at": "2026-07-26T00:59:06Z",
+            "beatmapset": {
+              "id": 1357624,
+              "title": "true DJ MAG top ranker's song Zenpen (katagiri Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/1357624/covers/card.jpg?1645786045",
+              "stars": 6.00809
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151044696,
+            "rank": "C",
+            "accuracy": 0.8400124262193228,
+            "pp": 56.7309,
+            "mods": [],
+            "combo": 285,
+            "created_at": "2026-07-26T00:51:58Z",
+            "beatmapset": {
+              "id": 353398,
+              "title": "Dance Number o Tomo ni",
+              "cover": "https://assets.ppy.sh/beatmaps/353398/covers/card.jpg?1622093344",
+              "stars": 5.40973
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151025529,
+            "rank": "B",
+            "accuracy": 0.859754470242861,
+            "pp": 45.8118,
+            "mods": [],
+            "combo": 213,
+            "created_at": "2026-07-26T00:46:46Z",
+            "beatmapset": {
+              "id": 2271658,
+              "title": "Lies playing Truth",
+              "cover": "https://assets.ppy.sh/beatmaps/2271658/covers/card.jpg?1733890053",
+              "stars": 5.50271
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7151007559,
+            "rank": "C",
+            "accuracy": 0.8280499519692603,
+            "pp": 56.5712,
+            "mods": [],
+            "combo": 110,
+            "created_at": "2026-07-26T00:41:58Z",
+            "beatmapset": {
+              "id": 2091498,
+              "title": "Yoyuyoku",
+              "cover": "https://assets.ppy.sh/beatmaps/2091498/covers/card.jpg?1702879691",
+              "stars": 5.68476
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "I Don't Know (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
+        "unique_players": 23
       }
     }
   }
