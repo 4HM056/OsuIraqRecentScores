@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 150,
-    "longest": 150,
-    "last_updated": "2026-07-26"
+    "current": 151,
+    "longest": 151,
+    "last_updated": "2026-07-27"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -44977,6 +44977,292 @@
         "title": "I Don't Know (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
         "unique_players": 23
+      }
+    },
+    "2026-07-27": {
+      "total_scores": 419,
+      "peak_hour_baghdad": 0,
+      "top_grinder": {
+        "user": "JimothyBobert",
+        "user_id": 40196316,
+        "count": 48,
+        "scores": [
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7157041808,
+            "rank": "B",
+            "accuracy": 0.9176356589147286,
+            "pp": 9.12223,
+            "mods": [],
+            "combo": 215,
+            "created_at": "2026-07-26T22:35:50Z",
+            "beatmapset": {
+              "id": 2543798,
+              "title": "Lucky Star (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2543798/covers/card.jpg?1784227324",
+              "stars": 2.34085
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156998316,
+            "rank": "A",
+            "accuracy": 0.8744075829383886,
+            "pp": 12.6123,
+            "mods": [],
+            "combo": 360,
+            "created_at": "2026-07-26T22:25:52Z",
+            "beatmapset": {
+              "id": 983942,
+              "title": "JUSTadICE (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/983942/covers/card.jpg?1650681431",
+              "stars": 2.51413
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156976284,
+            "rank": "A",
+            "accuracy": 0.9411764705882353,
+            "pp": 10.8604,
+            "mods": [],
+            "combo": 270,
+            "created_at": "2026-07-26T22:20:57Z",
+            "beatmapset": {
+              "id": 963651,
+              "title": "Shoukei to Shikabane no Michi (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/963651/covers/card.jpg?1650679924",
+              "stars": 2.25816
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156951924,
+            "rank": "C",
+            "accuracy": 0.7742937853107345,
+            "pp": 6.47164,
+            "mods": [],
+            "combo": 228,
+            "created_at": "2026-07-26T22:15:39Z",
+            "beatmapset": {
+              "id": 2538941,
+              "title": "keep on",
+              "cover": "https://assets.ppy.sh/beatmaps/2538941/covers/card.jpg?1783430613",
+              "stars": 3.0982
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156929959,
+            "rank": "D",
+            "accuracy": 0.689625850340136,
+            "pp": 11.8396,
+            "mods": [],
+            "combo": 116,
+            "created_at": "2026-07-26T22:10:48Z",
+            "beatmapset": {
+              "id": 102371,
+              "title": "Jiyuu no Tsubasa (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/102371/covers/card.jpg?1650617558",
+              "stars": 3.30089
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156919347,
+            "rank": "B",
+            "accuracy": 0.9234972677595629,
+            "pp": 14.5888,
+            "mods": [],
+            "combo": 274,
+            "created_at": "2026-07-26T22:08:33Z",
+            "beatmapset": {
+              "id": 2475962,
+              "title": "HandClap (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2475962/covers/card.jpg?1784243645",
+              "stars": 2.65992
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156908469,
+            "rank": "C",
+            "accuracy": 0.7669126691266913,
+            "pp": null,
+            "mods": [],
+            "combo": 110,
+            "created_at": "2026-07-26T22:06:13Z",
+            "beatmapset": {
+              "id": 2195817,
+              "title": "Feel It",
+              "cover": "https://assets.ppy.sh/beatmaps/2195817/covers/card.jpg?1720490460",
+              "stars": 2.95789
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156894370,
+            "rank": "C",
+            "accuracy": 0.7121771217712177,
+            "pp": null,
+            "mods": [],
+            "combo": 51,
+            "created_at": "2026-07-26T22:03:12Z",
+            "beatmapset": {
+              "id": 2195817,
+              "title": "Feel It",
+              "cover": "https://assets.ppy.sh/beatmaps/2195817/covers/card.jpg?1720490460",
+              "stars": 2.95789
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156868171,
+            "rank": "D",
+            "accuracy": 0.6506666666666666,
+            "pp": 7.41865,
+            "mods": [],
+            "combo": 103,
+            "created_at": "2026-07-26T21:57:41Z",
+            "beatmapset": {
+              "id": 2079819,
+              "title": "From The Start",
+              "cover": "https://assets.ppy.sh/beatmaps/2079819/covers/card.jpg?1707451117",
+              "stars": 3.15283
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156848007,
+            "rank": "A",
+            "accuracy": 0.9222222222222223,
+            "pp": null,
+            "mods": [],
+            "combo": 264,
+            "created_at": "2026-07-26T21:53:29Z",
+            "beatmapset": {
+              "id": 2561150,
+              "title": "feel my soul (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2561150/covers/card.jpg?1784583416",
+              "stars": 2.21834
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156836820,
+            "rank": "B",
+            "accuracy": 0.8985507246376812,
+            "pp": 21.4736,
+            "mods": [],
+            "combo": 409,
+            "created_at": "2026-07-26T21:51:11Z",
+            "beatmapset": {
+              "id": 2287942,
+              "title": "Corrupted Paywall",
+              "cover": "https://assets.ppy.sh/beatmaps/2287942/covers/card.jpg?1783476514",
+              "stars": 3.17977
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156821834,
+            "rank": "C",
+            "accuracy": 0.8030942334739803,
+            "pp": 13.4089,
+            "mods": [],
+            "combo": 156,
+            "created_at": "2026-07-26T21:48:05Z",
+            "beatmapset": {
+              "id": 1943613,
+              "title": "CHAINSAW BLOOD (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/1943613/covers/card.jpg?1782667623",
+              "stars": 3.16758
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156802112,
+            "rank": "C",
+            "accuracy": 0.6967147435897436,
+            "pp": 5.0785,
+            "mods": [],
+            "combo": 99,
+            "created_at": "2026-07-26T21:44:02Z",
+            "beatmapset": {
+              "id": 54954,
+              "title": "Call Me Maybe",
+              "cover": "https://assets.ppy.sh/beatmaps/54954/covers/card.jpg?1622057650",
+              "stars": 3.00529
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156780710,
+            "rank": "C",
+            "accuracy": 0.7506596306068601,
+            "pp": null,
+            "mods": [],
+            "combo": 262,
+            "created_at": "2026-07-26T21:39:38Z",
+            "beatmapset": {
+              "id": 2546424,
+              "title": "Daidai Genome",
+              "cover": "https://assets.ppy.sh/beatmaps/2546424/covers/card.jpg?1784835791",
+              "stars": 3.07543
+            }
+          },
+          {
+            "user": "JimothyBobert",
+            "user_id": 40196316,
+            "country": "IQ",
+            "score_id": 7156761414,
+            "rank": "A",
+            "accuracy": 0.9397473275024295,
+            "pp": 7.68418,
+            "mods": [],
+            "combo": 354,
+            "created_at": "2026-07-26T21:35:38Z",
+            "beatmapset": {
+              "id": 1031402,
+              "title": "Circles",
+              "cover": "https://assets.ppy.sh/beatmaps/1031402/covers/card.jpg?1650692821",
+              "stars": 1.98706
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Best Day Of My Life (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2495437/covers/card.jpg?1771550749",
+        "unique_players": 12
       }
     }
   }
