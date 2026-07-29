@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 151,
-    "longest": 151,
-    "last_updated": "2026-07-27"
+    "current": 152,
+    "longest": 152,
+    "last_updated": "2026-07-28"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -45263,6 +45263,307 @@
         "title": "Best Day Of My Life (Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2495437/covers/card.jpg?1771550749",
         "unique_players": 12
+      }
+    },
+    "2026-07-28": {
+      "total_scores": 406,
+      "peak_hour_baghdad": 23,
+      "top_grinder": {
+        "user": "manicide",
+        "user_id": 39330365,
+        "count": 44,
+        "scores": [
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057669589,
+            "rank": "C",
+            "accuracy": 0.7676767676767676,
+            "pp": 33.3559,
+            "mods": [],
+            "combo": 175,
+            "created_at": "2026-07-27T20:56:20Z",
+            "beatmapset": {
+              "id": 2341780,
+              "title": "Green Greens",
+              "cover": "https://assets.ppy.sh/beatmaps/2341780/covers/card.jpg?1751506308",
+              "stars": 4.98165
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057668818,
+            "rank": "A",
+            "accuracy": 0.9101654846335697,
+            "pp": 39.9611,
+            "mods": [],
+            "combo": 217,
+            "created_at": "2026-07-27T20:54:08Z",
+            "beatmapset": {
+              "id": 2341780,
+              "title": "Green Greens",
+              "cover": "https://assets.ppy.sh/beatmaps/2341780/covers/card.jpg?1751506308",
+              "stars": 4.24946
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057608757,
+            "rank": "A",
+            "accuracy": 0.9554964539007093,
+            "pp": 42.0863,
+            "mods": [],
+            "combo": 576,
+            "created_at": "2026-07-27T18:07:00Z",
+            "beatmapset": {
+              "id": 806859,
+              "title": "Bassdrop Freaks (2018 \"Redrop\" ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/806859/covers/card.jpg?1650666383",
+              "stars": 4.49
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057539559,
+            "rank": "B",
+            "accuracy": 0.9038461538461539,
+            "pp": 51.6143,
+            "mods": [],
+            "combo": 138,
+            "created_at": "2026-07-27T15:00:56Z",
+            "beatmapset": {
+              "id": 2513672,
+              "title": "GRIM (NIGHTCORE & CUT VER.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2513672/covers/card.jpg?1772985710",
+              "stars": 4.71705
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057426693,
+            "rank": "S",
+            "accuracy": 0.9902498476538696,
+            "pp": 37.1364,
+            "mods": [
+              "HR",
+              "NC"
+            ],
+            "combo": 1305,
+            "created_at": "2026-07-27T08:51:28Z",
+            "beatmapset": {
+              "id": 2528111,
+              "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.",
+              "cover": "https://assets.ppy.sh/beatmaps/2528111/covers/card.jpg?1783924809",
+              "stars": 2.19622
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057423913,
+            "rank": "A",
+            "accuracy": 0.926791277258567,
+            "pp": 70.5307,
+            "mods": [],
+            "combo": 86,
+            "created_at": "2026-07-27T08:38:36Z",
+            "beatmapset": {
+              "id": 2463664,
+              "title": "hate the way you love me (nightcore & cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2463664/covers/card.jpg?1767818786",
+              "stars": 5.06788
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057423580,
+            "rank": "B",
+            "accuracy": 0.9166666666666666,
+            "pp": 76.9161,
+            "mods": [],
+            "combo": 85,
+            "created_at": "2026-07-27T08:37:05Z",
+            "beatmapset": {
+              "id": 2423225,
+              "title": "Black Widow (Whippa Hardstyle Remix) (Sped Up & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2423225/covers/card.jpg?1772556023",
+              "stars": 5.10824
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057422579,
+            "rank": "B",
+            "accuracy": 0.8767806267806267,
+            "pp": 74.4633,
+            "mods": [],
+            "combo": 89,
+            "created_at": "2026-07-27T08:32:04Z",
+            "beatmapset": {
+              "id": 952409,
+              "title": "Ai no Sukima",
+              "cover": "https://assets.ppy.sh/beatmaps/952409/covers/card.jpg?1645787548",
+              "stars": 5.30513
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057421433,
+            "rank": "C",
+            "accuracy": 0.845360824742268,
+            "pp": 46.249,
+            "mods": [
+              "HR"
+            ],
+            "combo": 100,
+            "created_at": "2026-07-27T08:26:26Z",
+            "beatmapset": {
+              "id": 859783,
+              "title": "Harumachi Clover (Swing Arrangement)",
+              "cover": "https://assets.ppy.sh/beatmaps/859783/covers/card.jpg?1650679901",
+              "stars": 4.23931
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057420945,
+            "rank": "B",
+            "accuracy": 0.884375,
+            "pp": 53.9086,
+            "mods": [
+              "HR"
+            ],
+            "combo": 90,
+            "created_at": "2026-07-27T08:24:10Z",
+            "beatmapset": {
+              "id": 2405583,
+              "title": "How Do You Do? (Potatoheadz Remix) (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2405583/covers/card.jpg?1764783562",
+              "stars": 4.23787
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057418771,
+            "rank": "A",
+            "accuracy": 0.9469582704876822,
+            "pp": 29.797,
+            "mods": [
+              "HR"
+            ],
+            "combo": 351,
+            "created_at": "2026-07-27T08:13:51Z",
+            "beatmapset": {
+              "id": 1001825,
+              "title": "Flames Within These Black Feathers",
+              "cover": "https://assets.ppy.sh/beatmaps/1001825/covers/card.jpg?1650694800",
+              "stars": 3.77796
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057417547,
+            "rank": "B",
+            "accuracy": 0.8937621832358674,
+            "pp": 51.8145,
+            "mods": [
+              "HR"
+            ],
+            "combo": 88,
+            "created_at": "2026-07-27T08:08:02Z",
+            "beatmapset": {
+              "id": 2484768,
+              "title": "4ever (cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2484768/covers/card.jpg?1782936873",
+              "stars": 4.26638
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057417322,
+            "rank": "A",
+            "accuracy": 0.931899641577061,
+            "pp": 63.3123,
+            "mods": [
+              "HR"
+            ],
+            "combo": 117,
+            "created_at": "2026-07-27T08:06:55Z",
+            "beatmapset": {
+              "id": 1280506,
+              "title": "WONDERFUL WONDER (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/1280506/covers/card.jpg?1645786525",
+              "stars": 4.28508
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057416847,
+            "rank": "B",
+            "accuracy": 0.8623853211009175,
+            "pp": 54.48,
+            "mods": [
+              "HR"
+            ],
+            "combo": 104,
+            "created_at": "2026-07-27T08:04:43Z",
+            "beatmapset": {
+              "id": 842412,
+              "title": "Harumachi Clover (Swing Arrangement) [Dictate Edit]",
+              "cover": "https://assets.ppy.sh/beatmaps/842412/covers/card.jpg?1650668705",
+              "stars": 4.27377
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 5057410277,
+            "rank": "S",
+            "accuracy": 0.9825708061002179,
+            "pp": 90.1564,
+            "mods": [],
+            "combo": 212,
+            "created_at": "2026-07-27T07:33:19Z",
+            "beatmapset": {
+              "id": 527431,
+              "title": "Gravity Falls Theme Song",
+              "cover": "https://assets.ppy.sh/beatmaps/527431/covers/card.jpg?1645788302",
+              "stars": 4.23563
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "aim training",
+        "cover": "https://assets.ppy.sh/beatmaps/1348554/covers/card.jpg?1625374854",
+        "unique_players": 15
       }
     }
   }
