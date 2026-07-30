@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 152,
-    "longest": 152,
-    "last_updated": "2026-07-28"
+    "current": 153,
+    "longest": 153,
+    "last_updated": "2026-07-29"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -45564,6 +45564,294 @@
         "title": "aim training",
         "cover": "https://assets.ppy.sh/beatmaps/1348554/covers/card.jpg?1625374854",
         "unique_players": 15
+      }
+    },
+    "2026-07-29": {
+      "total_scores": 333,
+      "peak_hour_baghdad": 9,
+      "top_grinder": {
+        "user": "brianmoser1123",
+        "user_id": 39498643,
+        "count": 54,
+        "scores": [
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7166226388,
+            "rank": "B",
+            "accuracy": 0.8875,
+            "pp": 84.7559,
+            "mods": [],
+            "combo": 122,
+            "created_at": "2026-07-28T11:10:50Z",
+            "beatmapset": {
+              "id": 2513672,
+              "title": "GRIM (NIGHTCORE & CUT VER.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2513672/covers/card.jpg?1772985710",
+              "stars": 5.33228
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7166219413,
+            "rank": "B",
+            "accuracy": 0.8979166666666667,
+            "pp": 108.275,
+            "mods": [],
+            "combo": 179,
+            "created_at": "2026-07-28T11:09:16Z",
+            "beatmapset": {
+              "id": 2513672,
+              "title": "GRIM (NIGHTCORE & CUT VER.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2513672/covers/card.jpg?1772985710",
+              "stars": 5.33228
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7166210255,
+            "rank": "B",
+            "accuracy": 0.8756218905472637,
+            "pp": null,
+            "mods": [],
+            "combo": 240,
+            "created_at": "2026-07-28T11:07:12Z",
+            "beatmapset": {
+              "id": 2482951,
+              "title": "Hardtekk Jump Training Bonus Pack",
+              "cover": "https://assets.ppy.sh/beatmaps/2482951/covers/card.jpg?1785262684",
+              "stars": 5.2553
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7166194006,
+            "rank": "A",
+            "accuracy": 0.9473844282238443,
+            "pp": 112.622,
+            "mods": [],
+            "combo": 261,
+            "created_at": "2026-07-28T11:03:34Z",
+            "beatmapset": {
+              "id": 769917,
+              "title": "BUBBLE TEA (feat. juu & cinders)",
+              "cover": "https://assets.ppy.sh/beatmaps/769917/covers/card.jpg?1650663270",
+              "stars": 5.11795
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7166175394,
+            "rank": "B",
+            "accuracy": 0.8732323232323232,
+            "pp": 37.1361,
+            "mods": [],
+            "combo": 233,
+            "created_at": "2026-07-28T10:59:21Z",
+            "beatmapset": {
+              "id": 80214,
+              "title": "Gigantic O.T.N",
+              "cover": "https://assets.ppy.sh/beatmaps/80214/covers/card.jpg?1650616712",
+              "stars": 5.12845
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7166016541,
+            "rank": "B",
+            "accuracy": 0.8810272536687631,
+            "pp": 58.5887,
+            "mods": [],
+            "combo": 250,
+            "created_at": "2026-07-28T10:21:58Z",
+            "beatmapset": {
+              "id": 2294338,
+              "title": "Tetoris",
+              "cover": "https://assets.ppy.sh/beatmaps/2294338/covers/card.jpg?1735651250",
+              "stars": 5.46541
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7165984226,
+            "rank": "B",
+            "accuracy": 0.8607866043613707,
+            "pp": 44.2333,
+            "mods": [],
+            "combo": 268,
+            "created_at": "2026-07-28T10:14:06Z",
+            "beatmapset": {
+              "id": 352570,
+              "title": "Night of Knights",
+              "cover": "https://assets.ppy.sh/beatmaps/352570/covers/card.jpg?1650634611",
+              "stars": 5.48113
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7165970326,
+            "rank": "A",
+            "accuracy": 0.9373169302870533,
+            "pp": 61.0023,
+            "mods": [],
+            "combo": 341,
+            "created_at": "2026-07-28T10:10:42Z",
+            "beatmapset": {
+              "id": 2460502,
+              "title": "ikasu",
+              "cover": "https://assets.ppy.sh/beatmaps/2460502/covers/card.jpg?1780747922",
+              "stars": 5.05384
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7165954786,
+            "rank": "B",
+            "accuracy": 0.8743169398907104,
+            "pp": 78.4056,
+            "mods": [],
+            "combo": 64,
+            "created_at": "2026-07-28T10:06:54Z",
+            "beatmapset": {
+              "id": 2313840,
+              "title": "pipo pipo (cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2313840/covers/card.jpg?1752252809",
+              "stars": 5.54818
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7165900654,
+            "rank": "B",
+            "accuracy": 0.8900709219858156,
+            "pp": 64.0354,
+            "mods": [],
+            "combo": 156,
+            "created_at": "2026-07-28T09:53:34Z",
+            "beatmapset": {
+              "id": 52401,
+              "title": "Solar Sect of Mystic Wisdom ~ Nuclear Fusion",
+              "cover": "https://assets.ppy.sh/beatmaps/52401/covers/card.jpg?1650623859",
+              "stars": 5.13852
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7165890541,
+            "rank": "B",
+            "accuracy": 0.8794326241134752,
+            "pp": 64.0045,
+            "mods": [],
+            "combo": 245,
+            "created_at": "2026-07-28T09:51:03Z",
+            "beatmapset": {
+              "id": 52401,
+              "title": "Solar Sect of Mystic Wisdom ~ Nuclear Fusion",
+              "cover": "https://assets.ppy.sh/beatmaps/52401/covers/card.jpg?1650623859",
+              "stars": 5.13852
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7165875901,
+            "rank": "S",
+            "accuracy": 0.9342930970837947,
+            "pp": 88.7749,
+            "mods": [],
+            "combo": 1442,
+            "created_at": "2026-07-28T09:47:20Z",
+            "beatmapset": {
+              "id": 372510,
+              "title": "Kyouran Hey Kids!!",
+              "cover": "https://assets.ppy.sh/beatmaps/372510/covers/card.jpg?1650634774",
+              "stars": 4.54792
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7165321354,
+            "rank": "C",
+            "accuracy": 0.8110236220472441,
+            "pp": 29.0241,
+            "mods": [],
+            "combo": 245,
+            "created_at": "2026-07-28T07:11:05Z",
+            "beatmapset": {
+              "id": 2077229,
+              "title": "Show",
+              "cover": "https://assets.ppy.sh/beatmaps/2077229/covers/card.jpg?1704470655",
+              "stars": 4.81776
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7165294247,
+            "rank": "C",
+            "accuracy": 0.8037383177570093,
+            "pp": 34.613,
+            "mods": [],
+            "combo": 144,
+            "created_at": "2026-07-28T07:02:40Z",
+            "beatmapset": {
+              "id": 2418872,
+              "title": "Retry Now",
+              "cover": "https://assets.ppy.sh/beatmaps/2418872/covers/card.jpg?1778894280",
+              "stars": 4.82837
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "score_id": 7165271051,
+            "rank": "B",
+            "accuracy": 0.910394265232975,
+            "pp": 112.591,
+            "mods": [
+              "HD"
+            ],
+            "combo": 126,
+            "created_at": "2026-07-28T06:55:26Z",
+            "beatmapset": {
+              "id": 497769,
+              "title": "Granat",
+              "cover": "https://assets.ppy.sh/beatmaps/497769/covers/card.jpg?1645785838",
+              "stars": 5.05263
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "GRIM (NIGHTCORE & CUT VER.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2513672/covers/card.jpg?1772985710",
+        "unique_players": 16
       }
     }
   }
