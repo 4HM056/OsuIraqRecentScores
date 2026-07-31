@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 153,
-    "longest": 153,
-    "last_updated": "2026-07-29"
+    "current": 154,
+    "longest": 154,
+    "last_updated": "2026-07-30"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -45852,6 +45852,292 @@
         "title": "GRIM (NIGHTCORE & CUT VER.)",
         "cover": "https://assets.ppy.sh/beatmaps/2513672/covers/card.jpg?1772985710",
         "unique_players": 16
+      }
+    },
+    "2026-07-30": {
+      "total_scores": 417,
+      "peak_hour_baghdad": 8,
+      "top_grinder": {
+        "user": "manicide",
+        "user_id": 39330365,
+        "count": 52,
+        "scores": [
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7176714678,
+            "rank": "B",
+            "accuracy": 0.8497109826589595,
+            "pp": 41.1028,
+            "mods": [],
+            "combo": 80,
+            "created_at": "2026-07-30T00:22:36Z",
+            "beatmapset": {
+              "id": 1260801,
+              "title": "2 FACE",
+              "cover": "https://assets.ppy.sh/beatmaps/1260801/covers/card.jpg?1622197881",
+              "stars": 4.58527
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171636993,
+            "rank": "B",
+            "accuracy": 0.8932584269662921,
+            "pp": 72.8879,
+            "mods": [],
+            "combo": 120,
+            "created_at": "2026-07-29T06:12:31Z",
+            "beatmapset": {
+              "id": 2487912,
+              "title": "My First Kiss (feat. Ke$ha) (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2487912/covers/card.jpg?1774063530",
+              "stars": 5.31288
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171598159,
+            "rank": "A",
+            "accuracy": 0.9425770308123249,
+            "pp": 70.7999,
+            "mods": [],
+            "combo": 92,
+            "created_at": "2026-07-29T06:00:51Z",
+            "beatmapset": {
+              "id": 2282704,
+              "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2282704/covers/card.jpg?1756038849",
+              "stars": 4.78718
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171586915,
+            "rank": "A",
+            "accuracy": 0.9235209235209235,
+            "pp": 106.95,
+            "mods": [],
+            "combo": 154,
+            "created_at": "2026-07-29T05:57:30Z",
+            "beatmapset": {
+              "id": 2282704,
+              "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2282704/covers/card.jpg?1756038849",
+              "stars": 5.70109
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171578930,
+            "rank": "A",
+            "accuracy": 0.9557069846678024,
+            "pp": 89.3443,
+            "mods": [],
+            "combo": 295,
+            "created_at": "2026-07-29T05:55:07Z",
+            "beatmapset": {
+              "id": 2412232,
+              "title": "Of Our Time",
+              "cover": "https://assets.ppy.sh/beatmaps/2412232/covers/card.jpg?1756410885",
+              "stars": 5.00026
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171556625,
+            "rank": "B",
+            "accuracy": 0.897003745318352,
+            "pp": 73.8223,
+            "mods": [],
+            "combo": 124,
+            "created_at": "2026-07-29T05:48:22Z",
+            "beatmapset": {
+              "id": 2487912,
+              "title": "My First Kiss (feat. Ke$ha) (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2487912/covers/card.jpg?1774063530",
+              "stars": 5.31288
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171548656,
+            "rank": "B",
+            "accuracy": 0.9019607843137255,
+            "pp": 67.2068,
+            "mods": [],
+            "combo": 157,
+            "created_at": "2026-07-29T05:45:57Z",
+            "beatmapset": {
+              "id": 2530233,
+              "title": "made for you (nightcore & cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2530233/covers/card.jpg?1777760143",
+              "stars": 5.12056
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171544298,
+            "rank": "A",
+            "accuracy": 0.9216666666666666,
+            "pp": 91.434,
+            "mods": [],
+            "combo": 128,
+            "created_at": "2026-07-29T05:44:37Z",
+            "beatmapset": {
+              "id": 2530233,
+              "title": "made for you (nightcore & cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2530233/covers/card.jpg?1777760143",
+              "stars": 5.31567
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171539752,
+            "rank": "B",
+            "accuracy": 0.8568507157464212,
+            "pp": 87.1481,
+            "mods": [],
+            "combo": 136,
+            "created_at": "2026-07-29T05:43:14Z",
+            "beatmapset": {
+              "id": 2513672,
+              "title": "GRIM (NIGHTCORE & CUT VER.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2513672/covers/card.jpg?1772985710",
+              "stars": 5.59644
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171536144,
+            "rank": "A",
+            "accuracy": 0.9285714285714286,
+            "pp": 104.769,
+            "mods": [],
+            "combo": 121,
+            "created_at": "2026-07-29T05:42:08Z",
+            "beatmapset": {
+              "id": 2513672,
+              "title": "GRIM (NIGHTCORE & CUT VER.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2513672/covers/card.jpg?1772985710",
+              "stars": 5.45111
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171529121,
+            "rank": "B",
+            "accuracy": 0.9225806451612903,
+            "pp": 94.7364,
+            "mods": [],
+            "combo": 184,
+            "created_at": "2026-07-29T05:39:58Z",
+            "beatmapset": {
+              "id": 2513672,
+              "title": "GRIM (NIGHTCORE & CUT VER.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2513672/covers/card.jpg?1772985710",
+              "stars": 5.07485
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171520446,
+            "rank": "A",
+            "accuracy": 0.9490445859872612,
+            "pp": 128.41,
+            "mods": [],
+            "combo": 171,
+            "created_at": "2026-07-29T05:37:17Z",
+            "beatmapset": {
+              "id": 2513672,
+              "title": "GRIM (NIGHTCORE & CUT VER.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2513672/covers/card.jpg?1772985710",
+              "stars": 5.25163
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171516688,
+            "rank": "B",
+            "accuracy": 0.9193205944798302,
+            "pp": 95.5143,
+            "mods": [],
+            "combo": 172,
+            "created_at": "2026-07-29T05:36:09Z",
+            "beatmapset": {
+              "id": 2513672,
+              "title": "GRIM (NIGHTCORE & CUT VER.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2513672/covers/card.jpg?1772985710",
+              "stars": 5.25163
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171501810,
+            "rank": "A",
+            "accuracy": 0.9430051813471503,
+            "pp": 87.2623,
+            "mods": [],
+            "combo": 153,
+            "created_at": "2026-07-29T05:31:30Z",
+            "beatmapset": {
+              "id": 2494398,
+              "title": "Last Friday Night (T.G.I.F.) (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2494398/covers/card.jpg?1777897504",
+              "stars": 4.99031
+            }
+          },
+          {
+            "user": "manicide",
+            "user_id": 39330365,
+            "country": "IQ",
+            "score_id": 7171494549,
+            "rank": "A",
+            "accuracy": 0.9184782608695652,
+            "pp": 80.9751,
+            "mods": [],
+            "combo": 110,
+            "created_at": "2026-07-29T05:29:17Z",
+            "beatmapset": {
+              "id": 2423225,
+              "title": "Black Widow (Whippa Hardstyle Remix) (Sped Up & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2423225/covers/card.jpg?1772556023",
+              "stars": 5.10824
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "How to Be a Heartbreaker (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2463569/covers/card.jpg?1777733995",
+        "unique_players": 7
       }
     }
   }
