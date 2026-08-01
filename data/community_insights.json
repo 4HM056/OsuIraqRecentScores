@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 154,
-    "longest": 154,
-    "last_updated": "2026-07-30"
+    "current": 155,
+    "longest": 155,
+    "last_updated": "2026-07-31"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -46138,6 +46138,317 @@
         "title": "How to Be a Heartbreaker (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2463569/covers/card.jpg?1777733995",
         "unique_players": 7
+      }
+    },
+    "2026-07-31": {
+      "total_scores": 437,
+      "peak_hour_baghdad": 13,
+      "top_grinder": {
+        "user": "Kaiju13",
+        "user_id": 26916963,
+        "count": 35,
+        "scores": [
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7180187577,
+            "rank": "C",
+            "accuracy": 0.8089080459770115,
+            "pp": 43.7597,
+            "mods": [],
+            "combo": 82,
+            "created_at": "2026-07-30T15:04:39Z",
+            "beatmapset": {
+              "id": 2288193,
+              "title": "Backstabber (Sped Up & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2288193/covers/card.jpg?1755044874",
+              "stars": 4.67688
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7180154174,
+            "rank": "C",
+            "accuracy": 0.8067226890756303,
+            "pp": 24.8664,
+            "mods": [],
+            "combo": 96,
+            "created_at": "2026-07-30T14:58:38Z",
+            "beatmapset": {
+              "id": 878327,
+              "title": "Flower",
+              "cover": "https://assets.ppy.sh/beatmaps/878327/covers/card.jpg?1650680528",
+              "stars": 5.56122
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7180054019,
+            "rank": "A",
+            "accuracy": 0.9407252440725244,
+            "pp": 195.088,
+            "mods": [],
+            "combo": 226,
+            "created_at": "2026-07-30T14:40:46Z",
+            "beatmapset": {
+              "id": 805224,
+              "title": "Super Driver",
+              "cover": "https://assets.ppy.sh/beatmaps/805224/covers/card.jpg?1650665948",
+              "stars": 6.71291
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7180015384,
+            "rank": "C",
+            "accuracy": 0.8078470824949698,
+            "pp": 46.648,
+            "mods": [],
+            "combo": 137,
+            "created_at": "2026-07-30T14:33:54Z",
+            "beatmapset": {
+              "id": 2543019,
+              "title": "Endgame",
+              "cover": "https://assets.ppy.sh/beatmaps/2543019/covers/card.jpg?1783709220",
+              "stars": 5.95044
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7179967051,
+            "rank": "B",
+            "accuracy": 0.9174216390711236,
+            "pp": 61.6419,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 545,
+            "created_at": "2026-07-30T14:25:20Z",
+            "beatmapset": {
+              "id": 594170,
+              "title": "Save Me",
+              "cover": "https://assets.ppy.sh/beatmaps/594170/covers/card.jpg?1622117225",
+              "stars": 6.8374
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7179825920,
+            "rank": "B",
+            "accuracy": 0.90552871712292,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 218,
+            "created_at": "2026-07-30T13:59:58Z",
+            "beatmapset": {
+              "id": 1751346,
+              "title": "Judas (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/1751346/covers/card.jpg?1653415303",
+              "stars": 9.55437
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7179810432,
+            "rank": "B",
+            "accuracy": 0.8778877887788779,
+            "pp": null,
+            "mods": [],
+            "combo": 51,
+            "created_at": "2026-07-30T13:57:08Z",
+            "beatmapset": {
+              "id": 2324784,
+              "title": "my love life needs a lobotomy",
+              "cover": "https://assets.ppy.sh/beatmaps/2324784/covers/card.jpg?1745173850",
+              "stars": 7.44852
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7179477950,
+            "rank": "C",
+            "accuracy": 0.8066666666666666,
+            "pp": null,
+            "mods": [],
+            "combo": 168,
+            "created_at": "2026-07-30T12:54:48Z",
+            "beatmapset": {
+              "id": 830537,
+              "title": "Hype feat. Such (lapix Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/830537/covers/card.jpg?1650668001",
+              "stars": 6.41237
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7178471502,
+            "rank": "A",
+            "accuracy": 0.9325,
+            "pp": 301.941,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 398,
+            "created_at": "2026-07-30T08:55:46Z",
+            "beatmapset": {
+              "id": 2428693,
+              "title": "Heart Attack (Rock Ver.) (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2428693/covers/card.jpg?1761236977",
+              "stars": 5.68618
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7178452194,
+            "rank": "B",
+            "accuracy": 0.9179375453885258,
+            "pp": 329.014,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 229,
+            "created_at": "2026-07-30T08:50:15Z",
+            "beatmapset": {
+              "id": 2422687,
+              "title": "Of Our Time (osu! Edit)",
+              "cover": "https://assets.ppy.sh/beatmaps/2422687/covers/card.jpg?1757433537",
+              "stars": 6.24256
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7178379854,
+            "rank": "A",
+            "accuracy": 0.930594243268338,
+            "pp": 367.161,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 676,
+            "created_at": "2026-07-30T08:29:27Z",
+            "beatmapset": {
+              "id": 2336840,
+              "title": "True truly love",
+              "cover": "https://assets.ppy.sh/beatmaps/2336840/covers/card.jpg?1750813482",
+              "stars": 5.61527
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7178357952,
+            "rank": "A",
+            "accuracy": 0.9879101899827288,
+            "pp": 387.402,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 179,
+            "created_at": "2026-07-30T08:23:02Z",
+            "beatmapset": {
+              "id": 2494398,
+              "title": "Last Friday Night (T.G.I.F.) (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2494398/covers/card.jpg?1777897504",
+              "stars": 4.99031
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7178351922,
+            "rank": "A",
+            "accuracy": 0.9861830742659758,
+            "pp": 367.943,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 203,
+            "created_at": "2026-07-30T08:21:16Z",
+            "beatmapset": {
+              "id": 2494398,
+              "title": "Last Friday Night (T.G.I.F.) (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2494398/covers/card.jpg?1777897504",
+              "stars": 4.99031
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7178341095,
+            "rank": "A",
+            "accuracy": 0.9740932642487047,
+            "pp": 359.999,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 188,
+            "created_at": "2026-07-30T08:18:04Z",
+            "beatmapset": {
+              "id": 2494398,
+              "title": "Last Friday Night (T.G.I.F.) (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2494398/covers/card.jpg?1777897504",
+              "stars": 4.99031
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7178336367,
+            "rank": "A",
+            "accuracy": 0.9775474956822107,
+            "pp": 366.122,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 153,
+            "created_at": "2026-07-30T08:16:41Z",
+            "beatmapset": {
+              "id": 2494398,
+              "title": "Last Friday Night (T.G.I.F.) (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2494398/covers/card.jpg?1777897504",
+              "stars": 4.99031
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Mizuoto to Curtain",
+        "cover": "https://assets.ppy.sh/beatmaps/968171/covers/card.jpg?1645788271",
+        "unique_players": 13
       }
     }
   }
