@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-26T03:10:11.564Z",
-  "total_maps": 249,
+  "last_updated": "2026-08-02T03:06:35.591Z",
+  "total_maps": 250,
   "maps": [
+    {
+      "id": 2594819,
+      "title": "BLOODY DEVASTATION - GRACE OST Phil C's Extension",
+      "artist": "Phill C.",
+      "creator": "Rumianna",
+      "creator_id": 40012447,
+      "status": "pending",
+      "cover": "https://assets.ppy.sh/beatmaps/2594819/covers/card.jpg?1785433271",
+      "playcount": 5,
+      "favourite_count": 0,
+      "bpm": 120,
+      "submitted_date": "2026-07-30T17:39:06Z"
+    },
     {
       "id": 2587307,
       "title": "wtf is this 730?",
@@ -10,7 +23,7 @@
       "creator_id": 21900258,
       "status": "pending",
       "cover": "https://assets.ppy.sh/beatmaps/2587307/covers/card.jpg?1784276427",
-      "playcount": 11,
+      "playcount": 12,
       "favourite_count": 1,
       "bpm": 167.3,
       "submitted_date": "2026-07-17T08:20:04Z"
@@ -49,7 +62,7 @@
       "creator_id": 21900258,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2557417/covers/card.jpg?1781805623",
-      "playcount": 42,
+      "playcount": 44,
       "favourite_count": 1,
       "bpm": 120,
       "submitted_date": "2026-05-21T17:40:59Z"
@@ -75,7 +88,7 @@
       "creator_id": 39308073,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2522118/covers/card.jpg?0",
-      "playcount": 33,
+      "playcount": 34,
       "favourite_count": 0,
       "bpm": 422,
       "submitted_date": "2026-03-13T23:52:55Z"
@@ -88,7 +101,7 @@
       "creator_id": 33453407,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2501341/covers/card.jpg?1782804633",
-      "playcount": 37,
+      "playcount": 43,
       "favourite_count": 0,
       "bpm": 200,
       "submitted_date": "2026-02-01T07:36:48Z"
@@ -101,7 +114,7 @@
       "creator_id": 33453407,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2495409/covers/card.jpg?1780093845",
-      "playcount": 35,
+      "playcount": 36,
       "favourite_count": 1,
       "bpm": 200,
       "submitted_date": "2026-01-19T09:52:56Z"
@@ -153,7 +166,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2447826/covers/card.jpg?1762801246",
-      "playcount": 150,
+      "playcount": 153,
       "favourite_count": 2,
       "bpm": 183.71,
       "submitted_date": "2025-10-11T13:18:01Z"
@@ -166,7 +179,7 @@
       "creator_id": 29613861,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2430289/covers/card.jpg?1763125239",
-      "playcount": 16,
+      "playcount": 17,
       "favourite_count": 0,
       "bpm": 150,
       "submitted_date": "2025-09-04T12:47:41Z"
@@ -207,8 +220,8 @@
       "guest_mapper_id": 26329578,
       "status": "ranked",
       "cover": "https://assets.ppy.sh/beatmaps/2411445/covers/card.jpg?1770677925",
-      "playcount": 63050,
-      "favourite_count": 122,
+      "playcount": 64823,
+      "favourite_count": 127,
       "bpm": 120,
       "submitted_date": "2025-07-29T21:14:46Z"
     },
@@ -233,7 +246,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2405276/covers/card.jpg?1755259275",
-      "playcount": 206,
+      "playcount": 207,
       "favourite_count": 0,
       "bpm": 300,
       "submitted_date": "2025-07-18T11:41:47Z"
@@ -259,8 +272,8 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2392758/covers/card.jpg?1753212654",
-      "playcount": 441,
-      "favourite_count": 4,
+      "playcount": 463,
+      "favourite_count": 5,
       "bpm": 120,
       "submitted_date": "2025-06-24T19:16:28Z"
     },
@@ -285,7 +298,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2390124/covers/card.jpg?1752786049",
-      "playcount": 1011,
+      "playcount": 1031,
       "favourite_count": 4,
       "bpm": 147.51,
       "submitted_date": "2025-06-19T20:34:45Z"
@@ -298,7 +311,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2389425/covers/card.jpg?1753128061",
-      "playcount": 80,
+      "playcount": 82,
       "favourite_count": 0,
       "bpm": 150,
       "submitted_date": "2025-06-18T09:45:49Z"
@@ -311,7 +324,7 @@
       "creator_id": 28852464,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2385215/covers/card.jpg?1751927426",
-      "playcount": 40,
+      "playcount": 41,
       "favourite_count": 0,
       "bpm": 128,
       "submitted_date": "2025-06-09T22:19:27Z"
@@ -324,7 +337,7 @@
       "creator_id": 37685807,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2384961/covers/card.jpg?1751898644",
-      "playcount": 152,
+      "playcount": 153,
       "favourite_count": 0,
       "bpm": 75,
       "submitted_date": "2025-06-09T14:17:02Z"
@@ -402,7 +415,7 @@
       "creator_id": 11706528,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2353012/covers/card.jpg?1746734434",
-      "playcount": 159,
+      "playcount": 160,
       "favourite_count": 0,
       "bpm": 95,
       "submitted_date": "2025-04-10T19:38:53Z"
@@ -415,7 +428,7 @@
       "creator_id": 11706528,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2340239/covers/card.jpg?1744567260",
-      "playcount": 119,
+      "playcount": 120,
       "favourite_count": 0,
       "bpm": 174,
       "submitted_date": "2025-03-16T17:59:04Z"
@@ -493,8 +506,8 @@
       "creator_id": 20914128,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2301963/covers/card.jpg?1783501224",
-      "playcount": 2031,
-      "favourite_count": 4,
+      "playcount": 2047,
+      "favourite_count": 3,
       "bpm": 115,
       "submitted_date": "2025-01-01T10:34:13Z"
     },
@@ -506,7 +519,7 @@
       "creator_id": 20914128,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2299646/covers/card.jpg?1737889258",
-      "playcount": 73,
+      "playcount": 74,
       "favourite_count": 0,
       "bpm": 280,
       "submitted_date": "2024-12-27T22:26:38Z"
@@ -519,7 +532,7 @@
       "creator_id": 20914128,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2293234/covers/card.jpg?1783504816",
-      "playcount": 5395,
+      "playcount": 5455,
       "favourite_count": 4,
       "bpm": 186,
       "submitted_date": "2024-12-13T20:28:34Z"
@@ -532,7 +545,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2289583/covers/card.jpg?1735835485",
-      "playcount": 216,
+      "playcount": 221,
       "favourite_count": 4,
       "bpm": 192,
       "submitted_date": "2024-12-05T15:57:39Z"
@@ -636,7 +649,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2243817/covers/card.jpg?1727953271",
-      "playcount": 181,
+      "playcount": 183,
       "favourite_count": 0,
       "bpm": 222,
       "submitted_date": "2024-09-04T09:19:02Z"
@@ -675,7 +688,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2230023/covers/card.jpg?1730550627",
-      "playcount": 342,
+      "playcount": 351,
       "favourite_count": 3,
       "bpm": 200,
       "submitted_date": "2024-08-11T12:06:42Z"
@@ -688,7 +701,7 @@
       "creator_id": 11706528,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2223247/covers/card.jpg?1724725878",
-      "playcount": 790,
+      "playcount": 792,
       "favourite_count": 1,
       "bpm": 151,
       "submitted_date": "2024-07-30T02:11:36Z"
@@ -714,7 +727,7 @@
       "creator_id": 34774616,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2186771/covers/card.jpg?1751752816",
-      "playcount": 136,
+      "playcount": 139,
       "favourite_count": 1,
       "bpm": 162,
       "submitted_date": "2024-05-25T16:36:06Z"
@@ -727,7 +740,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2156268/covers/card.jpg?1713875458",
-      "playcount": 441,
+      "playcount": 443,
       "favourite_count": 4,
       "bpm": 126,
       "submitted_date": "2024-03-26T12:09:41Z"
@@ -740,7 +753,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2154660/covers/card.jpg?1714132838",
-      "playcount": 499,
+      "playcount": 501,
       "favourite_count": 3,
       "bpm": 116,
       "submitted_date": "2024-03-23T09:11:55Z"
@@ -753,7 +766,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2146841/covers/card.jpg?1712952071",
-      "playcount": 176,
+      "playcount": 178,
       "favourite_count": 1,
       "bpm": 120,
       "submitted_date": "2024-03-07T17:20:56Z"
@@ -779,7 +792,7 @@
       "creator_id": 11706528,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2128877/covers/card.jpg?1709215224",
-      "playcount": 186,
+      "playcount": 187,
       "favourite_count": 0,
       "bpm": 158,
       "submitted_date": "2024-02-01T13:47:06Z"
@@ -792,7 +805,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2123571/covers/card.jpg?1708601462",
-      "playcount": 498,
+      "playcount": 502,
       "favourite_count": 13,
       "bpm": 344,
       "submitted_date": "2024-01-22T11:20:40Z"
@@ -859,7 +872,7 @@
       "guest_mapper_id": 11530725,
       "status": "ranked",
       "cover": "https://assets.ppy.sh/beatmaps/2103148/covers/card.jpg?1717900321",
-      "playcount": 67073,
+      "playcount": 67325,
       "favourite_count": 35,
       "bpm": 192,
       "submitted_date": "2023-12-14T01:21:09Z"
@@ -872,7 +885,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2099939/covers/card.jpg?1704380454",
-      "playcount": 401,
+      "playcount": 405,
       "favourite_count": 1,
       "bpm": 160,
       "submitted_date": "2023-12-07T14:41:57Z"
@@ -898,7 +911,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2095956/covers/card.jpg?1703593874",
-      "playcount": 553,
+      "playcount": 555,
       "favourite_count": 0,
       "bpm": 201.25,
       "submitted_date": "2023-11-28T12:09:49Z"
@@ -924,7 +937,7 @@
       "creator_id": 11706528,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2084581/covers/card.jpg?1702679436",
-      "playcount": 826,
+      "playcount": 830,
       "favourite_count": 4,
       "bpm": 144,
       "submitted_date": "2023-11-04T12:19:49Z"
@@ -937,7 +950,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2082479/covers/card.jpg?1701109845",
-      "playcount": 51,
+      "playcount": 52,
       "favourite_count": 0,
       "bpm": 128,
       "submitted_date": "2023-10-30T18:16:56Z"
@@ -963,7 +976,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2079948/covers/card.jpg?1702544422",
-      "playcount": 3037,
+      "playcount": 3062,
       "favourite_count": 14,
       "bpm": 176,
       "submitted_date": "2023-10-25T18:53:28Z"
@@ -989,7 +1002,7 @@
       "creator_id": 11706528,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2072553/covers/card.jpg?1721179818",
-      "playcount": 418,
+      "playcount": 419,
       "favourite_count": 2,
       "bpm": 186,
       "submitted_date": "2023-10-09T19:06:20Z"
@@ -1002,7 +1015,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2069884/covers/card.jpg?1699030847",
-      "playcount": 285,
+      "playcount": 286,
       "favourite_count": 2,
       "bpm": 120,
       "submitted_date": "2023-10-04T09:30:49Z"
@@ -1080,7 +1093,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2050541/covers/card.jpg?1695816095",
-      "playcount": 343,
+      "playcount": 344,
       "favourite_count": 1,
       "bpm": 170,
       "submitted_date": "2023-08-25T14:47:31Z"
@@ -1133,7 +1146,7 @@
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/2005483/covers/card.jpg?1693065672",
       "playcount": 124,
-      "favourite_count": 3,
+      "favourite_count": 4,
       "bpm": 110,
       "submitted_date": "2023-06-07T09:00:05Z"
     },
@@ -1158,7 +1171,7 @@
       "creator_id": 26329578,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1999636/covers/card.jpg?1687636887",
-      "playcount": 145,
+      "playcount": 147,
       "favourite_count": 0,
       "bpm": 82.5,
       "submitted_date": "2023-05-27T19:26:17Z"
@@ -1301,7 +1314,7 @@
       "creator_id": 11530725,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1876062/covers/card.jpg?1698512520",
-      "playcount": 2007,
+      "playcount": 2037,
       "favourite_count": 2,
       "bpm": 192,
       "submitted_date": "2022-10-30T15:32:07Z"
@@ -1366,7 +1379,7 @@
       "creator_id": 13415775,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1853462/covers/card.jpg?1666328428",
-      "playcount": 170,
+      "playcount": 171,
       "favourite_count": 1,
       "bpm": 155,
       "submitted_date": "2022-09-23T04:36:29Z"
@@ -1496,7 +1509,7 @@
       "creator_id": 10286650,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1782269/covers/card.jpg?1658008863",
-      "playcount": 1185,
+      "playcount": 1188,
       "favourite_count": 33,
       "bpm": 200,
       "submitted_date": "2022-06-09T22:56:37Z"
@@ -1652,7 +1665,7 @@
       "creator_id": 11706528,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1699768/covers/card.jpg?1667397616",
-      "playcount": 422,
+      "playcount": 425,
       "favourite_count": 4,
       "bpm": 122.35,
       "submitted_date": "2022-02-15T17:26:58Z"
@@ -2029,7 +2042,7 @@
       "creator_id": 14339730,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1403968/covers/card.jpg?1618324307",
-      "playcount": 456,
+      "playcount": 458,
       "favourite_count": 0,
       "bpm": 139,
       "submitted_date": "2021-03-16T14:25:51Z"
@@ -2198,7 +2211,7 @@
       "creator_id": 12828984,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1308200/covers/card.jpg?1772479611",
-      "playcount": 2464,
+      "playcount": 2468,
       "favourite_count": 1,
       "bpm": 95.98,
       "submitted_date": "2020-11-24T21:37:03Z"
@@ -2211,7 +2224,7 @@
       "creator_id": 11961657,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1305670/covers/card.jpg?1772478331",
-      "playcount": 9075,
+      "playcount": 9093,
       "favourite_count": 24,
       "bpm": 205,
       "submitted_date": "2020-11-21T13:32:47Z"
@@ -2458,7 +2471,7 @@
       "creator_id": 12828984,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1258890/covers/card.jpg?1633165224",
-      "playcount": 4283,
+      "playcount": 4319,
       "favourite_count": 5,
       "bpm": 124.99,
       "submitted_date": "2020-09-15T19:44:29Z"
@@ -2653,7 +2666,7 @@
       "creator_id": 12828984,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1205108/covers/card.jpg?1772160322",
-      "playcount": 2666,
+      "playcount": 2684,
       "favourite_count": 11,
       "bpm": 121.58,
       "submitted_date": "2020-07-02T00:41:19Z"
@@ -2718,7 +2731,7 @@
       "creator_id": 13289058,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1188496/covers/card.jpg?1594080026",
-      "playcount": 497,
+      "playcount": 501,
       "favourite_count": 1,
       "bpm": 180,
       "submitted_date": "2020-06-08T13:37:51Z"
@@ -2822,7 +2835,7 @@
       "creator_id": 12828984,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1132947/covers/card.jpg?1622095251",
-      "playcount": 165642,
+      "playcount": 165732,
       "favourite_count": 162,
       "bpm": 156,
       "submitted_date": "2020-03-26T11:01:53Z"
@@ -2835,7 +2848,7 @@
       "creator_id": 11961657,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1118468/covers/card.jpg?1648407675",
-      "playcount": 788,
+      "playcount": 790,
       "favourite_count": 2,
       "bpm": 186.5,
       "submitted_date": "2020-03-02T11:19:25Z"
@@ -2991,7 +3004,7 @@
       "creator_id": 12828984,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1065195/covers/card.jpg?1583414904",
-      "playcount": 20,
+      "playcount": 21,
       "favourite_count": 2,
       "bpm": 160,
       "submitted_date": "2019-11-13T20:22:23Z"
@@ -3004,7 +3017,7 @@
       "creator_id": 12828984,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1064629/covers/card.jpg?1747076414",
-      "playcount": 89782,
+      "playcount": 90115,
       "favourite_count": 59,
       "bpm": 112.12,
       "submitted_date": "2019-11-12T11:23:28Z"
@@ -3030,7 +3043,7 @@
       "creator_id": 11961657,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1061159/covers/card.jpg?1645300852",
-      "playcount": 450,
+      "playcount": 451,
       "favourite_count": 5,
       "bpm": 68,
       "submitted_date": "2019-11-04T14:54:50Z"
@@ -3043,7 +3056,7 @@
       "creator_id": 11961657,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1053164/covers/card.jpg?1606647619",
-      "playcount": 432,
+      "playcount": 433,
       "favourite_count": 2,
       "bpm": 180,
       "submitted_date": "2019-10-18T21:34:07Z"
@@ -3069,7 +3082,7 @@
       "creator_id": 11961657,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1045582/covers/card.jpg?1623423613",
-      "playcount": 193,
+      "playcount": 195,
       "favourite_count": 2,
       "bpm": 250,
       "submitted_date": "2019-10-02T12:17:04Z"
@@ -3082,7 +3095,7 @@
       "creator_id": 12828984,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/1039339/covers/card.jpg?1580915532",
-      "playcount": 371,
+      "playcount": 372,
       "favourite_count": 0,
       "bpm": 117,
       "submitted_date": "2019-09-19T11:27:28Z"
@@ -3121,7 +3134,7 @@
       "creator_id": 12828984,
       "status": "graveyard",
       "cover": "https://assets.ppy.sh/beatmaps/938098/covers/card.jpg?1552674355",
-      "playcount": 2197,
+      "playcount": 2206,
       "favourite_count": 5,
       "bpm": 206,
       "submitted_date": "2019-03-10T13:54:28Z"
