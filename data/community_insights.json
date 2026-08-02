@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 155,
-    "longest": 155,
-    "last_updated": "2026-07-31"
+    "current": 156,
+    "longest": 156,
+    "last_updated": "2026-08-01"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -46449,6 +46449,337 @@
         "title": "Mizuoto to Curtain",
         "cover": "https://assets.ppy.sh/beatmaps/968171/covers/card.jpg?1645788271",
         "unique_players": 13
+      }
+    },
+    "2026-08-01": {
+      "total_scores": 420,
+      "peak_hour_baghdad": 19,
+      "top_grinder": {
+        "user": "Kaiju13",
+        "user_id": 26916963,
+        "count": 59,
+        "scores": [
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7186155883,
+            "rank": "A",
+            "accuracy": 0.9740437158469946,
+            "pp": 322.662,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 244,
+            "created_at": "2026-07-31T13:56:41Z",
+            "beatmapset": {
+              "id": 2414617,
+              "title": "starly (slowed down & cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2414617/covers/card.jpg?1755447546",
+              "stars": 5.07814
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7186080041,
+            "rank": "B",
+            "accuracy": 0.9061032863849765,
+            "pp": 272.475,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 96,
+            "created_at": "2026-07-31T13:43:20Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 5.58008
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7186070915,
+            "rank": "A",
+            "accuracy": 0.9154929577464789,
+            "pp": 279.394,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 49,
+            "created_at": "2026-07-31T13:41:42Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 5.58008
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7186066217,
+            "rank": "A",
+            "accuracy": 0.9389671361502347,
+            "pp": 345.563,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 105,
+            "created_at": "2026-07-31T13:40:51Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 5.58008
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7186028609,
+            "rank": "A",
+            "accuracy": 0.9578947368421052,
+            "pp": 406.414,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 174,
+            "created_at": "2026-07-31T13:34:03Z",
+            "beatmapset": {
+              "id": 2436628,
+              "title": "No title -10 Years Later Edition- (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2436628/covers/card.jpg?1760618037",
+              "stars": 5.65716
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7185962522,
+            "rank": "SH",
+            "accuracy": 0.966785290628707,
+            "pp": 444.232,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 438,
+            "created_at": "2026-07-31T13:21:56Z",
+            "beatmapset": {
+              "id": 2495437,
+              "title": "Best Day Of My Life (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2495437/covers/card.jpg?1771550749",
+              "stars": 5.15053
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7185949008,
+            "rank": "A",
+            "accuracy": 0.9739027283511269,
+            "pp": 394.39,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 346,
+            "created_at": "2026-07-31T13:19:21Z",
+            "beatmapset": {
+              "id": 2495437,
+              "title": "Best Day Of My Life (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2495437/covers/card.jpg?1771550749",
+              "stars": 5.15053
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7185928380,
+            "rank": "B",
+            "accuracy": 0.8441127694859039,
+            "pp": null,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 92,
+            "created_at": "2026-07-31T13:15:27Z",
+            "beatmapset": {
+              "id": 2510626,
+              "title": "All The Things She Said (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2510626/covers/card.jpg?1774333821",
+              "stars": 5.88062
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7185910277,
+            "rank": "B",
+            "accuracy": 0.8483299250170416,
+            "pp": 105.495,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 131,
+            "created_at": "2026-07-31T13:12:01Z",
+            "beatmapset": {
+              "id": 992322,
+              "title": "Little Dark Age",
+              "cover": "https://assets.ppy.sh/beatmaps/992322/covers/card.jpg?1622164618",
+              "stars": 5.29976
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7185854682,
+            "rank": "A",
+            "accuracy": 0.9610636277302944,
+            "pp": 349.222,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 297,
+            "created_at": "2026-07-31T13:01:23Z",
+            "beatmapset": {
+              "id": 2478619,
+              "title": "Kira Kira Days (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2478619/covers/card.jpg?1782798266",
+              "stars": 5.30126
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7185833605,
+            "rank": "A",
+            "accuracy": 0.9823008849557522,
+            "pp": 412.37,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 299,
+            "created_at": "2026-07-31T12:57:21Z",
+            "beatmapset": {
+              "id": 2478619,
+              "title": "Kira Kira Days (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2478619/covers/card.jpg?1782798266",
+              "stars": 5.083
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7185824993,
+            "rank": "A",
+            "accuracy": 0.9734513274336283,
+            "pp": 374.692,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 459,
+            "created_at": "2026-07-31T12:55:42Z",
+            "beatmapset": {
+              "id": 2478619,
+              "title": "Kira Kira Days (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2478619/covers/card.jpg?1782798266",
+              "stars": 5.083
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7185810417,
+            "rank": "A",
+            "accuracy": 0.9476831091180867,
+            "pp": 421.028,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 185,
+            "created_at": "2026-07-31T12:52:55Z",
+            "beatmapset": {
+              "id": 2295424,
+              "title": "Johnny Test Theme (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2295424/covers/card.jpg?1744672306",
+              "stars": 5.52441
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7185791180,
+            "rank": "A",
+            "accuracy": 0.9491778774289985,
+            "pp": 371.251,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 139,
+            "created_at": "2026-07-31T12:49:13Z",
+            "beatmapset": {
+              "id": 2295424,
+              "title": "Johnny Test Theme (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2295424/covers/card.jpg?1744672306",
+              "stars": 5.52441
+            }
+          },
+          {
+            "user": "Kaiju13",
+            "user_id": 26916963,
+            "country": "IQ",
+            "score_id": 7185775206,
+            "rank": "A",
+            "accuracy": 0.9585185185185185,
+            "pp": 423.022,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 212,
+            "created_at": "2026-07-31T12:46:07Z",
+            "beatmapset": {
+              "id": 2463664,
+              "title": "hate the way you love me (nightcore & cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2463664/covers/card.jpg?1767818786",
+              "stars": 5.44705
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Determinate (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2425417/covers/card.jpg?1761335172",
+        "unique_players": 10
       }
     }
   }
