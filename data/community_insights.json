@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 156,
-    "longest": 156,
-    "last_updated": "2026-08-01"
+    "current": 157,
+    "longest": 157,
+    "last_updated": "2026-08-02"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -46780,6 +46780,330 @@
         "title": "Determinate (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2425417/covers/card.jpg?1761335172",
         "unique_players": 10
+      }
+    },
+    "2026-08-02": {
+      "total_scores": 426,
+      "peak_hour_baghdad": 9,
+      "top_grinder": {
+        "user": "Biscuits0",
+        "user_id": 23843313,
+        "count": 42,
+        "scores": [
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059443002,
+            "rank": "A",
+            "accuracy": 0.9865961199294533,
+            "pp": 211.299,
+            "mods": [
+              "HD"
+            ],
+            "combo": 733,
+            "created_at": "2026-08-01T07:09:16Z",
+            "beatmapset": {
+              "id": 1279298,
+              "title": "Hyadain's Jojo Yujo",
+              "cover": "https://assets.ppy.sh/beatmaps/1279298/covers/card.jpg?1626001310",
+              "stars": 5.64714
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059441793,
+            "rank": "A",
+            "accuracy": 0.9720998531571219,
+            "pp": 166.054,
+            "mods": [
+              "HD"
+            ],
+            "combo": 289,
+            "created_at": "2026-08-01T07:03:27Z",
+            "beatmapset": {
+              "id": 1254012,
+              "title": "LIKE IT! LOVE IT!",
+              "cover": "https://assets.ppy.sh/beatmaps/1254012/covers/card.jpg?1622197212",
+              "stars": 5.71679
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059440999,
+            "rank": "B",
+            "accuracy": 0.8528735632183908,
+            "pp": 52.1838,
+            "mods": [
+              "HD"
+            ],
+            "combo": 136,
+            "created_at": "2026-08-01T06:59:52Z",
+            "beatmapset": {
+              "id": 2510235,
+              "title": "Honma ni \"Yada\"",
+              "cover": "https://assets.ppy.sh/beatmaps/2510235/covers/card.jpg?1773717176",
+              "stars": 6.80547
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059438187,
+            "rank": "A",
+            "accuracy": 0.9631760644418872,
+            "pp": 210.362,
+            "mods": [
+              "HD"
+            ],
+            "combo": 443,
+            "created_at": "2026-08-01T06:47:07Z",
+            "beatmapset": {
+              "id": 2309375,
+              "title": "Bug",
+              "cover": "https://assets.ppy.sh/beatmaps/2309375/covers/card.jpg?1745216747",
+              "stars": 6.36993
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059437141,
+            "rank": "A",
+            "accuracy": 0.9715172024816695,
+            "pp": 238.726,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 240,
+            "created_at": "2026-08-01T06:42:20Z",
+            "beatmapset": {
+              "id": 702892,
+              "title": "Noise (English ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/702892/covers/card.jpg?1650657242",
+              "stars": 6.18532
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059436265,
+            "rank": "A",
+            "accuracy": 0.9400330851943756,
+            "pp": 165.819,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 190,
+            "created_at": "2026-08-01T06:38:25Z",
+            "beatmapset": {
+              "id": 2011122,
+              "title": "Decided (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2011122/covers/card.jpg?1726585366",
+              "stars": 6.07229
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059435688,
+            "rank": "A",
+            "accuracy": 0.9642560266001663,
+            "pp": 196.899,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 166,
+            "created_at": "2026-08-01T06:35:49Z",
+            "beatmapset": {
+              "id": 2428693,
+              "title": "Heart Attack (Rock Ver.) (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2428693/covers/card.jpg?1761236977",
+              "stars": 6.09737
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059435069,
+            "rank": "B",
+            "accuracy": 0.9081022294725394,
+            "pp": 142.888,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 244,
+            "created_at": "2026-08-01T06:32:58Z",
+            "beatmapset": {
+              "id": 2483787,
+              "title": "prygay, dura!",
+              "cover": "https://assets.ppy.sh/beatmaps/2483787/covers/card.jpg?1779887293",
+              "stars": 5.96817
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059434518,
+            "rank": "A",
+            "accuracy": 0.9477244772447725,
+            "pp": 205.209,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 479,
+            "created_at": "2026-08-01T06:30:28Z",
+            "beatmapset": {
+              "id": 2483787,
+              "title": "prygay, dura!",
+              "cover": "https://assets.ppy.sh/beatmaps/2483787/covers/card.jpg?1779887293",
+              "stars": 5.8559
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059433393,
+            "rank": "A",
+            "accuracy": 0.9484126984126984,
+            "pp": 139.145,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 73,
+            "created_at": "2026-08-01T06:25:34Z",
+            "beatmapset": {
+              "id": 2488678,
+              "title": "Cats (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2488678/covers/card.jpg?1773866179",
+              "stars": 5.69162
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059432975,
+            "rank": "A",
+            "accuracy": 0.9532163742690059,
+            "pp": 143.848,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 71,
+            "created_at": "2026-08-01T06:23:41Z",
+            "beatmapset": {
+              "id": 2506744,
+              "title": "Thick of HiT (S8-10 Opening Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2506744/covers/card.jpg?1777821017",
+              "stars": 5.42065
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059432646,
+            "rank": "B",
+            "accuracy": 0.905587668593449,
+            "pp": 83.9534,
+            "mods": [
+              "HD"
+            ],
+            "combo": 99,
+            "created_at": "2026-08-01T06:22:14Z",
+            "beatmapset": {
+              "id": 1241266,
+              "title": "Spectacular Spider-Man Theme (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/1241266/covers/card.jpg?1622195896",
+              "stars": 5.71575
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059432292,
+            "rank": "A",
+            "accuracy": 0.9694749694749695,
+            "pp": 185.205,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 331,
+            "created_at": "2026-08-01T06:20:27Z",
+            "beatmapset": {
+              "id": 2252729,
+              "title": "Song That Might Play When You Fight Sans",
+              "cover": "https://assets.ppy.sh/beatmaps/2252729/covers/card.jpg?1729521130",
+              "stars": 5.76614
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059429641,
+            "rank": "A",
+            "accuracy": 0.96415770609319,
+            "pp": 179.269,
+            "mods": [
+              "HD"
+            ],
+            "combo": 96,
+            "created_at": "2026-08-01T06:08:41Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 6.03325
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059429299,
+            "rank": "A",
+            "accuracy": 0.9381720430107527,
+            "pp": 131.743,
+            "mods": [
+              "HD"
+            ],
+            "combo": 74,
+            "created_at": "2026-08-01T06:07:14Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 6.03325
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "I Don't Know (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
+        "unique_players": 11
       }
     }
   }
