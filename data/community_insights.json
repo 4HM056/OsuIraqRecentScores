@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 157,
-    "longest": 157,
-    "last_updated": "2026-08-02"
+    "current": 158,
+    "longest": 158,
+    "last_updated": "2026-08-03"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -47104,6 +47104,332 @@
         "title": "I Don't Know (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
         "unique_players": 11
+      }
+    },
+    "2026-08-03": {
+      "total_scores": 518,
+      "peak_hour_baghdad": 11,
+      "top_grinder": {
+        "user": "Biscuits0",
+        "user_id": 23843313,
+        "count": 100,
+        "scores": [
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5060009556,
+            "rank": "B",
+            "accuracy": 0.878294961628295,
+            "pp": 115.163,
+            "mods": [
+              "HD"
+            ],
+            "combo": 516,
+            "created_at": "2026-08-02T16:19:35Z",
+            "beatmapset": {
+              "id": 1213650,
+              "title": "Tsuioku no Kuroki Makenshi",
+              "cover": "https://assets.ppy.sh/beatmaps/1213650/covers/card.jpg?1622193442",
+              "stars": 7.40512
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5060007472,
+            "rank": "B",
+            "accuracy": 0.8896198830409356,
+            "pp": 119.16,
+            "mods": [
+              "HD"
+            ],
+            "combo": 290,
+            "created_at": "2026-08-02T16:14:08Z",
+            "beatmapset": {
+              "id": 1930121,
+              "title": "Seijouki no Pierrot ~ The MadPiero Laughs",
+              "cover": "https://assets.ppy.sh/beatmaps/1930121/covers/card.jpg?1702222247",
+              "stars": 7.46217
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5060005531,
+            "rank": "A",
+            "accuracy": 0.9384645061728395,
+            "pp": 182.374,
+            "mods": [
+              "HD"
+            ],
+            "combo": 547,
+            "created_at": "2026-08-02T16:08:37Z",
+            "beatmapset": {
+              "id": 410162,
+              "title": "Uta",
+              "cover": "https://assets.ppy.sh/beatmaps/410162/covers/card.jpg?1631509500",
+              "stars": 7.54527
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059993137,
+            "rank": "C",
+            "accuracy": 0.8546772068511199,
+            "pp": 69.7269,
+            "mods": [
+              "HD"
+            ],
+            "combo": 380,
+            "created_at": "2026-08-02T15:35:04Z",
+            "beatmapset": {
+              "id": 1571324,
+              "title": "Ankoku Butoukai",
+              "cover": "https://assets.ppy.sh/beatmaps/1571324/covers/card.jpg?1631203650",
+              "stars": 6.88511
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059989336,
+            "rank": "A",
+            "accuracy": 0.9317998385794996,
+            "pp": 173.777,
+            "mods": [
+              "HD"
+            ],
+            "combo": 634,
+            "created_at": "2026-08-02T15:25:06Z",
+            "beatmapset": {
+              "id": 2352829,
+              "title": "Epitaph",
+              "cover": "https://assets.ppy.sh/beatmaps/2352829/covers/card.jpg?1749302877",
+              "stars": 6.30444
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059876394,
+            "rank": "A",
+            "accuracy": 0.9679266895761741,
+            "pp": 314.566,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 406,
+            "created_at": "2026-08-02T09:28:18Z",
+            "beatmapset": {
+              "id": 2474192,
+              "title": "Presenter* (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186",
+              "stars": 6.71663
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059875988,
+            "rank": "A",
+            "accuracy": 0.9713631156930126,
+            "pp": 256.005,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 203,
+            "created_at": "2026-08-02T09:26:32Z",
+            "beatmapset": {
+              "id": 2474192,
+              "title": "Presenter* (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186",
+              "stars": 6.71663
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059875606,
+            "rank": "A",
+            "accuracy": 0.9308176100628931,
+            "pp": 232.176,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 144,
+            "created_at": "2026-08-02T09:24:48Z",
+            "beatmapset": {
+              "id": 2448427,
+              "title": "clarity rmx (hayakou bootleg) (cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2448427/covers/card.jpg?1768009040",
+              "stars": 6.86416
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059875251,
+            "rank": "A",
+            "accuracy": 0.9685534591194969,
+            "pp": 313.949,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 122,
+            "created_at": "2026-08-02T09:23:23Z",
+            "beatmapset": {
+              "id": 2448427,
+              "title": "clarity rmx (hayakou bootleg) (cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2448427/covers/card.jpg?1768009040",
+              "stars": 6.86416
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059875067,
+            "rank": "B",
+            "accuracy": 0.909853249475891,
+            "pp": 188.927,
+            "mods": [
+              "HD",
+              "HR"
+            ],
+            "combo": 140,
+            "created_at": "2026-08-02T09:22:39Z",
+            "beatmapset": {
+              "id": 2448427,
+              "title": "clarity rmx (hayakou bootleg) (cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2448427/covers/card.jpg?1768009040",
+              "stars": 6.86416
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059874653,
+            "rank": "B",
+            "accuracy": 0.9111111111111111,
+            "pp": 213.046,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 65,
+            "created_at": "2026-08-02T09:20:53Z",
+            "beatmapset": {
+              "id": 2390209,
+              "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535",
+              "stars": 5.32521
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059874316,
+            "rank": "A",
+            "accuracy": 0.9408866995073891,
+            "pp": 249.173,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 163,
+            "created_at": "2026-08-02T09:19:34Z",
+            "beatmapset": {
+              "id": 2379887,
+              "title": "This Little Girl (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2379887/covers/card.jpg?1749535372",
+              "stars": 5.27085
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059873951,
+            "rank": "A",
+            "accuracy": 0.9622331691297209,
+            "pp": 279.543,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 134,
+            "created_at": "2026-08-02T09:17:54Z",
+            "beatmapset": {
+              "id": 2379887,
+              "title": "This Little Girl (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2379887/covers/card.jpg?1749535372",
+              "stars": 5.27085
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059873680,
+            "rank": "A",
+            "accuracy": 0.9220032840722496,
+            "pp": 227.155,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 162,
+            "created_at": "2026-08-02T09:16:46Z",
+            "beatmapset": {
+              "id": 2379887,
+              "title": "This Little Girl (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2379887/covers/card.jpg?1749535372",
+              "stars": 5.27085
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "score_id": 5059873298,
+            "rank": "A",
+            "accuracy": 0.9233630952380952,
+            "pp": 221.73,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 187,
+            "created_at": "2026-08-02T09:15:06Z",
+            "beatmapset": {
+              "id": 2282704,
+              "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2282704/covers/card.jpg?1756038849",
+              "stars": 5.17834
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Die A Million Times (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2506168/covers/card.jpg?1773702471",
+        "unique_players": 13
       }
     }
   }
