@@ -1,0 +1,57 @@
+name: Fetch Daily osu! Iraq Scores
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # 04:00 UTC daily — matches the site's existing footer convention
+  workflow_dispatch: {}    # lets you trigger a run manually from the Actions tab
+
+# A run can take hours at full scale. If yesterday's run is somehow still
+# going when today's cron fires, queue behind it instead of running both at
+# once (which would double the API load and could race on the git push).
+concurrency:
+  group: fetch-daily
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    # GitHub hard-kills hosted-runner jobs at 360 minutes with no way to
+    # extend it. fetch-daily.js has its own internal soft budget (default
+    # 320 minutes, see OSU_MAX_RUNTIME_MINUTES) so it saves + commits and
+    # exits cleanly well before either limit; this is just a backstop.
+    timeout-minutes: 355
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+
+      # No npm install step — the script only uses Node's built-in fs/path/
+      # child_process/fetch, no third-party dependencies.
+      - name: Run fetch-daily.js
+        env:
+          OSU_CLIENT_ID: ${{ secrets.OSU_CLIENT_ID }}
+          OSU_CLIENT_SECRET: ${{ secrets.OSU_CLIENT_SECRET }}
+          GITHUB_SHA: ${{ github.sha }}
+        run: node fetch-daily.js
+
+      # Safety net for the common case (script finished or exited with a
+      # caught error). This does NOT help if the job hits GitHub's hard
+      # 360-minute kill — that terminates every step unconditionally — which
+      # is why the script commits its own checkpoints as it goes rather than
+      # relying solely on this final step.
+      - name: Final commit (safety net)
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data *.html
+          git diff --staged --quiet || git commit -m "Daily fetch safety-net commit $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push || echo "Nothing to push, or push failed — the script's own checkpoint commits likely already covered this run."
