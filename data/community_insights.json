@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 158,
-    "longest": 158,
-    "last_updated": "2026-08-03"
+    "current": 159,
+    "longest": 159,
+    "last_updated": "2026-08-04"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -47430,6 +47430,307 @@
         "title": "Die A Million Times (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2506168/covers/card.jpg?1773702471",
         "unique_players": 13
+      }
+    },
+    "2026-08-04": {
+      "total_scores": 719,
+      "peak_hour_baghdad": 22,
+      "top_grinder": {
+        "user": "-Leno",
+        "user_id": 17936461,
+        "count": 43,
+        "scores": [
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213297995,
+            "rank": "S",
+            "accuracy": 0.9600785340314136,
+            "pp": 73.4102,
+            "mods": [],
+            "combo": 234,
+            "created_at": "2026-08-04T20:16:33Z",
+            "beatmapset": {
+              "id": 2421096,
+              "title": "MENTE MA",
+              "cover": "https://assets.ppy.sh/beatmaps/2421096/covers/card.jpg?1759990414",
+              "stars": 3.33747
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213281675,
+            "rank": "A",
+            "accuracy": 0.9206805655403786,
+            "pp": 78.7976,
+            "mods": [],
+            "combo": 391,
+            "created_at": "2026-08-04T20:13:21Z",
+            "beatmapset": {
+              "id": 511480,
+              "title": "Oshama Scramble!",
+              "cover": "https://assets.ppy.sh/beatmaps/511480/covers/card.jpg?1650643660",
+              "stars": 4.01187
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213268809,
+            "rank": "S",
+            "accuracy": 0.9541083916083916,
+            "pp": 59.8781,
+            "mods": [],
+            "combo": 440,
+            "created_at": "2026-08-04T20:10:46Z",
+            "beatmapset": {
+              "id": 366126,
+              "title": "PUPA",
+              "cover": "https://assets.ppy.sh/beatmaps/366126/covers/card.jpg?1650633592",
+              "stars": 3.11086
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213248720,
+            "rank": "A",
+            "accuracy": 0.9348911523866587,
+            "pp": 71.2853,
+            "mods": [],
+            "combo": 476,
+            "created_at": "2026-08-04T20:06:46Z",
+            "beatmapset": {
+              "id": 2352480,
+              "title": "Doppelganger",
+              "cover": "https://assets.ppy.sh/beatmaps/2352480/covers/card.jpg?1759932806",
+              "stars": 3.59923
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213230929,
+            "rank": "A",
+            "accuracy": 0.946300162375319,
+            "pp": 78.9835,
+            "mods": [],
+            "combo": 663,
+            "created_at": "2026-08-04T20:03:15Z",
+            "beatmapset": {
+              "id": 1430396,
+              "title": "666",
+              "cover": "https://assets.ppy.sh/beatmaps/1430396/covers/card.jpg?1737913284",
+              "stars": 3.56664
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213212722,
+            "rank": "A",
+            "accuracy": 0.9455825864276568,
+            "pp": 77.6708,
+            "mods": [],
+            "combo": 236,
+            "created_at": "2026-08-04T19:59:40Z",
+            "beatmapset": {
+              "id": 2430780,
+              "title": "MONTAGEM DIRECAO",
+              "cover": "https://assets.ppy.sh/beatmaps/2430780/covers/card.jpg?1767259945",
+              "stars": 3.60509
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213203636,
+            "rank": "A",
+            "accuracy": 0.9431067044381491,
+            "pp": 77.7091,
+            "mods": [],
+            "combo": 734,
+            "created_at": "2026-08-04T19:57:53Z",
+            "beatmapset": {
+              "id": 1377628,
+              "title": "Take",
+              "cover": "https://assets.ppy.sh/beatmaps/1377628/covers/card.jpg?1625628196",
+              "stars": 3.60684
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213183409,
+            "rank": "A",
+            "accuracy": 0.9480984340044742,
+            "pp": 83.0179,
+            "mods": [],
+            "combo": 901,
+            "created_at": "2026-08-04T19:54:00Z",
+            "beatmapset": {
+              "id": 468353,
+              "title": "ETERNAL DRAIN",
+              "cover": "https://assets.ppy.sh/beatmaps/468353/covers/card.jpg?1622104893",
+              "stars": 3.65157
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213155357,
+            "rank": "S",
+            "accuracy": 0.9746723343960326,
+            "pp": 94.1714,
+            "mods": [],
+            "combo": 769,
+            "created_at": "2026-08-04T19:48:38Z",
+            "beatmapset": {
+              "id": 1773437,
+              "title": "think abt it w/ ppgcasper",
+              "cover": "https://assets.ppy.sh/beatmaps/1773437/covers/card.jpg?1674479830",
+              "stars": 3.56181
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213140550,
+            "rank": "A",
+            "accuracy": 0.9393721543254253,
+            "pp": 95.3001,
+            "mods": [],
+            "combo": 453,
+            "created_at": "2026-08-04T19:45:48Z",
+            "beatmapset": {
+              "id": 511480,
+              "title": "Oshama Scramble!",
+              "cover": "https://assets.ppy.sh/beatmaps/511480/covers/card.jpg?1650643660",
+              "stars": 4.01187
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213102802,
+            "rank": "S",
+            "accuracy": 0.9723590585659552,
+            "pp": 77.3357,
+            "mods": [],
+            "combo": 718,
+            "created_at": "2026-08-04T19:38:32Z",
+            "beatmapset": {
+              "id": 478161,
+              "title": "NANO DEATH!!!!!",
+              "cover": "https://assets.ppy.sh/beatmaps/478161/covers/card.jpg?1650641152",
+              "stars": 3.28135
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213084735,
+            "rank": "S",
+            "accuracy": 0.9514341928135032,
+            "pp": 119.693,
+            "mods": [],
+            "combo": 797,
+            "created_at": "2026-08-04T19:35:07Z",
+            "beatmapset": {
+              "id": 347650,
+              "title": "Triumph & Regret",
+              "cover": "https://assets.ppy.sh/beatmaps/347650/covers/card.jpg?1622092094",
+              "stars": 4.20875
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213035556,
+            "rank": "S",
+            "accuracy": 0.9502435629784273,
+            "pp": 51.1003,
+            "mods": [],
+            "combo": 512,
+            "created_at": "2026-08-04T19:25:42Z",
+            "beatmapset": {
+              "id": 409152,
+              "title": "Fascination MAXX",
+              "cover": "https://assets.ppy.sh/beatmaps/409152/covers/card.jpg?1650638653",
+              "stars": 2.96288
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213025145,
+            "rank": "S",
+            "accuracy": 0.9500695894224078,
+            "pp": 52.0323,
+            "mods": [],
+            "combo": 360,
+            "created_at": "2026-08-04T19:23:40Z",
+            "beatmapset": {
+              "id": 409152,
+              "title": "Fascination MAXX",
+              "cover": "https://assets.ppy.sh/beatmaps/409152/covers/card.jpg?1650638653",
+              "stars": 2.96288
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7213014411,
+            "rank": "S",
+            "accuracy": 0.9770679770679771,
+            "pp": 49.1279,
+            "mods": [],
+            "combo": 814,
+            "created_at": "2026-08-04T19:21:36Z",
+            "beatmapset": {
+              "id": 1319284,
+              "title": "white night story (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/1319284/covers/card.jpg?1650704667",
+              "stars": 2.67301
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "the penis (eek!)",
+        "cover": "https://assets.ppy.sh/beatmaps/2281810/covers/card.jpg?1745567854",
+        "unique_players": 14
       }
     }
   }
