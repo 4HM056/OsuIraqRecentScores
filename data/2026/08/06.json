@@ -7,9 +7,9 @@
     "fruits",
     "mania"
   ],
-  "generated_at": "2026-08-06T07:03:11.698Z",
-  "complete": false,
-  "players_checked": 2000,
+  "generated_at": "2026-08-06T07:08:57.573Z",
+  "complete": true,
+  "players_checked": 2317,
   "players_total": 2317,
   "scores": [
     {
@@ -1777,6 +1777,28 @@
         "title": "LukaLuka Night Fever",
         "cover": "https://assets.ppy.sh/beatmaps/11322/covers/card.jpg?1650603588",
         "stars": 3.74039
+      }
+    },
+    {
+      "user": "N_1_fan",
+      "user_id": 39768031,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 666416879,
+      "rank": "D",
+      "accuracy": 0.5498225498225499,
+      "pp": 0,
+      "mods": [
+        "NF",
+        "EZ"
+      ],
+      "combo": 150,
+      "created_at": "2026-08-05T23:30:55Z",
+      "beatmapset": {
+        "id": 2275730,
+        "title": "BITE ME feat. Zephyrianna",
+        "cover": "https://assets.ppy.sh/beatmaps/2275730/covers/card.jpg?1757543231",
+        "stars": 2.5744
       }
     },
     {
@@ -4500,6 +4522,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7219284865,
+      "rank": "A",
+      "accuracy": 0.9478178368121443,
+      "pp": null,
+      "mods": [],
+      "combo": 314,
+      "created_at": "2026-08-05T19:52:06Z",
+      "beatmapset": {
+        "id": 429956,
+        "title": "Aishite Aishite Aishite",
+        "cover": "https://assets.ppy.sh/beatmaps/429956/covers/card.jpg?1650639569",
+        "stars": 1.24114
+      }
+    },
+    {
       "user": "_T_A_I_",
       "user_id": 39319509,
       "country": "IQ",
@@ -4516,6 +4557,25 @@
         "title": "Kuuchuu Sanpo",
         "cover": "https://assets.ppy.sh/beatmaps/2134722/covers/card.jpg?1745237278",
         "stars": 4.98385
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7219260870,
+      "rank": "B",
+      "accuracy": 0.8077217125382263,
+      "pp": 0,
+      "mods": [],
+      "combo": 42,
+      "created_at": "2026-08-05T19:47:25Z",
+      "beatmapset": {
+        "id": 2578256,
+        "title": "YARARARA feat. Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2578256/covers/card.jpg?1784418683",
+        "stars": 1.25073
       }
     },
     {
@@ -4991,6 +5051,25 @@
         "title": "FREEDOM DiVE",
         "cover": "https://assets.ppy.sh/beatmaps/1074758/covers/card.jpg?1645785949",
         "stars": 5.54129
+      }
+    },
+    {
+      "user": "NekoKittie",
+      "user_id": 40006772,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7218908959,
+      "rank": "B",
+      "accuracy": 0.8343666961913198,
+      "pp": 0.291812,
+      "mods": [],
+      "combo": 191,
+      "created_at": "2026-08-05T18:39:43Z",
+      "beatmapset": {
+        "id": 2583521,
+        "title": "Mind Disorder",
+        "cover": "https://assets.ppy.sh/beatmaps/2583521/covers/card.jpg?1784008990",
+        "stars": 2.18049
       }
     },
     {
@@ -9228,25 +9307,6 @@
       }
     },
     {
-      "user": "ahmad vnut",
-      "user_id": 35357819,
-      "country": "IQ",
-      "mode": "mania",
-      "score_id": 0,
-      "rank": "B",
-      "accuracy": 0.8182773109243697,
-      "pp": null,
-      "mods": [],
-      "combo": 370,
-      "created_at": "2026-08-05T11:33:41Z",
-      "beatmapset": {
-        "id": 1536872,
-        "title": "Hylotl's LN Pack 2 (LN Wall Practice)",
-        "cover": "https://assets.ppy.sh/beatmaps/1536872/covers/card.jpg?1630333882",
-        "stars": 7.7473
-      }
-    },
-    {
       "user": "manicide",
       "user_id": 39330365,
       "country": "IQ",
@@ -10324,6 +10384,44 @@
       "user": "Lucas1111",
       "user_id": 40256653,
       "country": "IQ",
+      "mode": "mania",
+      "score_id": 7216236184,
+      "rank": "B",
+      "accuracy": 0.9,
+      "pp": 9.17959,
+      "mods": [],
+      "combo": 340,
+      "created_at": "2026-08-05T09:36:54Z",
+      "beatmapset": {
+        "id": 2477332,
+        "title": "Christmas Slop",
+        "cover": "https://assets.ppy.sh/beatmaps/2477332/covers/card.jpg?1766507637",
+        "stars": 1.85588
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7216228869,
+      "rank": "B",
+      "accuracy": 0.8738922972051807,
+      "pp": 2.86695,
+      "mods": [],
+      "combo": 176,
+      "created_at": "2026-08-05T09:35:00Z",
+      "beatmapset": {
+        "id": 2266557,
+        "title": "twinkle night (feat. somunia)",
+        "cover": "https://assets.ppy.sh/beatmaps/2266557/covers/card.jpg?1736609087",
+        "stars": 1.42254
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
       "mode": "osu",
       "score_id": 7216193493,
       "rank": "C",
@@ -10337,6 +10435,25 @@
         "title": "Toxic Gossip Train (feat. Kasane Teto)",
         "cover": "https://assets.ppy.sh/beatmaps/2596219/covers/card.jpg?1785957387",
         "stars": 2.55119
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7216181181,
+      "rank": "B",
+      "accuracy": 0.8738337574215437,
+      "pp": null,
+      "mods": [],
+      "combo": 171,
+      "created_at": "2026-08-05T09:22:13Z",
+      "beatmapset": {
+        "id": 2596219,
+        "title": "Toxic Gossip Train (feat. Kasane Teto)",
+        "cover": "https://assets.ppy.sh/beatmaps/2596219/covers/card.jpg?1785957387",
+        "stars": 1.80863
       }
     },
     {
@@ -10356,6 +10473,25 @@
         "title": "Nanairo Symphony -TV Size-",
         "cover": "https://assets.ppy.sh/beatmaps/268431/covers/card.jpg?1650627316",
         "stars": 3.49506
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7216135477,
+      "rank": "C",
+      "accuracy": 0.7402105955906548,
+      "pp": 0,
+      "mods": [],
+      "combo": 69,
+      "created_at": "2026-08-05T09:09:39Z",
+      "beatmapset": {
+        "id": 2515207,
+        "title": "PPPP feat. Hatsune Miku, Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2515207/covers/card.jpg?1774792991",
+        "stars": 2.17431
       }
     },
     {
@@ -10495,6 +10631,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7216088399,
+      "rank": "A",
+      "accuracy": 0.9363026819923371,
+      "pp": 5.47313,
+      "mods": [],
+      "combo": 170,
+      "created_at": "2026-08-05T08:56:10Z",
+      "beatmapset": {
+        "id": 2493675,
+        "title": "Teto the 31st",
+        "cover": "https://assets.ppy.sh/beatmaps/2493675/covers/card.jpg?1768509281",
+        "stars": 1.24559
+      }
+    },
+    {
       "user": "Sniper-_-kill",
       "user_id": 25337305,
       "country": "IQ",
@@ -10628,6 +10783,25 @@
         "title": "Black Pentagram",
         "cover": "https://assets.ppy.sh/beatmaps/1414573/covers/card.jpg?1644151889",
         "stars": 5.2427
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7216025868,
+      "rank": "S",
+      "accuracy": 0.9802555168408827,
+      "pp": 5.10983,
+      "mods": [],
+      "combo": 178,
+      "created_at": "2026-08-05T08:38:17Z",
+      "beatmapset": {
+        "id": 2578256,
+        "title": "YARARARA feat. Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2578256/covers/card.jpg?1784418683",
+        "stars": 1.05995
       }
     },
     {
@@ -11288,6 +11462,28 @@
         "title": "Help",
         "cover": "https://assets.ppy.sh/beatmaps/630407/covers/card.jpg?1650654881",
         "stars": 4.69762
+      }
+    },
+    {
+      "user": "8ad7n",
+      "user_id": 40197653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 0,
+      "rank": "C",
+      "accuracy": 0.7739551478083588,
+      "pp": null,
+      "mods": [
+        "NF",
+        "4K"
+      ],
+      "combo": 168,
+      "created_at": "2026-08-05T07:40:50Z",
+      "beatmapset": {
+        "id": 1726799,
+        "title": "Atrocity",
+        "cover": "https://assets.ppy.sh/beatmaps/1726799/covers/card.jpg?1653400824",
+        "stars": 2.49323
       }
     },
     {
