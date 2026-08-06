@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 159,
-    "longest": 159,
-    "last_updated": "2026-08-04"
+    "current": 160,
+    "longest": 160,
+    "last_updated": "2026-08-05"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -47731,6 +47731,315 @@
         "title": "the penis (eek!)",
         "cover": "https://assets.ppy.sh/beatmaps/2281810/covers/card.jpg?1745567854",
         "unique_players": 14
+      }
+    },
+    "2026-08-05": {
+      "total_scores": 657,
+      "peak_hour_baghdad": 22,
+      "top_grinder": {
+        "user": "brianmoser1123",
+        "user_id": 39498643,
+        "count": 61,
+        "scores": [
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215574179,
+            "rank": "A",
+            "accuracy": 0.9531893004115226,
+            "pp": 96.1566,
+            "mods": [],
+            "combo": 335,
+            "created_at": "2026-08-05T06:17:27Z",
+            "beatmapset": {
+              "id": 1821630,
+              "title": "Princess Lily",
+              "cover": "https://assets.ppy.sh/beatmaps/1821630/covers/card.jpg?1664414391",
+              "stars": 5.04473
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215549218,
+            "rank": "C",
+            "accuracy": 0.7835533553355336,
+            "pp": 44.4617,
+            "mods": [],
+            "combo": 236,
+            "created_at": "2026-08-05T06:09:21Z",
+            "beatmapset": {
+              "id": 1085726,
+              "title": "Libera me",
+              "cover": "https://assets.ppy.sh/beatmaps/1085726/covers/card.jpg?1650690177",
+              "stars": 5.55986
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215538027,
+            "rank": "C",
+            "accuracy": 0.8472750316856781,
+            "pp": 57.0366,
+            "mods": [],
+            "combo": 128,
+            "created_at": "2026-08-05T06:05:43Z",
+            "beatmapset": {
+              "id": 349561,
+              "title": "Dokkin Summer Adventure",
+              "cover": "https://assets.ppy.sh/beatmaps/349561/covers/card.jpg?1650633545",
+              "stars": 5.63365
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215529245,
+            "rank": "C",
+            "accuracy": 0.8362168396770473,
+            "pp": 55.9963,
+            "mods": [
+              "HD"
+            ],
+            "combo": 147,
+            "created_at": "2026-08-05T06:02:53Z",
+            "beatmapset": {
+              "id": 2288250,
+              "title": "7he osu! world cup 2 dariacore 7imeline (feat. Azer, Jade & Rain)",
+              "cover": "https://assets.ppy.sh/beatmaps/2288250/covers/card.jpg?1778451849",
+              "stars": 5.10241
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215517690,
+            "rank": "B",
+            "accuracy": 0.8847926267281107,
+            "pp": 98.486,
+            "mods": [
+              "HD"
+            ],
+            "combo": 100,
+            "created_at": "2026-08-05T05:59:06Z",
+            "beatmapset": {
+              "id": 2463569,
+              "title": "How to Be a Heartbreaker (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2463569/covers/card.jpg?1777733995",
+              "stars": 5.49191
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215511985,
+            "rank": "C",
+            "accuracy": 0.8349514563106796,
+            "pp": 40.095,
+            "mods": [],
+            "combo": 132,
+            "created_at": "2026-08-05T05:57:12Z",
+            "beatmapset": {
+              "id": 1920159,
+              "title": "HELLO KiTTY",
+              "cover": "https://assets.ppy.sh/beatmaps/1920159/covers/card.jpg?1677502210",
+              "stars": 4.40344
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215317602,
+            "rank": "B",
+            "accuracy": 0.8876557632398754,
+            "pp": 55.8561,
+            "mods": [],
+            "combo": 284,
+            "created_at": "2026-08-05T04:52:01Z",
+            "beatmapset": {
+              "id": 352570,
+              "title": "Night of Knights",
+              "cover": "https://assets.ppy.sh/beatmaps/352570/covers/card.jpg?1650634611",
+              "stars": 5.48113
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215307011,
+            "rank": "B",
+            "accuracy": 0.882416899658279,
+            "pp": 61.6395,
+            "mods": [],
+            "combo": 213,
+            "created_at": "2026-08-05T04:48:37Z",
+            "beatmapset": {
+              "id": 353398,
+              "title": "Dance Number o Tomo ni",
+              "cover": "https://assets.ppy.sh/beatmaps/353398/covers/card.jpg?1622093344",
+              "stars": 5.40973
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215278934,
+            "rank": "B",
+            "accuracy": 0.909967845659164,
+            "pp": 53.2634,
+            "mods": [],
+            "combo": 198,
+            "created_at": "2026-08-05T04:39:48Z",
+            "beatmapset": {
+              "id": 2083205,
+              "title": "Hana ni Natte (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2083205/covers/card.jpg?1704908495",
+              "stars": 4.55168
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215272758,
+            "rank": "D",
+            "accuracy": 0.7068965517241379,
+            "pp": 65.4272,
+            "mods": [],
+            "combo": 69,
+            "created_at": "2026-08-05T04:37:50Z",
+            "beatmapset": {
+              "id": 842412,
+              "title": "Harumachi Clover (Swing Arrangement) [Dictate Edit]",
+              "cover": "https://assets.ppy.sh/beatmaps/842412/covers/card.jpg?1650668705",
+              "stars": 5.12911
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215258568,
+            "rank": "B",
+            "accuracy": 0.9140845070422535,
+            "pp": 91.2617,
+            "mods": [
+              "HD"
+            ],
+            "combo": 233,
+            "created_at": "2026-08-05T04:33:27Z",
+            "beatmapset": {
+              "id": 1384619,
+              "title": "Kira Kira Days (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/1384619/covers/card.jpg?1650707631",
+              "stars": 5.07703
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215252926,
+            "rank": "B",
+            "accuracy": 0.8993144815766924,
+            "pp": 84.6099,
+            "mods": [
+              "HD"
+            ],
+            "combo": 132,
+            "created_at": "2026-08-05T04:31:44Z",
+            "beatmapset": {
+              "id": 444335,
+              "title": "Kira Kira Days",
+              "cover": "https://assets.ppy.sh/beatmaps/444335/covers/card.jpg?1650638834",
+              "stars": 5.28382
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215224190,
+            "rank": "A",
+            "accuracy": 0.9344799344799345,
+            "pp": 104.3,
+            "mods": [],
+            "combo": 95,
+            "created_at": "2026-08-05T04:22:47Z",
+            "beatmapset": {
+              "id": 444335,
+              "title": "Kira Kira Days",
+              "cover": "https://assets.ppy.sh/beatmaps/444335/covers/card.jpg?1650638834",
+              "stars": 5.59753
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215216026,
+            "rank": "C",
+            "accuracy": 0.8034420289855072,
+            "pp": 86.4854,
+            "mods": [],
+            "combo": 87,
+            "created_at": "2026-08-05T04:20:16Z",
+            "beatmapset": {
+              "id": 2395248,
+              "title": "Die Young",
+              "cover": "https://assets.ppy.sh/beatmaps/2395248/covers/card.jpg?1753062745",
+              "stars": 6.23598
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7215204196,
+            "rank": "C",
+            "accuracy": 0.7494444444444445,
+            "pp": 29.9159,
+            "mods": [],
+            "combo": 118,
+            "created_at": "2026-08-05T04:16:38Z",
+            "beatmapset": {
+              "id": 1322727,
+              "title": "USSEEWA",
+              "cover": "https://assets.ppy.sh/beatmaps/1322727/covers/card.jpg?1650705701",
+              "stars": 6.28346
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "STYX HELIX",
+        "cover": "https://assets.ppy.sh/beatmaps/444632/covers/card.jpg?1650639095",
+        "unique_players": 7
       }
     }
   }
