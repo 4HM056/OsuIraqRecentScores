@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 160,
-    "longest": 160,
-    "last_updated": "2026-08-05"
+    "current": 161,
+    "longest": 161,
+    "last_updated": "2026-08-06"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -48040,6 +48040,327 @@
         "title": "STYX HELIX",
         "cover": "https://assets.ppy.sh/beatmaps/444632/covers/card.jpg?1650639095",
         "unique_players": 7
+      }
+    },
+    "2026-08-06": {
+      "total_scores": 602,
+      "peak_hour_baghdad": 0,
+      "top_grinder": {
+        "user": "brianmoser1123",
+        "user_id": 39498643,
+        "count": 68,
+        "scores": [
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7221775022,
+            "rank": "B",
+            "accuracy": 0.8651564185544768,
+            "pp": 28.1673,
+            "mods": [],
+            "combo": 169,
+            "created_at": "2026-08-06T06:27:26Z",
+            "beatmapset": {
+              "id": 128931,
+              "title": "Tower Of Heaven (You Are Slaves)",
+              "cover": "https://assets.ppy.sh/beatmaps/128931/covers/card.jpg?1645785502",
+              "stars": 4.56412
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7221756091,
+            "rank": "A",
+            "accuracy": 0.9363636363636364,
+            "pp": 50.3231,
+            "mods": [],
+            "combo": 163,
+            "created_at": "2026-08-06T06:21:35Z",
+            "beatmapset": {
+              "id": 481451,
+              "title": "R4V3 B0Y",
+              "cover": "https://assets.ppy.sh/beatmaps/481451/covers/card.jpg?1650642294",
+              "stars": 4.55296
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7221737666,
+            "rank": "C",
+            "accuracy": 0.8404605263157895,
+            "pp": 32.4103,
+            "mods": [],
+            "combo": 129,
+            "created_at": "2026-08-06T06:15:53Z",
+            "beatmapset": {
+              "id": 688552,
+              "title": "Ouka Enbu",
+              "cover": "https://assets.ppy.sh/beatmaps/688552/covers/card.jpg?1650655704",
+              "stars": 5.31719
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7221724287,
+            "rank": "C",
+            "accuracy": 0.8055885850178359,
+            "pp": 20.776,
+            "mods": [],
+            "combo": 140,
+            "created_at": "2026-08-06T06:11:47Z",
+            "beatmapset": {
+              "id": 1165437,
+              "title": "Living ghost is alive",
+              "cover": "https://assets.ppy.sh/beatmaps/1165437/covers/card.jpg?1622188377",
+              "stars": 4.57895
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7221695292,
+            "rank": "A",
+            "accuracy": 0.9685990338164251,
+            "pp": null,
+            "mods": [],
+            "combo": 150,
+            "created_at": "2026-08-06T06:02:50Z",
+            "beatmapset": {
+              "id": 1404720,
+              "title": "Stockholm",
+              "cover": "https://assets.ppy.sh/beatmaps/1404720/covers/card.jpg?1772549045",
+              "stars": 4.40094
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7221215342,
+            "rank": "A",
+            "accuracy": 0.9749503968253969,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 280,
+            "created_at": "2026-08-06T03:38:18Z",
+            "beatmapset": {
+              "id": 245393,
+              "title": "Jinsei wa Hoeru",
+              "cover": "https://assets.ppy.sh/beatmaps/245393/covers/card.jpg?1650631569",
+              "stars": 5.7046
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7221198798,
+            "rank": "A",
+            "accuracy": 0.9221688675470188,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 135,
+            "created_at": "2026-08-06T03:33:31Z",
+            "beatmapset": {
+              "id": 2289857,
+              "title": "Episode X",
+              "cover": "https://assets.ppy.sh/beatmaps/2289857/covers/card.jpg?1753789844",
+              "stars": 5.99807
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7221170491,
+            "rank": "B",
+            "accuracy": 0.8893871449925261,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 76,
+            "created_at": "2026-08-06T03:25:14Z",
+            "beatmapset": {
+              "id": 1939339,
+              "title": "Kira Killer (feat. Mori Calliope)",
+              "cover": "https://assets.ppy.sh/beatmaps/1939339/covers/card.jpg?1696233479",
+              "stars": 6.98876
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7221123959,
+            "rank": "A",
+            "accuracy": 0.9267202859696158,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 273,
+            "created_at": "2026-08-06T03:11:44Z",
+            "beatmapset": {
+              "id": 41823,
+              "title": "The Big Black",
+              "cover": "https://assets.ppy.sh/beatmaps/41823/covers/card.jpg?1650610126",
+              "stars": 6.93338
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7221086076,
+            "rank": "B",
+            "accuracy": 0.8761261261261262,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 92,
+            "created_at": "2026-08-06T03:00:49Z",
+            "beatmapset": {
+              "id": 1482982,
+              "title": "Ahoy!! Warera Houshou Kaizokudan*",
+              "cover": "https://assets.ppy.sh/beatmaps/1482982/covers/card.jpg?1624947731",
+              "stars": 6.56009
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7220967824,
+            "rank": "A",
+            "accuracy": 0.9463087248322147,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 215,
+            "created_at": "2026-08-06T02:27:56Z",
+            "beatmapset": {
+              "id": 2294086,
+              "title": "Prismatix",
+              "cover": "https://assets.ppy.sh/beatmaps/2294086/covers/card.jpg?1749413995",
+              "stars": 7.7638
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7220949571,
+            "rank": "A",
+            "accuracy": 0.9492219492219492,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 69,
+            "created_at": "2026-08-06T02:22:59Z",
+            "beatmapset": {
+              "id": 444335,
+              "title": "Kira Kira Days",
+              "cover": "https://assets.ppy.sh/beatmaps/444335/covers/card.jpg?1650638834",
+              "stars": 5.59753
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7220938414,
+            "rank": "A",
+            "accuracy": 0.9411168981481481,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 229,
+            "created_at": "2026-08-06T02:19:54Z",
+            "beatmapset": {
+              "id": 1594598,
+              "title": "Starry Jet",
+              "cover": "https://assets.ppy.sh/beatmaps/1594598/covers/card.jpg?1653112368",
+              "stars": 6.24683
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7220919646,
+            "rank": "A",
+            "accuracy": 0.9221311475409836,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 108,
+            "created_at": "2026-08-06T02:14:48Z",
+            "beatmapset": {
+              "id": 2414617,
+              "title": "starly (slowed down & cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2414617/covers/card.jpg?1755447546",
+              "stars": 5.07814
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7220909932,
+            "rank": "A",
+            "accuracy": 0.9560487380330722,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 190,
+            "created_at": "2026-08-06T02:12:06Z",
+            "beatmapset": {
+              "id": 1017271,
+              "title": "AaAaAaAAaAaAAa",
+              "cover": "https://assets.ppy.sh/beatmaps/1017271/covers/card.jpg?1650683889",
+              "stars": 5.08765
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "ESSE CARA!",
+        "cover": "https://assets.ppy.sh/beatmaps/2440245/covers/card.jpg?1782188287",
+        "unique_players": 15
       }
     }
   }
