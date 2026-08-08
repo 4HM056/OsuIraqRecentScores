@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 161,
-    "longest": 161,
-    "last_updated": "2026-08-06"
+    "current": 162,
+    "longest": 162,
+    "last_updated": "2026-08-07"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -48361,6 +48361,336 @@
         "title": "ESSE CARA!",
         "cover": "https://assets.ppy.sh/beatmaps/2440245/covers/card.jpg?1782188287",
         "unique_players": 15
+      }
+    },
+    "2026-08-07": {
+      "total_scores": 717,
+      "peak_hour_baghdad": 23,
+      "top_grinder": {
+        "user": "brianmoser1123",
+        "user_id": 39498643,
+        "count": 50,
+        "scores": [
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7227693810,
+            "rank": "A",
+            "accuracy": 0.9410197869101978,
+            "pp": null,
+            "mods": [
+              "NF",
+              "RX"
+            ],
+            "combo": 209,
+            "created_at": "2026-08-07T04:41:50Z",
+            "beatmapset": {
+              "id": 2368916,
+              "title": "Los! Los! Los! (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2368916/covers/card.jpg?1763962950",
+              "stars": 7.34107
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7227676477,
+            "rank": "A",
+            "accuracy": 0.9735099337748344,
+            "pp": null,
+            "mods": [
+              "NF",
+              "RX"
+            ],
+            "combo": 68,
+            "created_at": "2026-08-07T04:36:33Z",
+            "beatmapset": {
+              "id": 2400319,
+              "title": "Drowning Love",
+              "cover": "https://assets.ppy.sh/beatmaps/2400319/covers/card.jpg?1754492443",
+              "stars": 5.54581
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7227672230,
+            "rank": "B",
+            "accuracy": 0.8463326446280992,
+            "pp": null,
+            "mods": [
+              "NF",
+              "RX"
+            ],
+            "combo": 110,
+            "created_at": "2026-08-07T04:35:16Z",
+            "beatmapset": {
+              "id": 1357624,
+              "title": "true DJ MAG top ranker's song Zenpen (katagiri Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/1357624/covers/card.jpg?1645786045",
+              "stars": 7.96302
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7227648033,
+            "rank": "B",
+            "accuracy": 0.885498687664042,
+            "pp": null,
+            "mods": [
+              "NF",
+              "RX"
+            ],
+            "combo": 176,
+            "created_at": "2026-08-07T04:28:00Z",
+            "beatmapset": {
+              "id": 336414,
+              "title": "Tengaku",
+              "cover": "https://assets.ppy.sh/beatmaps/336414/covers/card.jpg?1622089819",
+              "stars": 8.13681
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7227600985,
+            "rank": "A",
+            "accuracy": 0.9637281910009182,
+            "pp": null,
+            "mods": [
+              "NF",
+              "RX"
+            ],
+            "combo": 177,
+            "created_at": "2026-08-07T04:13:52Z",
+            "beatmapset": {
+              "id": 86009,
+              "title": "Zetsubou plantation",
+              "cover": "https://assets.ppy.sh/beatmaps/86009/covers/card.jpg?1650636872",
+              "stars": 5.89134
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7227567587,
+            "rank": "A",
+            "accuracy": 0.9686057248384118,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 139,
+            "created_at": "2026-08-07T04:03:51Z",
+            "beatmapset": {
+              "id": 2398282,
+              "title": "Ao to Kirameki (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2398282/covers/card.jpg?1752373285",
+              "stars": 5.53144
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7227555791,
+            "rank": "A",
+            "accuracy": 0.948291782086796,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 58,
+            "created_at": "2026-08-07T04:00:22Z",
+            "beatmapset": {
+              "id": 2398282,
+              "title": "Ao to Kirameki (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2398282/covers/card.jpg?1752373285",
+              "stars": 5.53144
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7227549647,
+            "rank": "B",
+            "accuracy": 0.9055330634278003,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 105,
+            "created_at": "2026-08-07T03:58:32Z",
+            "beatmapset": {
+              "id": 570679,
+              "title": "Los! Los! Los!",
+              "cover": "https://assets.ppy.sh/beatmaps/570679/covers/card.jpg?1650661038",
+              "stars": 7.44148
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7227535289,
+            "rank": "B",
+            "accuracy": 0.8744292237442922,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 129,
+            "created_at": "2026-08-07T03:54:21Z",
+            "beatmapset": {
+              "id": 2368916,
+              "title": "Los! Los! Los! (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2368916/covers/card.jpg?1763962950",
+              "stars": 7.34107
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7226897635,
+            "rank": "D",
+            "accuracy": 0.5856481481481481,
+            "pp": 24.0875,
+            "mods": [],
+            "combo": 44,
+            "created_at": "2026-08-07T00:59:12Z",
+            "beatmapset": {
+              "id": 674882,
+              "title": "BLOODY STREAM",
+              "cover": "https://assets.ppy.sh/beatmaps/674882/covers/card.jpg?1622125712",
+              "stars": 5.58583
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7226886615,
+            "rank": "C",
+            "accuracy": 0.8581120943952802,
+            "pp": null,
+            "mods": [],
+            "combo": 219,
+            "created_at": "2026-08-07T00:56:15Z",
+            "beatmapset": {
+              "id": 2261824,
+              "title": "Ya shozhu s uma",
+              "cover": "https://assets.ppy.sh/beatmaps/2261824/covers/card.jpg?1730973620",
+              "stars": 4.03769
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7226866939,
+            "rank": "B",
+            "accuracy": 0.8796561604584527,
+            "pp": 49.8268,
+            "mods": [],
+            "combo": 147,
+            "created_at": "2026-08-07T00:51:03Z",
+            "beatmapset": {
+              "id": 2293752,
+              "title": "Wo Ai Ni -Shanghai Crab- (Sped Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2293752/covers/card.jpg?1735619937",
+              "stars": 5.00478
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7226843623,
+            "rank": "A",
+            "accuracy": 0.9349769319492502,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 175,
+            "created_at": "2026-08-07T00:44:58Z",
+            "beatmapset": {
+              "id": 2268702,
+              "title": "Thrash",
+              "cover": "https://assets.ppy.sh/beatmaps/2268702/covers/card.jpg?1785708154",
+              "stars": 7.86713
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7226827407,
+            "rank": "A",
+            "accuracy": 0.9265482984569858,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 148,
+            "created_at": "2026-08-07T00:40:47Z",
+            "beatmapset": {
+              "id": 2271658,
+              "title": "Lies playing Truth",
+              "cover": "https://assets.ppy.sh/beatmaps/2271658/covers/card.jpg?1733890053",
+              "stars": 7.5709
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7226804718,
+            "rank": "B",
+            "accuracy": 0.8600682593856656,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 115,
+            "created_at": "2026-08-07T00:34:57Z",
+            "beatmapset": {
+              "id": 1564755,
+              "title": "NO TURNING BACK",
+              "cover": "https://assets.ppy.sh/beatmaps/1564755/covers/card.jpg?1632798057",
+              "stars": 7.97647
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Unbreakable (Sped Up & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/1343602/covers/card.jpg?1622204870",
+        "unique_players": 22
       }
     }
   }
