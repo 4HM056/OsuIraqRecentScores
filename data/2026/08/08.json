@@ -7,9 +7,9 @@
     "fruits",
     "mania"
   ],
-  "generated_at": "2026-08-08T05:29:27.838Z",
-  "complete": false,
-  "players_checked": 2000,
+  "generated_at": "2026-08-08T05:35:25.577Z",
+  "complete": true,
+  "players_checked": 2328,
   "players_total": 2328,
   "scores": [
     {
@@ -5433,6 +5433,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7231280773,
+      "rank": "B",
+      "accuracy": 0.8272458045409674,
+      "pp": 0,
+      "mods": [],
+      "combo": 94,
+      "created_at": "2026-08-07T18:03:26Z",
+      "beatmapset": {
+        "id": 2515207,
+        "title": "PPPP feat. Hatsune Miku, Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2515207/covers/card.jpg?1774792991",
+        "stars": 2.17431
+      }
+    },
+    {
       "user": "manicide",
       "user_id": 39330365,
       "country": "IQ",
@@ -5471,6 +5490,25 @@
         "title": "Mou Ii kai?",
         "cover": "https://assets.ppy.sh/beatmaps/807850/covers/card.jpg?1650666409",
         "stars": 6.87041
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7231257529,
+      "rank": "B",
+      "accuracy": 0.855979146301727,
+      "pp": 6.56179,
+      "mods": [],
+      "combo": 358,
+      "created_at": "2026-08-07T17:59:07Z",
+      "beatmapset": {
+        "id": 2419665,
+        "title": "Retry Now",
+        "cover": "https://assets.ppy.sh/beatmaps/2419665/covers/card.jpg?1777033667",
+        "stars": 2.41862
       }
     },
     {
@@ -5594,6 +5632,44 @@
         "title": "True truly love",
         "cover": "https://assets.ppy.sh/beatmaps/2336840/covers/card.jpg?1750813482",
         "stars": 5.61527
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7231165776,
+      "rank": "B",
+      "accuracy": 0.8851489188086495,
+      "pp": 7.01502,
+      "mods": [],
+      "combo": 103,
+      "created_at": "2026-08-07T17:41:51Z",
+      "beatmapset": {
+        "id": 2523253,
+        "title": "CandyCookieChocolate",
+        "cover": "https://assets.ppy.sh/beatmaps/2523253/covers/card.jpg?1774134570",
+        "stars": 1.81002
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7231107753,
+      "rank": "B",
+      "accuracy": 0.882051282051282,
+      "pp": 5.53435,
+      "mods": [],
+      "combo": 100,
+      "created_at": "2026-08-07T17:30:57Z",
+      "beatmapset": {
+        "id": 2529218,
+        "title": "Execution Clap",
+        "cover": "https://assets.ppy.sh/beatmaps/2529218/covers/card.jpg?1774979397",
+        "stars": 1.69092
       }
     },
     {
@@ -5779,6 +5855,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7231059300,
+      "rank": "B",
+      "accuracy": 0.8094883258817686,
+      "pp": 0,
+      "mods": [],
+      "combo": 188,
+      "created_at": "2026-08-07T17:21:58Z",
+      "beatmapset": {
+        "id": 2180255,
+        "title": "Mesmerizer",
+        "cover": "https://assets.ppy.sh/beatmaps/2180255/covers/card.jpg?1749447419",
+        "stars": 1.98764
+      }
+    },
+    {
       "user": "kattykitty",
       "user_id": 40102698,
       "country": "IQ",
@@ -5837,6 +5932,25 @@
         "title": "Zetsubou plantation (Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2250663/covers/card.jpg?1734636186",
         "stars": 6.84262
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7231033466,
+      "rank": "B",
+      "accuracy": 0.806368330464716,
+      "pp": null,
+      "mods": [],
+      "combo": 97,
+      "created_at": "2026-08-07T17:17:11Z",
+      "beatmapset": {
+        "id": 2177165,
+        "title": "Mesmerizer",
+        "cover": "https://assets.ppy.sh/beatmaps/2177165/covers/card.jpg?1753516819",
+        "stars": 2.6988
       }
     },
     {
@@ -8891,6 +9005,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7229665340,
+      "rank": "S",
+      "accuracy": 0.9883855981416957,
+      "pp": 5.43442,
+      "mods": [],
+      "combo": 150,
+      "created_at": "2026-08-07T13:11:19Z",
+      "beatmapset": {
+        "id": 2578256,
+        "title": "YARARARA feat. Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2578256/covers/card.jpg?1784418683",
+        "stars": 1.05995
+      }
+    },
+    {
       "user": "trylove107999",
       "user_id": 40179047,
       "country": "IQ",
@@ -8945,6 +9078,25 @@
         "title": "bad times (sped up & cut ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2446228/covers/card.jpg?1768233080",
         "stars": 2.2786
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7229634372,
+      "rank": "A",
+      "accuracy": 0.9017543859649123,
+      "pp": 5.43843,
+      "mods": [],
+      "combo": 98,
+      "created_at": "2026-08-07T13:05:30Z",
+      "beatmapset": {
+        "id": 2493675,
+        "title": "Teto the 31st",
+        "cover": "https://assets.ppy.sh/beatmaps/2493675/covers/card.jpg?1768509281",
+        "stars": 1.48435
       }
     },
     {
@@ -9043,6 +9195,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7229582805,
+      "rank": "C",
+      "accuracy": 0.7966764418377321,
+      "pp": 0,
+      "mods": [],
+      "combo": 129,
+      "created_at": "2026-08-07T12:55:37Z",
+      "beatmapset": {
+        "id": 2419665,
+        "title": "Retry Now",
+        "cover": "https://assets.ppy.sh/beatmaps/2419665/covers/card.jpg?1777033667",
+        "stars": 2.41862
+      }
+    },
+    {
       "user": "I AM A GHOUL",
       "user_id": 24991953,
       "country": "IQ",
@@ -9078,6 +9249,25 @@
         "title": "bad times (sped up & cut ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2446228/covers/card.jpg?1768233080",
         "stars": 1.60075
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7229569760,
+      "rank": "B",
+      "accuracy": 0.8170450806186246,
+      "pp": 0,
+      "mods": [],
+      "combo": 145,
+      "created_at": "2026-08-07T12:53:07Z",
+      "beatmapset": {
+        "id": 2515207,
+        "title": "PPPP feat. Hatsune Miku, Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2515207/covers/card.jpg?1774792991",
+        "stars": 2.17431
       }
     },
     {
@@ -9119,6 +9309,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7229549450,
+      "rank": "B",
+      "accuracy": 0.8249424152681804,
+      "pp": 0,
+      "mods": [],
+      "combo": 114,
+      "created_at": "2026-08-07T12:49:13Z",
+      "beatmapset": {
+        "id": 2515207,
+        "title": "PPPP feat. Hatsune Miku, Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2515207/covers/card.jpg?1774792991",
+        "stars": 2.17431
+      }
+    },
+    {
       "user": "trylove107999",
       "user_id": 40179047,
       "country": "IQ",
@@ -9135,6 +9344,25 @@
         "title": "WII DATE (feat. tiffi, highvyn, siopaolo)",
         "cover": "https://assets.ppy.sh/beatmaps/2534305/covers/card.jpg?1783428339",
         "stars": 2.24939
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7229531245,
+      "rank": "D",
+      "accuracy": 0.6564806613522292,
+      "pp": 0,
+      "mods": [],
+      "combo": 41,
+      "created_at": "2026-08-07T12:45:39Z",
+      "beatmapset": {
+        "id": 2215986,
+        "title": "Mesmerizer",
+        "cover": "https://assets.ppy.sh/beatmaps/2215986/covers/card.jpg?1721877256",
+        "stars": 2.35672
       }
     },
     {
@@ -9192,6 +9420,25 @@
         "title": "Dark Flight Dreamer",
         "cover": "https://assets.ppy.sh/beatmaps/185250/covers/card.jpg?1650631939",
         "stars": 6.31693
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7229470808,
+      "rank": "C",
+      "accuracy": 0.7639127940332759,
+      "pp": null,
+      "mods": [],
+      "combo": 90,
+      "created_at": "2026-08-07T12:33:51Z",
+      "beatmapset": {
+        "id": 2177165,
+        "title": "Mesmerizer",
+        "cover": "https://assets.ppy.sh/beatmaps/2177165/covers/card.jpg?1753516819",
+        "stars": 2.6988
       }
     },
     {
@@ -9254,6 +9501,63 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7229455050,
+      "rank": "A",
+      "accuracy": 0.9243119266055045,
+      "pp": 4.8624,
+      "mods": [],
+      "combo": 97,
+      "created_at": "2026-08-07T12:30:44Z",
+      "beatmapset": {
+        "id": 2578256,
+        "title": "YARARARA feat. Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2578256/covers/card.jpg?1784418683",
+        "stars": 1.25073
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7229436598,
+      "rank": "B",
+      "accuracy": 0.8512280701754386,
+      "pp": 1.8845,
+      "mods": [],
+      "combo": 75,
+      "created_at": "2026-08-07T12:27:02Z",
+      "beatmapset": {
+        "id": 2493675,
+        "title": "Teto the 31st",
+        "cover": "https://assets.ppy.sh/beatmaps/2493675/covers/card.jpg?1768509281",
+        "stars": 1.48435
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7229421751,
+      "rank": "B",
+      "accuracy": 0.8401261523532266,
+      "pp": 1.35159,
+      "mods": [],
+      "combo": 85,
+      "created_at": "2026-08-07T12:24:02Z",
+      "beatmapset": {
+        "id": 2501921,
+        "title": "PPPP feat. Hatsune Miku, Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2501921/covers/card.jpg?1770006204",
+        "stars": 1.7296
+      }
+    },
+    {
       "user": "FaZe Kawan",
       "user_id": 12813974,
       "country": "IQ",
@@ -9273,6 +9577,25 @@
         "title": "Maniac (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2464479/covers/card.jpg?1764663200",
         "stars": 4.91547
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7229405284,
+      "rank": "C",
+      "accuracy": 0.7813620071684588,
+      "pp": 0,
+      "mods": [],
+      "combo": 129,
+      "created_at": "2026-08-07T12:20:41Z",
+      "beatmapset": {
+        "id": 2419665,
+        "title": "Retry Now",
+        "cover": "https://assets.ppy.sh/beatmaps/2419665/covers/card.jpg?1777033667",
+        "stars": 2.41862
       }
     },
     {
