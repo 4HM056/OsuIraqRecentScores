@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 162,
-    "longest": 162,
-    "last_updated": "2026-08-07"
+    "current": 163,
+    "longest": 163,
+    "last_updated": "2026-08-08"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -48691,6 +48691,311 @@
         "title": "Unbreakable (Sped Up & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/1343602/covers/card.jpg?1622204870",
         "unique_players": 22
+      }
+    },
+    "2026-08-08": {
+      "total_scores": 639,
+      "peak_hour_baghdad": 14,
+      "top_grinder": {
+        "user": "brianmoser1123",
+        "user_id": 39498643,
+        "count": 59,
+        "scores": [
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7234077074,
+            "rank": "B",
+            "accuracy": 0.8527239150507848,
+            "pp": 60.6354,
+            "mods": [],
+            "combo": 131,
+            "created_at": "2026-08-08T04:32:50Z",
+            "beatmapset": {
+              "id": 2398282,
+              "title": "Ao to Kirameki (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2398282/covers/card.jpg?1752373285",
+              "stars": 5.53144
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7234052505,
+            "rank": "A",
+            "accuracy": 0.979282622139765,
+            "pp": null,
+            "mods": [],
+            "combo": 161,
+            "created_at": "2026-08-08T04:26:08Z",
+            "beatmapset": {
+              "id": 589603,
+              "title": "Everything Black (feat. Mike Taylor)",
+              "cover": "https://assets.ppy.sh/beatmaps/589603/covers/card.jpg?1622116730",
+              "stars": 4.17932
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7234035710,
+            "rank": "B",
+            "accuracy": 0.9164687252573238,
+            "pp": 42.5949,
+            "mods": [],
+            "combo": 111,
+            "created_at": "2026-08-08T04:21:30Z",
+            "beatmapset": {
+              "id": 1727800,
+              "title": "GET IT",
+              "cover": "https://assets.ppy.sh/beatmaps/1727800/covers/card.jpg?1674942215",
+              "stars": 4.46169
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7234023600,
+            "rank": "B",
+            "accuracy": 0.9174174174174174,
+            "pp": 45.5396,
+            "mods": [],
+            "combo": 213,
+            "created_at": "2026-08-08T04:18:10Z",
+            "beatmapset": {
+              "id": 2079819,
+              "title": "From The Start",
+              "cover": "https://assets.ppy.sh/beatmaps/2079819/covers/card.jpg?1707451117",
+              "stars": 4.18124
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7234010321,
+            "rank": "C",
+            "accuracy": 0.756002233389168,
+            "pp": 32.6596,
+            "mods": [],
+            "combo": 140,
+            "created_at": "2026-08-08T04:14:34Z",
+            "beatmapset": {
+              "id": 2311504,
+              "title": "ETA",
+              "cover": "https://assets.ppy.sh/beatmaps/2311504/covers/card.jpg?1744587494",
+              "stars": 5.56209
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7234000146,
+            "rank": "B",
+            "accuracy": 0.863013698630137,
+            "pp": 41.2876,
+            "mods": [],
+            "combo": 83,
+            "created_at": "2026-08-08T04:11:49Z",
+            "beatmapset": {
+              "id": 2440245,
+              "title": "ESSE CARA!",
+              "cover": "https://assets.ppy.sh/beatmaps/2440245/covers/card.jpg?1782188287",
+              "stars": 4.31261
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7233993785,
+            "rank": "C",
+            "accuracy": 0.8318181818181818,
+            "pp": 36.1591,
+            "mods": [],
+            "combo": 158,
+            "created_at": "2026-08-08T04:10:08Z",
+            "beatmapset": {
+              "id": 1620247,
+              "title": "Enemy",
+              "cover": "https://assets.ppy.sh/beatmaps/1620247/covers/card.jpg?1650710994",
+              "stars": 5.4761
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7233962535,
+            "rank": "B",
+            "accuracy": 0.8766666666666667,
+            "pp": 51.4677,
+            "mods": [],
+            "combo": 267,
+            "created_at": "2026-08-08T04:01:54Z",
+            "beatmapset": {
+              "id": 688552,
+              "title": "Ouka Enbu",
+              "cover": "https://assets.ppy.sh/beatmaps/688552/covers/card.jpg?1650655704",
+              "stars": 5.47233
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7233947441,
+            "rank": "A",
+            "accuracy": 0.9309309309309309,
+            "pp": 76.9072,
+            "mods": [],
+            "combo": 86,
+            "created_at": "2026-08-08T03:57:55Z",
+            "beatmapset": {
+              "id": 765169,
+              "title": "(can you) understand me?",
+              "cover": "https://assets.ppy.sh/beatmaps/765169/covers/card.jpg?1650662185",
+              "stars": 4.9883
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7233909008,
+            "rank": "B",
+            "accuracy": 0.8948938200906705,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 159,
+            "created_at": "2026-08-08T03:47:49Z",
+            "beatmapset": {
+              "id": 2536640,
+              "title": "Classroom of the Elite OP Compilation",
+              "cover": "https://assets.ppy.sh/beatmaps/2536640/covers/card.jpg?1779269407",
+              "stars": 7.73336
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7233851424,
+            "rank": "A",
+            "accuracy": 0.9407345575959933,
+            "pp": 76.3496,
+            "mods": [],
+            "combo": 172,
+            "created_at": "2026-08-08T03:32:32Z",
+            "beatmapset": {
+              "id": 2411013,
+              "title": "Cherry Pop feat. Hatsune Miku",
+              "cover": "https://assets.ppy.sh/beatmaps/2411013/covers/card.jpg?1753756069",
+              "stars": 4.92794
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7233794858,
+            "rank": "B",
+            "accuracy": 0.8827248866618945,
+            "pp": null,
+            "mods": [
+              "RX"
+            ],
+            "combo": 125,
+            "created_at": "2026-08-08T03:17:34Z",
+            "beatmapset": {
+              "id": 2536640,
+              "title": "Classroom of the Elite OP Compilation",
+              "cover": "https://assets.ppy.sh/beatmaps/2536640/covers/card.jpg?1779269407",
+              "stars": 7.73336
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7233756854,
+            "rank": "C",
+            "accuracy": 0.83,
+            "pp": 43.383,
+            "mods": [],
+            "combo": 76,
+            "created_at": "2026-08-08T03:07:33Z",
+            "beatmapset": {
+              "id": 2464474,
+              "title": "Cherry Pop (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2464474/covers/card.jpg?1763827557",
+              "stars": 5.41032
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7233751429,
+            "rank": "C",
+            "accuracy": 0.8324708926261319,
+            "pp": 22.9709,
+            "mods": [],
+            "combo": 267,
+            "created_at": "2026-08-08T03:06:07Z",
+            "beatmapset": {
+              "id": 2069184,
+              "title": "Imperfect Cherry Blossom",
+              "cover": "https://assets.ppy.sh/beatmaps/2069184/covers/card.jpg?1724380098",
+              "stars": 4.64754
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7233737638,
+            "rank": "A",
+            "accuracy": 0.9354479688369505,
+            "pp": 60.9656,
+            "mods": [],
+            "combo": 145,
+            "created_at": "2026-08-08T03:02:27Z",
+            "beatmapset": {
+              "id": 2411013,
+              "title": "Cherry Pop feat. Hatsune Miku",
+              "cover": "https://assets.ppy.sh/beatmaps/2411013/covers/card.jpg?1753756069",
+              "stars": 4.92794
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Jacks Practice",
+        "cover": "https://assets.ppy.sh/beatmaps/988760/covers/card.jpg?1645778033",
+        "unique_players": 16
       }
     }
   }
