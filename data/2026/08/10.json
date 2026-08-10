@@ -7,9 +7,9 @@
     "fruits",
     "mania"
   ],
-  "generated_at": "2026-08-10T05:59:14.520Z",
-  "complete": false,
-  "players_checked": 2000,
+  "generated_at": "2026-08-10T06:05:27.730Z",
+  "complete": true,
+  "players_checked": 2342,
   "players_total": 2342,
   "scores": [
     {
@@ -786,6 +786,25 @@
         "title": "KICK BACK (TV Size)",
         "cover": "https://assets.ppy.sh/beatmaps/1864346/covers/card.jpg?1665601252",
         "stars": 2.96968
+      }
+    },
+    {
+      "user": "Bappo_1337",
+      "user_id": 21688901,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 666809114,
+      "rank": "C",
+      "accuracy": 0.7838983050847458,
+      "pp": 0,
+      "mods": [],
+      "combo": 130,
+      "created_at": "2026-08-10T01:12:07Z",
+      "beatmapset": {
+        "id": 2308228,
+        "title": "Sigma Boy (Sped Up Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2308228/covers/card.jpg?1737149775",
+        "stars": 1.41506
       }
     },
     {
@@ -2740,6 +2759,25 @@
       }
     },
     {
+      "user": "Anamisa",
+      "user_id": 40279338,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7245654721,
+      "rank": "A",
+      "accuracy": 0.9462745098039216,
+      "pp": 4.47289,
+      "mods": [],
+      "combo": 261,
+      "created_at": "2026-08-09T22:48:02Z",
+      "beatmapset": {
+        "id": 2316808,
+        "title": "Monitoring feat. Hatsune Miku",
+        "cover": "https://assets.ppy.sh/beatmaps/2316808/covers/card.jpg?1739238460",
+        "stars": 1.13438
+      }
+    },
+    {
       "user": "dboo3e",
       "user_id": 39281114,
       "country": "IQ",
@@ -2982,6 +3020,25 @@
       "rank": "X",
       "accuracy": 1,
       "pp": 3.76963,
+      "mods": [],
+      "combo": 78,
+      "created_at": "2026-08-09T22:27:03Z",
+      "beatmapset": {
+        "id": 295480,
+        "title": "wh",
+        "cover": "https://assets.ppy.sh/beatmaps/295480/covers/card.jpg?1650630064",
+        "stars": 0.883179
+      }
+    },
+    {
+      "user": "Nxbil_1",
+      "user_id": 40051845,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7245563531,
+      "rank": "S",
+      "accuracy": 0.9786324786324786,
+      "pp": 3.03719,
       "mods": [],
       "combo": 78,
       "created_at": "2026-08-09T22:27:03Z",
@@ -3289,6 +3346,25 @@
         "title": "Majotachi no Shanikusai",
         "cover": "https://assets.ppy.sh/beatmaps/1890758/covers/card.jpg?1675592887",
         "stars": 6.08731
+      }
+    },
+    {
+      "user": "Nxbil_1",
+      "user_id": 40051845,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7245465103,
+      "rank": "B",
+      "accuracy": 0.8422222222222222,
+      "pp": 2.02696,
+      "mods": [],
+      "combo": 195,
+      "created_at": "2026-08-09T22:05:01Z",
+      "beatmapset": {
+        "id": 2062241,
+        "title": "LIGHT LEFT BEHIND",
+        "cover": "https://assets.ppy.sh/beatmaps/2062241/covers/card.jpg?1709168031",
+        "stars": 2.12509
       }
     },
     {
@@ -5737,6 +5813,25 @@
       "user": "MikuJR3",
       "user_id": 40283262,
       "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243680300,
+      "rank": "C",
+      "accuracy": 0.7357811375089993,
+      "pp": 0,
+      "mods": [],
+      "combo": 92,
+      "created_at": "2026-08-09T16:27:31Z",
+      "beatmapset": {
+        "id": 190390,
+        "title": "Flaklypa",
+        "cover": "https://assets.ppy.sh/beatmaps/190390/covers/card.jpg?1622075765",
+        "stars": 1.21475
+      }
+    },
+    {
+      "user": "MikuJR3",
+      "user_id": 40283262,
+      "country": "IQ",
       "mode": "taiko",
       "score_id": 7243659926,
       "rank": "C",
@@ -5829,6 +5924,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243618717,
+      "rank": "A",
+      "accuracy": 0.9090419806243273,
+      "pp": 10.7124,
+      "mods": [],
+      "combo": 219,
+      "created_at": "2026-08-09T16:16:21Z",
+      "beatmapset": {
+        "id": 13177,
+        "title": "Bad Apple!!",
+        "cover": "https://assets.ppy.sh/beatmaps/13177/covers/card.jpg?1650607678",
+        "stars": 1.85612
+      }
+    },
+    {
       "user": "toast123",
       "user_id": 37184645,
       "country": "IQ",
@@ -5867,6 +5981,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243597828,
+      "rank": "A",
+      "accuracy": 0.9311087190527448,
+      "pp": 13.4477,
+      "mods": [],
+      "combo": 197,
+      "created_at": "2026-08-09T16:12:32Z",
+      "beatmapset": {
+        "id": 13177,
+        "title": "Bad Apple!!",
+        "cover": "https://assets.ppy.sh/beatmaps/13177/covers/card.jpg?1650607678",
+        "stars": 1.85612
+      }
+    },
+    {
       "user": "toast123",
       "user_id": 37184645,
       "country": "IQ",
@@ -5902,6 +6035,25 @@
         "title": "From Now On (Battle 2)",
         "cover": "https://assets.ppy.sh/beatmaps/2410920/covers/card.jpg?1761258411",
         "stars": 3.51904
+      }
+    },
+    {
+      "user": "Nxbil_1",
+      "user_id": 40051845,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243586901,
+      "rank": "B",
+      "accuracy": 0.8477777777777777,
+      "pp": 3.02336,
+      "mods": [],
+      "combo": 123,
+      "created_at": "2026-08-09T16:10:33Z",
+      "beatmapset": {
+        "id": 2062241,
+        "title": "LIGHT LEFT BEHIND",
+        "cover": "https://assets.ppy.sh/beatmaps/2062241/covers/card.jpg?1709168031",
+        "stars": 2.12509
       }
     },
     {
@@ -6000,6 +6152,63 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243552414,
+      "rank": "D",
+      "accuracy": 0.5743405275779376,
+      "pp": 0,
+      "mods": [],
+      "combo": 23,
+      "created_at": "2026-08-09T16:04:19Z",
+      "beatmapset": {
+        "id": 2352872,
+        "title": "Daidaidaidaidaikirai",
+        "cover": "https://assets.ppy.sh/beatmaps/2352872/covers/card.jpg?1747424683",
+        "stars": 2.57517
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243537068,
+      "rank": "A",
+      "accuracy": 0.9158997955010225,
+      "pp": 8.8612,
+      "mods": [],
+      "combo": 167,
+      "created_at": "2026-08-09T16:01:32Z",
+      "beatmapset": {
+        "id": 2352872,
+        "title": "Daidaidaidaidaikirai",
+        "cover": "https://assets.ppy.sh/beatmaps/2352872/covers/card.jpg?1747424683",
+        "stars": 1.66353
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243514030,
+      "rank": "C",
+      "accuracy": 0.7270029673590505,
+      "pp": 0,
+      "mods": [],
+      "combo": 118,
+      "created_at": "2026-08-09T15:57:26Z",
+      "beatmapset": {
+        "id": 2296404,
+        "title": "Mimukauwa Nice Try",
+        "cover": "https://assets.ppy.sh/beatmaps/2296404/covers/card.jpg?1752552621",
+        "stars": 3.10089
+      }
+    },
+    {
       "user": "toast123",
       "user_id": 37184645,
       "country": "IQ",
@@ -6059,6 +6268,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243463093,
+      "rank": "A",
+      "accuracy": 0.9137086903304773,
+      "pp": 10.7641,
+      "mods": [],
+      "combo": 146,
+      "created_at": "2026-08-09T15:48:11Z",
+      "beatmapset": {
+        "id": 2523253,
+        "title": "CandyCookieChocolate",
+        "cover": "https://assets.ppy.sh/beatmaps/2523253/covers/card.jpg?1774134570",
+        "stars": 1.81002
+      }
+    },
+    {
       "user": "toast123",
       "user_id": 37184645,
       "country": "IQ",
@@ -6075,6 +6303,25 @@
         "title": "Spear of Justice (Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/1173976/covers/card.jpg?1622189261",
         "stars": 4.55013
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243446645,
+      "rank": "B",
+      "accuracy": 0.8590138674884438,
+      "pp": 3.91871,
+      "mods": [],
+      "combo": 83,
+      "created_at": "2026-08-09T15:45:12Z",
+      "beatmapset": {
+        "id": 2565755,
+        "title": "Approve please, Genie!",
+        "cover": "https://assets.ppy.sh/beatmaps/2565755/covers/card.jpg?1781051582",
+        "stars": 1.84527
       }
     },
     {
@@ -6097,6 +6344,44 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243429198,
+      "rank": "D",
+      "accuracy": 0.5720996732026143,
+      "pp": 0,
+      "mods": [],
+      "combo": 25,
+      "created_at": "2026-08-09T15:42:05Z",
+      "beatmapset": {
+        "id": 2493675,
+        "title": "Teto the 31st",
+        "cover": "https://assets.ppy.sh/beatmaps/2493675/covers/card.jpg?1768509281",
+        "stars": 2.0773
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243415361,
+      "rank": "B",
+      "accuracy": 0.8111762789182144,
+      "pp": 0,
+      "mods": [],
+      "combo": 132,
+      "created_at": "2026-08-09T15:39:36Z",
+      "beatmapset": {
+        "id": 2419665,
+        "title": "Retry Now",
+        "cover": "https://assets.ppy.sh/beatmaps/2419665/covers/card.jpg?1777033667",
+        "stars": 2.41862
+      }
+    },
+    {
       "user": "jafarthenoob",
       "user_id": 16785772,
       "country": "IQ",
@@ -6113,6 +6398,25 @@
         "title": "polyriddim",
         "cover": "https://assets.ppy.sh/beatmaps/1819175/covers/card.jpg?1666650618",
         "stars": 3.08036
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243397681,
+      "rank": "C",
+      "accuracy": 0.7811169546706737,
+      "pp": 0,
+      "mods": [],
+      "combo": 108,
+      "created_at": "2026-08-09T15:36:24Z",
+      "beatmapset": {
+        "id": 2515207,
+        "title": "PPPP feat. Hatsune Miku, Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2515207/covers/card.jpg?1774792991",
+        "stars": 2.74576
       }
     },
     {
@@ -6251,6 +6555,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243380964,
+      "rank": "B",
+      "accuracy": 0.8461658841940533,
+      "pp": 3.5134,
+      "mods": [],
+      "combo": 145,
+      "created_at": "2026-08-09T15:33:21Z",
+      "beatmapset": {
+        "id": 2180255,
+        "title": "Mesmerizer",
+        "cover": "https://assets.ppy.sh/beatmaps/2180255/covers/card.jpg?1749447419",
+        "stars": 2.42311
+      }
+    },
+    {
       "user": "toast123",
       "user_id": 37184645,
       "country": "IQ",
@@ -6286,6 +6609,25 @@
         "title": "Part Of Me (Whippa Hardstyle Remix)",
         "cover": "https://assets.ppy.sh/beatmaps/2391949/covers/card.jpg?1760483147",
         "stars": 4.61127
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7243344486,
+      "rank": "A",
+      "accuracy": 0.923931623931624,
+      "pp": 10.091,
+      "mods": [],
+      "combo": 162,
+      "created_at": "2026-08-09T15:26:45Z",
+      "beatmapset": {
+        "id": 2529218,
+        "title": "Execution Clap",
+        "cover": "https://assets.ppy.sh/beatmaps/2529218/covers/card.jpg?1774979397",
+        "stars": 1.69092
       }
     },
     {
@@ -7725,6 +8067,25 @@
       }
     },
     {
+      "user": "RandomPickle",
+      "user_id": 38853600,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7242876225,
+      "rank": "S",
+      "accuracy": 0.9728141072740631,
+      "pp": null,
+      "mods": [],
+      "combo": 965,
+      "created_at": "2026-08-09T14:03:52Z",
+      "beatmapset": {
+        "id": 1153389,
+        "title": "4k Stairs",
+        "cover": "https://assets.ppy.sh/beatmaps/1153389/covers/card.jpg?1626352218",
+        "stars": 3.40587
+      }
+    },
+    {
       "user": "manicide",
       "user_id": 39330365,
       "country": "IQ",
@@ -7760,6 +8121,25 @@
         "title": "Fade (feat. Zak Waters)",
         "cover": "https://assets.ppy.sh/beatmaps/416426/covers/card.jpg?1650655336",
         "stars": 4.92936
+      }
+    },
+    {
+      "user": "RandomPickle",
+      "user_id": 38853600,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7242863790,
+      "rank": "A",
+      "accuracy": 0.9122857693048334,
+      "pp": null,
+      "mods": [],
+      "combo": 419,
+      "created_at": "2026-08-09T14:01:38Z",
+      "beatmapset": {
+        "id": 1153389,
+        "title": "4k Stairs",
+        "cover": "https://assets.ppy.sh/beatmaps/1153389/covers/card.jpg?1626352218",
+        "stars": 4.16253
       }
     },
     {
@@ -8913,6 +9293,44 @@
       }
     },
     {
+      "user": "Anamisa",
+      "user_id": 40279338,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7242290614,
+      "rank": "A",
+      "accuracy": 0.922509225092251,
+      "pp": null,
+      "mods": [],
+      "combo": 104,
+      "created_at": "2026-08-09T12:10:44Z",
+      "beatmapset": {
+        "id": 2413714,
+        "title": "Retry Now",
+        "cover": "https://assets.ppy.sh/beatmaps/2413714/covers/card.jpg?1785531178",
+        "stars": 0.974866
+      }
+    },
+    {
+      "user": "Anamisa",
+      "user_id": 40279338,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7242272830,
+      "rank": "C",
+      "accuracy": 0.7056277056277056,
+      "pp": 0,
+      "mods": [],
+      "combo": 29,
+      "created_at": "2026-08-09T12:07:02Z",
+      "beatmapset": {
+        "id": 6300,
+        "title": "Vegetable Juice (Po Pi Po)",
+        "cover": "https://assets.ppy.sh/beatmaps/6300/covers/card.jpg?1650601901",
+        "stars": 1.03909
+      }
+    },
+    {
       "user": "cuzalpha",
       "user_id": 37322060,
       "country": "IQ",
@@ -8934,6 +9352,25 @@
       }
     },
     {
+      "user": "Anamisa",
+      "user_id": 40279338,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7242160123,
+      "rank": "B",
+      "accuracy": 0.8940298507462686,
+      "pp": null,
+      "mods": [],
+      "combo": 142,
+      "created_at": "2026-08-09T11:43:21Z",
+      "beatmapset": {
+        "id": 2279637,
+        "title": "Tetoris",
+        "cover": "https://assets.ppy.sh/beatmaps/2279637/covers/card.jpg?1759696213",
+        "stars": 1.62774
+      }
+    },
+    {
       "user": "Kamioo",
       "user_id": 19494788,
       "country": "IQ",
@@ -8952,6 +9389,25 @@
         "title": "Rakuen PROJECT (TV Size)",
         "cover": "https://assets.ppy.sh/beatmaps/1055405/covers/card.jpg?1650687515",
         "stars": 4.39558
+      }
+    },
+    {
+      "user": "Anamisa",
+      "user_id": 40279338,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7242112348,
+      "rank": "A",
+      "accuracy": 0.9090196078431373,
+      "pp": 2.99167,
+      "mods": [],
+      "combo": 135,
+      "created_at": "2026-08-09T11:33:06Z",
+      "beatmapset": {
+        "id": 2316808,
+        "title": "Monitoring feat. Hatsune Miku",
+        "cover": "https://assets.ppy.sh/beatmaps/2316808/covers/card.jpg?1739238460",
+        "stars": 1.13438
       }
     },
     {
