@@ -7,9 +7,9 @@
     "fruits",
     "mania"
   ],
-  "generated_at": "2026-08-11T05:39:47.768Z",
-  "complete": false,
-  "players_checked": 2000,
+  "generated_at": "2026-08-11T05:46:05.226Z",
+  "complete": true,
+  "players_checked": 2346,
   "players_total": 2346,
   "scores": [
     {
@@ -4203,6 +4203,25 @@
       }
     },
     {
+      "user": "SUPERFAKE",
+      "user_id": 24509453,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7250368808,
+      "rank": "C",
+      "accuracy": 0.7274099883855981,
+      "pp": 0,
+      "mods": [],
+      "combo": 151,
+      "created_at": "2026-08-10T18:08:07Z",
+      "beatmapset": {
+        "id": 1801972,
+        "title": "World's End Valentine",
+        "cover": "https://assets.ppy.sh/beatmaps/1801972/covers/card.jpg?1702958145",
+        "stars": 2.91401
+      }
+    },
+    {
       "user": "boogielolol",
       "user_id": 34360234,
       "country": "IQ",
@@ -4222,6 +4241,25 @@
       }
     },
     {
+      "user": "SUPERFAKE",
+      "user_id": 24509453,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7250336032,
+      "rank": "S",
+      "accuracy": 0.9611801242236024,
+      "pp": 10.3923,
+      "mods": [],
+      "combo": 642,
+      "created_at": "2026-08-10T18:01:47Z",
+      "beatmapset": {
+        "id": 1864902,
+        "title": "God-ish",
+        "cover": "https://assets.ppy.sh/beatmaps/1864902/covers/card.jpg?1685849373",
+        "stars": 1.49429
+      }
+    },
+    {
       "user": "boogielolol",
       "user_id": 34360234,
       "country": "IQ",
@@ -4238,6 +4276,44 @@
         "title": "Dancin (Remix by KRONO)",
         "cover": "https://assets.ppy.sh/beatmaps/966190/covers/card.jpg?1645787297",
         "stars": 1.43318
+      }
+    },
+    {
+      "user": "SUPERFAKE",
+      "user_id": 24509453,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7250300385,
+      "rank": "A",
+      "accuracy": 0.900875190258752,
+      "pp": 20.0347,
+      "mods": [],
+      "combo": 288,
+      "created_at": "2026-08-10T17:54:53Z",
+      "beatmapset": {
+        "id": 1448292,
+        "title": "End Time",
+        "cover": "https://assets.ppy.sh/beatmaps/1448292/covers/card.jpg?1663524977",
+        "stars": 2.60971
+      }
+    },
+    {
+      "user": "Anamisa",
+      "user_id": 40279338,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7250295971,
+      "rank": "A",
+      "accuracy": 0.9447463768115942,
+      "pp": 6.02251,
+      "mods": [],
+      "combo": 184,
+      "created_at": "2026-08-10T17:54:03Z",
+      "beatmapset": {
+        "id": 2160279,
+        "title": "Rabbit Hole feat. Hatsune Miku (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2160279/covers/card.jpg?1717006347",
+        "stars": 1.279
       }
     },
     {
@@ -4523,6 +4599,25 @@
         "title": "Ne! Ko!",
         "cover": "https://assets.ppy.sh/beatmaps/647383/covers/card.jpg?1650652686",
         "stars": 4.77286
+      }
+    },
+    {
+      "user": "m_y6y",
+      "user_id": 39927137,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7250133999,
+      "rank": "C",
+      "accuracy": 0.7788235294117647,
+      "pp": 0,
+      "mods": [],
+      "combo": 61,
+      "created_at": "2026-08-10T17:22:49Z",
+      "beatmapset": {
+        "id": 1961221,
+        "title": "Triple Baka (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/1961221/covers/card.jpg?1681370823",
+        "stars": 1.40114
       }
     },
     {
@@ -5521,6 +5616,25 @@
       }
     },
     {
+      "user": "Anamisa",
+      "user_id": 40279338,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7249515438,
+      "rank": "A",
+      "accuracy": 0.9145539906103286,
+      "pp": 3.17786,
+      "mods": [],
+      "combo": 184,
+      "created_at": "2026-08-10T15:25:17Z",
+      "beatmapset": {
+        "id": 2352872,
+        "title": "Daidaidaidaidaikirai",
+        "cover": "https://assets.ppy.sh/beatmaps/2352872/covers/card.jpg?1747424683",
+        "stars": 1.13083
+      }
+    },
+    {
       "user": "Alighp613",
       "user_id": 39965677,
       "country": "IQ",
@@ -5575,6 +5689,25 @@
         "title": "Cookie-Butter-Choco-Cookie",
         "cover": "https://assets.ppy.sh/beatmaps/542081/covers/card.jpg?1650647147",
         "stars": 4.47599
+      }
+    },
+    {
+      "user": "Anamisa",
+      "user_id": 40279338,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7249499613,
+      "rank": "B",
+      "accuracy": 0.8377321603128055,
+      "pp": 0.737166,
+      "mods": [],
+      "combo": 112,
+      "created_at": "2026-08-10T15:22:21Z",
+      "beatmapset": {
+        "id": 2471999,
+        "title": "hate the way you love me (nightcore & cut ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2471999/covers/card.jpg?1775922243",
+        "stars": 1.61878
       }
     },
     {
@@ -8865,6 +8998,44 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7248370965,
+      "rank": "S",
+      "accuracy": 0.9991341991341991,
+      "pp": 5.62734,
+      "mods": [],
+      "combo": 385,
+      "created_at": "2026-08-10T11:42:34Z",
+      "beatmapset": {
+        "id": 2529218,
+        "title": "Execution Clap",
+        "cover": "https://assets.ppy.sh/beatmaps/2529218/covers/card.jpg?1774979397",
+        "stars": 1.0418
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7248353997,
+      "rank": "S",
+      "accuracy": 0.9557692307692308,
+      "pp": 13.9886,
+      "mods": [],
+      "combo": 257,
+      "created_at": "2026-08-10T11:38:44Z",
+      "beatmapset": {
+        "id": 2529218,
+        "title": "Execution Clap",
+        "cover": "https://assets.ppy.sh/beatmaps/2529218/covers/card.jpg?1774979397",
+        "stars": 1.69092
+      }
+    },
+    {
       "user": "s7oa",
       "user_id": 39815114,
       "country": "IQ",
@@ -8903,6 +9074,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7248326038,
+      "rank": "A",
+      "accuracy": 0.9431578947368421,
+      "pp": 8.8797,
+      "mods": [],
+      "combo": 177,
+      "created_at": "2026-08-10T11:32:19Z",
+      "beatmapset": {
+        "id": 2493675,
+        "title": "Teto the 31st",
+        "cover": "https://assets.ppy.sh/beatmaps/2493675/covers/card.jpg?1768509281",
+        "stars": 1.48435
+      }
+    },
+    {
       "user": "astro1",
       "user_id": 35803573,
       "country": "IQ",
@@ -8922,6 +9112,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7248304351,
+      "rank": "A",
+      "accuracy": 0.9491590214067278,
+      "pp": 6.39648,
+      "mods": [],
+      "combo": 141,
+      "created_at": "2026-08-10T11:27:20Z",
+      "beatmapset": {
+        "id": 2578256,
+        "title": "YARARARA feat. Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2578256/covers/card.jpg?1784418683",
+        "stars": 1.25073
+      }
+    },
+    {
       "user": "Anamisa",
       "user_id": 40279338,
       "country": "IQ",
@@ -8938,6 +9147,44 @@
         "title": "hate the way you love me (nightcore & cut ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2471999/covers/card.jpg?1775922243",
         "stars": 2.47587
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7248289363,
+      "rank": "B",
+      "accuracy": 0.8083172974128715,
+      "pp": 0,
+      "mods": [],
+      "combo": 130,
+      "created_at": "2026-08-10T11:23:53Z",
+      "beatmapset": {
+        "id": 241526,
+        "title": "Renatus",
+        "cover": "https://assets.ppy.sh/beatmaps/241526/covers/card.jpg?1622080332",
+        "stars": 2.64569
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7248272590,
+      "rank": "B",
+      "accuracy": 0.8654870624048706,
+      "pp": 10.036,
+      "mods": [],
+      "combo": 129,
+      "created_at": "2026-08-10T11:20:02Z",
+      "beatmapset": {
+        "id": 1448292,
+        "title": "End Time",
+        "cover": "https://assets.ppy.sh/beatmaps/1448292/covers/card.jpg?1663524977",
+        "stars": 2.60971
       }
     },
     {
@@ -8976,6 +9223,25 @@
         "title": "Honeypie",
         "cover": "https://assets.ppy.sh/beatmaps/2283381/covers/card.jpg?1736660924",
         "stars": 1.76022
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7248261082,
+      "rank": "C",
+      "accuracy": 0.7703795379537954,
+      "pp": 0,
+      "mods": [],
+      "combo": 190,
+      "created_at": "2026-08-10T11:17:21Z",
+      "beatmapset": {
+        "id": 2180255,
+        "title": "Mesmerizer",
+        "cover": "https://assets.ppy.sh/beatmaps/2180255/covers/card.jpg?1749447419",
+        "stars": 2.82154
       }
     },
     {
@@ -10683,6 +10949,25 @@
         "title": "Why We Lose (feat. Coleman Trapp)",
         "cover": "https://assets.ppy.sh/beatmaps/1974595/covers/card.jpg?1684532463",
         "stars": 3.9937
+      }
+    },
+    {
+      "user": "RandomPickle",
+      "user_id": 38853600,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7247540213,
+      "rank": "A",
+      "accuracy": 0.9253803196610823,
+      "pp": null,
+      "mods": [],
+      "combo": 638,
+      "created_at": "2026-08-10T08:04:52Z",
+      "beatmapset": {
+        "id": 1153389,
+        "title": "4k Stairs",
+        "cover": "https://assets.ppy.sh/beatmaps/1153389/covers/card.jpg?1626352218",
+        "stars": 4.16253
       }
     },
     {
