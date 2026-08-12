@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 165,
-    "longest": 165,
-    "last_updated": "2026-08-10"
+    "current": 166,
+    "longest": 166,
+    "last_updated": "2026-08-11"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -49628,6 +49628,307 @@
         "title": "Granat",
         "cover": "https://assets.ppy.sh/beatmaps/219763/covers/card.jpg?1650625235",
         "unique_players": 23
+      }
+    },
+    "2026-08-11": {
+      "total_scores": 577,
+      "peak_hour_baghdad": 18,
+      "top_grinder": {
+        "user": "toast123",
+        "user_id": 37184645,
+        "count": 47,
+        "scores": [
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250914323,
+            "rank": "B",
+            "accuracy": 0.866869918699187,
+            "pp": 48.2696,
+            "mods": [],
+            "combo": 319,
+            "created_at": "2026-08-10T19:53:10Z",
+            "beatmapset": {
+              "id": 886504,
+              "title": "Field of Hopes and Dreams",
+              "cover": "https://assets.ppy.sh/beatmaps/886504/covers/card.jpg?1622151749",
+              "stars": 4.43868
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250895247,
+            "rank": "C",
+            "accuracy": 0.821618743343983,
+            "pp": 45.1228,
+            "mods": [],
+            "combo": 432,
+            "created_at": "2026-08-10T19:49:23Z",
+            "beatmapset": {
+              "id": 2473260,
+              "title": "Aimai Elegy (Reloaded) feat. Hatsune Miku",
+              "cover": "https://assets.ppy.sh/beatmaps/2473260/covers/card.jpg?1765752634",
+              "stars": 4.87824
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250872424,
+            "rank": "B",
+            "accuracy": 0.8839563862928349,
+            "pp": 38.8272,
+            "mods": [],
+            "combo": 256,
+            "created_at": "2026-08-10T19:44:53Z",
+            "beatmapset": {
+              "id": 1883172,
+              "title": "Overdose",
+              "cover": "https://assets.ppy.sh/beatmaps/1883172/covers/card.jpg?1670165358",
+              "stars": 4.48086
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250848803,
+            "rank": "C",
+            "accuracy": 0.778164116828929,
+            "pp": 35.0647,
+            "mods": [],
+            "combo": 165,
+            "created_at": "2026-08-10T19:40:16Z",
+            "beatmapset": {
+              "id": 2222398,
+              "title": "I Really Want to Stay At Your House",
+              "cover": "https://assets.ppy.sh/beatmaps/2222398/covers/card.jpg?1761237292",
+              "stars": 5.11653
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250826113,
+            "rank": "C",
+            "accuracy": 0.7692544670363525,
+            "pp": 30.6517,
+            "mods": [],
+            "combo": 140,
+            "created_at": "2026-08-10T19:35:49Z",
+            "beatmapset": {
+              "id": 2215986,
+              "title": "Mesmerizer",
+              "cover": "https://assets.ppy.sh/beatmaps/2215986/covers/card.jpg?1721877256",
+              "stars": 4.76599
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250810864,
+            "rank": "C",
+            "accuracy": 0.7743324720068906,
+            "pp": 31.4295,
+            "mods": [],
+            "combo": 122,
+            "created_at": "2026-08-10T19:32:51Z",
+            "beatmapset": {
+              "id": 1173976,
+              "title": "Spear of Justice (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/1173976/covers/card.jpg?1622189261",
+              "stars": 4.55013
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250779567,
+            "rank": "A",
+            "accuracy": 0.93812375249501,
+            "pp": 70.5211,
+            "mods": [],
+            "combo": 353,
+            "created_at": "2026-08-10T19:26:51Z",
+            "beatmapset": {
+              "id": 908087,
+              "title": "Bergentrueckung/ASGORE",
+              "cover": "https://assets.ppy.sh/beatmaps/908087/covers/card.jpg?1650684266",
+              "stars": 4.3907
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250759995,
+            "rank": "C",
+            "accuracy": 0.7943894389438944,
+            "pp": null,
+            "mods": [],
+            "combo": 159,
+            "created_at": "2026-08-10T19:23:09Z",
+            "beatmapset": {
+              "id": 2414249,
+              "title": "Black Knife",
+              "cover": "https://assets.ppy.sh/beatmaps/2414249/covers/card.jpg?1784991753",
+              "stars": 4.7459
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250744837,
+            "rank": "B",
+            "accuracy": 0.9153802172670097,
+            "pp": 49.5757,
+            "mods": [],
+            "combo": 160,
+            "created_at": "2026-08-10T19:20:17Z",
+            "beatmapset": {
+              "id": 2303933,
+              "title": "Hopes and Dreams",
+              "cover": "https://assets.ppy.sh/beatmaps/2303933/covers/card.jpg?1752252702",
+              "stars": 4.27989
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250725122,
+            "rank": "C",
+            "accuracy": 0.8483466362599772,
+            "pp": 41.2956,
+            "mods": [],
+            "combo": 154,
+            "created_at": "2026-08-10T19:16:33Z",
+            "beatmapset": {
+              "id": 1222543,
+              "title": "Lagtrain",
+              "cover": "https://assets.ppy.sh/beatmaps/1222543/covers/card.jpg?1645685956",
+              "stars": 4.7489
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250701380,
+            "rank": "C",
+            "accuracy": 0.8254189944134078,
+            "pp": 44.889,
+            "mods": [],
+            "combo": 159,
+            "created_at": "2026-08-10T19:12:01Z",
+            "beatmapset": {
+              "id": 881601,
+              "title": "Rude Buster",
+              "cover": "https://assets.ppy.sh/beatmaps/881601/covers/card.jpg?1650671961",
+              "stars": 4.75217
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250689712,
+            "rank": "D",
+            "accuracy": 0.7018348623853211,
+            "pp": 38.6533,
+            "mods": [],
+            "combo": 136,
+            "created_at": "2026-08-10T19:09:48Z",
+            "beatmapset": {
+              "id": 2107583,
+              "title": "WHO'S READY FOR TOMORROW",
+              "cover": "https://assets.ppy.sh/beatmaps/2107583/covers/card.jpg?1711878452",
+              "stars": 4.90356
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250676644,
+            "rank": "C",
+            "accuracy": 0.7934173669467787,
+            "pp": 23.7408,
+            "mods": [],
+            "combo": 110,
+            "created_at": "2026-08-10T19:07:18Z",
+            "beatmapset": {
+              "id": 1647839,
+              "title": "Alien Alien (feat. Hatsune Miku)",
+              "cover": "https://assets.ppy.sh/beatmaps/1647839/covers/card.jpg?1724157519",
+              "stars": 4.50548
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250128817,
+            "rank": "C",
+            "accuracy": 0.832579185520362,
+            "pp": 45.9135,
+            "mods": [],
+            "combo": 126,
+            "created_at": "2026-08-10T17:21:48Z",
+            "beatmapset": {
+              "id": 2378066,
+              "title": "Deep Carnival",
+              "cover": "https://assets.ppy.sh/beatmaps/2378066/covers/card.jpg?1750343178",
+              "stars": 4.85872
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7250113301,
+            "rank": "C",
+            "accuracy": 0.8296347665279704,
+            "pp": 32.725,
+            "mods": [],
+            "combo": 98,
+            "created_at": "2026-08-10T17:18:44Z",
+            "beatmapset": {
+              "id": 131818,
+              "title": "Okochama Sensou",
+              "cover": "https://assets.ppy.sh/beatmaps/131818/covers/card.jpg?1650619298",
+              "stars": 5.13738
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Gu Niang De Jiu Wo",
+        "cover": "https://assets.ppy.sh/beatmaps/853469/covers/card.jpg?1650669639",
+        "unique_players": 17
       }
     }
   }
