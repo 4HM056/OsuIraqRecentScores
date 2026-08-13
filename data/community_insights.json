@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 166,
-    "longest": 166,
-    "last_updated": "2026-08-11"
+    "current": 167,
+    "longest": 167,
+    "last_updated": "2026-08-12"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -49929,6 +49929,307 @@
         "title": "Gu Niang De Jiu Wo",
         "cover": "https://assets.ppy.sh/beatmaps/853469/covers/card.jpg?1650669639",
         "unique_players": 17
+      }
+    },
+    "2026-08-12": {
+      "total_scores": 757,
+      "peak_hour_baghdad": 18,
+      "top_grinder": {
+        "user": "brianmoser1123",
+        "user_id": 39498643,
+        "count": 100,
+        "scores": [
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7259140513,
+            "rank": "B",
+            "accuracy": 0.8955164131305045,
+            "pp": 62.5087,
+            "mods": [],
+            "combo": 260,
+            "created_at": "2026-08-12T05:07:28Z",
+            "beatmapset": {
+              "id": 2271658,
+              "title": "Lies playing Truth",
+              "cover": "https://assets.ppy.sh/beatmaps/2271658/covers/card.jpg?1733890053",
+              "stars": 5.50271
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7259112369,
+            "rank": "D",
+            "accuracy": 0.5820874861572536,
+            "pp": null,
+            "mods": [],
+            "combo": 238,
+            "created_at": "2026-08-12T04:57:56Z",
+            "beatmapset": {
+              "id": 524026,
+              "title": "A FOOL MOON NIGHT",
+              "cover": "https://assets.ppy.sh/beatmaps/524026/covers/card.jpg?1650646953",
+              "stars": 5.25376
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7259096669,
+            "rank": "B",
+            "accuracy": 0.9023904382470119,
+            "pp": 33.5513,
+            "mods": [],
+            "combo": 125,
+            "created_at": "2026-08-12T04:52:36Z",
+            "beatmapset": {
+              "id": 87208,
+              "title": "Yukitoki (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/87208/covers/card.jpg?1650616308",
+              "stars": 3.7179
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7259083613,
+            "rank": "B",
+            "accuracy": 0.8977272727272727,
+            "pp": 74.1756,
+            "mods": [],
+            "combo": 139,
+            "created_at": "2026-08-12T04:48:09Z",
+            "beatmapset": {
+              "id": 1973430,
+              "title": "Idol (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/1973430/covers/card.jpg?1681693286",
+              "stars": 5.19152
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7259073469,
+            "rank": "B",
+            "accuracy": 0.9002732240437158,
+            "pp": 85.06,
+            "mods": [],
+            "combo": 152,
+            "created_at": "2026-08-12T04:44:48Z",
+            "beatmapset": {
+              "id": 1462092,
+              "title": "C U Again feat. Mikk Mae (Cartoon vs. Futuristik VIP) (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/1462092/covers/card.jpg?1636838718",
+              "stars": 5.27457
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7259063310,
+            "rank": "C",
+            "accuracy": 0.7647838769557147,
+            "pp": null,
+            "mods": [],
+            "combo": 389,
+            "created_at": "2026-08-12T04:41:26Z",
+            "beatmapset": {
+              "id": 1231048,
+              "title": "Bookmaker",
+              "cover": "https://assets.ppy.sh/beatmaps/1231048/covers/card.jpg?1706714047",
+              "stars": 5.8076
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7259047917,
+            "rank": "B",
+            "accuracy": 0.8951210826210826,
+            "pp": null,
+            "mods": [],
+            "combo": 303,
+            "created_at": "2026-08-12T04:36:19Z",
+            "beatmapset": {
+              "id": 932530,
+              "title": "Inai Inai Izonshou",
+              "cover": "https://assets.ppy.sh/beatmaps/932530/covers/card.jpg?1676635458",
+              "stars": 5.13063
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7259034904,
+            "rank": "C",
+            "accuracy": 0.8428205128205128,
+            "pp": 60.275,
+            "mods": [],
+            "combo": 195,
+            "created_at": "2026-08-12T04:31:56Z",
+            "beatmapset": {
+              "id": 2545955,
+              "title": "You and aIzu",
+              "cover": "https://assets.ppy.sh/beatmaps/2545955/covers/card.jpg?1780309500",
+              "stars": 5.82458
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7259025313,
+            "rank": "B",
+            "accuracy": 0.8703170028818443,
+            "pp": 61.952,
+            "mods": [],
+            "combo": 81,
+            "created_at": "2026-08-12T04:28:39Z",
+            "beatmapset": {
+              "id": 2091498,
+              "title": "Yoyuyoku",
+              "cover": "https://assets.ppy.sh/beatmaps/2091498/covers/card.jpg?1702879691",
+              "stars": 5.68476
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7259014216,
+            "rank": "C",
+            "accuracy": 0.7563281488258615,
+            "pp": 30.9185,
+            "mods": [],
+            "combo": 142,
+            "created_at": "2026-08-12T04:24:56Z",
+            "beatmapset": {
+              "id": 2217346,
+              "title": "Mellomelloid",
+              "cover": "https://assets.ppy.sh/beatmaps/2217346/covers/card.jpg?1740568580",
+              "stars": 6.11197
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7258957087,
+            "rank": "C",
+            "accuracy": 0.7987077534791253,
+            "pp": 38.0438,
+            "mods": [],
+            "combo": 133,
+            "created_at": "2026-08-12T04:06:10Z",
+            "beatmapset": {
+              "id": 302756,
+              "title": "Meikaruza",
+              "cover": "https://assets.ppy.sh/beatmaps/302756/covers/card.jpg?1622085097",
+              "stars": 5.79404
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7258941202,
+            "rank": "B",
+            "accuracy": 0.8894790085988872,
+            "pp": 69,
+            "mods": [],
+            "combo": 156,
+            "created_at": "2026-08-12T04:01:09Z",
+            "beatmapset": {
+              "id": 2411013,
+              "title": "Cherry Pop feat. Hatsune Miku",
+              "cover": "https://assets.ppy.sh/beatmaps/2411013/covers/card.jpg?1753756069",
+              "stars": 5.8003
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7258923002,
+            "rank": "C",
+            "accuracy": 0.8419410372283194,
+            "pp": 27.8411,
+            "mods": [],
+            "combo": 266,
+            "created_at": "2026-08-12T03:55:27Z",
+            "beatmapset": {
+              "id": 1357624,
+              "title": "true DJ MAG top ranker's song Zenpen (katagiri Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/1357624/covers/card.jpg?1645786045",
+              "stars": 5.69316
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7258896163,
+            "rank": "C",
+            "accuracy": 0.7959183673469388,
+            "pp": 27.9394,
+            "mods": [],
+            "combo": 170,
+            "created_at": "2026-08-12T03:47:06Z",
+            "beatmapset": {
+              "id": 1762881,
+              "title": "Lantagraph",
+              "cover": "https://assets.ppy.sh/beatmaps/1762881/covers/card.jpg?1782473638",
+              "stars": 5.82547
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7258869235,
+            "rank": "C",
+            "accuracy": 0.8190532081377152,
+            "pp": 35.7679,
+            "mods": [],
+            "combo": 132,
+            "created_at": "2026-08-12T03:38:47Z",
+            "beatmapset": {
+              "id": 1443224,
+              "title": "Lagtrain",
+              "cover": "https://assets.ppy.sh/beatmaps/1443224/covers/card.jpg?1650709244",
+              "stars": 5.69614
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "MONTAGEM BATCHI",
+        "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+        "unique_players": 31
       }
     }
   }
