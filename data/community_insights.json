@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 167,
-    "longest": 167,
-    "last_updated": "2026-08-12"
+    "current": 168,
+    "longest": 168,
+    "last_updated": "2026-08-13"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -50230,6 +50230,307 @@
         "title": "MONTAGEM BATCHI",
         "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
         "unique_players": 31
+      }
+    },
+    "2026-08-13": {
+      "total_scores": 409,
+      "peak_hour_baghdad": 22,
+      "top_grinder": {
+        "user": "azalhussam",
+        "user_id": 37635103,
+        "count": 49,
+        "scores": [
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064108398,
+            "rank": "C",
+            "accuracy": 0.8370098039215687,
+            "pp": 21.2072,
+            "mods": [],
+            "combo": 162,
+            "created_at": "2026-08-13T00:32:12Z",
+            "beatmapset": {
+              "id": 1230681,
+              "title": "*~Asterisk~ (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/1230681/covers/card.jpg?1650700685",
+              "stars": 3.75248
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064107758,
+            "rank": "B",
+            "accuracy": 0.8671171171171171,
+            "pp": null,
+            "mods": [],
+            "combo": 121,
+            "created_at": "2026-08-13T00:29:23Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.46042
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064107461,
+            "rank": "B",
+            "accuracy": 0.8873873873873874,
+            "pp": null,
+            "mods": [],
+            "combo": 174,
+            "created_at": "2026-08-13T00:28:17Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.46042
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064107210,
+            "rank": "C",
+            "accuracy": 0.847972972972973,
+            "pp": null,
+            "mods": [],
+            "combo": 125,
+            "created_at": "2026-08-13T00:27:10Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.46042
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064106811,
+            "rank": "B",
+            "accuracy": 0.8569819819819819,
+            "pp": null,
+            "mods": [],
+            "combo": 124,
+            "created_at": "2026-08-13T00:25:38Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.46042
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064106555,
+            "rank": "C",
+            "accuracy": 0.8186936936936937,
+            "pp": null,
+            "mods": [],
+            "combo": 69,
+            "created_at": "2026-08-13T00:24:29Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.46042
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064106259,
+            "rank": "C",
+            "accuracy": 0.8186936936936937,
+            "pp": null,
+            "mods": [],
+            "combo": 47,
+            "created_at": "2026-08-13T00:23:15Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.46042
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064094135,
+            "rank": "C",
+            "accuracy": 0.8198198198198198,
+            "pp": null,
+            "mods": [],
+            "combo": 72,
+            "created_at": "2026-08-12T23:32:09Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.46042
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064093903,
+            "rank": "B",
+            "accuracy": 0.8716216216216216,
+            "pp": null,
+            "mods": [],
+            "combo": 54,
+            "created_at": "2026-08-12T23:31:06Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.46042
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064093255,
+            "rank": "C",
+            "accuracy": 0.841002044989775,
+            "pp": 11.6892,
+            "mods": [],
+            "combo": 179,
+            "created_at": "2026-08-12T23:28:20Z",
+            "beatmapset": {
+              "id": 2237410,
+              "title": "FREEDOM DiVE",
+              "cover": "https://assets.ppy.sh/beatmaps/2237410/covers/card.jpg?1736838465",
+              "stars": 3.7506
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064091033,
+            "rank": "B",
+            "accuracy": 0.8603603603603603,
+            "pp": null,
+            "mods": [],
+            "combo": 117,
+            "created_at": "2026-08-12T23:19:22Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.46042
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064085182,
+            "rank": "C",
+            "accuracy": 0.8344594594594594,
+            "pp": null,
+            "mods": [],
+            "combo": 93,
+            "created_at": "2026-08-12T22:56:18Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.46042
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064068290,
+            "rank": "B",
+            "accuracy": 0.9164094650205762,
+            "pp": 19.2521,
+            "mods": [],
+            "combo": 470,
+            "created_at": "2026-08-12T21:54:16Z",
+            "beatmapset": {
+              "id": 2210212,
+              "title": "unravel",
+              "cover": "https://assets.ppy.sh/beatmaps/2210212/covers/card.jpg?1760046554",
+              "stars": 3.63691
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064067098,
+            "rank": "B",
+            "accuracy": 0.9258474576271186,
+            "pp": 25.3408,
+            "mods": [],
+            "combo": 211,
+            "created_at": "2026-08-12T21:50:05Z",
+            "beatmapset": {
+              "id": 781509,
+              "title": "Black Rover (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/781509/covers/card.jpg?1650664944",
+              "stars": 3.78126
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064066629,
+            "rank": "A",
+            "accuracy": 0.9385593220338984,
+            "pp": 25.9769,
+            "mods": [],
+            "combo": 160,
+            "created_at": "2026-08-12T21:48:26Z",
+            "beatmapset": {
+              "id": 781509,
+              "title": "Black Rover (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/781509/covers/card.jpg?1650664944",
+              "stars": 3.78126
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "MONTAGEM BATCHI",
+        "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+        "unique_players": 36
       }
     }
   }
