@@ -7,9 +7,9 @@
     "fruits",
     "mania"
   ],
-  "generated_at": "2026-08-15T05:01:47.624Z",
-  "complete": false,
-  "players_checked": 2000,
+  "generated_at": "2026-08-15T05:08:28.970Z",
+  "complete": true,
+  "players_checked": 2368,
   "players_total": 2368,
   "scores": [
     {
@@ -323,6 +323,25 @@
       }
     },
     {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7276993263,
+      "rank": "S",
+      "accuracy": 0.9841473864610112,
+      "pp": 4.97923,
+      "mods": [],
+      "combo": 389,
+      "created_at": "2026-08-15T02:54:49Z",
+      "beatmapset": {
+        "id": 2150088,
+        "title": "Rabbit Hole feat. Hatsune Miku",
+        "cover": "https://assets.ppy.sh/beatmaps/2150088/covers/card.jpg?1714929064",
+        "stars": 1.03653
+      }
+    },
+    {
       "user": "Sola",
       "user_id": 12357263,
       "country": "IQ",
@@ -341,6 +360,25 @@
         "title": "Garyou Tensei",
         "cover": "https://assets.ppy.sh/beatmaps/344371/covers/card.jpg?1640420904",
         "stars": 7.40608
+      }
+    },
+    {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7276979533,
+      "rank": "A",
+      "accuracy": 0.9342663273960984,
+      "pp": 5.02801,
+      "mods": [],
+      "combo": 258,
+      "created_at": "2026-08-15T02:51:10Z",
+      "beatmapset": {
+        "id": 23977,
+        "title": "From the Inside",
+        "cover": "https://assets.ppy.sh/beatmaps/23977/covers/card.jpg?1650606577",
+        "stars": 1.24636
       }
     },
     {
@@ -384,6 +422,65 @@
       }
     },
     {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7276967462,
+      "rank": "S",
+      "accuracy": 0.9600694444444444,
+      "pp": 2.30125,
+      "mods": [],
+      "combo": 136,
+      "created_at": "2026-08-15T02:47:53Z",
+      "beatmapset": {
+        "id": 23977,
+        "title": "From the Inside",
+        "cover": "https://assets.ppy.sh/beatmaps/23977/covers/card.jpg?1650606577",
+        "stars": 0.832475
+      }
+    },
+    {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7276952291,
+      "rank": "S",
+      "accuracy": 0.9523809523809523,
+      "pp": 5.84978,
+      "mods": [],
+      "combo": 306,
+      "created_at": "2026-08-15T02:43:48Z",
+      "beatmapset": {
+        "id": 1841885,
+        "title": "triangles",
+        "cover": "https://assets.ppy.sh/beatmaps/1841885/covers/card.jpg?1668775807",
+        "stars": 1.195
+      }
+    },
+    {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7276901979,
+      "rank": "S",
+      "accuracy": 0.9744027303754266,
+      "pp": 3.84787,
+      "mods": [
+        "4K"
+      ],
+      "combo": 293,
+      "created_at": "2026-08-15T02:30:34Z",
+      "beatmapset": {
+        "id": 867737,
+        "title": "The Big Black",
+        "cover": "https://assets.ppy.sh/beatmaps/867737/covers/card.jpg?1645785490",
+        "stars": 0.976827
+      }
+    },
+    {
       "user": "Sola",
       "user_id": 12357263,
       "country": "IQ",
@@ -421,6 +518,44 @@
         "title": "Nasu Is Not Fruits Desu!",
         "cover": "https://assets.ppy.sh/beatmaps/2569989/covers/card.jpg?1785520817",
         "stars": 1.60168
+      }
+    },
+    {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7276873080,
+      "rank": "S",
+      "accuracy": 0.9779202279202279,
+      "pp": 5.08063,
+      "mods": [],
+      "combo": 234,
+      "created_at": "2026-08-15T02:23:04Z",
+      "beatmapset": {
+        "id": 2398372,
+        "title": "Credits",
+        "cover": "https://assets.ppy.sh/beatmaps/2398372/covers/card.jpg?1767468669",
+        "stars": 1.06942
+      }
+    },
+    {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7276855052,
+      "rank": "S",
+      "accuracy": 0.975669099756691,
+      "pp": 6.45303,
+      "mods": [],
+      "combo": 238,
+      "created_at": "2026-08-15T02:18:24Z",
+      "beatmapset": {
+        "id": 1971987,
+        "title": "Aresene's Bazaar",
+        "cover": "https://assets.ppy.sh/beatmaps/1971987/covers/card.jpg?1705780068",
+        "stars": 1.16459
       }
     },
     {
@@ -1162,6 +1297,25 @@
         "title": "aim training",
         "cover": "https://assets.ppy.sh/beatmaps/1348554/covers/card.jpg?1625374854",
         "stars": 3.28525
+      }
+    },
+    {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7276254943,
+      "rank": "S",
+      "accuracy": 0.9678942398489141,
+      "pp": 7.98676,
+      "mods": [],
+      "combo": 353,
+      "created_at": "2026-08-14T23:45:11Z",
+      "beatmapset": {
+        "id": 1442963,
+        "title": "DVP",
+        "cover": "https://assets.ppy.sh/beatmaps/1442963/covers/card.jpg?1631507345",
+        "stars": 1.32164
       }
     },
     {
@@ -7009,6 +7163,25 @@
       }
     },
     {
+      "user": "uiogyy",
+      "user_id": 40307177,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273772480,
+      "rank": "B",
+      "accuracy": 0.8884735202492212,
+      "pp": 8.02543,
+      "mods": [],
+      "combo": 130,
+      "created_at": "2026-08-14T15:36:15Z",
+      "beatmapset": {
+        "id": 2524611,
+        "title": "NO BATIDAO",
+        "cover": "https://assets.ppy.sh/beatmaps/2524611/covers/card.jpg?1775318546",
+        "stars": 1.92547
+      }
+    },
+    {
       "user": "dboo3e",
       "user_id": 39281114,
       "country": "IQ",
@@ -7490,6 +7663,63 @@
       }
     },
     {
+      "user": "GoofyOsuplayer",
+      "user_id": 31430056,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273540657,
+      "rank": "S",
+      "accuracy": 0.9755096637543024,
+      "pp": null,
+      "mods": [],
+      "combo": 385,
+      "created_at": "2026-08-14T14:55:10Z",
+      "beatmapset": {
+        "id": 1750031,
+        "title": "ouroVoros",
+        "cover": "https://assets.ppy.sh/beatmaps/1750031/covers/card.jpg?1653300027",
+        "stars": 3.05002
+      }
+    },
+    {
+      "user": "GoofyOsuplayer",
+      "user_id": 31430056,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273521805,
+      "rank": "S",
+      "accuracy": 0.9595728451563692,
+      "pp": null,
+      "mods": [],
+      "combo": 352,
+      "created_at": "2026-08-14T14:51:51Z",
+      "beatmapset": {
+        "id": 862602,
+        "title": "Mei",
+        "cover": "https://assets.ppy.sh/beatmaps/862602/covers/card.jpg?1772720495",
+        "stars": 3.07895
+      }
+    },
+    {
+      "user": "GoofyOsuplayer",
+      "user_id": 31430056,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273508863,
+      "rank": "A",
+      "accuracy": 0.9446548821548821,
+      "pp": null,
+      "mods": [],
+      "combo": 353,
+      "created_at": "2026-08-14T14:49:32Z",
+      "beatmapset": {
+        "id": 1776827,
+        "title": "Re:Shara (Feat. )",
+        "cover": "https://assets.ppy.sh/beatmaps/1776827/covers/card.jpg?1656597641",
+        "stars": 3.54921
+      }
+    },
+    {
       "user": "Alhemeri",
       "user_id": 27526375,
       "country": "IQ",
@@ -7644,6 +7874,25 @@
         "title": "Mr. Beast!!",
         "cover": "https://assets.ppy.sh/beatmaps/1902658/covers/card.jpg?1671048879",
         "stars": 3.17164
+      }
+    },
+    {
+      "user": "GoofyOsuplayer",
+      "user_id": 31430056,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273324591,
+      "rank": "S",
+      "accuracy": 0.9628146453089245,
+      "pp": null,
+      "mods": [],
+      "combo": 421,
+      "created_at": "2026-08-14T14:16:59Z",
+      "beatmapset": {
+        "id": 862602,
+        "title": "Mei",
+        "cover": "https://assets.ppy.sh/beatmaps/862602/covers/card.jpg?1772720495",
+        "stars": 3.07895
       }
     },
     {
@@ -7939,6 +8188,25 @@
       }
     },
     {
+      "user": "GoofyOsuplayer",
+      "user_id": 31430056,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273258293,
+      "rank": "S",
+      "accuracy": 0.9767476747674767,
+      "pp": null,
+      "mods": [],
+      "combo": 502,
+      "created_at": "2026-08-14T14:05:08Z",
+      "beatmapset": {
+        "id": 1750031,
+        "title": "ouroVoros",
+        "cover": "https://assets.ppy.sh/beatmaps/1750031/covers/card.jpg?1653300027",
+        "stars": 3.05002
+      }
+    },
+    {
       "user": "yo8s",
       "user_id": 39233583,
       "country": "IQ",
@@ -7995,6 +8263,25 @@
         "title": "Blastix Riotz",
         "cover": "https://assets.ppy.sh/beatmaps/349208/covers/card.jpg?1650632954",
         "stars": 1.50214
+      }
+    },
+    {
+      "user": "GoofyOsuplayer",
+      "user_id": 31430056,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273228635,
+      "rank": "A",
+      "accuracy": 0.9484548242510026,
+      "pp": null,
+      "mods": [],
+      "combo": 801,
+      "created_at": "2026-08-14T13:59:46Z",
+      "beatmapset": {
+        "id": 2045182,
+        "title": "rog-unlimitation",
+        "cover": "https://assets.ppy.sh/beatmaps/2045182/covers/card.jpg?1703084521",
+        "stars": 3.30915
       }
     },
     {
@@ -8109,6 +8396,25 @@
         "title": "Zetsubou plantation",
         "cover": "https://assets.ppy.sh/beatmaps/86009/covers/card.jpg?1650636872",
         "stars": 5.38267
+      }
+    },
+    {
+      "user": "GoofyOsuplayer",
+      "user_id": 31430056,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273194703,
+      "rank": "S",
+      "accuracy": 0.9635204773528614,
+      "pp": null,
+      "mods": [],
+      "combo": 722,
+      "created_at": "2026-08-14T13:53:45Z",
+      "beatmapset": {
+        "id": 320905,
+        "title": "Max Burning!!",
+        "cover": "https://assets.ppy.sh/beatmaps/320905/covers/card.jpg?1650632071",
+        "stars": 3.43826
       }
     },
     {
@@ -8264,6 +8570,25 @@
       }
     },
     {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273140416,
+      "rank": "S",
+      "accuracy": 0.9531400966183575,
+      "pp": 3.94785,
+      "mods": [],
+      "combo": 345,
+      "created_at": "2026-08-14T13:44:05Z",
+      "beatmapset": {
+        "id": 31468,
+        "title": "In The End",
+        "cover": "https://assets.ppy.sh/beatmaps/31468/covers/card.jpg?1650608357",
+        "stars": 1.04877
+      }
+    },
+    {
       "user": "azalhussam",
       "user_id": 37635103,
       "country": "IQ",
@@ -8318,6 +8643,25 @@
         "title": "MONTAGEM BATCHI",
         "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
         "stars": 4.8701
+      }
+    },
+    {
+      "user": "GoofyOsuplayer",
+      "user_id": 31430056,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273119359,
+      "rank": "A",
+      "accuracy": 0.92265625,
+      "pp": null,
+      "mods": [],
+      "combo": 404,
+      "created_at": "2026-08-14T13:40:18Z",
+      "beatmapset": {
+        "id": 1776827,
+        "title": "Re:Shara (Feat. )",
+        "cover": "https://assets.ppy.sh/beatmaps/1776827/covers/card.jpg?1656597641",
+        "stars": 3.54921
       }
     },
     {
@@ -8397,6 +8741,25 @@
       }
     },
     {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273096828,
+      "rank": "S",
+      "accuracy": 0.9741980474198048,
+      "pp": 7.49082,
+      "mods": [],
+      "combo": 196,
+      "created_at": "2026-08-14T13:36:15Z",
+      "beatmapset": {
+        "id": 3492,
+        "title": "Faint",
+        "cover": "https://assets.ppy.sh/beatmaps/3492/covers/card.jpg?1631328892",
+        "stars": 1.26361
+      }
+    },
+    {
       "user": "azalhussam",
       "user_id": 37635103,
       "country": "IQ",
@@ -8451,6 +8814,27 @@
         "title": "Lost Umbrella",
         "cover": "https://assets.ppy.sh/beatmaps/1455997/covers/card.jpg?1622213323",
         "stars": 5.98674
+      }
+    },
+    {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7273064655,
+      "rank": "A",
+      "accuracy": 0.9301994301994302,
+      "pp": 6.36362,
+      "mods": [
+        "4K"
+      ],
+      "combo": 165,
+      "created_at": "2026-08-14T13:30:21Z",
+      "beatmapset": {
+        "id": 8506,
+        "title": "Numb",
+        "cover": "https://assets.ppy.sh/beatmaps/8506/covers/card.jpg?1650602376",
+        "stars": 1.41661
       }
     },
     {
@@ -8701,6 +9085,25 @@
       }
     },
     {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7272977163,
+      "rank": "A",
+      "accuracy": 0.9224726775956285,
+      "pp": 4.82409,
+      "mods": [],
+      "combo": 339,
+      "created_at": "2026-08-14T13:14:02Z",
+      "beatmapset": {
+        "id": 2412232,
+        "title": "Of Our Time",
+        "cover": "https://assets.ppy.sh/beatmaps/2412232/covers/card.jpg?1756410885",
+        "stars": 1.27479
+      }
+    },
+    {
       "user": "brianmoser1123",
       "user_id": 39498643,
       "country": "IQ",
@@ -8717,6 +9120,25 @@
         "title": "Why I hate you",
         "cover": "https://assets.ppy.sh/beatmaps/2263303/covers/card.jpg?1734209671",
         "stars": 5.11895
+      }
+    },
+    {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7272953422,
+      "rank": "S",
+      "accuracy": 0.9584513692162417,
+      "pp": 7.60673,
+      "mods": [],
+      "combo": 353,
+      "created_at": "2026-08-14T13:09:36Z",
+      "beatmapset": {
+        "id": 1442963,
+        "title": "DVP",
+        "cover": "https://assets.ppy.sh/beatmaps/1442963/covers/card.jpg?1631507345",
+        "stars": 1.32164
       }
     },
     {
@@ -10095,6 +10517,25 @@
       }
     },
     {
+      "user": "uiogyy",
+      "user_id": 40307177,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7272222286,
+      "rank": "A",
+      "accuracy": 0.9115264797507788,
+      "pp": 11.8071,
+      "mods": [],
+      "combo": 171,
+      "created_at": "2026-08-14T10:30:55Z",
+      "beatmapset": {
+        "id": 2524611,
+        "title": "NO BATIDAO",
+        "cover": "https://assets.ppy.sh/beatmaps/2524611/covers/card.jpg?1775318546",
+        "stars": 1.92547
+      }
+    },
+    {
       "user": "thebest85787",
       "user_id": 38515271,
       "country": "IQ",
@@ -10130,6 +10571,25 @@
         "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535",
         "stars": 4.51592
+      }
+    },
+    {
+      "user": "uiogyy",
+      "user_id": 40307177,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7272186400,
+      "rank": "B",
+      "accuracy": 0.8282208588957055,
+      "pp": 0,
+      "mods": [],
+      "combo": 96,
+      "created_at": "2026-08-14T10:22:03Z",
+      "beatmapset": {
+        "id": 2440245,
+        "title": "ESSE CARA!",
+        "cover": "https://assets.ppy.sh/beatmaps/2440245/covers/card.jpg?1782188287",
+        "stars": 1.22623
       }
     },
     {
