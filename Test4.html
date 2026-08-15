@@ -600,24 +600,45 @@
     <div class="arrow-up">▲</div>
 </div>
 
-<footer>
-    <div style="max-width:900px; margin:0 auto;">
-        <h3>Osu! Iraq Today</h3>
-        <p>Built with ❤️ for the Iraqi osu! Community</p>
-        <hr>
-        <div class="footer-links">
-            <a href="#donate">Donate</a>
-            <a href="#discord">Discord</a>
-            <a href="OIT_Document.html">Documentation</a>
-        </div>
-        <hr>
-        <p class="footer-meta">
-            A <strong>non-commercial</strong> osu! community project | Data via <strong>osu! API v2</strong><br>
-            Last Update: <span id="footer-time">2026-02-27 04:00 UTC</span> · Build <span id="footer-commit">local</span>
-        </p>
-    </div>
-</footer>
+    <footer class="oit-footer">
+        <div class="footer-container">
+            
+            <!-- Header & Inline Avatars -->
+            <h3>Osu! Iraq Today</h3>
+            <p class="subtitle">
+                Built with ❤️ by 
+                <a href="https://osu.ppy.sh/users/25682258" class="author-link" target="_blank" rel="noopener">
+                    <img src="https://a.ppy.sh/25682258" alt="pupue" class="creator-avatar"> pupue
+                </a> 
+                &amp;
+                <a href="https://osu.ppy.sh/users/36604203/mania" class="author-link" target="_blank" rel="noopener">
+                    <img src="https://a.ppy.sh/36604203" alt="xyizax" class="creator-avatar"> xyizax
+                </a>
+                for the Iraqi osu! Community
+            </p>
+            <p class="copyright">© <span id="current-year"></span> Osu! Iraq Today</p>
 
+            <!-- First Fancy Line -->
+            <hr>
+
+            <!-- Navigation -->
+            <div class="footer-links">
+                <a href="OIT_Document.html">Documentation</a>
+                <a href="#discord">Discord</a>
+                <a href="#donate">Donate</a>
+            </div>
+
+            <!-- Second Fancy Line -->
+            <hr>
+
+            <!-- Metadata -->
+            <p class="footer-meta">
+                A <strong>non-commercial</strong> osu! community project | Data via <strong>osu! API v2</strong><br>
+                Last Update: <span id="footer-time">2026-08-15 9:45 UTC+3</span>
+            </p>
+
+        </div>
+    </footer>
 <script>
 // ─── UTILITIES ───
 function timeAgo(dateString) {
