@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 168,
-    "longest": 168,
-    "last_updated": "2026-08-13"
+    "current": 169,
+    "longest": 169,
+    "last_updated": "2026-08-14"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -50531,6 +50531,322 @@
         "title": "MONTAGEM BATCHI",
         "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
         "unique_players": 36
+      }
+    },
+    "2026-08-14": {
+      "total_scores": 591,
+      "peak_hour_baghdad": 21,
+      "top_grinder": {
+        "user": "MrREXO",
+        "user_id": 25075871,
+        "count": 49,
+        "scores": [
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667130711,
+            "rank": "S",
+            "accuracy": 0.9811320754716981,
+            "pp": 278.032,
+            "mods": [
+              "DT",
+              "MR"
+            ],
+            "combo": 268,
+            "created_at": "2026-08-13T16:13:48Z",
+            "beatmapset": {
+              "id": 2439051,
+              "title": "good bye",
+              "cover": "https://assets.ppy.sh/beatmaps/2439051/covers/card.jpg?1765389968",
+              "stars": 3.95276
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667130616,
+            "rank": "S",
+            "accuracy": 0.978534317746787,
+            "pp": 270.578,
+            "mods": [
+              "DT"
+            ],
+            "combo": 525,
+            "created_at": "2026-08-13T16:12:18Z",
+            "beatmapset": {
+              "id": 2439051,
+              "title": "good bye",
+              "cover": "https://assets.ppy.sh/beatmaps/2439051/covers/card.jpg?1765389968",
+              "stars": 3.95276
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667130531,
+            "rank": "A",
+            "accuracy": 0.9450867052023122,
+            "pp": 266.428,
+            "mods": [
+              "DT"
+            ],
+            "combo": 529,
+            "created_at": "2026-08-13T16:10:54Z",
+            "beatmapset": {
+              "id": 2439051,
+              "title": "good bye",
+              "cover": "https://assets.ppy.sh/beatmaps/2439051/covers/card.jpg?1765389968",
+              "stars": 4.36674
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667130441,
+            "rank": "S",
+            "accuracy": 0.9614643545279383,
+            "pp": 308.552,
+            "mods": [
+              "DT"
+            ],
+            "combo": 533,
+            "created_at": "2026-08-13T16:09:27Z",
+            "beatmapset": {
+              "id": 2439051,
+              "title": "good bye",
+              "cover": "https://assets.ppy.sh/beatmaps/2439051/covers/card.jpg?1765389968",
+              "stars": 4.36674
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667130342,
+            "rank": "S",
+            "accuracy": 0.951559934318555,
+            "pp": 238.988,
+            "mods": [],
+            "combo": 408,
+            "created_at": "2026-08-13T16:07:49Z",
+            "beatmapset": {
+              "id": 2426199,
+              "title": "Essence (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2426199/covers/card.jpg?1758777699",
+              "stars": 5.55597
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667130103,
+            "rank": "A",
+            "accuracy": 0.9481585737743373,
+            "pp": 225.854,
+            "mods": [],
+            "combo": 476,
+            "created_at": "2026-08-13T16:04:15Z",
+            "beatmapset": {
+              "id": 2426199,
+              "title": "Essence (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2426199/covers/card.jpg?1758777699",
+              "stars": 5.55597
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667129828,
+            "rank": "S",
+            "accuracy": 0.9841011743450768,
+            "pp": 206.726,
+            "mods": [],
+            "combo": 447,
+            "created_at": "2026-08-13T16:00:12Z",
+            "beatmapset": {
+              "id": 2255729,
+              "title": "VYSE",
+              "cover": "https://assets.ppy.sh/beatmaps/2255729/covers/card.jpg?1731632868",
+              "stars": 4.7063
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667129557,
+            "rank": "A",
+            "accuracy": 0.9409082938804139,
+            "pp": 269.296,
+            "mods": [],
+            "combo": 432,
+            "created_at": "2026-08-13T15:56:18Z",
+            "beatmapset": {
+              "id": 2539608,
+              "title": "Falling",
+              "cover": "https://assets.ppy.sh/beatmaps/2539608/covers/card.jpg?1782538385",
+              "stars": 6.28648
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667128996,
+            "rank": "A",
+            "accuracy": 0.9253192670738478,
+            "pp": 252.765,
+            "mods": [
+              "HT"
+            ],
+            "combo": 641,
+            "created_at": "2026-08-13T15:48:44Z",
+            "beatmapset": {
+              "id": 2559951,
+              "title": "Luminous Memory (Hexacube's OVERSHINE Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/2559951/covers/card.jpg?1781016068",
+              "stars": 8.15004
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667128360,
+            "rank": "A",
+            "accuracy": 0.9079774908970539,
+            "pp": 195.539,
+            "mods": [],
+            "combo": 745,
+            "created_at": "2026-08-13T15:40:17Z",
+            "beatmapset": {
+              "id": 2433731,
+              "title": "Cryptarithm",
+              "cover": "https://assets.ppy.sh/beatmaps/2433731/covers/card.jpg?1760619552",
+              "stars": 6.52141
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667127723,
+            "rank": "A",
+            "accuracy": 0.9358490566037736,
+            "pp": 283.988,
+            "mods": [
+              "HT"
+            ],
+            "combo": 423,
+            "created_at": "2026-08-13T15:32:19Z",
+            "beatmapset": {
+              "id": 2404667,
+              "title": "XaleidoscopiX",
+              "cover": "https://assets.ppy.sh/beatmaps/2404667/covers/card.jpg?1755001303",
+              "stars": 8.0604
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667126447,
+            "rank": "S",
+            "accuracy": 0.9886417415996214,
+            "pp": 321.41,
+            "mods": [],
+            "combo": 1382,
+            "created_at": "2026-08-13T15:15:52Z",
+            "beatmapset": {
+              "id": 2182214,
+              "title": "Gulyayu (Sped Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2182214/covers/card.jpg?1766580444",
+              "stars": 5.63617
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667126213,
+            "rank": "S",
+            "accuracy": 0.9970796829370046,
+            "pp": 140.479,
+            "mods": [],
+            "combo": 894,
+            "created_at": "2026-08-13T15:13:13Z",
+            "beatmapset": {
+              "id": 2477332,
+              "title": "Christmas Slop",
+              "cover": "https://assets.ppy.sh/beatmaps/2477332/covers/card.jpg?1766507637",
+              "stars": 3.89217
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667126086,
+            "rank": "S",
+            "accuracy": 0.988976377952756,
+            "pp": 169.002,
+            "mods": [
+              "DT"
+            ],
+            "combo": 558,
+            "created_at": "2026-08-13T15:11:37Z",
+            "beatmapset": {
+              "id": 2477332,
+              "title": "Christmas Slop",
+              "cover": "https://assets.ppy.sh/beatmaps/2477332/covers/card.jpg?1766507637",
+              "stars": 3.138
+            }
+          },
+          {
+            "user": "MrREXO",
+            "user_id": 25075871,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 667125952,
+            "rank": "A",
+            "accuracy": 0.9266362252663622,
+            "pp": 167.471,
+            "mods": [],
+            "combo": 196,
+            "created_at": "2026-08-13T15:09:58Z",
+            "beatmapset": {
+              "id": 2477332,
+              "title": "Christmas Slop",
+              "cover": "https://assets.ppy.sh/beatmaps/2477332/covers/card.jpg?1766507637",
+              "stars": 5.3397
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "The Big Black",
+        "cover": "https://assets.ppy.sh/beatmaps/867737/covers/card.jpg?1645785490",
+        "unique_players": 9
       }
     }
   }
