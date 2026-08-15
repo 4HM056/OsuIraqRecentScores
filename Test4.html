@@ -505,22 +505,141 @@
         .arrow-up { position: absolute; color: white; font-size: 16px; pointer-events: none; }
 
         /* ─── FOOTER ─── */
-        html, body { min-height: 100vh; }
-        body { display: flex; flex-direction: column; }
-        .feed-container { flex: 1; }
-        footer {
-            background: var(--dark-deeper); color: #fff;
-            padding: 20px 16px 32px; text-align: center;
-            border-top: 1px solid rgba(255,102,170,0.2); margin-top: 10px;
+                /* Base page styling just for the preview */
+        body {
+            background-color: #121212;
+            color: #eeeeee;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
         }
-        footer h3 { color: var(--osu-pink); margin: 0 0 6px; font-size: 18px; }
-        footer p  { margin: 0; font-size: 13px; color: #666; }
-        footer a  { color: var(--osu-pink); text-decoration: none; font-weight: 700; }
-        footer a:hover { text-decoration: underline; }
-        footer hr { border: 0; border-top: 1px solid #2a2a35; margin: 14px 0; }
-        .footer-links { margin: 10px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
-        .footer-meta { font-size: 12px; color: #555; line-height: 1.7; }
-        .footer-meta span { color: var(--osu-pink); font-family: monospace; }
+
+        /* --- Footer Styles --- */
+        .oit-footer {
+            background-color: #1a1a24; /* Subtle dark blue/purple tint */
+            padding: 2.5rem 1rem;
+            text-align: center;
+            border-top: 2px solid #ff66aa; /* osu! pink accent */
+        }
+
+        .footer-container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        /* Title Section */
+        .oit-footer h3 {
+            font-size: 1.5rem;
+            margin: 0 0 0.5rem 0;
+            color: #ffffff;
+            letter-spacing: 1px;
+        }
+
+        .oit-footer .subtitle {
+            color: #b3b3b3;
+            font-size: 0.95rem;
+            margin-bottom: 0.5rem;
+            line-height: 1.8; /* Slightly increased for better mobile wrapping */
+        }
+
+        /* Author / Creator Layout */
+        .oit-footer .author-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            color: #ff66aa;
+            text-decoration: none;
+            font-weight: bold;
+            vertical-align: middle; 
+            margin: 0 4px;
+        }
+        
+        .oit-footer .author-link:hover {
+            text-decoration: underline;
+        }
+
+        /* Small Round Square Avatar */
+        .creator-avatar {
+            width: 24px;
+            height: 24px;
+            border-radius: 6px; 
+            border: 1px solid rgba(255, 102, 170, 0.5);
+            object-fit: cover;
+            transition: transform 0.2s ease;
+        }
+
+        .author-link:hover .creator-avatar {
+            transform: scale(1.1); 
+        }
+
+        .copyright {
+            font-size: 0.85rem;
+            color: #888;
+            margin-bottom: 1.5rem;
+        }
+
+        /* Fancy Divider Lines */
+        .oit-footer hr {
+            border: 0;
+            height: 1px;
+            /* Fades out on the edges, solid pink in the middle */
+            background: linear-gradient(90deg, transparent, rgba(255, 102, 170, 0.6), transparent);
+            margin: 1.5rem 0;
+        }
+
+        /* Links Section */
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 2rem;
+            padding: 0.5rem 0;
+        }
+
+        .footer-links a {
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 1.05rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.2s ease;
+        }
+
+        .footer-links a:hover {
+            color: #ff66aa;
+            text-shadow: 0 0 10px rgba(255, 102, 170, 0.5);
+        }
+
+        /* Meta Section */
+        .footer-meta {
+            font-size: 0.85rem;
+            color: #999;
+            line-height: 1.6;
+        }
+
+        .footer-meta strong {
+            color: #dedede;
+        }
+
+        /* Mobile specific adjustments */
+        @media (max-width: 480px) {
+            .footer-links {
+                gap: 1rem;
+                flex-direction: column;
+            }
+            .oit-footer hr {
+                margin: 1rem 0;
+            }
+            
+            /* Ensures the text breaks nicely on very thin phones */
+            .oit-footer .subtitle {
+                display: block;
+            }
+        }
     </style>
 </head>
 <body>
