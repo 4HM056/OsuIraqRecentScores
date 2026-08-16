@@ -7,9 +7,9 @@
     "fruits",
     "mania"
   ],
-  "generated_at": "2026-08-16T05:07:58.481Z",
-  "complete": false,
-  "players_checked": 2000,
+  "generated_at": "2026-08-16T05:14:46.522Z",
+  "complete": true,
+  "players_checked": 2374,
   "players_total": 2374,
   "scores": [
     {
@@ -844,6 +844,25 @@
       "user": "PhantomYA24",
       "user_id": 40313273,
       "country": "IQ",
+      "mode": "mania",
+      "score_id": 7282522845,
+      "rank": "B",
+      "accuracy": 0.8988095238095238,
+      "pp": 0.882562,
+      "mods": [],
+      "combo": 67,
+      "created_at": "2026-08-15T22:49:06Z",
+      "beatmapset": {
+        "id": 2556198,
+        "title": "Six Seven",
+        "cover": "https://assets.ppy.sh/beatmaps/2556198/covers/card.jpg?1780609844",
+        "stars": 0.77037
+      }
+    },
+    {
+      "user": "PhantomYA24",
+      "user_id": 40313273,
+      "country": "IQ",
       "mode": "osu",
       "score_id": 7282509666,
       "rank": "D",
@@ -1273,6 +1292,46 @@
         "title": "Altitude",
         "cover": "https://assets.ppy.sh/beatmaps/2416343/covers/card.jpg?1785298031",
         "stars": 5.68783
+      }
+    },
+    {
+      "user": "SHLHLH0019",
+      "user_id": 36306634,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 667333033,
+      "rank": "D",
+      "accuracy": 0.6997965707643127,
+      "pp": null,
+      "mods": [
+        "DT"
+      ],
+      "combo": 223,
+      "created_at": "2026-08-15T21:20:09Z",
+      "beatmapset": {
+        "id": 1130564,
+        "title": "We Could Get More Machinegun Psystyle! (And More Genre Switches)",
+        "cover": "https://assets.ppy.sh/beatmaps/1130564/covers/card.jpg?1631508612",
+        "stars": 1.90463
+      }
+    },
+    {
+      "user": "SHLHLH0019",
+      "user_id": 36306634,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 667332739,
+      "rank": "C",
+      "accuracy": 0.7063851181498241,
+      "pp": 0,
+      "mods": [],
+      "combo": 105,
+      "created_at": "2026-08-15T21:16:07Z",
+      "beatmapset": {
+        "id": 1219293,
+        "title": "Elemental Creation (kamome sano Remix)",
+        "cover": "https://assets.ppy.sh/beatmaps/1219293/covers/card.jpg?1645787741",
+        "stars": 2.26425
       }
     },
     {
@@ -2164,6 +2223,27 @@
       }
     },
     {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7281561644,
+      "rank": "S",
+      "accuracy": 0.9725490196078431,
+      "pp": 11.9472,
+      "mods": [
+        "4K"
+      ],
+      "combo": 198,
+      "created_at": "2026-08-15T19:36:16Z",
+      "beatmapset": {
+        "id": 9290,
+        "title": "Word Up",
+        "cover": "https://assets.ppy.sh/beatmaps/9290/covers/card.jpg?1622027763",
+        "stars": 1.63038
+      }
+    },
+    {
       "user": "cainssu",
       "user_id": 39970177,
       "country": "IQ",
@@ -2370,6 +2450,25 @@
         "title": "Gravity Falls Theme Song",
         "cover": "https://assets.ppy.sh/beatmaps/527431/covers/card.jpg?1645788302",
         "stars": 4.23563
+      }
+    },
+    {
+      "user": "aymen_haqqi",
+      "user_id": 37967421,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7281211011,
+      "rank": "S",
+      "accuracy": 0.9660056657223796,
+      "pp": 8.05866,
+      "mods": [],
+      "combo": 353,
+      "created_at": "2026-08-15T18:32:43Z",
+      "beatmapset": {
+        "id": 1442963,
+        "title": "DVP",
+        "cover": "https://assets.ppy.sh/beatmaps/1442963/covers/card.jpg?1631507345",
+        "stars": 1.32164
       }
     },
     {
@@ -3305,6 +3404,25 @@
       }
     },
     {
+      "user": "GoofyOsuplayer",
+      "user_id": 31430056,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7280455195,
+      "rank": "S",
+      "accuracy": 0.9698173153296267,
+      "pp": null,
+      "mods": [],
+      "combo": 412,
+      "created_at": "2026-08-15T16:16:50Z",
+      "beatmapset": {
+        "id": 1750031,
+        "title": "ouroVoros",
+        "cover": "https://assets.ppy.sh/beatmaps/1750031/covers/card.jpg?1653300027",
+        "stars": 3.05002
+      }
+    },
+    {
       "user": "PhantomYA24",
       "user_id": 40313273,
       "country": "IQ",
@@ -3418,6 +3536,25 @@
         "title": "starly (slowed down & cut ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2414617/covers/card.jpg?1755447546",
         "stars": 3.288
+      }
+    },
+    {
+      "user": "GoofyOsuplayer",
+      "user_id": 31430056,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7280431963,
+      "rank": "A",
+      "accuracy": 0.9323035850495804,
+      "pp": null,
+      "mods": [],
+      "combo": 311,
+      "created_at": "2026-08-15T16:12:45Z",
+      "beatmapset": {
+        "id": 862602,
+        "title": "Mei",
+        "cover": "https://assets.ppy.sh/beatmaps/862602/covers/card.jpg?1772720495",
+        "stars": 3.07895
       }
     },
     {
@@ -4213,6 +4350,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7280187905,
+      "rank": "A",
+      "accuracy": 0.9134897360703812,
+      "pp": 21.0829,
+      "mods": [],
+      "combo": 347,
+      "created_at": "2026-08-15T15:29:58Z",
+      "beatmapset": {
+        "id": 2419665,
+        "title": "Retry Now",
+        "cover": "https://assets.ppy.sh/beatmaps/2419665/covers/card.jpg?1777033667",
+        "stars": 2.41862
+      }
+    },
+    {
       "user": "YaBoySwazie",
       "user_id": 36054808,
       "country": "IQ",
@@ -4454,6 +4610,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7280020139,
+      "rank": "S",
+      "accuracy": 0.9915565345080763,
+      "pp": 7.02148,
+      "mods": [],
+      "combo": 338,
+      "created_at": "2026-08-15T15:01:01Z",
+      "beatmapset": {
+        "id": 2523253,
+        "title": "CandyCookieChocolate",
+        "cover": "https://assets.ppy.sh/beatmaps/2523253/covers/card.jpg?1774134570",
+        "stars": 1.1472
+      }
+    },
+    {
       "user": "RuRySAMA",
       "user_id": 35051247,
       "country": "IQ",
@@ -4494,6 +4669,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7280001644,
+      "rank": "S",
+      "accuracy": 0.9875478927203065,
+      "pp": 8.40693,
+      "mods": [],
+      "combo": 191,
+      "created_at": "2026-08-15T14:57:55Z",
+      "beatmapset": {
+        "id": 2493675,
+        "title": "Teto the 31st",
+        "cover": "https://assets.ppy.sh/beatmaps/2493675/covers/card.jpg?1768509281",
+        "stars": 1.24559
+      }
+    },
+    {
       "user": "ALASTORX",
       "user_id": 39546476,
       "country": "IQ",
@@ -4529,6 +4723,25 @@
         "title": "Try This",
         "cover": "https://assets.ppy.sh/beatmaps/301138/covers/card.jpg?1650629048",
         "stars": 4.77623
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7279985935,
+      "rank": "B",
+      "accuracy": 0.8976637051661731,
+      "pp": 13.2967,
+      "mods": [],
+      "combo": 293,
+      "created_at": "2026-08-15T14:55:17Z",
+      "beatmapset": {
+        "id": 2515207,
+        "title": "PPPP feat. Hatsune Miku, Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2515207/covers/card.jpg?1774792991",
+        "stars": 2.17431
       }
     },
     {
@@ -4591,6 +4804,25 @@
       }
     },
     {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7279969315,
+      "rank": "B",
+      "accuracy": 0.8246932131229652,
+      "pp": 0,
+      "mods": [],
+      "combo": 98,
+      "created_at": "2026-08-15T14:52:30Z",
+      "beatmapset": {
+        "id": 2515207,
+        "title": "PPPP feat. Hatsune Miku, Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2515207/covers/card.jpg?1774792991",
+        "stars": 2.74576
+      }
+    },
+    {
       "user": "ALASTORX",
       "user_id": 39546476,
       "country": "IQ",
@@ -4607,6 +4839,44 @@
         "title": "killy killy JOKER (TV Size)",
         "cover": "https://assets.ppy.sh/beatmaps/1258913/covers/card.jpg?1650701537",
         "stars": 5.37593
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7279952687,
+      "rank": "A",
+      "accuracy": 0.9102978112665949,
+      "pp": 5.59239,
+      "mods": [],
+      "combo": 406,
+      "created_at": "2026-08-15T14:49:41Z",
+      "beatmapset": {
+        "id": 2180255,
+        "title": "Mesmerizer",
+        "cover": "https://assets.ppy.sh/beatmaps/2180255/covers/card.jpg?1749447419",
+        "stars": 1.43623
+      }
+    },
+    {
+      "user": "Lucas1111",
+      "user_id": 40256653,
+      "country": "IQ",
+      "mode": "mania",
+      "score_id": 7279931409,
+      "rank": "B",
+      "accuracy": 0.887793427230047,
+      "pp": 14.2297,
+      "mods": [],
+      "combo": 169,
+      "created_at": "2026-08-15T14:46:04Z",
+      "beatmapset": {
+        "id": 2180255,
+        "title": "Mesmerizer",
+        "cover": "https://assets.ppy.sh/beatmaps/2180255/covers/card.jpg?1749447419",
+        "stars": 2.42311
       }
     },
     {
