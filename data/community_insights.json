@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 169,
-    "longest": 169,
-    "last_updated": "2026-08-14"
+    "current": 170,
+    "longest": 170,
+    "last_updated": "2026-08-15"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -50847,6 +50847,352 @@
         "title": "The Big Black",
         "cover": "https://assets.ppy.sh/beatmaps/867737/covers/card.jpg?1645785490",
         "unique_players": 9
+      }
+    },
+    "2026-08-15": {
+      "total_scores": 640,
+      "peak_hour_baghdad": 21,
+      "top_grinder": {
+        "user": "I AM A GHOUL",
+        "user_id": 24991953,
+        "count": 62,
+        "scores": [
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064804065,
+            "rank": "A",
+            "accuracy": 0.9333333333333333,
+            "pp": 299.709,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 230,
+            "created_at": "2026-08-14T19:35:09Z",
+            "beatmapset": {
+              "id": 1440767,
+              "title": "SAVE (Encore)",
+              "cover": "https://assets.ppy.sh/beatmaps/1440767/covers/card.jpg?1650709123",
+              "stars": 5.62957
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064802092,
+            "rank": "B",
+            "accuracy": 0.895910780669145,
+            "pp": 253.749,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 331,
+            "created_at": "2026-08-14T19:29:36Z",
+            "beatmapset": {
+              "id": 2335787,
+              "title": "The Glory Days (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2335787/covers/card.jpg?1748879984",
+              "stars": 5.68501
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064801477,
+            "rank": "A",
+            "accuracy": 0.9364406779661016,
+            "pp": 309.258,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 223,
+            "created_at": "2026-08-14T19:27:47Z",
+            "beatmapset": {
+              "id": 2282704,
+              "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2282704/covers/card.jpg?1756038849",
+              "stars": 5.62067
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064801151,
+            "rank": "A",
+            "accuracy": 0.9378531073446328,
+            "pp": 313.617,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 187,
+            "created_at": "2026-08-14T19:26:50Z",
+            "beatmapset": {
+              "id": 2282704,
+              "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2282704/covers/card.jpg?1756038849",
+              "stars": 5.62067
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064800589,
+            "rank": "B",
+            "accuracy": 0.8897243107769424,
+            "pp": 263.769,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 82,
+            "created_at": "2026-08-14T19:25:18Z",
+            "beatmapset": {
+              "id": 2279697,
+              "title": "PADORU / PADORU",
+              "cover": "https://assets.ppy.sh/beatmaps/2279697/covers/card.jpg?1733354216",
+              "stars": 5.65525
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064799811,
+            "rank": "C",
+            "accuracy": 0.8123456790123457,
+            "pp": 226.842,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 69,
+            "created_at": "2026-08-14T19:23:06Z",
+            "beatmapset": {
+              "id": 1073074,
+              "title": "PADORU / PADORU",
+              "cover": "https://assets.ppy.sh/beatmaps/1073074/covers/card.jpg?1650689325",
+              "stars": 5.61729
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064798542,
+            "rank": "B",
+            "accuracy": 0.8757575757575757,
+            "pp": 158.617,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 74,
+            "created_at": "2026-08-14T19:19:35Z",
+            "beatmapset": {
+              "id": 2436628,
+              "title": "No title -10 Years Later Edition- (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2436628/covers/card.jpg?1760618037",
+              "stars": 5.61666
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064797778,
+            "rank": "B",
+            "accuracy": 0.8961136023916293,
+            "pp": 277.524,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 139,
+            "created_at": "2026-08-14T19:17:22Z",
+            "beatmapset": {
+              "id": 2295424,
+              "title": "Johnny Test Theme (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2295424/covers/card.jpg?1744672306",
+              "stars": 5.52441
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064797132,
+            "rank": "A",
+            "accuracy": 0.9364214350590372,
+            "pp": 327.439,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 240,
+            "created_at": "2026-08-14T19:15:41Z",
+            "beatmapset": {
+              "id": 2472740,
+              "title": "Snow halation (HONOKA Mix) (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2472740/covers/card.jpg?1765726307",
+              "stars": 5.5659
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064795356,
+            "rank": "B",
+            "accuracy": 0.8588110403397028,
+            "pp": 206.661,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 72,
+            "created_at": "2026-08-14T19:10:42Z",
+            "beatmapset": {
+              "id": 2488678,
+              "title": "Cats (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2488678/covers/card.jpg?1773866179",
+              "stars": 5.19783
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064795137,
+            "rank": "C",
+            "accuracy": 0.8428874734607219,
+            "pp": 176.954,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 41,
+            "created_at": "2026-08-14T19:10:06Z",
+            "beatmapset": {
+              "id": 2488678,
+              "title": "Cats (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2488678/covers/card.jpg?1773866179",
+              "stars": 5.19783
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064794911,
+            "rank": "C",
+            "accuracy": 0.832271762208068,
+            "pp": 186.709,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 73,
+            "created_at": "2026-08-14T19:09:25Z",
+            "beatmapset": {
+              "id": 2488678,
+              "title": "Cats (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2488678/covers/card.jpg?1773866179",
+              "stars": 5.19783
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064794248,
+            "rank": "A",
+            "accuracy": 0.9880174291938998,
+            "pp": 437.7,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 427,
+            "created_at": "2026-08-14T19:07:41Z",
+            "beatmapset": {
+              "id": 2492332,
+              "title": "Mr. Brightside (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2492332/covers/card.jpg?1773710116",
+              "stars": 5.34171
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064793291,
+            "rank": "B",
+            "accuracy": 0.9049844236760125,
+            "pp": 167.27,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 87,
+            "created_at": "2026-08-14T19:05:00Z",
+            "beatmapset": {
+              "id": 2463664,
+              "title": "hate the way you love me (nightcore & cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2463664/covers/card.jpg?1767818786",
+              "stars": 5.06788
+            }
+          },
+          {
+            "user": "I AM A GHOUL",
+            "user_id": 24991953,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5064792969,
+            "rank": "SH",
+            "accuracy": 0.9722222222222222,
+            "pp": 349.492,
+            "mods": [
+              "HD",
+              "DT"
+            ],
+            "combo": 111,
+            "created_at": "2026-08-14T19:04:05Z",
+            "beatmapset": {
+              "id": 2390209,
+              "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535",
+              "stars": 5.34293
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "MONTAGEM BATCHI",
+        "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+        "unique_players": 46
       }
     }
   }
