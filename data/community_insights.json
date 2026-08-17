@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 170,
-    "longest": 170,
-    "last_updated": "2026-08-15"
+    "current": 171,
+    "longest": 171,
+    "last_updated": "2026-08-16"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -51193,6 +51193,307 @@
         "title": "MONTAGEM BATCHI",
         "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
         "unique_players": 46
+      }
+    },
+    "2026-08-16": {
+      "total_scores": 461,
+      "peak_hour_baghdad": 15,
+      "top_grinder": {
+        "user": "kyoko iraq",
+        "user_id": 40302842,
+        "count": 38,
+        "scores": [
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7281015337,
+            "rank": "A",
+            "accuracy": 0.9320636050789131,
+            "pp": null,
+            "mods": [],
+            "combo": 586,
+            "created_at": "2026-08-15T17:56:55Z",
+            "beatmapset": {
+              "id": 2265831,
+              "title": "Dynamite",
+              "cover": "https://assets.ppy.sh/beatmaps/2265831/covers/card.jpg?1733729452",
+              "stars": 4.27683
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7280972224,
+            "rank": "S",
+            "accuracy": 0.9696180555555556,
+            "pp": null,
+            "mods": [],
+            "combo": 415,
+            "created_at": "2026-08-15T17:49:12Z",
+            "beatmapset": {
+              "id": 496651,
+              "title": "The Big Black",
+              "cover": "https://assets.ppy.sh/beatmaps/496651/covers/card.jpg?1772595208",
+              "stars": 3.36205
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7280947765,
+            "rank": "S",
+            "accuracy": 0.9766283524904215,
+            "pp": 95.6688,
+            "mods": [],
+            "combo": 1027,
+            "created_at": "2026-08-15T17:44:47Z",
+            "beatmapset": {
+              "id": 587269,
+              "title": "iLLness LiLin",
+              "cover": "https://assets.ppy.sh/beatmaps/587269/covers/card.jpg?1622116515",
+              "stars": 3.50665
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7280933549,
+            "rank": "S",
+            "accuracy": 0.9630952380952381,
+            "pp": 77.711,
+            "mods": [],
+            "combo": 557,
+            "created_at": "2026-08-15T17:42:14Z",
+            "beatmapset": {
+              "id": 1805268,
+              "title": "Pentiment",
+              "cover": "https://assets.ppy.sh/beatmaps/1805268/covers/card.jpg?1701580871",
+              "stars": 3.32959
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7280914408,
+            "rank": "A",
+            "accuracy": 0.947991967871486,
+            "pp": 70.1636,
+            "mods": [],
+            "combo": 321,
+            "created_at": "2026-08-15T17:38:48Z",
+            "beatmapset": {
+              "id": 2229950,
+              "title": "Konton Boogie",
+              "cover": "https://assets.ppy.sh/beatmaps/2229950/covers/card.jpg?1784259643",
+              "stars": 3.33267
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7280896932,
+            "rank": "S",
+            "accuracy": 0.9738888888888889,
+            "pp": 9.51162,
+            "mods": [],
+            "combo": 299,
+            "created_at": "2026-08-15T17:35:36Z",
+            "beatmapset": {
+              "id": 2597037,
+              "title": "Honma ni \"Yada\"",
+              "cover": "https://assets.ppy.sh/beatmaps/2597037/covers/card.jpg?1785804784",
+              "stars": 1.35202
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7280852439,
+            "rank": "S",
+            "accuracy": 0.9751123956326269,
+            "pp": 47.2099,
+            "mods": [],
+            "combo": 793,
+            "created_at": "2026-08-15T17:27:37Z",
+            "beatmapset": {
+              "id": 981053,
+              "title": "Xevel",
+              "cover": "https://assets.ppy.sh/beatmaps/981053/covers/card.jpg?1622163186",
+              "stars": 2.58745
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7280836098,
+            "rank": "A",
+            "accuracy": 0.9477996254681648,
+            "pp": 20.3119,
+            "mods": [],
+            "combo": 241,
+            "created_at": "2026-08-15T17:24:42Z",
+            "beatmapset": {
+              "id": 2597037,
+              "title": "Honma ni \"Yada\"",
+              "cover": "https://assets.ppy.sh/beatmaps/2597037/covers/card.jpg?1785804784",
+              "stars": 2.04656
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7280823683,
+            "rank": "B",
+            "accuracy": 0.8605784988528351,
+            "pp": 43.2753,
+            "mods": [],
+            "combo": 517,
+            "created_at": "2026-08-15T17:22:28Z",
+            "beatmapset": {
+              "id": 2432285,
+              "title": "Marine Blue Magic <3",
+              "cover": "https://assets.ppy.sh/beatmaps/2432285/covers/card.jpg?1784992556",
+              "stars": 5.09561
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7280796463,
+            "rank": "S",
+            "accuracy": 0.9599247685185185,
+            "pp": null,
+            "mods": [],
+            "combo": 738,
+            "created_at": "2026-08-15T17:17:33Z",
+            "beatmapset": {
+              "id": 496651,
+              "title": "The Big Black",
+              "cover": "https://assets.ppy.sh/beatmaps/496651/covers/card.jpg?1772595208",
+              "stars": 3.36205
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7280775691,
+            "rank": "B",
+            "accuracy": 0.8628030303030303,
+            "pp": 28.765,
+            "mods": [],
+            "combo": 132,
+            "created_at": "2026-08-15T17:13:51Z",
+            "beatmapset": {
+              "id": 2229950,
+              "title": "Konton Boogie",
+              "cover": "https://assets.ppy.sh/beatmaps/2229950/covers/card.jpg?1784259643",
+              "stars": 4.0842
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7279835229,
+            "rank": "A",
+            "accuracy": 0.9105850243265694,
+            "pp": null,
+            "mods": [],
+            "combo": 453,
+            "created_at": "2026-08-15T14:29:18Z",
+            "beatmapset": {
+              "id": 2265831,
+              "title": "Dynamite",
+              "cover": "https://assets.ppy.sh/beatmaps/2265831/covers/card.jpg?1733729452",
+              "stars": 4.27683
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7279807432,
+            "rank": "A",
+            "accuracy": 0.9435742971887551,
+            "pp": 67.7098,
+            "mods": [],
+            "combo": 333,
+            "created_at": "2026-08-15T14:24:23Z",
+            "beatmapset": {
+              "id": 2229950,
+              "title": "Konton Boogie",
+              "cover": "https://assets.ppy.sh/beatmaps/2229950/covers/card.jpg?1784259643",
+              "stars": 3.33267
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7279791475,
+            "rank": "A",
+            "accuracy": 0.9286138319976254,
+            "pp": 19.008,
+            "mods": [],
+            "combo": 255,
+            "created_at": "2026-08-15T14:21:33Z",
+            "beatmapset": {
+              "id": 2229950,
+              "title": "Konton Boogie",
+              "cover": "https://assets.ppy.sh/beatmaps/2229950/covers/card.jpg?1784259643",
+              "stars": 2.06549
+            }
+          },
+          {
+            "user": "kyoko iraq",
+            "user_id": 40302842,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7279764480,
+            "rank": "A",
+            "accuracy": 0.940303657694962,
+            "pp": 43.5811,
+            "mods": [],
+            "combo": 469,
+            "created_at": "2026-08-15T14:16:49Z",
+            "beatmapset": {
+              "id": 2597037,
+              "title": "Honma ni \"Yada\"",
+              "cover": "https://assets.ppy.sh/beatmaps/2597037/covers/card.jpg?1785804784",
+              "stars": 2.83701
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Just The Way You Are (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2553422/covers/card.jpg?1785638040",
+        "unique_players": 15
       }
     }
   }
