@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 171,
-    "longest": 171,
-    "last_updated": "2026-08-16"
+    "current": 172,
+    "longest": 172,
+    "last_updated": "2026-08-17"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -51494,6 +51494,307 @@
         "title": "Just The Way You Are (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2553422/covers/card.jpg?1785638040",
         "unique_players": 15
+      }
+    },
+    "2026-08-17": {
+      "total_scores": 747,
+      "peak_hour_baghdad": 18,
+      "top_grinder": {
+        "user": "brianmoser1123",
+        "user_id": 39498643,
+        "count": 98,
+        "scores": [
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7287900146,
+            "rank": "B",
+            "accuracy": 0.900603708495041,
+            "pp": 41.6987,
+            "mods": [],
+            "combo": 321,
+            "created_at": "2026-08-16T19:32:28Z",
+            "beatmapset": {
+              "id": 2069184,
+              "title": "Imperfect Cherry Blossom",
+              "cover": "https://assets.ppy.sh/beatmaps/2069184/covers/card.jpg?1724380098",
+              "stars": 4.64754
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7287859253,
+            "rank": "B",
+            "accuracy": 0.8962915049590341,
+            "pp": 45.2102,
+            "mods": [],
+            "combo": 459,
+            "created_at": "2026-08-16T19:24:54Z",
+            "beatmapset": {
+              "id": 2069184,
+              "title": "Imperfect Cherry Blossom",
+              "cover": "https://assets.ppy.sh/beatmaps/2069184/covers/card.jpg?1724380098",
+              "stars": 4.64754
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7287759379,
+            "rank": "B",
+            "accuracy": 0.9006197432492253,
+            "pp": 65.7073,
+            "mods": [],
+            "combo": 171,
+            "created_at": "2026-08-16T19:06:28Z",
+            "beatmapset": {
+              "id": 2225917,
+              "title": "Cubibibibism",
+              "cover": "https://assets.ppy.sh/beatmaps/2225917/covers/card.jpg?1729782297",
+              "stars": 5.23824
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7287737226,
+            "rank": "B",
+            "accuracy": 0.8687142426979826,
+            "pp": 47.2029,
+            "mods": [],
+            "combo": 153,
+            "created_at": "2026-08-16T19:02:23Z",
+            "beatmapset": {
+              "id": 140115,
+              "title": "Monosugoi Ikioide Keine ga Monosugoi Uta",
+              "cover": "https://assets.ppy.sh/beatmaps/140115/covers/card.jpg?1650619909",
+              "stars": 5.55065
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7287710782,
+            "rank": "C",
+            "accuracy": 0.7221440300258034,
+            "pp": 28.5252,
+            "mods": [],
+            "combo": 274,
+            "created_at": "2026-08-16T18:57:28Z",
+            "beatmapset": {
+              "id": 636839,
+              "title": "Cycle Hit",
+              "cover": "https://assets.ppy.sh/beatmaps/636839/covers/card.jpg?1641132312",
+              "stars": 6.23752
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7287654045,
+            "rank": "C",
+            "accuracy": 0.7051709758131777,
+            "pp": 13.9497,
+            "mods": [],
+            "combo": 151,
+            "created_at": "2026-08-16T18:47:01Z",
+            "beatmapset": {
+              "id": 1995184,
+              "title": "Drenched in Air",
+              "cover": "https://assets.ppy.sh/beatmaps/1995184/covers/card.jpg?1688144671",
+              "stars": 5.56
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7286389544,
+            "rank": "B",
+            "accuracy": 0.8947848285922684,
+            "pp": 72.4744,
+            "mods": [],
+            "combo": 166,
+            "created_at": "2026-08-16T14:56:40Z",
+            "beatmapset": {
+              "id": 352570,
+              "title": "Night of Knights",
+              "cover": "https://assets.ppy.sh/beatmaps/352570/covers/card.jpg?1650634611",
+              "stars": 5.90185
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7286328492,
+            "rank": "C",
+            "accuracy": 0.8278008298755186,
+            "pp": null,
+            "mods": [],
+            "combo": 269,
+            "created_at": "2026-08-16T14:45:39Z",
+            "beatmapset": {
+              "id": 934878,
+              "title": "RAISE MY SWORD",
+              "cover": "https://assets.ppy.sh/beatmaps/934878/covers/card.jpg?1650680256",
+              "stars": 6.1335
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7286308738,
+            "rank": "B",
+            "accuracy": 0.8644425675675675,
+            "pp": 35.114,
+            "mods": [],
+            "combo": 257,
+            "created_at": "2026-08-16T14:42:06Z",
+            "beatmapset": {
+              "id": 2401111,
+              "title": "Power of the Dragonflame",
+              "cover": "https://assets.ppy.sh/beatmaps/2401111/covers/card.jpg?1774462411",
+              "stars": 5.14128
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7286254005,
+            "rank": "C",
+            "accuracy": 0.8235967926689576,
+            "pp": 35.2963,
+            "mods": [],
+            "combo": 155,
+            "created_at": "2026-08-16T14:32:15Z",
+            "beatmapset": {
+              "id": 1640259,
+              "title": "Wario's Gold Mine (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/1640259/covers/card.jpg?1645782923",
+              "stars": 4.59017
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7286192039,
+            "rank": "C",
+            "accuracy": 0.843015214384509,
+            "pp": null,
+            "mods": [],
+            "combo": 177,
+            "created_at": "2026-08-16T14:21:03Z",
+            "beatmapset": {
+              "id": 934878,
+              "title": "RAISE MY SWORD",
+              "cover": "https://assets.ppy.sh/beatmaps/934878/covers/card.jpg?1650680256",
+              "stars": 6.1335
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7286057904,
+            "rank": "C",
+            "accuracy": 0.8291839557399724,
+            "pp": null,
+            "mods": [],
+            "combo": 178,
+            "created_at": "2026-08-16T13:56:59Z",
+            "beatmapset": {
+              "id": 934878,
+              "title": "RAISE MY SWORD",
+              "cover": "https://assets.ppy.sh/beatmaps/934878/covers/card.jpg?1650680256",
+              "stars": 6.1335
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7286019328,
+            "rank": "A",
+            "accuracy": 0.9081062194269741,
+            "pp": 90.3161,
+            "mods": [],
+            "combo": 754,
+            "created_at": "2026-08-16T13:49:56Z",
+            "beatmapset": {
+              "id": 2554421,
+              "title": "Heartless (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2554421/covers/card.jpg?1780696546",
+              "stars": 4.86987
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7286008513,
+            "rank": "C",
+            "accuracy": 0.8279842342342343,
+            "pp": 37.4494,
+            "mods": [],
+            "combo": 300,
+            "created_at": "2026-08-16T13:47:55Z",
+            "beatmapset": {
+              "id": 2401111,
+              "title": "Power of the Dragonflame",
+              "cover": "https://assets.ppy.sh/beatmaps/2401111/covers/card.jpg?1774462411",
+              "stars": 5.14128
+            }
+          },
+          {
+            "user": "brianmoser1123",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7285967910,
+            "rank": "C",
+            "accuracy": 0.841920045045045,
+            "pp": 39.9875,
+            "mods": [],
+            "combo": 579,
+            "created_at": "2026-08-16T13:40:19Z",
+            "beatmapset": {
+              "id": 2401111,
+              "title": "Power of the Dragonflame",
+              "cover": "https://assets.ppy.sh/beatmaps/2401111/covers/card.jpg?1774462411",
+              "stars": 5.14128
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Make a Move (Speed Up Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/765778/covers/card.jpg?1650663123",
+        "unique_players": 19
       }
     }
   }
