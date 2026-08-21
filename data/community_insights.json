@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 173,
-    "longest": 173,
-    "last_updated": "2026-08-19"
+    "current": 174,
+    "longest": 174,
+    "last_updated": "2026-08-20"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -52096,6 +52096,339 @@
         "title": "MONTAGEM BATCHI",
         "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
         "unique_players": 53
+      }
+    },
+    "2026-08-20": {
+      "total_scores": 731,
+      "peak_hour_baghdad": 19,
+      "top_grinder": {
+        "user": "FaZe Kawan",
+        "user_id": 12813974,
+        "count": 62,
+        "scores": [
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066759130,
+            "rank": "D",
+            "accuracy": 0.6,
+            "pp": 18.8448,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 80,
+            "created_at": "2026-08-19T21:17:17Z",
+            "beatmapset": {
+              "id": 2495916,
+              "title": "The Best of Both Worlds (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2495916/covers/card.jpg?1771958689",
+              "stars": 5.38984
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066758657,
+            "rank": "D",
+            "accuracy": 0.6246913580246913,
+            "pp": 20.6684,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 75,
+            "created_at": "2026-08-19T21:15:49Z",
+            "beatmapset": {
+              "id": 2495916,
+              "title": "The Best of Both Worlds (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2495916/covers/card.jpg?1771958689",
+              "stars": 5.38984
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066750937,
+            "rank": "C",
+            "accuracy": 0.7818181818181819,
+            "pp": 34.0276,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 70,
+            "created_at": "2026-08-19T20:51:25Z",
+            "beatmapset": {
+              "id": 1061287,
+              "title": "PADORU / PADORU",
+              "cover": "https://assets.ppy.sh/beatmaps/1061287/covers/card.jpg?1650688170",
+              "stars": 4.38593
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066750207,
+            "rank": "C",
+            "accuracy": 0.7293333333333333,
+            "pp": 18.5599,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 130,
+            "created_at": "2026-08-19T20:49:11Z",
+            "beatmapset": {
+              "id": 2495916,
+              "title": "The Best of Both Worlds (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2495916/covers/card.jpg?1771958689",
+              "stars": 4.27866
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066749353,
+            "rank": "A",
+            "accuracy": 0.9389978213507625,
+            "pp": 51.1648,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 122,
+            "created_at": "2026-08-19T20:46:35Z",
+            "beatmapset": {
+              "id": 527431,
+              "title": "Gravity Falls Theme Song",
+              "cover": "https://assets.ppy.sh/beatmaps/527431/covers/card.jpg?1645788302",
+              "stars": 4.23563
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066748750,
+            "rank": "C",
+            "accuracy": 0.8442265795206971,
+            "pp": 42.69,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 151,
+            "created_at": "2026-08-19T20:44:53Z",
+            "beatmapset": {
+              "id": 527431,
+              "title": "Gravity Falls Theme Song",
+              "cover": "https://assets.ppy.sh/beatmaps/527431/covers/card.jpg?1645788302",
+              "stars": 4.23563
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066747830,
+            "rank": "C",
+            "accuracy": 0.8322440087145969,
+            "pp": 29.7708,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 119,
+            "created_at": "2026-08-19T20:41:55Z",
+            "beatmapset": {
+              "id": 527431,
+              "title": "Gravity Falls Theme Song",
+              "cover": "https://assets.ppy.sh/beatmaps/527431/covers/card.jpg?1645788302",
+              "stars": 4.23563
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066746661,
+            "rank": "D",
+            "accuracy": 0.6684914841849149,
+            "pp": 12.9057,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 122,
+            "created_at": "2026-08-19T20:38:24Z",
+            "beatmapset": {
+              "id": 2323751,
+              "title": "Kanikuly (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2323751/covers/card.jpg?1754862018",
+              "stars": 5.0281
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066746293,
+            "rank": "D",
+            "accuracy": 0.690389294403893,
+            "pp": 18.5762,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 76,
+            "created_at": "2026-08-19T20:37:18Z",
+            "beatmapset": {
+              "id": 2323751,
+              "title": "Kanikuly (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2323751/covers/card.jpg?1754862018",
+              "stars": 5.0281
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066683313,
+            "rank": "C",
+            "accuracy": 0.7511655011655012,
+            "pp": 22.5726,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 103,
+            "created_at": "2026-08-19T17:35:16Z",
+            "beatmapset": {
+              "id": 2464479,
+              "title": "Maniac (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2464479/covers/card.jpg?1764663200",
+              "stars": 4.91547
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066680808,
+            "rank": "B",
+            "accuracy": 0.8565323565323565,
+            "pp": 31.0182,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 210,
+            "created_at": "2026-08-19T17:28:06Z",
+            "beatmapset": {
+              "id": 975620,
+              "title": "Vanilla Chocolat (Sped Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/975620/covers/card.jpg?1650680911",
+              "stars": 4.58947
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066680287,
+            "rank": "C",
+            "accuracy": 0.8284493284493285,
+            "pp": 39.8412,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 211,
+            "created_at": "2026-08-19T17:26:39Z",
+            "beatmapset": {
+              "id": 975620,
+              "title": "Vanilla Chocolat (Sped Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/975620/covers/card.jpg?1650680911",
+              "stars": 4.58947
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066679837,
+            "rank": "C",
+            "accuracy": 0.8156288156288156,
+            "pp": 27.8415,
+            "mods": [
+              "EZ",
+              "HD"
+            ],
+            "combo": 78,
+            "created_at": "2026-08-19T17:25:21Z",
+            "beatmapset": {
+              "id": 975620,
+              "title": "Vanilla Chocolat (Sped Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/975620/covers/card.jpg?1650680911",
+              "stars": 4.58947
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066679364,
+            "rank": "B",
+            "accuracy": 0.8583638583638583,
+            "pp": 37.7668,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 97,
+            "created_at": "2026-08-19T17:24:05Z",
+            "beatmapset": {
+              "id": 975620,
+              "title": "Vanilla Chocolat (Sped Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/975620/covers/card.jpg?1650680911",
+              "stars": 4.58947
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5066678583,
+            "rank": "C",
+            "accuracy": 0.8157492354740061,
+            "pp": 44.8541,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 115,
+            "created_at": "2026-08-19T17:21:56Z",
+            "beatmapset": {
+              "id": 975620,
+              "title": "Vanilla Chocolat (Sped Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/975620/covers/card.jpg?1650680911",
+              "stars": 4.27574
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "MONTAGEM BATCHI",
+        "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+        "unique_players": 36
       }
     }
   }
