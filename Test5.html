@@ -1,0 +1,1072 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>osu! Iraq Today | Scores</title>
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="https://i.imgur.com/Zgd9kDC.jpg">
+    <style>
+        :root {
+            --osu-pink: #ff66aa;
+            --osu-pink-dark: #cc4488;
+            --dark-base: #1a1a20;
+            --dark-deeper: #13131a;
+            --panel-bg: #272730;
+            --panel-border: rgba(255,255,255,0.07);
+            --text-main: #ffffff;
+            --text-muted: #8888a0;
+            --accent-gold: #ffd700;
+            --accent-green: #66ffbb;
+            --accent-red: #ff4466;
+            --accent-blue: #44aaff;
+            /* Per-mode accents, aliased to the existing palette so the mode
+               filter chips and score-card accents share one consistent language */
+            --mode-osu: var(--osu-pink);
+            --mode-taiko: var(--accent-red);
+            --mode-fruits: var(--accent-green);
+            --mode-mania: var(--accent-blue);
+        }
+
+        *, *::before, *::after { box-sizing: border-box; }
+
+        /* ─── TRIANGLE CANVAS ─── */
+        #tri-canvas {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none; z-index: 0;
+        }
+
+        body {
+            background-color: var(--dark-base);
+            color: var(--text-main);
+            font-family: 'Exo 2', sans-serif;
+            margin: 0; padding: 0;
+            scroll-behavior: smooth;
+            overflow-x: hidden;
+        }
+
+        header, .controls-bar, .feed-container, footer, #progress-container, #notif-toast {
+            position: relative; z-index: 1;
+        }
+
+        /* ─── HEADER ─── */
+        header {
+            background: rgba(15,15,20,0.9);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            padding: 0 24px;
+            display: flex; align-items: center; justify-content: space-between;
+            border-bottom: 1px solid rgba(255,102,170,0.15);
+            position: sticky; top: 0; z-index: 1000;
+            height: 60px;
+        }
+        .logo-box a { display: flex; align-items: center; gap: 12px; text-decoration: none; }
+        .logo-box img { height: 34px; border-radius: 8px; display: block; }
+        .logo-text { color: #fff; font-weight: 800; font-size: 18px; white-space: nowrap; }
+        .logo-text span { color: var(--osu-pink); }
+        .logo-box a:hover .logo-text { color: var(--osu-pink); transition: color 0.2s; }
+
+        /* ─── DROPDOWN ─── */
+        .dropdown { position: relative; display: flex; align-items: center; }
+        .dropbtn {
+            background: rgba(255,255,255,0.06);
+            color: white; border: 1px solid rgba(255,255,255,0.1);
+            padding: 8px 18px; border-radius: 8px; cursor: pointer;
+            font-family: 'Exo 2'; font-weight: 700; font-size: 14px;
+            transition: all 0.2s ease;
+        }
+        .dropbtn:hover { background: rgba(255,102,170,0.15); border-color: var(--osu-pink); color: var(--osu-pink); }
+        .dropdown-content {
+            visibility: hidden; opacity: 0; transform: translateY(8px) scale(0.97);
+            transition: opacity 0.2s ease, transform 0.25s cubic-bezier(0.2,0.8,0.2,1), visibility 0.2s;
+            position: absolute; right: 0; top: calc(100% + 12px); min-width: 270px; z-index: 2000;
+            background: rgba(20,20,28,0.97); backdrop-filter: blur(20px);
+            box-shadow: 0 20px 60px rgba(0,0,0,0.7), 0 0 0 1px rgba(255,102,170,0.1);
+            border-radius: 14px; padding: 8px;
+        }
+        .dropdown-content.show { visibility: visible; opacity: 1; transform: translateY(0) scale(1); }
+        .menu-item {
+            position: relative; color: var(--text-muted); padding: 11px 14px; text-decoration: none;
+            display: block; font-size: 14px; border-radius: 8px; transition: all 0.2s ease; margin-bottom: 2px;
+            overflow: hidden;
+        }
+        .menu-item:last-child { margin-bottom: 0; }
+        .menu-item .menu-desc { display: block; font-size: 11px; color: #55556a; margin-top: 3px; transition: color 0.2s; }
+        .menu-item:hover { background: rgba(255,102,170,0.12); color: white; }
+        .menu-item.active { background: rgba(255,102,170,0.15); color: white; font-weight: 700; }
+        .menu-item::before {
+            content: ''; position: absolute; left: 0; top: 50%; transform: translateY(-50%) scaleY(0);
+            width: 3px; height: 60%; background: var(--osu-pink); border-radius: 0 3px 3px 0;
+            transition: transform 0.25s cubic-bezier(0.2,0.8,0.2,1);
+        }
+        .menu-item.active::before, .menu-item:hover::before { transform: translateY(-50%) scaleY(1); }
+        .menu-item:hover .menu-desc, .menu-item.active .menu-desc { color: rgba(255,102,170,0.7); }
+
+        /* ─── CONTROLS BAR ─── */
+        .controls-bar {
+            max-width: 1440px; width: 100%; margin: 24px auto 16px; padding: 0 20px;
+            display: flex; justify-content: space-between; align-items: center; gap: 12px;
+            position: relative;
+        }
+        .section-label {
+            color: var(--osu-pink); font-weight: 800; font-size: 11px;
+            letter-spacing: 2.5px; text-transform: uppercase; margin: 0;
+        }
+        /* Plain pink text button — no border box */
+        .date-btn {
+            background: transparent; border: none;
+            color: var(--osu-pink);
+            padding: 6px 4px;
+            font-size: 13px; font-weight: 800; font-family: 'Exo 2';
+            cursor: pointer; display: flex; align-items: center; gap: 7px;
+            transition: opacity 0.2s; letter-spacing: 0.3px;
+        }
+        .date-btn:hover { opacity: 0.7; }
+
+        /* ─── CALENDAR POPUP ─── */
+        .calendar-popup {
+            display: none; position: absolute; top: 44px; right: 0; z-index: 999;
+            background: #25252e; border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 12px; width: 300px; padding: 16px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.7);
+        }
+        .calendar-popup.open { display: block; }
+        .cal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+        .cal-month { font-weight: 800; color: white; font-size: 15px; }
+        .cal-nav {
+            cursor: pointer; color: var(--text-muted);
+            padding: 5px 10px; border-radius: 6px; transition: 0.2s; font-size: 13px;
+        }
+        .cal-nav:hover { color: var(--osu-pink); background: rgba(255,102,170,0.1); }
+        .cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; text-align: center; }
+        .cal-day-label { font-size: 10px; color: var(--text-muted); padding-bottom: 6px; font-weight: 700; }
+        /* All days show as normal numbers */
+        .cal-day {
+            padding: 8px 4px; font-size: 12px; border-radius: 6px;
+            color: #888; font-weight: 600;
+            pointer-events: none;
+        }
+        /* Days WITH data — white text, clickable, pink fill on hover */
+        .cal-day.has-data {
+            color: #eee; font-weight: 700; cursor: pointer;
+            pointer-events: auto;
+            transition: background 0.15s;
+        }
+        .cal-day.has-data:hover { background: rgba(255,102,170,0.2); color: white; }
+        /* Selected day — solid pink fill like original */
+        .cal-day.selected {
+            background: var(--osu-pink) !important;
+            color: white !important;
+            font-weight: 800 !important;
+        }
+        .cal-day.empty { pointer-events: none; color: transparent; }
+
+        /* ─── FEED CONTAINER ─── */
+        .feed-container { max-width: 1440px; width: 100%; margin: 0 auto; padding: 0 20px 40px; }
+
+        /* ─── FILTER BAR ─── */
+        .filter-bar {
+            max-width: 1440px; width: 100%; margin: 0 auto 18px; padding: 14px 20px;
+            display: flex; flex-wrap: wrap; align-items: center; gap: 18px; row-gap: 12px;
+            background: var(--panel-bg); border: 1px solid var(--panel-border); border-radius: 14px;
+        }
+        .filter-group { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+        .filter-group-label {
+            font-size: 10px; font-weight: 800; color: var(--text-muted);
+            letter-spacing: 1px; text-transform: uppercase; margin-right: 2px;
+        }
+        /* Mode chips — pill buttons colored per-mode only when active */
+        .chip-btn {
+            background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.12);
+            color: var(--text-muted); padding: 6px 13px; border-radius: 20px;
+            font-family: 'Exo 2'; font-weight: 700; font-size: 12px; cursor: pointer;
+            transition: all 0.18s ease; letter-spacing: 0.3px;
+        }
+        .chip-btn:hover { border-color: rgba(255,255,255,0.3); color: white; }
+        .chip-btn.active { background: var(--osu-pink); border-color: var(--osu-pink); color: white; }
+        .chip-btn.active[data-mode="taiko"]  { background: var(--mode-taiko);  border-color: var(--mode-taiko); }
+        .chip-btn.active[data-mode="fruits"] { background: var(--mode-fruits); border-color: var(--mode-fruits); color: #0c1a12; }
+        .chip-btn.active[data-mode="mania"]  { background: var(--mode-mania);  border-color: var(--mode-mania); }
+
+        /* Mod chips — reuse the exact .mod-pill colors from score cards, just dimmed until selected */
+        .mod-filter-chip {
+            cursor: pointer; opacity: 0.55; border: none; font-family: 'Exo 2';
+            transition: opacity 0.15s ease, transform 0.15s ease;
+        }
+        .mod-filter-chip:hover { opacity: 0.85; }
+        .mod-filter-chip.active { opacity: 1; box-shadow: 0 0 0 2px rgba(255,255,255,0.55); transform: translateY(-1px); }
+
+        .pp-slider-wrap { display: flex; align-items: center; gap: 10px; }
+        #ppSlider { accent-color: var(--osu-pink); width: 130px; cursor: pointer; }
+        #ppValueLabel { font-weight: 800; color: white; font-size: 12px; min-width: 34px; }
+
+        .clear-filters-btn {
+            background: none; border: none; color: var(--text-muted);
+            font-size: 12px; font-weight: 700; cursor: pointer; text-decoration: underline;
+            padding: 4px 2px; margin-left: auto; white-space: nowrap;
+        }
+        .clear-filters-btn:hover { color: var(--osu-pink); }
+        .filter-count { font-size: 11px; color: var(--text-muted); font-weight: 700; white-space: nowrap; }
+
+        /* ─── SCORE GRID ─── */
+        .score-grid {
+            display: grid;
+            gap: 14px;
+            /* auto-fit + minmax means cards stay the same natural size at
+               any viewport, AND fewer cards (e.g. after filtering) stretch
+               to fill the row instead of shrinking to a leftover fraction
+               of a fixed column count. */
+            grid-template-columns: repeat(auto-fit, minmax(265px, 1fr));
+        }
+
+        .status-msg {
+            grid-column: 1 / -1; text-align: center; padding: 60px 20px;
+            color: var(--text-muted); font-weight: 700; font-size: 14px; letter-spacing: 1px;
+        }
+
+        /* ─── SCORE CARD ─── */
+        .score-card {
+            background: var(--panel-bg);
+            border-radius: 14px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            border: 1px solid var(--panel-border);
+            text-decoration: none;
+            position: relative;
+            cursor: pointer;
+            transition: transform 0.25s cubic-bezier(0.175,0.885,0.32,1.275), border-color 0.2s, box-shadow 0.2s;
+            animation: cardFadeIn 0.4s ease backwards;
+        }
+        .score-card:hover {
+            transform: translateY(-7px);
+            border-color: rgba(255,102,170,0.5);
+            box-shadow: 0 12px 32px rgba(0,0,0,0.5);
+        }
+        .score-card:active { transform: translateY(-3px) scale(0.98); }
+
+        /* Per-mode left accent stripe — comes before .top-play below so the
+           gold "daily best" border always wins if a card happens to be both. */
+        .score-card.mode-osu    { border-left: 4px solid var(--mode-osu); }
+        .score-card.mode-taiko  { border-left: 4px solid var(--mode-taiko); }
+        .score-card.mode-fruits { border-left: 4px solid var(--mode-fruits); }
+        .score-card.mode-mania  { border-left: 4px solid var(--mode-mania); }
+
+        /* DAILY BEST gold aura */
+        .score-card.top-play {
+            border: 2px solid rgba(255,215,0,0.6);
+            box-shadow: 0 0 18px rgba(255,215,0,0.2);
+        }
+        .score-card.top-play:hover {
+            box-shadow: 0 14px 36px rgba(255,215,0,0.35);
+            border-color: var(--accent-gold);
+        }
+
+        @keyframes cardFadeIn {
+            from { opacity: 0; transform: translateY(18px); }
+            to   { opacity: 1; transform: translateY(0); }
+        }
+
+        /* ─── MAP HEADER (cover image area) ─── */
+        .map-header-wrap {
+            position: relative; flex-shrink: 0; height: 110px; overflow: hidden;
+            border-radius: 0; /* card handles border-radius via overflow:hidden */
+        }
+        .map-header {
+            width: 100%; height: 110px;
+            background-size: cover; background-position: center;
+            display: block;
+        }
+        /* Dark gradient overlay */
+        .map-header::after {
+            content: ''; position: absolute; inset: 0;
+            background: linear-gradient(to bottom, rgba(0,0,0,0.08) 0%, rgba(0,0,0,0.75) 100%);
+            pointer-events: none;
+        }
+
+        /* Mode + PP badge stack — top-left, positioned on wrapper */
+        .mode-pp-stack {
+            position: absolute; top: 0; left: 0; z-index: 5;
+            display: flex; flex-direction: column; align-items: flex-start;
+        }
+        .mode-name-badge {
+            color: white; padding: 4px 12px;
+            border-radius: 0 0 10px 0;
+            font-weight: 900; font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase;
+            line-height: 1.3;
+        }
+        .score-card.mode-osu    .mode-name-badge { background: var(--mode-osu); }
+        .score-card.mode-taiko  .mode-name-badge { background: var(--mode-taiko); }
+        .score-card.mode-fruits .mode-name-badge { background: var(--mode-fruits); color: #0c1a12; }
+        .score-card.mode-mania  .mode-name-badge { background: var(--mode-mania); }
+        .score-card.top-play    .mode-name-badge { background: var(--accent-gold); color: #111; }
+
+        .pp-badge {
+            background: rgba(10,10,16,0.65);
+            padding: 3px 12px;
+            border-radius: 0 0 10px 0;
+            font-weight: 800; font-size: 11px; line-height: 1.4;
+        }
+        .score-card.mode-osu    .pp-badge { color: var(--mode-osu); }
+        .score-card.mode-taiko  .pp-badge { color: var(--mode-taiko); }
+        .score-card.mode-fruits .pp-badge { color: var(--mode-fruits); }
+        .score-card.mode-mania  .pp-badge { color: var(--mode-mania); }
+        .score-card.top-play    .pp-badge { color: var(--accent-gold); }
+
+        /* Star rating — bottom-left */
+        .stars-badge {
+            position: absolute; bottom: 8px; left: 10px; z-index: 6;
+            font-size: 11px; font-weight: 800; color: var(--accent-gold);
+            display: flex; align-items: center; gap: 3px;
+            text-shadow: 0 1px 4px rgba(0,0,0,0.9);
+            pointer-events: none;
+        }
+
+        /* Rank grade — top-right */
+        .rank-grade {
+            position: absolute; top: 0; right: 0; z-index: 5;
+            background: rgba(15,15,22,0.92);
+            font-weight: 900; font-size: 22px; line-height: 1;
+            padding: 4px 14px;
+            border-radius: 0 0 0 12px;
+            border-left: 3px solid var(--osu-pink);
+        }
+        .score-card.top-play .rank-grade { border-left-color: var(--accent-gold); }
+
+        /* Rank colors */
+        .rank-SS, .rank-SSH { color: #f8f8ff; text-shadow: 0 0 10px rgba(255,255,255,0.8); }
+        .rank-S,  .rank-SH  { color: #ffcc22; text-shadow: 0 0 8px rgba(255,180,0,0.6); }
+        .rank-A { color: #88ee00; }
+        .rank-B { color: #33bbff; }
+        .rank-C { color: #ff88ff; }
+        .rank-D { color: var(--accent-red); }
+
+        /* DAILY BEST badge — bottom-LEFT of image (not covered by avatar) */
+        .top-play-badge {
+            position: absolute; bottom: 8px; left: 10px; z-index: 10;
+            background: var(--accent-gold); color: #111;
+            font-weight: 900; font-size: 10px; letter-spacing: 0.8px;
+            padding: 3px 8px; border-radius: 6px;
+            pointer-events: none;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.6);
+        }
+
+        /* Mystery gift — for unrevealed top-play cards */
+        .mystery-cover {
+            position: absolute; inset: 0; z-index: 8;
+            background: linear-gradient(135deg, #1a1a28 0%, #2a1a3a 50%, #1a1a28 100%);
+            display: flex; flex-direction: column; align-items: center; justify-content: center;
+            gap: 6px; cursor: pointer; transition: opacity 0.4s;
+        }
+        .mystery-cover .gift-icon {
+            font-size: 36px; 
+            animation: giftGlow 2s ease-in-out infinite;
+            filter: drop-shadow(0 0 12px rgba(255,215,0,0.6));
+        }
+        .mystery-cover .gift-label {
+            font-size: 10px; font-weight: 800; color: rgba(255,215,0,0.7);
+            letter-spacing: 1.5px; text-transform: uppercase;
+        }
+        @keyframes giftGlow {
+            0%, 100% { filter: drop-shadow(0 0 8px rgba(255,215,0,0.4)); transform: scale(1); }
+            50%       { filter: drop-shadow(0 0 18px rgba(255,215,0,0.9)); transform: scale(1.06); }
+        }
+        .mystery-cover.revealed { opacity: 0; pointer-events: none; }
+
+        /* ─── CARD BODY ─── */
+        .card-body {
+            padding: 12px 14px 14px;
+            background: var(--panel-bg);
+            flex-grow: 1;
+            display: flex; flex-direction: column; gap: 0;
+            position: relative;
+        }
+
+        /* Floating avatar — overlaps map/body border */
+        .user-link {
+            position: absolute; top: -24px; right: 12px; z-index: 10;
+        }
+        .user-avatar {
+            width: 48px; height: 48px; border-radius: 11px;
+            border: 3px solid var(--panel-bg);
+            background: #333; display: block;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        .user-avatar:hover { transform: scale(1.1); border-color: var(--osu-pink); }
+        .score-card.top-play .user-avatar { border-color: var(--accent-gold); }
+
+        /* Player name row */
+        .player-row {
+            display: flex; align-items: center; gap: 6px;
+            margin-bottom: 3px; margin-top: 2px;
+        }
+        .flag { width: 16px; height: auto; border-radius: 2px; flex-shrink: 0; }
+        .player-name {
+            font-weight: 800; color: white; font-size: 15px;
+            text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+            transition: color 0.15s;
+        }
+        .player-name:hover { color: var(--osu-pink); }
+
+        /* Map title */
+        .map-title {
+            font-size: 12px; color: var(--text-muted);
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+            text-decoration: none; display: block;
+            transition: color 0.15s; line-height: 1.3;
+            max-width: calc(100% - 20px); /* leave room so it doesn't overlap avatar */
+        }
+        .map-title:hover { color: white; }
+
+        /* Stats row */
+        .score-stats {
+            margin-top: 10px; padding-top: 10px;
+            border-top: 1px solid rgba(255,255,255,0.07);
+            display: flex; justify-content: space-between; align-items: center;
+            flex-wrap: wrap; gap: 4px;
+        }
+        .stat-left  { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+        .stat-right { display: flex; align-items: center; gap: 6px; }
+
+        .acc-val  { color: var(--accent-green); font-size: 13px; font-weight: 800; }
+        .time-ago { 
+            color: #55556a; font-size: 11px; font-weight: 600; 
+            cursor: default; position: relative;
+        }
+        .time-ago .tooltip-time {
+            display: none;
+            position: absolute; bottom: calc(100% + 6px); right: 0;
+            background: rgba(20,20,28,0.98);
+            border: 1px solid rgba(255,102,170,0.2);
+            color: white; font-size: 11px; font-weight: 700;
+            padding: 5px 10px; border-radius: 7px;
+            white-space: nowrap;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.5);
+            pointer-events: none; z-index: 20;
+        }
+        .time-ago:hover .tooltip-time { display: block; }
+
+        /* Mod pills — osu-style colored per mod */
+        .mods-row { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 6px; min-height: 20px; }
+        .mod-pill {
+            font-size: 10px; font-weight: 900;
+            padding: 2px 7px; border-radius: 5px;
+            letter-spacing: 0.4px; display: inline-block;
+        }
+        /* HD */ .mod-HD { background: #3a5fa0; color: #aaccff; border: 1px solid rgba(100,160,255,0.3); }
+        /* DT */ .mod-DT { background: #5533aa; color: #cc99ff; border: 1px solid rgba(150,80,255,0.3); }
+        /* HR */ .mod-HR { background: #8b1a1a; color: #ff9999; border: 1px solid rgba(255,80,80,0.3); }
+        /* FL */ .mod-FL { background: #1a1a1a; color: #888; border: 1px solid rgba(150,150,150,0.2); }
+        /* EZ */ .mod-EZ { background: #1a5a1a; color: #88ee88; border: 1px solid rgba(80,200,80,0.3); }
+        /* NC */ .mod-NC { background: #5533aa; color: #cc99ff; border: 1px solid rgba(150,80,255,0.3); }
+        /* HT */ .mod-HT { background: #2a4a6a; color: #88aacc; border: 1px solid rgba(80,140,200,0.3); }
+        /* NF */ .mod-NF { background: #2a2a2a; color: #888; border: 1px solid rgba(150,150,150,0.2); }
+        /* SO */ .mod-SO { background: #5a3a1a; color: #ddaa66; border: 1px solid rgba(200,150,50,0.3); }
+        /* SD */ .mod-SD { background: #5a1a1a; color: #ffaaaa; border: 1px solid rgba(200,80,80,0.3); }
+        /* PF */ .mod-PF { background: #5a1a1a; color: #ffaaaa; border: 1px solid rgba(200,80,80,0.3); }
+        /* RX */ .mod-RX { background: #1a5a5a; color: #88eedd; border: 1px solid rgba(80,200,180,0.3); }
+        /* AP */ .mod-AP { background: #1a5a5a; color: #88eedd; border: 1px solid rgba(80,200,180,0.3); }
+        /* default/unknown */ .mod-default { background: rgba(80,80,100,0.2); color: var(--text-muted); border: 1px solid rgba(255,255,255,0.08); }
+
+        /* ─── AD CARD ─── */
+        .ad-card {
+            background: #1a1a24;
+            border-radius: 14px; overflow: hidden;
+            display: flex; flex-direction: column;
+            border: 1px solid var(--panel-border);
+            position: relative; text-decoration: none;
+            transition: 0.25s; cursor: pointer; height: 100%;
+            animation: cardFadeIn 0.4s ease backwards;
+        }
+        .ad-card:hover { border-color: #666; box-shadow: 0 10px 24px rgba(0,0,0,0.4); transform: translateY(-6px); }
+        .ad-card img { width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1; }
+        .ad-label {
+            position: absolute; top: 8px; right: 8px;
+            background: rgba(0,0,0,0.7); color: #aaa;
+            font-size: 9px; font-weight: 700; padding: 2px 6px; border-radius: 4px; z-index: 10;
+        }
+
+        /* ─── SCROLL PROGRESS ─── */
+        #progress-container {
+            position: fixed; bottom: 28px; right: 28px;
+            width: 56px; height: 56px; cursor: pointer;
+            display: none; align-items: center; justify-content: center;
+            z-index: 2000; transition: transform 0.2s ease, opacity 0.3s;
+        }
+        #progress-container:hover { transform: scale(1.1); }
+        .progress-svg { transform: rotate(-90deg); }
+        .progress-background { fill: rgba(22,22,30,0.95); stroke: rgba(255,255,255,0.1); stroke-width: 4; }
+        #progress-bar {
+            fill: none; stroke: var(--osu-pink); stroke-width: 4;
+            stroke-linecap: round; stroke-dasharray: 163.3; stroke-dashoffset: 163.3;
+            transition: stroke-dashoffset 0.1s linear;
+        }
+        .arrow-up { position: absolute; color: white; font-size: 16px; pointer-events: none; }
+
+        /* ─── FOOTER ─── */
+        html, body { min-height: 100vh; }
+        body { display: flex; flex-direction: column; }
+        .feed-container { flex: 1; }
+        footer {
+            background: var(--dark-deeper); color: #fff;
+            padding: 20px 16px 32px; text-align: center;
+            border-top: 1px solid rgba(255,102,170,0.2); margin-top: 10px;
+        }
+        footer h3 { color: var(--osu-pink); margin: 0 0 6px; font-size: 18px; }
+        footer p  { margin: 0; font-size: 13px; color: #666; }
+        footer a  { color: var(--osu-pink); text-decoration: none; font-weight: 700; }
+        footer a:hover { text-decoration: underline; }
+        footer hr { border: 0; border-top: 1px solid #2a2a35; margin: 14px 0; }
+        .footer-links { margin: 10px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
+        .footer-meta { font-size: 12px; color: #555; line-height: 1.7; }
+        .footer-meta span { color: var(--osu-pink); font-family: monospace; }
+    </style>
+</head>
+<body>
+
+<canvas id="tri-canvas"></canvas>
+
+<audio id="hoverSound" src="pop.mp3" preload="auto"></audio>
+
+<header>
+    <div class="logo-box">
+        <a href="index.html">
+            <img src="https://i.imgur.com/Zgd9kDC.jpg" alt="osu! Iraq Today">
+            <span class="logo-text">osu! Iraq <span>Today</span></span>
+        </a>
+    </div>
+   <div class="dropdown">
+        <button class="dropbtn" id="menuBtn">Menu ▾</button>
+        <div class="dropdown-content" id="myDropdown">
+            <a href="Test.html"       class="menu-item  active">Scores<span class="menu-desc">See what happened today?</span></a>
+            <a href="rankings.html"   class="menu-item">Rankings<span class="menu-desc">See player leaderboards</span></a>
+            <a href="videos.html"     class="menu-item">Videos<span class="menu-desc">Watch gameplay and highlights</span></a>
+            <a href="mapping.html"    class="menu-item">Mapping<span class="menu-desc">Explore beatmap creations</span></a>
+            <a href="archive.html"    class="menu-item">Archive<span class="menu-desc">Explore community History</span></a>
+            <a href="socials.html"    class="menu-item">Socials<span class="menu-desc">Connect with the community</span></a>
+            <a href="Communityy.html" class="menu-item">Community<span class="menu-desc">Daily grinders insights</span></a>
+        </div>
+    </div>
+</header>
+
+<div class="controls-bar">
+    <span class="section-label" id="currentDateLabel">LATEST SCORES</span>
+    <button class="date-btn" id="calendarBtn">📅 SELECT DATE</button>
+</div>
+
+<div class="calendar-popup" id="calendarPopup">
+    <div class="cal-header">
+        <span class="cal-nav" onclick="changeMonth(-1)">&#9664;</span>
+        <span class="cal-month" id="calMonthYear"></span>
+        <span class="cal-nav" onclick="changeMonth(1)">&#9654;</span>
+    </div>
+    <div class="cal-grid" id="calGrid"></div>
+</div>
+
+<div class="filter-bar" id="filterBar" style="display:none;">
+    <div class="filter-group">
+        <span class="filter-group-label">Mode</span>
+        <button class="chip-btn active" data-mode="all">All</button>
+        <button class="chip-btn" data-mode="osu">osu!</button>
+        <button class="chip-btn" data-mode="taiko">Taiko</button>
+        <button class="chip-btn" data-mode="fruits">Catch</button>
+        <button class="chip-btn" data-mode="mania">Mania</button>
+    </div>
+    <div class="filter-group pp-slider-wrap">
+        <span class="filter-group-label">Min PP</span>
+        <input type="range" id="ppSlider" min="0" max="100" value="0" step="1">
+        <span id="ppValueLabel">0</span>
+    </div>
+    <div class="filter-group" id="modsFilterGroup" style="display:none;">
+        <span class="filter-group-label">Mods</span>
+        <span id="modsFilterChips" style="display:flex; gap:6px; flex-wrap:wrap;"></span>
+    </div>
+    <span class="filter-count" id="filterCount"></span>
+    <button class="clear-filters-btn" id="clearFiltersBtn">Clear filters</button>
+</div>
+
+<div class="feed-container">
+    <div class="score-grid" id="scoreGrid">
+        <div class="status-msg">Select a date to view archived scores...</div>
+    </div>
+</div>
+
+<div id="progress-container" onclick="scrollToTop()">
+    <svg class="progress-svg" width="56" height="56" viewBox="0 0 60 60">
+        <circle class="progress-background" cx="30" cy="30" r="26"></circle>
+        <circle id="progress-bar" cx="30" cy="30" r="26"></circle>
+    </svg>
+    <div class="arrow-up">▲</div>
+</div>
+
+<footer>
+    <div style="max-width:900px; margin:0 auto;">
+        <h3>Osu! Iraq Today</h3>
+        <p>Built with ❤️ for the Iraqi osu! Community</p>
+        <hr>
+        <div class="footer-links">
+            <a href="#donate">Donate</a>
+            <a href="#discord">Discord</a>
+            <a href="OIT_Document.html">Documentation</a>
+        </div>
+        <hr>
+        <p class="footer-meta">
+            A <strong>non-commercial</strong> osu! community project | Data via <strong>osu! API v2</strong><br>
+            Last Update: <span id="footer-time">2026-02-27 04:00 UTC</span> · Build <span id="footer-commit">local</span>
+        </p>
+    </div>
+</footer>
+
+<script>
+// ─── UTILITIES ───
+function timeAgo(dateString) {
+    const date = new Date(dateString);
+    const now   = new Date();
+    const secs  = Math.floor((now - date) / 1000);
+    const hrs   = Math.floor(secs / 3600);
+    if (hrs > 48) return date.toLocaleDateString();
+    if (hrs >= 1)  return hrs + 'h ago';
+    const mins = Math.floor(secs / 60);
+    if (mins >= 1) return mins + 'm ago';
+    return 'Just now';
+}
+
+function fmtAcc(a) {
+    return (a * 100).toFixed(2) + '%';
+}
+
+function fmtStars(s) {
+    return parseFloat(s).toFixed(2) + '★';
+}
+
+// Country code → flag image URL (osu! CDN)
+function flagUrl(cc) {
+    if (!cc) return '';
+    return `https://osu.ppy.sh/images/flags/${cc.toUpperCase()}.png`;
+}
+
+// ─── MENU LOGIC ───
+const menuBtn  = document.getElementById('menuBtn');
+const dropdown = document.getElementById('myDropdown');
+menuBtn.onclick = (e) => { dropdown.classList.toggle('show'); e.stopPropagation(); };
+window.onclick  = (e) => { if (!e.target.matches('.dropbtn')) dropdown.classList.remove('show'); };
+
+// ─── CALENDAR ───
+let calYear, calMonth;
+const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+
+function initCalendar() {
+    const now = new Date();
+    calYear  = now.getFullYear();
+    calMonth = now.getMonth();
+    renderCalendar();
+}
+
+function changeMonth(dir) {
+    calMonth += dir;
+    if (calMonth > 11) { calMonth = 0; calYear++; }
+    if (calMonth <  0) { calMonth = 11; calYear--; }
+    renderCalendar();
+}
+
+// ─── AVAILABLE DATES (populated after first successful fetch) ───
+const availableDates = new Set();
+
+function renderCalendar() {
+    document.getElementById('calMonthYear').textContent = `${months[calMonth]} ${calYear}`;
+    const grid = document.getElementById('calGrid');
+    grid.innerHTML = '';
+    ['Su','Mo','Tu','We','Th','Fr','Sa'].forEach(d => {
+        const el = document.createElement('div');
+        el.className = 'cal-day-label'; el.textContent = d;
+        grid.appendChild(el);
+    });
+    const firstDay = new Date(calYear, calMonth, 1).getDay();
+    const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
+    for (let i = 0; i < firstDay; i++) {
+        const el = document.createElement('div'); el.className = 'cal-day empty';
+        grid.appendChild(el);
+    }
+    for (let d = 1; d <= daysInMonth; d++) {
+        const el = document.createElement('div');
+        const y = calYear, m = String(calMonth + 1).padStart(2,'0'), dd = String(d).padStart(2,'0');
+        const key = `${y}-${m}-${dd}`;
+        const hasData = availableDates.has(key);
+        el.className = 'cal-day' + (hasData ? ' has-data' : '');
+        el.textContent = d;
+        if (hasData) el.onclick = () => { selectDate(key); };
+        grid.appendChild(el);
+    }
+}
+
+document.getElementById('calendarBtn').onclick = (e) => {
+    document.getElementById('calendarPopup').classList.toggle('open');
+    e.stopPropagation();
+};
+window.addEventListener('click', () => document.getElementById('calendarPopup').classList.remove('open'));
+document.getElementById('calendarPopup').addEventListener('click', e => e.stopPropagation());
+
+function selectDate(dateStr) {
+    document.getElementById('calendarPopup').classList.remove('open');
+    document.querySelectorAll('.cal-day').forEach(el => el.classList.remove('selected'));
+    const day = parseInt(dateStr.split('-')[2]);
+    document.querySelectorAll('.cal-day.has-data').forEach(el => {
+        if (parseInt(el.textContent) === day) el.classList.add('selected');
+    });
+    const [y, m, d] = dateStr.split('-');
+    const label = new Date(+y, +m-1, +d).toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+    document.getElementById('currentDateLabel').textContent = label.toUpperCase();
+    fetchAndRender(`data/${y}/${m}/${d}.json`);
+}
+
+// ─── REVEALED CARDS (localStorage persistence) ───
+const REVEALED_KEY = 'oit_revealed_top_plays';
+function getRevealed() {
+    try { return JSON.parse(localStorage.getItem(REVEALED_KEY) || '[]'); } catch { return []; }
+}
+function markRevealed(scoreId) {
+    const r = getRevealed();
+    if (!r.includes(scoreId)) { r.push(scoreId); localStorage.setItem(REVEALED_KEY, JSON.stringify(r)); }
+}
+
+// ─── MOD PILL BUILDER ───
+const KNOWN_MODS = ['HD','DT','HR','FL','EZ','NC','HT','NF','SO','SD','PF','RX','AP'];
+function buildModPill(mod) {
+    const cls = KNOWN_MODS.includes(mod) ? `mod-${mod}` : 'mod-default';
+    return `<span class="mod-pill ${cls}">${mod}</span>`;
+}
+
+// ─── MODE METADATA ───
+const MODE_LABELS = { osu: 'Standard', taiko: 'Taiko', fruits: 'Catch', mania: 'Mania' };
+
+// ─── FILTER STATE ───
+let allScoresForDay = [];   // raw scores for whichever date is currently loaded
+let dayTopScoreId   = null; // the single best play of the day — fixed regardless of filters
+let activeModeFilter = 'all';
+let minPpFilter = 0;
+let activeModFilters = new Set();
+
+function setupFilterBar(scores) {
+    const bar = document.getElementById('filterBar');
+    bar.style.display = scores.length ? 'flex' : 'none';
+    if (!scores.length) return;
+
+    // Only show chips for mods actually used today — no point listing 13
+    // options when 3 showed up.
+    const present = new Set();
+    let maxPp = 0;
+    scores.forEach(s => {
+        (s.mods || []).forEach(m => present.add(m));
+        if (s.pp > maxPp) maxPp = s.pp;
+    });
+    activeModFilters.forEach(m => { if (!present.has(m)) activeModFilters.delete(m); });
+
+    const modsGroup = document.getElementById('modsFilterGroup');
+    const modsChips = document.getElementById('modsFilterChips');
+    const presentList = KNOWN_MODS.filter(m => present.has(m));
+    modsGroup.style.display = presentList.length ? 'flex' : 'none';
+    modsChips.innerHTML = presentList.map(m => {
+        const active = activeModFilters.has(m) ? ' active' : '';
+        return `<button class="mod-pill mod-${m} mod-filter-chip${active}" data-mod="${m}" onclick="toggleModFilter('${m}')">${m}</button>`;
+    }).join('');
+
+    // pp slider bounds adapt to today's actual data instead of a guessed fixed max
+    const roundedMax = Math.max(10, Math.ceil(maxPp / 10) * 10);
+    const ppSlider = document.getElementById('ppSlider');
+    ppSlider.max = roundedMax;
+    if (minPpFilter > roundedMax) minPpFilter = 0;
+    ppSlider.value = minPpFilter;
+    document.getElementById('ppValueLabel').textContent = minPpFilter;
+}
+
+function matchesFilters(score) {
+    const mode = score.mode || 'osu';
+    if (activeModeFilter !== 'all' && mode !== activeModeFilter) return false;
+    if ((score.pp || 0) < minPpFilter) return false;
+    if (activeModFilters.size > 0) {
+        const scoreMods = new Set(score.mods || []);
+        let matchesAny = false;
+        for (const m of activeModFilters) { if (scoreMods.has(m)) { matchesAny = true; break; } }
+        if (!matchesAny) return false;
+    }
+    return true;
+}
+
+function toggleModFilter(mod) {
+    if (activeModFilters.has(mod)) activeModFilters.delete(mod); else activeModFilters.add(mod);
+    document.querySelectorAll('#modsFilterChips .mod-filter-chip').forEach(el => {
+        el.classList.toggle('active', activeModFilters.has(el.dataset.mod));
+    });
+    renderFiltered();
+}
+
+document.querySelectorAll('.chip-btn[data-mode]').forEach(btn => {
+    btn.onclick = () => {
+        activeModeFilter = btn.dataset.mode;
+        document.querySelectorAll('.chip-btn[data-mode]').forEach(b => b.classList.toggle('active', b === btn));
+        renderFiltered();
+    };
+});
+document.getElementById('ppSlider').oninput = (e) => {
+    minPpFilter = Number(e.target.value);
+    document.getElementById('ppValueLabel').textContent = minPpFilter;
+    renderFiltered();
+};
+document.getElementById('clearFiltersBtn').onclick = () => {
+    activeModeFilter = 'all'; minPpFilter = 0; activeModFilters.clear();
+    document.querySelectorAll('.chip-btn[data-mode]').forEach(b => b.classList.toggle('active', b.dataset.mode === 'all'));
+    document.querySelectorAll('#modsFilterChips .mod-filter-chip').forEach(el => el.classList.remove('active'));
+    document.getElementById('ppSlider').value = 0;
+    document.getElementById('ppValueLabel').textContent = '0';
+    renderFiltered();
+};
+
+// ─── MAIN RENDERER ───
+async function fetchAndRender(path) {
+    const grid = document.getElementById('scoreGrid');
+    grid.innerHTML = '<div class="status-msg">Loading scores...</div>';
+    document.getElementById('filterBar').style.display = 'none';
+
+    try {
+        const res = await fetch(path + '?t=' + Date.now());
+        if (!res.ok) throw new Error('No data found for this date.');
+        const data = await res.json();
+
+        allScoresForDay = data.scores || [];
+        if (allScoresForDay.length === 0) {
+            grid.innerHTML = '<div class="status-msg">No scores recorded for this day.</div>';
+            return;
+        }
+
+        dayTopScoreId = null;
+        let maxPp = -1;
+        allScoresForDay.forEach(s => { if (s.pp > maxPp) { maxPp = s.pp; dayTopScoreId = s.score_id; } });
+
+        setupFilterBar(allScoresForDay);
+        renderFiltered();
+
+    } catch(e) {
+        grid.innerHTML = `<div class="status-msg" style="color:var(--accent-red)">${e.message}</div>`;
+    }
+}
+
+// ─── FILTERED RENDER (re-run on every filter change, no re-fetch) ───
+function renderFiltered() {
+    const grid = document.getElementById('scoreGrid');
+    const filtered = allScoresForDay.filter(matchesFilters);
+
+    const countEl = document.getElementById('filterCount');
+    countEl.textContent = filtered.length === allScoresForDay.length
+        ? `${allScoresForDay.length} scores`
+        : `Showing ${filtered.length} of ${allScoresForDay.length}`;
+
+    if (filtered.length === 0) {
+        grid.innerHTML = '<div class="status-msg">No scores match your filters — try clearing them.</div>';
+        return;
+    }
+
+    const revealed = getRevealed();
+    grid.innerHTML = '';
+
+    filtered.forEach((score, index) => {
+        const isTop = score.score_id === dayTopScoreId;
+        const isRevealed = revealed.includes(String(score.score_id));
+        const mode = score.mode || 'osu';
+
+        // ── Mods — no NM pill ──
+        const mods = score.mods || [];
+        const modsHtml = mods.length > 0 ? mods.map(buildModPill).join('') : '';
+
+        // ── Stars ──
+        const stars = score.beatmapset?.stars ?? score.beatmapset?.difficulty_rating ?? null;
+        const starsHtml = stars !== null ? `<div class="stars-badge">${fmtStars(stars)}</div>` : '';
+
+        // ── Flag ──
+        const flag = score.country
+            ? `<img src="${flagUrl(score.country)}" class="flag" alt="${score.country}">` : '';
+
+        // ── Time: relative + hover tooltip with real datetime ──
+        const when = score.created_at ? timeAgo(score.created_at) : '';
+        const fullTime = score.created_at
+            ? new Date(score.created_at).toLocaleString('en-US', {
+                year:'numeric', month:'short', day:'numeric',
+                hour:'2-digit', minute:'2-digit', second:'2-digit', timeZoneName:'short'
+              }) : '';
+        const timeHtml = when
+            ? `<span class="time-ago">${when}<span class="tooltip-time">${fullTime}</span></span>` : '';
+
+        // ── Mode tag ──
+        const modeTagHtml = `<div class="mode-name-badge">${MODE_LABELS[mode] || mode}</div>`;
+
+        // ── Mystery gift overlay for unrevealed daily best ──
+        const mysteryHtml = isTop && !isRevealed
+            ? `<div class="mystery-cover" id="mystery-${score.score_id}" onclick="revealCard('${score.score_id}', event)">
+                   <div class="gift-icon">🎁</div>
+                   <div class="gift-label">Tap to reveal</div>
+               </div>` : '';
+
+        const card = document.createElement('div');
+        card.className = `score-card mode-${mode}` + (isTop ? ' top-play' : '');
+        card.style.animationDelay = Math.min(index * 0.045, 1.0) + 's';
+        card.onclick = (e) => {
+            if (!e.target.closest('a') && !e.target.closest('.mystery-cover')) {
+                window.open(`https://osu.ppy.sh/scores/${mode}/${score.score_id}`, '_blank');
+            }
+        };
+
+        card.innerHTML = `
+            <div class="map-header-wrap" style="position:relative; flex-shrink:0; height:110px; overflow:hidden;">
+                <a href="https://osu.ppy.sh/beatmapsets/${score.beatmapset.id}" target="_blank"
+                   onclick="event.stopPropagation()"
+                   class="map-header" style="background-image:url('${score.beatmapset.cover}'); width:100%; height:110px; background-size:cover; background-position:center; display:block;"></a>
+                <div class="mode-pp-stack">
+                    ${modeTagHtml}
+                    <div class="pp-badge">${Math.round(score.pp)}pp</div>
+                </div>
+                <div class="rank-grade rank-${score.rank}">${score.rank}</div>
+                ${starsHtml}
+                ${isTop ? `<div class="top-play-badge">DAILY BEST</div>` : ''}
+                ${mysteryHtml}
+            </div>
+
+            <div class="card-body">
+                <a href="https://osu.ppy.sh/users/${score.user_id}" target="_blank"
+                   onclick="event.stopPropagation()" class="user-link">
+                    <img src="https://a.ppy.sh/${score.user_id}" class="user-avatar"
+                         alt="${score.user}" onerror="this.src='https://osu.ppy.sh/images/layout/avatar-guest.png'">
+                </a>
+                <div class="player-row">
+                    ${flag}
+                    <a href="https://osu.ppy.sh/users/${score.user_id}" target="_blank"
+                       onclick="event.stopPropagation()" class="player-name">${score.user}</a>
+                </div>
+                <a href="https://osu.ppy.sh/beatmapsets/${score.beatmapset.id}" target="_blank"
+                   onclick="event.stopPropagation()" class="map-title"
+                   title="${score.beatmapset.title}">${score.beatmapset.title}</a>
+                ${modsHtml ? `<div class="mods-row">${modsHtml}</div>` : '<div class="mods-row"></div>'}
+                <div class="score-stats">
+                    <span class="acc-val">${fmtAcc(score.accuracy)}</span>
+                    <div class="stat-right">${timeHtml}</div>
+                </div>
+            </div>`;
+
+        grid.appendChild(card);
+    });
+}
+
+function revealCard(scoreId, e) {
+    e.stopPropagation();
+    markRevealed(String(scoreId));
+    const el = document.getElementById('mystery-' + scoreId);
+    if (el) { el.classList.add('revealed'); setTimeout(() => el.remove(), 400); }
+}
+
+// ─── SCROLL PROGRESS ───
+const progressEl = document.getElementById('progress-container');
+const progressBar = document.getElementById('progress-bar');
+const circumference = 163.3;
+
+window.addEventListener('scroll', () => {
+    const scrollTop  = document.documentElement.scrollTop;
+    const scrollMax  = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const pct = scrollMax > 0 ? scrollTop / scrollMax : 0;
+    progressBar.style.strokeDashoffset = circumference * (1 - pct);
+    progressEl.style.display = scrollTop > 200 ? 'flex' : 'none';
+    progressEl.style.opacity = scrollTop > 200 ? '1' : '0';
+});
+
+function scrollToTop() { window.scrollTo({ top: 0, behavior: 'smooth' }); }
+
+// ─── FLOATING TRIANGLES BACKGROUND ───
+(function() {
+    const canvas = document.getElementById('tri-canvas');
+    const ctx    = canvas.getContext('2d');
+    let W, H;
+    function resize() { W = canvas.width = window.innerWidth; H = canvas.height = window.innerHeight; }
+    resize();
+    window.addEventListener('resize', resize);
+
+    function mkTri() {
+        const size    = 18 + Math.random() * 48;
+        const x       = Math.random() * W;
+        const startY  = H + size + Math.random() * 200;
+        const speed   = 0.25 + Math.random() * 0.45;
+        const rotSpeed= (Math.random() - 0.5) * 0.006;
+        const angle   = Math.random() * Math.PI * 2;
+        const hue     = Math.random() < 0.6 ? 330 + Math.random() * 20 : 270 + Math.random() * 30;
+        const alpha   = 0.04 + Math.random() * 0.10;
+        return { x, y: startY, size, speed, rotSpeed, angle, hue, alpha };
+    }
+
+    const COUNT = 22;
+    const tris = [];
+    for (let i = 0; i < COUNT; i++) {
+        const t = mkTri(); t.y = Math.random() * (H + 400) - 200;
+        tris.push(t);
+    }
+
+    function drawTri(t, opacity) {
+        ctx.save();
+        ctx.translate(t.x, t.y); ctx.rotate(t.angle);
+        ctx.beginPath();
+        const s = t.size;
+        ctx.moveTo(0, -s * 0.6);
+        ctx.lineTo(s * 0.52, s * 0.38);
+        ctx.lineTo(-s * 0.52, s * 0.38);
+        ctx.closePath();
+        ctx.strokeStyle = `hsla(${t.hue},80%,70%,${opacity})`;
+        ctx.lineWidth = 1.2; ctx.stroke();
+        ctx.fillStyle = `hsla(${t.hue},70%,60%,${opacity*0.18})`; ctx.fill();
+        ctx.restore();
+    }
+
+    function animate() {
+        ctx.clearRect(0, 0, W, H);
+        const fadeZone = H * 0.18;
+        for (let i = 0; i < tris.length; i++) {
+            const t = tris[i];
+            t.y -= t.speed; t.angle += t.rotSpeed;
+            let op = t.alpha;
+            const fromBottom = (H + 60) - t.y;
+            if (fromBottom < 120) op *= fromBottom / 120;
+            if (t.y < fadeZone)   op *= t.y / fadeZone;
+            if (op > 0.002) drawTri(t, op);
+            if (t.y < -t.size * 2) tris[i] = mkTri();
+        }
+        requestAnimationFrame(animate);
+    }
+    animate();
+})();
+
+// ─── INIT ───
+initCalendar();
+
+// Pre-fetch data/index.json to know which dates have scores (for calendar coloring)
+// Falls back to empty set gracefully if index doesn't exist yet
+(async function init() {
+    try {
+        const idxRes = await fetch('data/index.json?t=' + Date.now());
+        if (idxRes.ok) {
+            const idx = await idxRes.json();
+            const dates = idx.dates || idx.available_dates || Object.keys(idx);
+            dates.forEach(d => availableDates.add(d));
+            renderCalendar(); // re-render now that we have data info
+        }
+    } catch(e) { /* no index — calendar stays all-dimmed, still works */ }
+
+    // Auto-load today's scores
+    const now = new Date();
+    const y = now.getFullYear();
+    const m = String(now.getMonth()+1).padStart(2,'0');
+    const d = String(now.getDate()).padStart(2,'0');
+    const label = now.toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+    document.getElementById('currentDateLabel').textContent = label.toUpperCase();
+    // Mark today as available and select it in calendar
+    const todayKey = `${y}-${m}-${d}`;
+    availableDates.add(todayKey);
+    renderCalendar();
+    fetchAndRender(`data/${y}/${m}/${d}.json`);
+})();
+</script>
+</body>
+</html>
