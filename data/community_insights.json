@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 174,
-    "longest": 174,
-    "last_updated": "2026-08-20"
+    "current": 175,
+    "longest": 175,
+    "last_updated": "2026-08-21"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -52429,6 +52429,344 @@
         "title": "MONTAGEM BATCHI",
         "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
         "unique_players": 36
+      }
+    },
+    "2026-08-21": {
+      "total_scores": 908,
+      "peak_hour_baghdad": 17,
+      "top_grinder": {
+        "user": "FaZe Kawan",
+        "user_id": 12813974,
+        "count": 59,
+        "scores": [
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067138062,
+            "rank": "A",
+            "accuracy": 0.9386973180076629,
+            "pp": 62.3119,
+            "mods": [],
+            "combo": 963,
+            "created_at": "2026-08-20T20:55:52Z",
+            "beatmapset": {
+              "id": 476691,
+              "title": "Flower Dance",
+              "cover": "https://assets.ppy.sh/beatmaps/476691/covers/card.jpg?1650642192",
+              "stars": 4.35693
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067136760,
+            "rank": "A",
+            "accuracy": 0.9517720951099148,
+            "pp": 114.541,
+            "mods": [],
+            "combo": 906,
+            "created_at": "2026-08-20T20:51:53Z",
+            "beatmapset": {
+              "id": 476691,
+              "title": "Flower Dance",
+              "cover": "https://assets.ppy.sh/beatmaps/476691/covers/card.jpg?1650642192",
+              "stars": 5.04909
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067135030,
+            "rank": "C",
+            "accuracy": 0.7349267872523686,
+            "pp": null,
+            "mods": [
+              "HD"
+            ],
+            "combo": 89,
+            "created_at": "2026-08-20T20:46:26Z",
+            "beatmapset": {
+              "id": 252981,
+              "title": "Flower Dance (Short Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/252981/covers/card.jpg?1622081216",
+              "stars": 6.99051
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067055618,
+            "rank": "C",
+            "accuracy": 0.8273596176821983,
+            "pp": 78.9703,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 203,
+            "created_at": "2026-08-20T16:58:37Z",
+            "beatmapset": {
+              "id": 1171789,
+              "title": "Imagination (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/1171789/covers/card.jpg?1622188996",
+              "stars": 4.44843
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067055064,
+            "rank": "B",
+            "accuracy": 0.8795518207282913,
+            "pp": 36.9594,
+            "mods": [
+              "EZ"
+            ],
+            "combo": 69,
+            "created_at": "2026-08-20T16:56:55Z",
+            "beatmapset": {
+              "id": 2479183,
+              "title": "I Don't Know (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
+              "stars": 4.11547
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067052801,
+            "rank": "C",
+            "accuracy": 0.6890756302521008,
+            "pp": 40.0592,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 101,
+            "created_at": "2026-08-20T16:50:16Z",
+            "beatmapset": {
+              "id": 2479183,
+              "title": "I Don't Know (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
+              "stars": 4.11547
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067052508,
+            "rank": "C",
+            "accuracy": 0.7959770114942529,
+            "pp": 34.9176,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 361,
+            "created_at": "2026-08-20T16:49:23Z",
+            "beatmapset": {
+              "id": 476691,
+              "title": "Flower Dance",
+              "cover": "https://assets.ppy.sh/beatmaps/476691/covers/card.jpg?1650642192",
+              "stars": 4.35693
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067020039,
+            "rank": "C",
+            "accuracy": 0.7911255411255411,
+            "pp": 49.7924,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 109,
+            "created_at": "2026-08-20T15:19:34Z",
+            "beatmapset": {
+              "id": 2425417,
+              "title": "Determinate (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2425417/covers/card.jpg?1761335172",
+              "stars": 4.06588
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067019748,
+            "rank": "B",
+            "accuracy": 0.8820346320346321,
+            "pp": 75.2862,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 136,
+            "created_at": "2026-08-20T15:18:51Z",
+            "beatmapset": {
+              "id": 2425417,
+              "title": "Determinate (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2425417/covers/card.jpg?1761335172",
+              "stars": 4.06588
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067017868,
+            "rank": "C",
+            "accuracy": 0.8293650793650794,
+            "pp": 32.6007,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 142,
+            "created_at": "2026-08-20T15:13:40Z",
+            "beatmapset": {
+              "id": 750458,
+              "title": "Spider Dance",
+              "cover": "https://assets.ppy.sh/beatmaps/750458/covers/card.jpg?1650661035",
+              "stars": 3.75536
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067016713,
+            "rank": "B",
+            "accuracy": 0.9237037037037037,
+            "pp": 73.3888,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 209,
+            "created_at": "2026-08-20T15:10:27Z",
+            "beatmapset": {
+              "id": 1123162,
+              "title": "Sore wa Chiisana Hikari no Youna (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/1123162/covers/card.jpg?1650692615",
+              "stars": 3.55691
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067016028,
+            "rank": "B",
+            "accuracy": 0.9237037037037037,
+            "pp": 84.9294,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 215,
+            "created_at": "2026-08-20T15:08:35Z",
+            "beatmapset": {
+              "id": 1123162,
+              "title": "Sore wa Chiisana Hikari no Youna (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/1123162/covers/card.jpg?1650692615",
+              "stars": 3.55691
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067014757,
+            "rank": "B",
+            "accuracy": 0.894542772861357,
+            "pp": 41.9017,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 218,
+            "created_at": "2026-08-20T15:05:15Z",
+            "beatmapset": {
+              "id": 320118,
+              "title": "No title",
+              "cover": "https://assets.ppy.sh/beatmaps/320118/covers/card.jpg?1650632079",
+              "stars": 3.52612
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067013260,
+            "rank": "B",
+            "accuracy": 0.8947772657450077,
+            "pp": 45.6971,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 178,
+            "created_at": "2026-08-20T15:01:17Z",
+            "beatmapset": {
+              "id": 1038445,
+              "title": "Chikatto Chika Chika",
+              "cover": "https://assets.ppy.sh/beatmaps/1038445/covers/card.jpg?1650687141",
+              "stars": 3.61981
+            }
+          },
+          {
+            "user": "FaZe Kawan",
+            "user_id": 12813974,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067012757,
+            "rank": "B",
+            "accuracy": 0.8778801843317973,
+            "pp": 33.6543,
+            "mods": [
+              "EZ",
+              "DT"
+            ],
+            "combo": 153,
+            "created_at": "2026-08-20T14:59:59Z",
+            "beatmapset": {
+              "id": 1038445,
+              "title": "Chikatto Chika Chika",
+              "cover": "https://assets.ppy.sh/beatmaps/1038445/covers/card.jpg?1650687141",
+              "stars": 3.61981
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "kiss me again",
+        "cover": "https://assets.ppy.sh/beatmaps/2185574/covers/card.jpg?1720382512",
+        "unique_players": 25
       }
     }
   }
