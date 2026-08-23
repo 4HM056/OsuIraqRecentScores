@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 175,
-    "longest": 175,
-    "last_updated": "2026-08-21"
+    "current": 176,
+    "longest": 176,
+    "last_updated": "2026-08-22"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -52767,6 +52767,307 @@
         "title": "kiss me again",
         "cover": "https://assets.ppy.sh/beatmaps/2185574/covers/card.jpg?1720382512",
         "unique_players": 25
+      }
+    },
+    "2026-08-22": {
+      "total_scores": 887,
+      "peak_hour_baghdad": 21,
+      "top_grinder": {
+        "user": "HighTierMage",
+        "user_id": 38230984,
+        "count": 54,
+        "scores": [
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067609613,
+            "rank": "A",
+            "accuracy": 0.964622641509434,
+            "pp": 8.67795,
+            "mods": [],
+            "combo": 447,
+            "created_at": "2026-08-22T01:48:58Z",
+            "beatmapset": {
+              "id": 47633,
+              "title": "Escape From The City (Classic Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/47633/covers/card.jpg?1650611996",
+              "stars": 2.25663
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067607450,
+            "rank": "S",
+            "accuracy": 0.9507389162561576,
+            "pp": 8.37147,
+            "mods": [],
+            "combo": 183,
+            "created_at": "2026-08-22T01:39:45Z",
+            "beatmapset": {
+              "id": 475469,
+              "title": "His Theme",
+              "cover": "https://assets.ppy.sh/beatmaps/475469/covers/card.jpg?1650640894",
+              "stars": 2.19579
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067606468,
+            "rank": "B",
+            "accuracy": 0.9188660801564027,
+            "pp": 11.7806,
+            "mods": [],
+            "combo": 294,
+            "created_at": "2026-08-22T01:35:37Z",
+            "beatmapset": {
+              "id": 908087,
+              "title": "Bergentrueckung/ASGORE",
+              "cover": "https://assets.ppy.sh/beatmaps/908087/covers/card.jpg?1650684266",
+              "stars": 2.85921
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067605132,
+            "rank": "A",
+            "accuracy": 0.9444444444444444,
+            "pp": 7.57145,
+            "mods": [],
+            "combo": 236,
+            "created_at": "2026-08-22T01:29:48Z",
+            "beatmapset": {
+              "id": 576030,
+              "title": "Battle Against a True Hero",
+              "cover": "https://assets.ppy.sh/beatmaps/576030/covers/card.jpg?1650656824",
+              "stars": 2.40314
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067604214,
+            "rank": "A",
+            "accuracy": 0.9593114241001565,
+            "pp": 12.9068,
+            "mods": [],
+            "combo": 371,
+            "created_at": "2026-08-22T01:25:50Z",
+            "beatmapset": {
+              "id": 1213339,
+              "title": "Finale",
+              "cover": "https://assets.ppy.sh/beatmaps/1213339/covers/card.jpg?1650698761",
+              "stars": 2.55469
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067603439,
+            "rank": "A",
+            "accuracy": 0.9244935543278084,
+            "pp": 7.06134,
+            "mods": [],
+            "combo": 191,
+            "created_at": "2026-08-22T01:22:24Z",
+            "beatmapset": {
+              "id": 750458,
+              "title": "Spider Dance",
+              "cover": "https://assets.ppy.sh/beatmaps/750458/covers/card.jpg?1650661035",
+              "stars": 2.43389
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067602052,
+            "rank": "A",
+            "accuracy": 0.9318518518518518,
+            "pp": 22.0045,
+            "mods": [],
+            "combo": 202,
+            "created_at": "2026-08-22T01:16:10Z",
+            "beatmapset": {
+              "id": 2533966,
+              "title": "Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix] (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2533966/covers/card.jpg?1787131220",
+              "stars": 3.15529
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067601468,
+            "rank": "B",
+            "accuracy": 0.8721212121212121,
+            "pp": 6.34451,
+            "mods": [],
+            "combo": 164,
+            "created_at": "2026-08-22T01:13:33Z",
+            "beatmapset": {
+              "id": 2483787,
+              "title": "prygay, dura!",
+              "cover": "https://assets.ppy.sh/beatmaps/2483787/covers/card.jpg?1779887293",
+              "stars": 2.59016
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067600559,
+            "rank": "A",
+            "accuracy": 0.9351491569390402,
+            "pp": 5.28106,
+            "mods": [],
+            "combo": 263,
+            "created_at": "2026-08-22T01:09:42Z",
+            "beatmapset": {
+              "id": 134151,
+              "title": "Airman ga Taosenai (SOUND HOLIC Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/134151/covers/card.jpg?1650621307",
+              "stars": 2.24175
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067598202,
+            "rank": "A",
+            "accuracy": 0.9136125654450262,
+            "pp": 11.077,
+            "mods": [],
+            "combo": 293,
+            "created_at": "2026-08-22T00:59:29Z",
+            "beatmapset": {
+              "id": 2202726,
+              "title": "Last Goodbye",
+              "cover": "https://assets.ppy.sh/beatmaps/2202726/covers/card.jpg?1723763714",
+              "stars": 2.40558
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067596951,
+            "rank": "B",
+            "accuracy": 0.9197530864197531,
+            "pp": 12.4725,
+            "mods": [],
+            "combo": 232,
+            "created_at": "2026-08-22T00:54:18Z",
+            "beatmapset": {
+              "id": 2017141,
+              "title": "Samayou",
+              "cover": "https://assets.ppy.sh/beatmaps/2017141/covers/card.jpg?1696245842",
+              "stars": 2.81848
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067596133,
+            "rank": "C",
+            "accuracy": 0.8092948717948718,
+            "pp": 4.12517,
+            "mods": [],
+            "combo": 56,
+            "created_at": "2026-08-22T00:51:02Z",
+            "beatmapset": {
+              "id": 2407238,
+              "title": "Need a hand!?",
+              "cover": "https://assets.ppy.sh/beatmaps/2407238/covers/card.jpg?1757277453",
+              "stars": 2.23952
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067595515,
+            "rank": "S",
+            "accuracy": 0.9704491725768322,
+            "pp": 9.11364,
+            "mods": [],
+            "combo": 250,
+            "created_at": "2026-08-22T00:48:32Z",
+            "beatmapset": {
+              "id": 1345977,
+              "title": "Long shot (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/1345977/covers/card.jpg?1650706402",
+              "stars": 2.11718
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067594778,
+            "rank": "A",
+            "accuracy": 0.9531835205992509,
+            "pp": 6.02075,
+            "mods": [],
+            "combo": 136,
+            "created_at": "2026-08-22T00:45:24Z",
+            "beatmapset": {
+              "id": 366864,
+              "title": "It's Been So Long",
+              "cover": "https://assets.ppy.sh/beatmaps/366864/covers/card.jpg?1622095199",
+              "stars": 1.85308
+            }
+          },
+          {
+            "user": "HighTierMage",
+            "user_id": 38230984,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5067591747,
+            "rank": "S",
+            "accuracy": 0.9579579579579579,
+            "pp": 12.1536,
+            "mods": [],
+            "combo": 352,
+            "created_at": "2026-08-22T00:33:07Z",
+            "beatmapset": {
+              "id": 2514004,
+              "title": "Looping the Rooms feat. Hatsune Miku",
+              "cover": "https://assets.ppy.sh/beatmaps/2514004/covers/card.jpg?1772054800",
+              "stars": 2.39947
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "I Don't Know (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
+        "unique_players": 19
       }
     }
   }
