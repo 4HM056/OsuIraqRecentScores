@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 176,
-    "longest": 176,
-    "last_updated": "2026-08-22"
+    "current": 177,
+    "longest": 177,
+    "last_updated": "2026-08-23"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -53068,6 +53068,307 @@
         "title": "I Don't Know (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
         "unique_players": 19
+      }
+    },
+    "2026-08-23": {
+      "total_scores": 1013,
+      "peak_hour_baghdad": 0,
+      "top_grinder": {
+        "user": "azalhussam",
+        "user_id": 37635103,
+        "count": 61,
+        "scores": [
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326503089,
+            "rank": "B",
+            "accuracy": 0.8669871794871795,
+            "pp": 25.8671,
+            "mods": [],
+            "combo": 115,
+            "created_at": "2026-08-22T21:43:34Z",
+            "beatmapset": {
+              "id": 16220,
+              "title": "Tik Tok (Rom.C Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/16220/covers/card.jpg?1650620369",
+              "stars": 3.77563
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326455034,
+            "rank": "C",
+            "accuracy": 0.8103825136612022,
+            "pp": 28.1432,
+            "mods": [],
+            "combo": 272,
+            "created_at": "2026-08-22T21:34:47Z",
+            "beatmapset": {
+              "id": 2339114,
+              "title": "Zan'ei (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2339114/covers/card.jpg?1763981156",
+              "stars": 3.79624
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326441972,
+            "rank": "C",
+            "accuracy": 0.7949640287769785,
+            "pp": 26.245,
+            "mods": [],
+            "combo": 480,
+            "created_at": "2026-08-22T21:32:23Z",
+            "beatmapset": {
+              "id": 898734,
+              "title": "Liquid Future",
+              "cover": "https://assets.ppy.sh/beatmaps/898734/covers/card.jpg?1631511367",
+              "stars": 3.49043
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326427675,
+            "rank": "B",
+            "accuracy": 0.8207207207207208,
+            "pp": 30.4605,
+            "mods": [],
+            "combo": 615,
+            "created_at": "2026-08-22T21:29:46Z",
+            "beatmapset": {
+              "id": 2325131,
+              "title": "Dream Leaf (Short Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2325131/covers/card.jpg?1746727116",
+              "stars": 3.63471
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326389452,
+            "rank": "C",
+            "accuracy": 0.7583537082314589,
+            "pp": 19.0357,
+            "mods": [],
+            "combo": 75,
+            "created_at": "2026-08-22T21:22:52Z",
+            "beatmapset": {
+              "id": 1098331,
+              "title": "Falling Down",
+              "cover": "https://assets.ppy.sh/beatmaps/1098331/covers/card.jpg?1650690689",
+              "stars": 3.9748
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326372389,
+            "rank": "D",
+            "accuracy": 0.6656184486373166,
+            "pp": 35.0359,
+            "mods": [],
+            "combo": 75,
+            "created_at": "2026-08-22T21:19:44Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 5.343
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326366804,
+            "rank": "C",
+            "accuracy": 0.7443693693693694,
+            "pp": 29.0345,
+            "mods": [],
+            "combo": 75,
+            "created_at": "2026-08-22T21:18:43Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.46042
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326360981,
+            "rank": "C",
+            "accuracy": 0.8053977272727273,
+            "pp": 18.4087,
+            "mods": [],
+            "combo": 125,
+            "created_at": "2026-08-22T21:17:39Z",
+            "beatmapset": {
+              "id": 1121135,
+              "title": "Makeinu ni Encore wa Iranai",
+              "cover": "https://assets.ppy.sh/beatmaps/1121135/covers/card.jpg?1622183280",
+              "stars": 3.78808
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326337026,
+            "rank": "D",
+            "accuracy": 0.5943824865757952,
+            "pp": 15.7557,
+            "mods": [],
+            "combo": 140,
+            "created_at": "2026-08-22T21:13:16Z",
+            "beatmapset": {
+              "id": 2237410,
+              "title": "FREEDOM DiVE",
+              "cover": "https://assets.ppy.sh/beatmaps/2237410/covers/card.jpg?1736838465",
+              "stars": 4.88071
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326306874,
+            "rank": "C",
+            "accuracy": 0.7493129171574401,
+            "pp": 19.5412,
+            "mods": [],
+            "combo": 131,
+            "created_at": "2026-08-22T21:07:52Z",
+            "beatmapset": {
+              "id": 2558971,
+              "title": "Bad Romance",
+              "cover": "https://assets.ppy.sh/beatmaps/2558971/covers/card.jpg?1785630931",
+              "stars": 4.58451
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326175894,
+            "rank": "C",
+            "accuracy": 0.7248945147679325,
+            "pp": 14.878,
+            "mods": [],
+            "combo": 130,
+            "created_at": "2026-08-22T20:44:57Z",
+            "beatmapset": {
+              "id": 2322181,
+              "title": "/data_eraser.wav",
+              "cover": "https://assets.ppy.sh/beatmaps/2322181/covers/card.jpg?1775686700",
+              "stars": 3.8554
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326151610,
+            "rank": "D",
+            "accuracy": 0.6348435814455232,
+            "pp": 17.1269,
+            "mods": [],
+            "combo": 46,
+            "created_at": "2026-08-22T20:40:46Z",
+            "beatmapset": {
+              "id": 75785,
+              "title": "Ranbu no Melody (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/75785/covers/card.jpg?1650615426",
+              "stars": 4.72445
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326140670,
+            "rank": "C",
+            "accuracy": 0.7150900900900901,
+            "pp": 27.7534,
+            "mods": [],
+            "combo": 75,
+            "created_at": "2026-08-22T20:38:53Z",
+            "beatmapset": {
+              "id": 2390209,
+              "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535",
+              "stars": 4.15701
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326121286,
+            "rank": "B",
+            "accuracy": 0.8695652173913043,
+            "pp": null,
+            "mods": [],
+            "combo": 58,
+            "created_at": "2026-08-22T20:35:30Z",
+            "beatmapset": {
+              "id": 2410987,
+              "title": "wutiwant",
+              "cover": "https://assets.ppy.sh/beatmaps/2410987/covers/card.jpg?1756222281",
+              "stars": 4.17188
+            }
+          },
+          {
+            "user": "azalhussam",
+            "user_id": 37635103,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7326111049,
+            "rank": "D",
+            "accuracy": 0.6815268065268065,
+            "pp": 15.9918,
+            "mods": [],
+            "combo": 183,
+            "created_at": "2026-08-22T20:33:43Z",
+            "beatmapset": {
+              "id": 1200208,
+              "title": "Why Am I So Angry",
+              "cover": "https://assets.ppy.sh/beatmaps/1200208/covers/card.jpg?1650698781",
+              "stars": 4.57375
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Harumachi Clover (Swing Arrangement) [Dictate Edit]",
+        "cover": "https://assets.ppy.sh/beatmaps/842412/covers/card.jpg?1650668705",
+        "unique_players": 37
       }
     }
   }
