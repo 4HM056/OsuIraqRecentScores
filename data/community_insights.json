@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 178,
-    "longest": 178,
-    "last_updated": "2026-08-24"
+    "current": 179,
+    "longest": 179,
+    "last_updated": "2026-08-25"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -53670,6 +53670,307 @@
         "title": "MONTAGEM BATCHI",
         "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
         "unique_players": 21
+      }
+    },
+    "2026-08-25": {
+      "total_scores": 884,
+      "peak_hour_baghdad": 17,
+      "top_grinder": {
+        "user": "toast123",
+        "user_id": 37184645,
+        "count": 94,
+        "scores": [
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7340344362,
+            "rank": "C",
+            "accuracy": 0.8112947658402204,
+            "pp": 35.6531,
+            "mods": [],
+            "combo": 146,
+            "created_at": "2026-08-24T23:59:45Z",
+            "beatmapset": {
+              "id": 478405,
+              "title": "Snow Drive(01.23)",
+              "cover": "https://assets.ppy.sh/beatmaps/478405/covers/card.jpg?1650647231",
+              "stars": 6.01401
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7340307180,
+            "rank": "C",
+            "accuracy": 0.7576884920634921,
+            "pp": 43.5925,
+            "mods": [],
+            "combo": 193,
+            "created_at": "2026-08-24T23:50:28Z",
+            "beatmapset": {
+              "id": 1796464,
+              "title": "BUG",
+              "cover": "https://assets.ppy.sh/beatmaps/1796464/covers/card.jpg?1696712623",
+              "stars": 5.80147
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7340294549,
+            "rank": "A",
+            "accuracy": 0.9368968077208611,
+            "pp": 72.0016,
+            "mods": [],
+            "combo": 252,
+            "created_at": "2026-08-24T23:47:23Z",
+            "beatmapset": {
+              "id": 2166226,
+              "title": "STAGE OF SEKAI",
+              "cover": "https://assets.ppy.sh/beatmaps/2166226/covers/card.jpg?1716804683",
+              "stars": 4.7955
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7340269250,
+            "rank": "C",
+            "accuracy": 0.7175971269996735,
+            "pp": null,
+            "mods": [],
+            "combo": 194,
+            "created_at": "2026-08-24T23:41:16Z",
+            "beatmapset": {
+              "id": 2379813,
+              "title": "Charles",
+              "cover": "https://assets.ppy.sh/beatmaps/2379813/covers/card.jpg?1761813014",
+              "stars": 5.85889
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7340040181,
+            "rank": "C",
+            "accuracy": 0.8258032128514057,
+            "pp": 59.7505,
+            "mods": [],
+            "combo": 237,
+            "created_at": "2026-08-24T22:46:54Z",
+            "beatmapset": {
+              "id": 2314502,
+              "title": "blu",
+              "cover": "https://assets.ppy.sh/beatmaps/2314502/covers/card.jpg?1745681749",
+              "stars": 4.55606
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7340028064,
+            "rank": "B",
+            "accuracy": 0.9140625,
+            "pp": 66.2642,
+            "mods": [],
+            "combo": 74,
+            "created_at": "2026-08-24T22:44:07Z",
+            "beatmapset": {
+              "id": 2148832,
+              "title": "Science Blaster (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2148832/covers/card.jpg?1712810916",
+              "stars": 4.62078
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7340024523,
+            "rank": "B",
+            "accuracy": 0.8888888888888888,
+            "pp": 72.3058,
+            "mods": [],
+            "combo": 92,
+            "created_at": "2026-08-24T22:43:19Z",
+            "beatmapset": {
+              "id": 984684,
+              "title": "Take a Hint feat. Victoria Justice & Elizabeth Gillies (Speed Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/984684/covers/card.jpg?1650681093",
+              "stars": 5.10226
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7340019673,
+            "rank": "C",
+            "accuracy": 0.8508771929824561,
+            "pp": 61.3244,
+            "mods": [],
+            "combo": 124,
+            "created_at": "2026-08-24T22:42:14Z",
+            "beatmapset": {
+              "id": 984684,
+              "title": "Take a Hint feat. Victoria Justice & Elizabeth Gillies (Speed Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/984684/covers/card.jpg?1650681093",
+              "stars": 4.7006
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7340015465,
+            "rank": "B",
+            "accuracy": 0.9070175438596492,
+            "pp": 80.7993,
+            "mods": [],
+            "combo": 197,
+            "created_at": "2026-08-24T22:41:15Z",
+            "beatmapset": {
+              "id": 984684,
+              "title": "Take a Hint feat. Victoria Justice & Elizabeth Gillies (Speed Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/984684/covers/card.jpg?1650681093",
+              "stars": 4.7006
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7340007777,
+            "rank": "C",
+            "accuracy": 0.7803030303030303,
+            "pp": 66.3931,
+            "mods": [],
+            "combo": 82,
+            "created_at": "2026-08-24T22:39:30Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 5.12925
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7340004603,
+            "rank": "B",
+            "accuracy": 0.8873239436619719,
+            "pp": 56.2305,
+            "mods": [],
+            "combo": 93,
+            "created_at": "2026-08-24T22:38:48Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 4.49211
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7339997565,
+            "rank": "B",
+            "accuracy": 0.9173254281949934,
+            "pp": 46.7837,
+            "mods": [],
+            "combo": 113,
+            "created_at": "2026-08-24T22:37:14Z",
+            "beatmapset": {
+              "id": 2037388,
+              "title": "Ticking Away",
+              "cover": "https://assets.ppy.sh/beatmaps/2037388/covers/card.jpg?1704040506",
+              "stars": 4.78246
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7339980822,
+            "rank": "B",
+            "accuracy": 0.9034825870646767,
+            "pp": 60.9964,
+            "mods": [],
+            "combo": 272,
+            "created_at": "2026-08-24T22:33:27Z",
+            "beatmapset": {
+              "id": 221408,
+              "title": "Hikaru nara -TV size-",
+              "cover": "https://assets.ppy.sh/beatmaps/221408/covers/card.jpg?1650625135",
+              "stars": 4.53278
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7339970613,
+            "rank": "B",
+            "accuracy": 0.8924731182795699,
+            "pp": 59.5579,
+            "mods": [],
+            "combo": 119,
+            "created_at": "2026-08-24T22:31:09Z",
+            "beatmapset": {
+              "id": 2327424,
+              "title": "chess (slowed down & cut ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2327424/covers/card.jpg?1744499380",
+              "stars": 4.56469
+            }
+          },
+          {
+            "user": "toast123",
+            "user_id": 37184645,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7339965976,
+            "rank": "B",
+            "accuracy": 0.9208333333333333,
+            "pp": 74.4039,
+            "mods": [],
+            "combo": 207,
+            "created_at": "2026-08-24T22:30:05Z",
+            "beatmapset": {
+              "id": 873811,
+              "title": "quaver",
+              "cover": "https://assets.ppy.sh/beatmaps/873811/covers/card.jpg?1650672502",
+              "stars": 4.66711
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "MoeChakkaFire",
+        "cover": "https://assets.ppy.sh/beatmaps/2411700/covers/card.jpg?1755505735",
+        "unique_players": 14
       }
     }
   }
