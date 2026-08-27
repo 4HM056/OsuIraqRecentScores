@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 179,
-    "longest": 179,
-    "last_updated": "2026-08-25"
+    "current": 180,
+    "longest": 180,
+    "last_updated": "2026-08-26"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -53971,6 +53971,307 @@
         "title": "MoeChakkaFire",
         "cover": "https://assets.ppy.sh/beatmaps/2411700/covers/card.jpg?1755505735",
         "unique_players": 14
+      }
+    },
+    "2026-08-26": {
+      "total_scores": 942,
+      "peak_hour_baghdad": 22,
+      "top_grinder": {
+        "user": "gf7yef675rf3",
+        "user_id": 40277621,
+        "count": 66,
+        "scores": [
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7346219873,
+            "rank": "S",
+            "accuracy": 0.9703525641025641,
+            "pp": 14.9773,
+            "mods": [],
+            "combo": 376,
+            "created_at": "2026-08-25T21:57:13Z",
+            "beatmapset": {
+              "id": 33842,
+              "title": "Rockefeller Street (Nightcore Mix)",
+              "cover": "https://assets.ppy.sh/beatmaps/33842/covers/card.jpg?1622048627",
+              "stars": 2.44036
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7346206751,
+            "rank": "B",
+            "accuracy": 0.8689788053949904,
+            "pp": 8.39907,
+            "mods": [],
+            "combo": 340,
+            "created_at": "2026-08-25T21:54:24Z",
+            "beatmapset": {
+              "id": 514980,
+              "title": "Unmei no Dark Side -Rolling Gothic mix",
+              "cover": "https://assets.ppy.sh/beatmaps/514980/covers/card.jpg?1650646684",
+              "stars": 2.36056
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7346186265,
+            "rank": "B",
+            "accuracy": 0.9065420560747663,
+            "pp": 3.73666,
+            "mods": [],
+            "combo": 156,
+            "created_at": "2026-08-25T21:50:06Z",
+            "beatmapset": {
+              "id": 2565282,
+              "title": "DAI*TAN SENSATION feat. Nanahira, Mii, Aitsuki Nakuru (Short Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2565282/covers/card.jpg?1782077219",
+              "stars": 1.70606
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7346176288,
+            "rank": "B",
+            "accuracy": 0.8084577114427861,
+            "pp": 7.51353,
+            "mods": [],
+            "combo": 211,
+            "created_at": "2026-08-25T21:47:59Z",
+            "beatmapset": {
+              "id": 733283,
+              "title": "PURSUIT OF HAPPINESS",
+              "cover": "https://assets.ppy.sh/beatmaps/733283/covers/card.jpg?1631510827",
+              "stars": 2.21256
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7344763560,
+            "rank": "B",
+            "accuracy": 0.8859649122807017,
+            "pp": 7.80154,
+            "mods": [],
+            "combo": 271,
+            "created_at": "2026-08-25T17:23:38Z",
+            "beatmapset": {
+              "id": 2474192,
+              "title": "Presenter* (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186",
+              "stars": 2.30116
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7344753823,
+            "rank": "D",
+            "accuracy": 0.6877104377104377,
+            "pp": 15.9892,
+            "mods": [],
+            "combo": 111,
+            "created_at": "2026-08-25T17:21:55Z",
+            "beatmapset": {
+              "id": 2474192,
+              "title": "Presenter* (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186",
+              "stars": 3.51612
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7344744571,
+            "rank": "C",
+            "accuracy": 0.7104377104377104,
+            "pp": 17.2922,
+            "mods": [],
+            "combo": 140,
+            "created_at": "2026-08-25T17:20:17Z",
+            "beatmapset": {
+              "id": 2474192,
+              "title": "Presenter* (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186",
+              "stars": 3.51612
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7344720955,
+            "rank": "C",
+            "accuracy": 0.7926509186351706,
+            "pp": 6.48501,
+            "mods": [],
+            "combo": 232,
+            "created_at": "2026-08-25T17:16:06Z",
+            "beatmapset": {
+              "id": 891417,
+              "title": "My life is for you",
+              "cover": "https://assets.ppy.sh/beatmaps/891417/covers/card.jpg?1650672786",
+              "stars": 2.41338
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7344705266,
+            "rank": "S",
+            "accuracy": 0.9711538461538461,
+            "pp": 14.9866,
+            "mods": [],
+            "combo": 375,
+            "created_at": "2026-08-25T17:13:22Z",
+            "beatmapset": {
+              "id": 33842,
+              "title": "Rockefeller Street (Nightcore Mix)",
+              "cover": "https://assets.ppy.sh/beatmaps/33842/covers/card.jpg?1622048627",
+              "stars": 2.44036
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7344689088,
+            "rank": "B",
+            "accuracy": 0.8971560846560847,
+            "pp": 13.2513,
+            "mods": [],
+            "combo": 484,
+            "created_at": "2026-08-25T17:10:29Z",
+            "beatmapset": {
+              "id": 1533028,
+              "title": "Flamewall",
+              "cover": "https://assets.ppy.sh/beatmaps/1533028/covers/card.jpg?1645788428",
+              "stars": 2.58189
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7344355016,
+            "rank": "C",
+            "accuracy": 0.8226495726495726,
+            "pp": 9.51798,
+            "mods": [],
+            "combo": 260,
+            "created_at": "2026-08-25T16:11:45Z",
+            "beatmapset": {
+              "id": 158023,
+              "title": "Everything will freeze",
+              "cover": "https://assets.ppy.sh/beatmaps/158023/covers/card.jpg?1645787427",
+              "stars": 2.72933
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7344333542,
+            "rank": "C",
+            "accuracy": 0.7979002624671916,
+            "pp": 5.34157,
+            "mods": [],
+            "combo": 111,
+            "created_at": "2026-08-25T16:08:01Z",
+            "beatmapset": {
+              "id": 891417,
+              "title": "My life is for you",
+              "cover": "https://assets.ppy.sh/beatmaps/891417/covers/card.jpg?1650672786",
+              "stars": 2.41338
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7342774121,
+            "rank": "B",
+            "accuracy": 0.8577441077441077,
+            "pp": 7.0112,
+            "mods": [],
+            "combo": 410,
+            "created_at": "2026-08-25T11:25:04Z",
+            "beatmapset": {
+              "id": 2240606,
+              "title": "Times New Roman",
+              "cover": "https://assets.ppy.sh/beatmaps/2240606/covers/card.jpg?1725490667",
+              "stars": 2.13918
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7342760884,
+            "rank": "C",
+            "accuracy": 0.7640562248995983,
+            "pp": 9.67148,
+            "mods": [],
+            "combo": 213,
+            "created_at": "2026-08-25T11:22:11Z",
+            "beatmapset": {
+              "id": 794585,
+              "title": "Teopacito feat. Will Stetson",
+              "cover": "https://assets.ppy.sh/beatmaps/794585/covers/card.jpg?1650665123",
+              "stars": 2.59227
+            }
+          },
+          {
+            "user": "gf7yef675rf3",
+            "user_id": 40277621,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7342750695,
+            "rank": "C",
+            "accuracy": 0.7314814814814815,
+            "pp": 18.8397,
+            "mods": [],
+            "combo": 200,
+            "created_at": "2026-08-25T11:19:58Z",
+            "beatmapset": {
+              "id": 2474192,
+              "title": "Presenter* (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186",
+              "stars": 3.51612
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Presenter* (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186",
+        "unique_players": 22
       }
     }
   }
