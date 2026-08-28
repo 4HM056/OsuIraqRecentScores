@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 180,
-    "longest": 180,
-    "last_updated": "2026-08-26"
+    "current": 181,
+    "longest": 181,
+    "last_updated": "2026-08-27"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -54272,6 +54272,307 @@
         "title": "Presenter* (Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2474192/covers/card.jpg?1766001186",
         "unique_players": 22
+      }
+    },
+    "2026-08-27": {
+      "total_scores": 793,
+      "peak_hour_baghdad": 23,
+      "top_grinder": {
+        "user": "mohope00",
+        "user_id": 38336028,
+        "count": 46,
+        "scores": [
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355892220,
+            "rank": "S",
+            "accuracy": 0.9724310776942355,
+            "pp": 76.5531,
+            "mods": [],
+            "combo": 432,
+            "created_at": "2026-08-27T12:16:50Z",
+            "beatmapset": {
+              "id": 653534,
+              "title": "ILY",
+              "cover": "https://assets.ppy.sh/beatmaps/653534/covers/card.jpg?1650652798",
+              "stars": 4.00164
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355878962,
+            "rank": "A",
+            "accuracy": 0.9339181286549708,
+            "pp": 67.5416,
+            "mods": [],
+            "combo": 173,
+            "created_at": "2026-08-27T12:14:13Z",
+            "beatmapset": {
+              "id": 653534,
+              "title": "ILY",
+              "cover": "https://assets.ppy.sh/beatmaps/653534/covers/card.jpg?1650652798",
+              "stars": 4.58574
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355865809,
+            "rank": "A",
+            "accuracy": 0.9636591478696742,
+            "pp": 65.0676,
+            "mods": [],
+            "combo": 384,
+            "created_at": "2026-08-27T12:11:37Z",
+            "beatmapset": {
+              "id": 653534,
+              "title": "ILY",
+              "cover": "https://assets.ppy.sh/beatmaps/653534/covers/card.jpg?1650652798",
+              "stars": 4.00164
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355849503,
+            "rank": "C",
+            "accuracy": 0.7904564315352697,
+            "pp": 52.413,
+            "mods": [],
+            "combo": 110,
+            "created_at": "2026-08-27T12:08:21Z",
+            "beatmapset": {
+              "id": 1114770,
+              "title": "ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero (Chiptune Cover)",
+              "cover": "https://assets.ppy.sh/beatmaps/1114770/covers/card.jpg?1650697083",
+              "stars": 4.90457
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355840482,
+            "rank": "C",
+            "accuracy": 0.7752420470262794,
+            "pp": 40.0753,
+            "mods": [],
+            "combo": 164,
+            "created_at": "2026-08-27T12:06:32Z",
+            "beatmapset": {
+              "id": 1114770,
+              "title": "ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero (Chiptune Cover)",
+              "cover": "https://assets.ppy.sh/beatmaps/1114770/covers/card.jpg?1650697083",
+              "stars": 4.90457
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355827564,
+            "rank": "C",
+            "accuracy": 0.7455048409405256,
+            "pp": 31.2245,
+            "mods": [],
+            "combo": 76,
+            "created_at": "2026-08-27T12:03:53Z",
+            "beatmapset": {
+              "id": 1114770,
+              "title": "ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero (Chiptune Cover)",
+              "cover": "https://assets.ppy.sh/beatmaps/1114770/covers/card.jpg?1650697083",
+              "stars": 4.90457
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355809067,
+            "rank": "C",
+            "accuracy": 0.8546637744034707,
+            "pp": 47.4815,
+            "mods": [],
+            "combo": 145,
+            "created_at": "2026-08-27T12:00:09Z",
+            "beatmapset": {
+              "id": 1349715,
+              "title": "Stardust (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/1349715/covers/card.jpg?1650706242",
+              "stars": 4.45305
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355792386,
+            "rank": "B",
+            "accuracy": 0.9114724480578139,
+            "pp": 31.354,
+            "mods": [],
+            "combo": 214,
+            "created_at": "2026-08-27T11:56:47Z",
+            "beatmapset": {
+              "id": 41842,
+              "title": "Neurotoxin",
+              "cover": "https://assets.ppy.sh/beatmaps/41842/covers/card.jpg?1650610319",
+              "stars": 4.02645
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355739542,
+            "rank": "S",
+            "accuracy": 0.9660297239915074,
+            "pp": 91.1598,
+            "mods": [],
+            "combo": 242,
+            "created_at": "2026-08-27T11:46:00Z",
+            "beatmapset": {
+              "id": 219763,
+              "title": "Granat",
+              "cover": "https://assets.ppy.sh/beatmaps/219763/covers/card.jpg?1650625235",
+              "stars": 4.25996
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355732829,
+            "rank": "A",
+            "accuracy": 0.9617834394904459,
+            "pp": 70.9168,
+            "mods": [],
+            "combo": 87,
+            "created_at": "2026-08-27T11:44:36Z",
+            "beatmapset": {
+              "id": 219763,
+              "title": "Granat",
+              "cover": "https://assets.ppy.sh/beatmaps/219763/covers/card.jpg?1650625235",
+              "stars": 4.25996
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355723110,
+            "rank": "A",
+            "accuracy": 0.9299363057324841,
+            "pp": 62.1247,
+            "mods": [],
+            "combo": 198,
+            "created_at": "2026-08-27T11:42:35Z",
+            "beatmapset": {
+              "id": 219763,
+              "title": "Granat",
+              "cover": "https://assets.ppy.sh/beatmaps/219763/covers/card.jpg?1650625235",
+              "stars": 4.25996
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355713749,
+            "rank": "A",
+            "accuracy": 0.9299363057324841,
+            "pp": 57.1769,
+            "mods": [],
+            "combo": 226,
+            "created_at": "2026-08-27T11:40:39Z",
+            "beatmapset": {
+              "id": 219763,
+              "title": "Granat",
+              "cover": "https://assets.ppy.sh/beatmaps/219763/covers/card.jpg?1650625235",
+              "stars": 4.25996
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355706408,
+            "rank": "A",
+            "accuracy": 0.9624724061810155,
+            "pp": 60.9136,
+            "mods": [],
+            "combo": 122,
+            "created_at": "2026-08-27T11:39:06Z",
+            "beatmapset": {
+              "id": 219763,
+              "title": "Granat",
+              "cover": "https://assets.ppy.sh/beatmaps/219763/covers/card.jpg?1650625235",
+              "stars": 4.12788
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355702158,
+            "rank": "A",
+            "accuracy": 0.9403973509933775,
+            "pp": 49.9781,
+            "mods": [],
+            "combo": 90,
+            "created_at": "2026-08-27T11:38:12Z",
+            "beatmapset": {
+              "id": 219763,
+              "title": "Granat",
+              "cover": "https://assets.ppy.sh/beatmaps/219763/covers/card.jpg?1650625235",
+              "stars": 4.12788
+            }
+          },
+          {
+            "user": "mohope00",
+            "user_id": 38336028,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7355692707,
+            "rank": "B",
+            "accuracy": 0.8588631984585742,
+            "pp": 37.4999,
+            "mods": [],
+            "combo": 181,
+            "created_at": "2026-08-27T11:36:10Z",
+            "beatmapset": {
+              "id": 2539590,
+              "title": "Ex Nihilo",
+              "cover": "https://assets.ppy.sh/beatmaps/2539590/covers/card.jpg?1779071590",
+              "stars": 4.42094
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Guren no Yumiya (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/87630/covers/card.jpg?1650616252",
+        "unique_players": 26
       }
     }
   }
