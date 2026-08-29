@@ -1,6 +1,6 @@
 [
   {
-    "rank": 3852,
+    "rank": 3856,
     "id": 10286650,
     "user": "L e n",
     "avatar": "https://a.ppy.sh/10286650?1776767879.jpeg",
@@ -13,8 +13,8 @@
     "ss_count": 208,
     "s_count": 648,
     "medals": 0,
-    "last_active": "2026-08-28T12:15:31+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T15:29:25+00:00",
+    "daily_pp": 415.24,
     "top_play": {
       "title": "Cold Green Eyes feat. Roos Denayer",
       "diff": "Mystical",
@@ -26,7 +26,7 @@
     }
   },
   {
-    "rank": 9253,
+    "rank": 9258,
     "id": 29452442,
     "user": "6xSeven",
     "avatar": "https://a.ppy.sh/29452442?1746190505.jpeg",
@@ -52,7 +52,33 @@
     }
   },
   {
-    "rank": 10865,
+    "rank": 10856,
+    "id": 26916963,
+    "user": "Kaiju13",
+    "avatar": "https://a.ppy.sh/26916963?1784322535.jpeg",
+    "pp": 9342.59,
+    "accuracy": 97.7825,
+    "play_count": 68326,
+    "play_time": 2529023,
+    "total_score": 46438212652,
+    "total_hits": 9955224,
+    "ss_count": 76,
+    "s_count": 373,
+    "medals": 0,
+    "last_active": "2026-08-29T20:40:29+00:00",
+    "daily_pp": 1218.4409999999998,
+    "top_play": {
+      "title": "No title -10 Years Later Edition- (Cut Ver.)",
+      "diff": "PikA's Extra",
+      "cover": "https://assets.ppy.sh/beatmaps/2436628/covers/card.jpg?1760618037",
+      "stars": 5.51935,
+      "mods": "+HDDT",
+      "pp": 508.965,
+      "acc": 99.31972789115646
+    }
+  },
+  {
+    "rank": 10875,
     "id": 16626648,
     "user": "Ano_o3",
     "avatar": "https://a.ppy.sh/16626648?1764706405.png",
@@ -78,46 +104,20 @@
     }
   },
   {
-    "rank": 10925,
-    "id": 26916963,
-    "user": "Kaiju13",
-    "avatar": "https://a.ppy.sh/26916963?1784322535.jpeg",
-    "pp": 9332.07,
-    "accuracy": 97.7776,
-    "play_count": 68245,
-    "play_time": 2525766,
-    "total_score": 46278771464,
-    "total_hits": 9941193,
-    "ss_count": 76,
-    "s_count": 372,
-    "medals": 0,
-    "last_active": "2026-08-28T18:47:07+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "No title -10 Years Later Edition- (Cut Ver.)",
-      "diff": "PikA's Extra",
-      "cover": "https://assets.ppy.sh/beatmaps/2436628/covers/card.jpg?1760618037",
-      "stars": 5.51935,
-      "mods": "+HDDT",
-      "pp": 508.965,
-      "acc": 99.31972789115646
-    }
-  },
-  {
-    "rank": 14665,
+    "rank": 14688,
     "id": 19521102,
     "user": "Y a d",
     "avatar": "https://a.ppy.sh/19521102?1735975550.jpeg",
     "pp": 8781.42,
     "accuracy": 98.4559,
-    "play_count": 210429,
-    "play_time": 8797905,
-    "total_score": 260073830941,
-    "total_hits": 39245515,
+    "play_count": 210447,
+    "play_time": 8798678,
+    "total_score": 260088483819,
+    "total_hits": 39248341,
     "ss_count": 40,
     "s_count": 668,
     "medals": 0,
-    "last_active": "2026-08-28T09:37:28+00:00",
+    "last_active": "2026-08-29T19:26:50+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Asu no Yozora Shoukaihan",
@@ -130,7 +130,7 @@
     }
   },
   {
-    "rank": 15123,
+    "rank": 15137,
     "id": 11530725,
     "user": "Akar",
     "avatar": "https://a.ppy.sh/11530725?1676084356.gif",
@@ -156,7 +156,7 @@
     }
   },
   {
-    "rank": 15397,
+    "rank": 15409,
     "id": 24991953,
     "user": "I AM A GHOUL",
     "avatar": "https://a.ppy.sh/24991953?1785923318.jpeg",
@@ -182,7 +182,7 @@
     }
   },
   {
-    "rank": 16036,
+    "rank": 16042,
     "id": 11706528,
     "user": "Boiled_Aids",
     "avatar": "https://a.ppy.sh/11706528?1732803479.jpeg",
@@ -208,21 +208,21 @@
     }
   },
   {
-    "rank": 21534,
+    "rank": 21553,
     "id": 23843313,
     "user": "Biscuits0",
     "avatar": "https://a.ppy.sh/23843313?1782971742.jpeg",
     "pp": 8043.44,
     "accuracy": 98.6532,
-    "play_count": 78343,
-    "play_time": 5505637,
-    "total_score": 180024594596,
-    "total_hits": 25782098,
+    "play_count": 78361,
+    "play_time": 5507744,
+    "total_score": 180255801960,
+    "total_hits": 25794478,
     "ss_count": 43,
     "s_count": 526,
     "medals": 0,
-    "last_active": "2026-08-27T07:01:07+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T05:41:52+00:00",
+    "daily_pp": 1136.589,
     "top_play": {
       "title": "Take a Hint feat. Victoria Justice & Elizabeth Gillies (Nightcore & Cut Ver.)",
       "diff": "Kuki's Extra",
@@ -234,7 +234,7 @@
     }
   },
   {
-    "rank": 22221,
+    "rank": 22244,
     "id": 20112002,
     "user": "ILOVEOSUTEAM",
     "avatar": "https://a.ppy.sh/20112002?1774805800.jpeg",
@@ -247,7 +247,7 @@
     "ss_count": 1,
     "s_count": 74,
     "medals": 0,
-    "last_active": "2026-08-27T20:23:50+00:00",
+    "last_active": "2026-08-29T19:40:31+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Kimeta yo Hand in Hand",
@@ -260,7 +260,7 @@
     }
   },
   {
-    "rank": 34337,
+    "rank": 34366,
     "id": 19494788,
     "user": "Kamioo",
     "avatar": "https://a.ppy.sh/19494788?1745248414.jpeg",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "rank": 35568,
+    "rank": 35602,
     "id": 10838466,
     "user": "_GhosTy",
     "avatar": "https://a.ppy.sh/10838466?1782003353.jpeg",
@@ -299,7 +299,7 @@
     "ss_count": 25,
     "s_count": 487,
     "medals": 0,
-    "last_active": "2026-08-29T00:57:09+00:00",
+    "last_active": "2026-08-29T01:47:45+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "WONDERFUL WONDER (TV Size)",
@@ -312,7 +312,7 @@
     }
   },
   {
-    "rank": 40714,
+    "rank": 40751,
     "id": 23325783,
     "user": "braa_pro",
     "avatar": "https://a.ppy.sh/23325783?1693843451.jpeg",
@@ -338,21 +338,21 @@
     }
   },
   {
-    "rank": 43762,
+    "rank": 43798,
     "id": 12357263,
     "user": "Sola",
     "avatar": "https://a.ppy.sh/12357263?1773877553.jpeg",
     "pp": 6702.63,
     "accuracy": 97.7171,
-    "play_count": 73407,
-    "play_time": 3519592,
-    "total_score": 64583602664,
-    "total_hits": 12628433,
+    "play_count": 73417,
+    "play_time": 3520694,
+    "total_score": 64650994990,
+    "total_hits": 12634095,
     "ss_count": 72,
     "s_count": 690,
     "medals": 0,
-    "last_active": "2026-08-29T01:24:01+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T16:43:22+00:00",
+    "daily_pp": 475.11,
     "top_play": {
       "title": "Windy Fairy",
       "diff": "Meg's Insane",
@@ -364,7 +364,7 @@
     }
   },
   {
-    "rank": 48818,
+    "rank": 48856,
     "id": 13415775,
     "user": "- Mort -",
     "avatar": "https://a.ppy.sh/13415775?1671393056.gif",
@@ -390,7 +390,7 @@
     }
   },
   {
-    "rank": 54099,
+    "rank": 54145,
     "id": 20594867,
     "user": "-Kirb",
     "avatar": "https://a.ppy.sh/20594867?1646325985.jpeg",
@@ -416,7 +416,7 @@
     }
   },
   {
-    "rank": 57075,
+    "rank": 57117,
     "id": 23830344,
     "user": "Owl_727",
     "avatar": "https://a.ppy.sh/23830344?1746625801.jpeg",
@@ -442,7 +442,7 @@
     }
   },
   {
-    "rank": 59363,
+    "rank": 59401,
     "id": 25015591,
     "user": "0ilen",
     "avatar": "https://a.ppy.sh/25015591?1749424356.jpeg",
@@ -456,7 +456,7 @@
     "s_count": 410,
     "medals": 0,
     "last_active": "2026-08-28T11:24:01+00:00",
-    "daily_pp": 0,
+    "daily_pp": 19.1294,
     "top_play": {
       "title": "Guinea Pig Bridge",
       "diff": "Reform's Expert",
@@ -468,7 +468,7 @@
     }
   },
   {
-    "rank": 60307,
+    "rank": 60346,
     "id": 13542355,
     "user": "Ali Ahmed",
     "avatar": "https://a.ppy.sh/13542355?1614288985.jpeg",
@@ -494,7 +494,7 @@
     }
   },
   {
-    "rank": 66934,
+    "rank": 66978,
     "id": 10697971,
     "user": "- Usf -",
     "avatar": "https://a.ppy.sh/10697971?1785808255.jpeg",
@@ -520,21 +520,21 @@
     }
   },
   {
-    "rank": 75365,
+    "rank": 75337,
     "id": 18771081,
     "user": "LilyNightMoon",
     "avatar": "https://a.ppy.sh/18771081?1750451975.jpeg",
-    "pp": 5668.48,
-    "accuracy": 98.4992,
-    "play_count": 68714,
-    "play_time": 3518574,
-    "total_score": 50541679530,
-    "total_hits": 12438894,
-    "ss_count": 25,
-    "s_count": 482,
+    "pp": 5670.63,
+    "accuracy": 98.5136,
+    "play_count": 68795,
+    "play_time": 3524405,
+    "total_score": 50730384080,
+    "total_hits": 12463247,
+    "ss_count": 26,
+    "s_count": 483,
     "medals": 0,
-    "last_active": "2026-08-15T14:24:18+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T11:46:50+00:00",
+    "daily_pp": 3002.9369000000006,
     "top_play": {
       "title": "What The Hell (Cut Ver.)",
       "diff": "Careless",
@@ -546,20 +546,20 @@
     }
   },
   {
-    "rank": 85073,
+    "rank": 85138,
     "id": 25897488,
     "user": "zero702",
     "avatar": "https://a.ppy.sh/25897488?1726932553.jpeg",
     "pp": 5445.73,
     "accuracy": 97.6675,
-    "play_count": 30047,
-    "play_time": 2114275,
-    "total_score": 36866363343,
-    "total_hits": 8900910,
+    "play_count": 30052,
+    "play_time": 2114851,
+    "total_score": 36874737293,
+    "total_hits": 8903669,
     "ss_count": 12,
     "s_count": 215,
     "medals": 0,
-    "last_active": "2026-08-26T12:37:55+00:00",
+    "last_active": "2026-08-29T13:15:32+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Kokochi Ii Nichijou",
@@ -572,7 +572,7 @@
     }
   },
   {
-    "rank": 87087,
+    "rank": 87143,
     "id": 18392868,
     "user": "DxD_2",
     "avatar": "https://a.ppy.sh/18392868?1635476047.jpeg",
@@ -598,20 +598,20 @@
     }
   },
   {
-    "rank": 91625,
+    "rank": 91684,
     "id": 21688901,
     "user": "Bappo_1337",
     "avatar": "https://a.ppy.sh/21688901?1787166625.png",
     "pp": 5309.62,
     "accuracy": 98.8637,
-    "play_count": 59173,
-    "play_time": 2359750,
-    "total_score": 35990492369,
-    "total_hits": 7760611,
+    "play_count": 59175,
+    "play_time": 2359772,
+    "total_score": 35990525669,
+    "total_hits": 7760639,
     "ss_count": 30,
     "s_count": 362,
     "medals": 0,
-    "last_active": "2026-08-26T18:31:40+00:00",
+    "last_active": "2026-08-29T11:50:31+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Lucky (Nightcore & Cut Ver.)",
@@ -624,7 +624,7 @@
     }
   },
   {
-    "rank": 92123,
+    "rank": 92181,
     "id": 25313184,
     "user": "zeno_",
     "avatar": "https://a.ppy.sh/25313184?1689762472.jpeg",
@@ -650,7 +650,7 @@
     }
   },
   {
-    "rank": 95550,
+    "rank": 95626,
     "id": 30284199,
     "user": "iTesko",
     "avatar": "https://a.ppy.sh/30284199?1714237605.jpeg",
@@ -676,7 +676,7 @@
     }
   },
   {
-    "rank": 96445,
+    "rank": 96524,
     "id": 13289058,
     "user": "Dash_9274",
     "avatar": "https://a.ppy.sh/13289058?1694613073.jpeg",
@@ -702,7 +702,7 @@
     }
   },
   {
-    "rank": 98860,
+    "rank": 98936,
     "id": 16368385,
     "user": "kartel",
     "avatar": "https://a.ppy.sh/16368385?1635620370.jpeg",
@@ -728,7 +728,7 @@
     }
   },
   {
-    "rank": 100334,
+    "rank": 100408,
     "id": 35628991,
     "user": "kaorisnpai7",
     "avatar": "https://a.ppy.sh/35628991?1711289091.jpeg",
@@ -754,7 +754,7 @@
     }
   },
   {
-    "rank": 107054,
+    "rank": 107137,
     "id": 21651560,
     "user": "YaBoiJaafar",
     "avatar": "https://a.ppy.sh/21651560?1620296371.jpeg",
@@ -780,7 +780,7 @@
     }
   },
   {
-    "rank": 108283,
+    "rank": 108365,
     "id": 14339730,
     "user": "h5n",
     "avatar": "https://a.ppy.sh/14339730?1632848127.gif",
@@ -806,20 +806,20 @@
     }
   },
   {
-    "rank": 109047,
+    "rank": 109134,
     "id": 15021013,
     "user": "Vector5g",
     "avatar": "https://a.ppy.sh/15021013?1715586516.jpeg",
     "pp": 4973.4,
     "accuracy": 98.6356,
-    "play_count": 78350,
-    "play_time": 3783565,
-    "total_score": 68757313882,
-    "total_hits": 11552640,
+    "play_count": 78351,
+    "play_time": 3783629,
+    "total_score": 68758310025,
+    "total_hits": 11552957,
     "ss_count": 1740,
     "s_count": 6106,
     "medals": 0,
-    "last_active": "2026-08-29T01:12:58+00:00",
+    "last_active": "2026-08-29T13:33:00+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Sidetracked Day (Short Ver.)",
@@ -832,7 +832,7 @@
     }
   },
   {
-    "rank": 115261,
+    "rank": 115347,
     "id": 11704059,
     "user": "Zander4K",
     "avatar": "https://a.ppy.sh/11704059?1652908218.jpeg",
@@ -858,7 +858,7 @@
     }
   },
   {
-    "rank": 118736,
+    "rank": 118838,
     "id": 22846495,
     "user": "Quake203",
     "avatar": "https://a.ppy.sh/22846495?1739300071.jpeg",
@@ -884,21 +884,21 @@
     }
   },
   {
-    "rank": 122511,
+    "rank": 122598,
     "id": 35051247,
     "user": "RuRySAMA",
-    "avatar": "https://a.ppy.sh/35051247?1766413134.jpeg",
-    "pp": 4732.88,
+    "avatar": "https://a.ppy.sh/35051247?1787992120.jpeg",
+    "pp": 4732.96,
     "accuracy": 98.3745,
-    "play_count": 3049,
-    "play_time": 305773,
-    "total_score": 8530694993,
-    "total_hits": 1074830,
+    "play_count": 3053,
+    "play_time": 306262,
+    "total_score": 8535145067,
+    "total_hits": 1075991,
     "ss_count": 13,
     "s_count": 45,
     "medals": 0,
-    "last_active": "2026-08-27T23:54:13+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T15:18:48+00:00",
+    "daily_pp": 342.03151,
     "top_play": {
       "title": "Colors Power ni Omakasero!",
       "diff": "Mitsuboshi Jump!",
@@ -910,20 +910,20 @@
     }
   },
   {
-    "rank": 131038,
+    "rank": 130929,
     "id": 17936461,
     "user": "-Leno",
     "avatar": "https://a.ppy.sh/17936461?1787893807.jpeg",
-    "pp": 4593.79,
-    "accuracy": 97.0126,
-    "play_count": 14258,
-    "play_time": 824200,
-    "total_score": 20941312588,
-    "total_hits": 3134656,
+    "pp": 4597.11,
+    "accuracy": 97.0103,
+    "play_count": 14299,
+    "play_time": 825461,
+    "total_score": 20963208145,
+    "total_hits": 3139965,
     "ss_count": 1,
     "s_count": 22,
     "medals": 0,
-    "last_active": "2026-08-29T00:11:42+00:00",
+    "last_active": "2026-08-29T12:08:32+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Beat Syncer",
@@ -936,7 +936,7 @@
     }
   },
   {
-    "rank": 133476,
+    "rank": 133593,
     "id": 16857190,
     "user": "1_7amza",
     "avatar": "https://a.ppy.sh/16857190?1697380528.jpeg",
@@ -962,7 +962,7 @@
     }
   },
   {
-    "rank": 139968,
+    "rank": 140081,
     "id": 11961657,
     "user": "Zendrad",
     "avatar": "https://a.ppy.sh/11961657?1580758132.jpeg",
@@ -988,7 +988,7 @@
     }
   },
   {
-    "rank": 140206,
+    "rank": 140319,
     "id": 12828984,
     "user": "greev",
     "avatar": "https://a.ppy.sh/12828984?1630106713.jpeg",
@@ -1014,7 +1014,7 @@
     }
   },
   {
-    "rank": 142118,
+    "rank": 142242,
     "id": 12020201,
     "user": "Araizo",
     "avatar": "https://a.ppy.sh/12020201?1592979616.jpeg",
@@ -1040,7 +1040,7 @@
     }
   },
   {
-    "rank": 143591,
+    "rank": 143712,
     "id": 6697210,
     "user": "xXReiketsuM8Xx",
     "avatar": "https://a.ppy.sh/6697210?1770393360.png",
@@ -1066,7 +1066,7 @@
     }
   },
   {
-    "rank": 146400,
+    "rank": 146539,
     "id": 16593075,
     "user": "Slyryan",
     "avatar": "https://a.ppy.sh/16593075?1692063203.gif",
@@ -1092,7 +1092,7 @@
     }
   },
   {
-    "rank": 148099,
+    "rank": 148235,
     "id": 30691917,
     "user": "saksokse",
     "avatar": "https://a.ppy.sh/30691917?1678673120.jpeg",
@@ -1118,7 +1118,7 @@
     }
   },
   {
-    "rank": 149329,
+    "rank": 149467,
     "id": 19610931,
     "user": "7mza_zx",
     "avatar": "https://a.ppy.sh/19610931?1747833809.jpeg",
@@ -1144,7 +1144,7 @@
     }
   },
   {
-    "rank": 153220,
+    "rank": 153359,
     "id": 13005244,
     "user": "ginseng",
     "avatar": "https://a.ppy.sh/13005244?1742379598.jpeg",
@@ -1170,7 +1170,7 @@
     }
   },
   {
-    "rank": 157254,
+    "rank": 157412,
     "id": 12756911,
     "user": "ShadowBladee2k",
     "avatar": "https://a.ppy.sh/12756911?1631298759.jpeg",
@@ -1196,7 +1196,7 @@
     }
   },
   {
-    "rank": 164431,
+    "rank": 164583,
     "id": 38341733,
     "user": "RAWI03",
     "avatar": "https://a.ppy.sh/38341733?1772823459.jpeg",
@@ -1222,7 +1222,7 @@
     }
   },
   {
-    "rank": 166166,
+    "rank": 166330,
     "id": 14515694,
     "user": "Ramris",
     "avatar": "https://a.ppy.sh/14515694?1572859426.jpeg",
@@ -1248,7 +1248,7 @@
     }
   },
   {
-    "rank": 170454,
+    "rank": 170611,
     "id": 38045718,
     "user": "Zhu Xi",
     "avatar": "https://a.ppy.sh/38045718?1750399186.jpeg",
@@ -1274,21 +1274,21 @@
     }
   },
   {
-    "rank": 171382,
+    "rank": 171529,
     "id": 12813974,
     "user": "FaZe Kawan",
     "avatar": "https://a.ppy.sh/12813974?1781275120.png",
     "pp": 4044.21,
     "accuracy": 97.7832,
-    "play_count": 22895,
-    "play_time": 1311610,
-    "total_score": 20146633602,
-    "total_hits": 3916524,
+    "play_count": 22910,
+    "play_time": 1312230,
+    "total_score": 20150430301,
+    "total_hits": 3918837,
     "ss_count": 5,
     "s_count": 244,
     "medals": 0,
-    "last_active": "2026-08-28T21:16:52+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T20:01:32+00:00",
+    "daily_pp": 434.845,
     "top_play": {
       "title": "Determinate (Nightcore & Cut Ver.)",
       "diff": "Fearless Rockstar",
@@ -1300,7 +1300,7 @@
     }
   },
   {
-    "rank": 174989,
+    "rank": 175135,
     "id": 20588182,
     "user": "The Nerd Sacc",
     "avatar": "https://a.ppy.sh/20588182?1764901620.jpeg",
@@ -1326,21 +1326,21 @@
     }
   },
   {
-    "rank": 178801,
+    "rank": 178935,
     "id": 37410533,
     "user": "Ds_Jinx",
-    "avatar": "https://a.ppy.sh/37410533?1774018351.jpeg",
-    "pp": 3955.4,
-    "accuracy": 98.2678,
-    "play_count": 22918,
-    "play_time": 1070189,
-    "total_score": 19527240606,
-    "total_hits": 3547408,
+    "avatar": "https://a.ppy.sh/37410533?1788028732.jpeg",
+    "pp": 3956.23,
+    "accuracy": 98.2587,
+    "play_count": 23119,
+    "play_time": 1078796,
+    "total_score": 19755999597,
+    "total_hits": 3579721,
     "ss_count": 4,
     "s_count": 50,
     "medals": 0,
-    "last_active": "2026-08-27T08:45:59+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T20:43:54+00:00",
+    "daily_pp": 1636.9086,
     "top_play": {
       "title": "GRIM (NIGHTCORE MIX)",
       "diff": "KUMOCHA'S EXTRA",
@@ -1352,7 +1352,7 @@
     }
   },
   {
-    "rank": 184863,
+    "rank": 185021,
     "id": 7376292,
     "user": "Andr0_Meda",
     "avatar": "https://a.ppy.sh/7376292?1596478605.jpeg",
@@ -1378,7 +1378,7 @@
     }
   },
   {
-    "rank": 187959,
+    "rank": 188143,
     "id": 10876278,
     "user": "MoNsTAR22",
     "avatar": "https://a.ppy.sh/10876278?1750718602.jpeg",
@@ -1404,7 +1404,7 @@
     }
   },
   {
-    "rank": 190092,
+    "rank": 190258,
     "id": 36738602,
     "user": "po11op",
     "avatar": "https://a.ppy.sh/36738602?1740343348.jpeg",
@@ -1430,20 +1430,20 @@
     }
   },
   {
-    "rank": 197672,
+    "rank": 197868,
     "id": 33926018,
     "user": "H3ntai Gamer",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
-    "pp": 3750.1,
-    "accuracy": 94.69,
-    "play_count": 4036,
-    "play_time": 327858,
-    "total_score": 10933807466,
-    "total_hits": 1136554,
+    "pp": 3751.04,
+    "accuracy": 94.6777,
+    "play_count": 4037,
+    "play_time": 328063,
+    "total_score": 10952142501,
+    "total_hits": 1137453,
     "ss_count": 1,
     "s_count": 38,
     "medals": 0,
-    "last_active": "2026-08-27T21:38:57+00:00",
+    "last_active": "2026-08-29T19:24:32+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "No title",
@@ -1456,7 +1456,7 @@
     }
   },
   {
-    "rank": 203402,
+    "rank": 203589,
     "id": 21900258,
     "user": "Kw-Li",
     "avatar": "https://a.ppy.sh/21900258?1780549539.jpeg",
@@ -1482,7 +1482,7 @@
     }
   },
   {
-    "rank": 206552,
+    "rank": 206749,
     "id": 33755265,
     "user": "faunaa",
     "avatar": "https://a.ppy.sh/33755265?1755453804.jpeg",
@@ -1508,7 +1508,7 @@
     }
   },
   {
-    "rank": 207599,
+    "rank": 207796,
     "id": 12947610,
     "user": "Zombie_SI",
     "avatar": "https://a.ppy.sh/12947610?1637602512.jpeg",
@@ -1534,7 +1534,7 @@
     }
   },
   {
-    "rank": 208502,
+    "rank": 208703,
     "id": 36612510,
     "user": "life s good",
     "avatar": "https://a.ppy.sh/36612510?1757985689.jpeg",
@@ -1560,7 +1560,7 @@
     }
   },
   {
-    "rank": 210719,
+    "rank": 210933,
     "id": 11328114,
     "user": "TarqIQ",
     "avatar": "https://a.ppy.sh/11328114?1513193444.jpg",
@@ -1586,7 +1586,7 @@
     }
   },
   {
-    "rank": 214293,
+    "rank": 214490,
     "id": 21602268,
     "user": "mr5mat",
     "avatar": "https://a.ppy.sh/21602268?1735410546.jpeg",
@@ -1612,7 +1612,7 @@
     }
   },
   {
-    "rank": 217219,
+    "rank": 217430,
     "id": 18222662,
     "user": "s e 1 k o",
     "avatar": "https://a.ppy.sh/18222662?1642436726.jpeg",
@@ -1638,7 +1638,7 @@
     }
   },
   {
-    "rank": 217225,
+    "rank": 217437,
     "id": 37358505,
     "user": "jaorfcm",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -1664,7 +1664,7 @@
     }
   },
   {
-    "rank": 223406,
+    "rank": 223622,
     "id": 6697644,
     "user": "usuiXkiller",
     "avatar": "https://a.ppy.sh/6697644?1605348325.jpeg",
@@ -1690,7 +1690,7 @@
     }
   },
   {
-    "rank": 223729,
+    "rank": 223941,
     "id": 16358616,
     "user": "Dororo_",
     "avatar": "https://a.ppy.sh/16358616?1646223427.jpeg",
@@ -1716,21 +1716,21 @@
     }
   },
   {
-    "rank": 225641,
+    "rank": 225739,
     "id": 37619206,
     "user": "Itz_QRS",
     "avatar": "https://a.ppy.sh/37619206?1787773927.png",
-    "pp": 3484.43,
-    "accuracy": 96.6556,
-    "play_count": 29860,
-    "play_time": 1366551,
-    "total_score": 14314441501,
-    "total_hits": 4984130,
+    "pp": 3485.36,
+    "accuracy": 96.6557,
+    "play_count": 29910,
+    "play_time": 1369413,
+    "total_score": 14343358820,
+    "total_hits": 4994319,
     "ss_count": 2,
-    "s_count": 35,
+    "s_count": 36,
     "medals": 0,
     "last_active": "1970-01-01T00:00:00.000Z",
-    "daily_pp": 0,
+    "daily_pp": 395.85,
     "top_play": {
       "title": "Princess of the Night",
       "diff": "Irre's Extra",
@@ -1742,7 +1742,7 @@
     }
   },
   {
-    "rank": 226393,
+    "rank": 226574,
     "id": 22172461,
     "user": "J3FR",
     "avatar": "https://a.ppy.sh/22172461?1740742665.jpeg",
@@ -1768,7 +1768,7 @@
     }
   },
   {
-    "rank": 228339,
+    "rank": 228538,
     "id": 16139774,
     "user": "cant",
     "avatar": "https://a.ppy.sh/16139774?1692521167.jpeg",
@@ -1794,7 +1794,7 @@
     }
   },
   {
-    "rank": 228668,
+    "rank": 228867,
     "id": 18507703,
     "user": "MustAf4",
     "avatar": "https://a.ppy.sh/18507703?1635769595.jpeg",
@@ -1820,7 +1820,7 @@
     }
   },
   {
-    "rank": 231144,
+    "rank": 231346,
     "id": 18418834,
     "user": "AbbasIQ",
     "avatar": "https://a.ppy.sh/18418834?1626286880.jpeg",
@@ -1846,7 +1846,7 @@
     }
   },
   {
-    "rank": 231420,
+    "rank": 231618,
     "id": 36175705,
     "user": "_notdeemaz",
     "avatar": "https://a.ppy.sh/36175705?1747253559.jpeg",
@@ -1872,7 +1872,7 @@
     }
   },
   {
-    "rank": 235129,
+    "rank": 235338,
     "id": 20914128,
     "user": "ZeRo999XYT",
     "avatar": "https://a.ppy.sh/20914128?1778709361.png",
@@ -1898,7 +1898,7 @@
     }
   },
   {
-    "rank": 237532,
+    "rank": 237746,
     "id": 17485957,
     "user": "Musami-Sama",
     "avatar": "https://a.ppy.sh/17485957?1639689680.jpeg",
@@ -1924,20 +1924,20 @@
     }
   },
   {
-    "rank": 239202,
+    "rank": 239384,
     "id": 12613739,
     "user": "Ali XGamer",
     "avatar": "https://a.ppy.sh/12613739?1610689979.jpeg",
     "pp": 3368.28,
     "accuracy": 95.677,
-    "play_count": 11436,
-    "play_time": 964233,
-    "total_score": 14091870839,
-    "total_hits": 2739485,
+    "play_count": 11437,
+    "play_time": 964278,
+    "total_score": 14091963071,
+    "total_hits": 2739567,
     "ss_count": 4,
     "s_count": 312,
     "medals": 0,
-    "last_active": "2026-08-28T10:41:14+00:00",
+    "last_active": "2026-08-29T11:27:09+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "PADORU / PADORU",
@@ -1950,7 +1950,7 @@
     }
   },
   {
-    "rank": 241297,
+    "rank": 241524,
     "id": 6737187,
     "user": "Swegery",
     "avatar": "https://a.ppy.sh/6737187?1519391863.png",
@@ -1976,7 +1976,7 @@
     }
   },
   {
-    "rank": 241659,
+    "rank": 241901,
     "id": 29275591,
     "user": "jimmyslittlesis",
     "avatar": "https://a.ppy.sh/29275591?1720806877.jpeg",
@@ -1989,7 +1989,7 @@
     "ss_count": 5,
     "s_count": 62,
     "medals": 0,
-    "last_active": "2026-07-17T14:04:13+00:00",
+    "last_active": "2026-08-29T14:48:43+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "HIKARI (TV Size)",
@@ -2002,7 +2002,7 @@
     }
   },
   {
-    "rank": 242584,
+    "rank": 242820,
     "id": 13911683,
     "user": "neweeb",
     "avatar": "https://a.ppy.sh/13911683?1779648200.jpeg",
@@ -2028,7 +2028,7 @@
     }
   },
   {
-    "rank": 245164,
+    "rank": 245417,
     "id": 15059524,
     "user": "MasoTheRipper",
     "avatar": "https://a.ppy.sh/15059524?1653294314.jpeg",
@@ -2054,7 +2054,7 @@
     }
   },
   {
-    "rank": 249205,
+    "rank": 249434,
     "id": 30045907,
     "user": "Trauma_sheep",
     "avatar": "https://a.ppy.sh/30045907?1726247118.jpeg",
@@ -2080,7 +2080,33 @@
     }
   },
   {
-    "rank": 253139,
+    "rank": 252113,
+    "id": 34212876,
+    "user": "tabot",
+    "avatar": "https://a.ppy.sh/34212876?1786906477.jpeg",
+    "pp": 3266.52,
+    "accuracy": 95.597,
+    "play_count": 25075,
+    "play_time": 1250161,
+    "total_score": 13531734269,
+    "total_hits": 3925631,
+    "ss_count": 1,
+    "s_count": 91,
+    "medals": 0,
+    "last_active": "2026-08-29T19:08:24+00:00",
+    "daily_pp": 0,
+    "top_play": {
+      "title": "bbydoll (nightcore & cut ver.)",
+      "diff": "pick me",
+      "cover": "https://assets.ppy.sh/beatmaps/2374386/covers/card.jpg?1749993995",
+      "stars": 6.03087,
+      "mods": "",
+      "pp": 193.07,
+      "acc": 97.05882352941177
+    }
+  },
+  {
+    "rank": 253181,
     "id": 39498643,
     "user": "pq7wh",
     "avatar": "https://a.ppy.sh/39498643?1783512448.png",
@@ -2094,7 +2120,7 @@
     "s_count": 18,
     "medals": 0,
     "last_active": "1970-01-01T00:00:00.000Z",
-    "daily_pp": 0,
+    "daily_pp": 1766.9108600000002,
     "top_play": {
       "title": "Adventure Starts Here (Sped Up Ver.)",
       "diff": "Share's Extra",
@@ -2106,7 +2132,7 @@
     }
   },
   {
-    "rank": 253119,
+    "rank": 253362,
     "id": 27761062,
     "user": "mahmood1234567",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -2132,7 +2158,7 @@
     }
   },
   {
-    "rank": 254635,
+    "rank": 254879,
     "id": 25682258,
     "user": "pupue",
     "avatar": "https://a.ppy.sh/25682258?1766158812.jpeg",
@@ -2158,33 +2184,7 @@
     }
   },
   {
-    "rank": 255702,
-    "id": 34212876,
-    "user": "tabot",
-    "avatar": "https://a.ppy.sh/34212876?1786906477.jpeg",
-    "pp": 3235.81,
-    "accuracy": 95.6459,
-    "play_count": 24974,
-    "play_time": 1244017,
-    "total_score": 13441902883,
-    "total_hits": 3896702,
-    "ss_count": 1,
-    "s_count": 90,
-    "medals": 0,
-    "last_active": "2026-08-29T00:42:38+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "bbydoll (nightcore & cut ver.)",
-      "diff": "pick me",
-      "cover": "https://assets.ppy.sh/beatmaps/2374386/covers/card.jpg?1749993995",
-      "stars": 6.03087,
-      "mods": "",
-      "pp": 193.07,
-      "acc": 97.05882352941177
-    }
-  },
-  {
-    "rank": 260841,
+    "rank": 261107,
     "id": 29035628,
     "user": "hussein2009002",
     "avatar": "https://a.ppy.sh/29035628?1726862124.jpeg",
@@ -2197,7 +2197,7 @@
     "ss_count": 7,
     "s_count": 83,
     "medals": 0,
-    "last_active": "2026-08-27T22:17:05+00:00",
+    "last_active": "2026-08-29T13:18:12+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Bye Bye YESTERDAY",
@@ -2210,20 +2210,20 @@
     }
   },
   {
-    "rank": 261998,
+    "rank": 262204,
     "id": 37322060,
     "user": "cuzalpha",
     "avatar": "https://a.ppy.sh/37322060?1737730411.jpeg",
-    "pp": 3188.34,
-    "accuracy": 97.9073,
-    "play_count": 17461,
-    "play_time": 978224,
-    "total_score": 13428544897,
-    "total_hits": 3046406,
+    "pp": 3190.17,
+    "accuracy": 97.9214,
+    "play_count": 17481,
+    "play_time": 979251,
+    "total_score": 13452807301,
+    "total_hits": 3050469,
     "ss_count": 14,
     "s_count": 346,
     "medals": 0,
-    "last_active": "2026-08-27T12:03:26+00:00",
+    "last_active": "2026-08-29T20:25:38+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "GET BACK",
@@ -2236,7 +2236,7 @@
     }
   },
   {
-    "rank": 265639,
+    "rank": 265923,
     "id": 18781778,
     "user": "xXCAPTAINXx",
     "avatar": "https://a.ppy.sh/18781778?1627586547.jpeg",
@@ -2262,7 +2262,7 @@
     }
   },
   {
-    "rank": 265760,
+    "rank": 266045,
     "id": 9692524,
     "user": "Zeone Senpai",
     "avatar": "https://a.ppy.sh/9692524?1576691416.jpeg",
@@ -2288,7 +2288,7 @@
     }
   },
   {
-    "rank": 265821,
+    "rank": 266106,
     "id": 15437995,
     "user": "cola512",
     "avatar": "https://a.ppy.sh/15437995?1603107124.jpeg",
@@ -2314,7 +2314,7 @@
     }
   },
   {
-    "rank": 275219,
+    "rank": 275482,
     "id": 7703510,
     "user": "satanspawn1",
     "avatar": "https://a.ppy.sh/7703510?1595678849.jpeg",
@@ -2340,7 +2340,7 @@
     }
   },
   {
-    "rank": 278909,
+    "rank": 279177,
     "id": 15271244,
     "user": "XxmalakxX",
     "avatar": "https://a.ppy.sh/15271244?1570893279.jpeg",
@@ -2366,7 +2366,7 @@
     }
   },
   {
-    "rank": 280588,
+    "rank": 280858,
     "id": 22312631,
     "user": "ZUOS_old",
     "avatar": "https://a.ppy.sh/22312631?1748761759.jpeg",
@@ -2392,7 +2392,7 @@
     }
   },
   {
-    "rank": 281063,
+    "rank": 281218,
     "id": 12473160,
     "user": "Shadow-iq",
     "avatar": "https://a.ppy.sh/12473160?1704979419.jpeg",
@@ -2418,7 +2418,7 @@
     }
   },
   {
-    "rank": 284433,
+    "rank": 284716,
     "id": 24493774,
     "user": "IkeaLover",
     "avatar": "https://a.ppy.sh/24493774?1753875424.jpeg",
@@ -2444,7 +2444,7 @@
     }
   },
   {
-    "rank": 286362,
+    "rank": 286632,
     "id": 20396648,
     "user": "Sad Goku",
     "avatar": "https://a.ppy.sh/20396648?1679601856.jpeg",
@@ -2470,7 +2470,7 @@
     }
   },
   {
-    "rank": 286663,
+    "rank": 286943,
     "id": 29251843,
     "user": "_Kayn_",
     "avatar": "https://a.ppy.sh/29251843?1768065697.jpeg",
@@ -2496,7 +2496,7 @@
     }
   },
   {
-    "rank": 296211,
+    "rank": 296485,
     "id": 31252345,
     "user": "skiler1",
     "avatar": "https://a.ppy.sh/31252345?1663837357.jpeg",
@@ -2509,7 +2509,7 @@
     "ss_count": 5,
     "s_count": 125,
     "medals": 0,
-    "last_active": "2026-08-28T17:55:38+00:00",
+    "last_active": "2026-08-29T19:58:08+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "You Suck At Love (Nightcore & Cut Ver.)",
@@ -2522,7 +2522,7 @@
     }
   },
   {
-    "rank": 297302,
+    "rank": 297584,
     "id": 15574211,
     "user": "Brood-J",
     "avatar": "https://a.ppy.sh/15574211?1658243990.jpeg",
@@ -2548,7 +2548,7 @@
     }
   },
   {
-    "rank": 299713,
+    "rank": 299991,
     "id": 17489164,
     "user": "Kamastro1",
     "avatar": "https://a.ppy.sh/17489164?1626977378.jpeg",
@@ -2574,20 +2574,20 @@
     }
   },
   {
-    "rank": 300208,
+    "rank": 300491,
     "id": 11249946,
     "user": "spRNG_",
     "avatar": "https://a.ppy.sh/11249946?1596912079.png",
     "pp": 2921.21,
     "accuracy": 94.6926,
-    "play_count": 18178,
-    "play_time": 872288,
-    "total_score": 6565012124,
-    "total_hits": 2760844,
+    "play_count": 18182,
+    "play_time": 872548,
+    "total_score": 6566778049,
+    "total_hits": 2761970,
     "ss_count": 18,
     "s_count": 61,
     "medals": 0,
-    "last_active": "2026-08-25T18:46:59+00:00",
+    "last_active": "2026-08-29T19:10:47+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "No title",
@@ -2600,7 +2600,7 @@
     }
   },
   {
-    "rank": 303545,
+    "rank": 303819,
     "id": 14144420,
     "user": "BiiHa",
     "avatar": "https://a.ppy.sh/14144420?1618616844.jpeg",
@@ -2626,7 +2626,7 @@
     }
   },
   {
-    "rank": 306459,
+    "rank": 306750,
     "id": 38654898,
     "user": "EmptyDoll",
     "avatar": "https://a.ppy.sh/38654898?1761650431.jpeg",
@@ -2652,7 +2652,7 @@
     }
   },
   {
-    "rank": 308806,
+    "rank": 309092,
     "id": 28887665,
     "user": "mr apple2007",
     "avatar": "https://a.ppy.sh/28887665?1782031616.jpeg",
@@ -2678,7 +2678,7 @@
     }
   },
   {
-    "rank": 308938,
+    "rank": 309225,
     "id": 12155411,
     "user": "mmdgamer",
     "avatar": "https://a.ppy.sh/12155411?1676477819.jpeg",
@@ -2704,7 +2704,7 @@
     }
   },
   {
-    "rank": 309145,
+    "rank": 309434,
     "id": 10732134,
     "user": "Remuji",
     "avatar": "https://a.ppy.sh/10732134?1582316074.jpeg",
@@ -2730,7 +2730,7 @@
     }
   },
   {
-    "rank": 309971,
+    "rank": 310268,
     "id": 24584784,
     "user": "ksu_marimo",
     "avatar": "https://a.ppy.sh/24584784?1625941994.jpeg",
@@ -2756,7 +2756,7 @@
     }
   },
   {
-    "rank": 311744,
+    "rank": 311844,
     "id": 15209351,
     "user": "Kosmiku",
     "avatar": "https://a.ppy.sh/15209351?1781374032.jpeg",
@@ -2770,7 +2770,7 @@
     "s_count": 253,
     "medals": 0,
     "last_active": "2026-08-28T21:03:06+00:00",
-    "daily_pp": 0,
+    "daily_pp": 924.5152999999999,
     "top_play": {
       "title": "dumb dumb (Sped Up Ver.)",
       "diff": "Laurier's Light Insane",
@@ -2782,7 +2782,7 @@
     }
   },
   {
-    "rank": 312699,
+    "rank": 313007,
     "id": 12356014,
     "user": "yousefgamer",
     "avatar": "https://a.ppy.sh/12356014?1749935559.png",
@@ -2808,7 +2808,33 @@
     }
   },
   {
-    "rank": 316477,
+    "rank": 314515,
+    "id": 39330365,
+    "user": "manicide",
+    "avatar": "https://a.ppy.sh/39330365?1786293916.png",
+    "pp": 2831.75,
+    "accuracy": 96.2456,
+    "play_count": 13217,
+    "play_time": 735860,
+    "total_score": 8615256139,
+    "total_hits": 2124230,
+    "ss_count": 12,
+    "s_count": 180,
+    "medals": 0,
+    "last_active": "2026-08-29T08:10:27+00:00",
+    "daily_pp": 1858.7586000000001,
+    "top_play": {
+      "title": "Determinate (Nightcore & Cut Ver.)",
+      "diff": "Kumocha's Expert",
+      "cover": "https://assets.ppy.sh/beatmaps/2425417/covers/card.jpg?1761335172",
+      "stars": 5.07091,
+      "mods": "+HD",
+      "pp": 157.667,
+      "acc": 97.5925925925926
+    }
+  },
+  {
+    "rank": 316802,
     "id": 31939579,
     "user": "shiro01",
     "avatar": "https://a.ppy.sh/31939579?1742167069.jpeg",
@@ -2834,33 +2860,7 @@
     }
   },
   {
-    "rank": 316745,
-    "id": 39330365,
-    "user": "manicide",
-    "avatar": "https://a.ppy.sh/39330365?1786293916.png",
-    "pp": 2816.04,
-    "accuracy": 96.1858,
-    "play_count": 13147,
-    "play_time": 731176,
-    "total_score": 8435472853,
-    "total_hits": 2107773,
-    "ss_count": 12,
-    "s_count": 179,
-    "medals": 0,
-    "last_active": "2026-08-28T20:12:31+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "Determinate (Nightcore & Cut Ver.)",
-      "diff": "Kumocha's Expert",
-      "cover": "https://assets.ppy.sh/beatmaps/2425417/covers/card.jpg?1761335172",
-      "stars": 5.07091,
-      "mods": "+HD",
-      "pp": 157.667,
-      "acc": 97.5925925925926
-    }
-  },
-  {
-    "rank": 317808,
+    "rank": 318063,
     "id": 20425732,
     "user": "Mu7_",
     "avatar": "https://a.ppy.sh/20425732?1775245745.jpeg",
@@ -2874,7 +2874,7 @@
     "s_count": 124,
     "medals": 0,
     "last_active": "2026-08-28T14:23:32+00:00",
-    "daily_pp": 0,
+    "daily_pp": 53.417,
     "top_play": {
       "title": "Despacito ft. R3 Music Box",
       "diff": "Piggey's Extra",
@@ -2886,7 +2886,7 @@
     }
   },
   {
-    "rank": 320133,
+    "rank": 320447,
     "id": 36629914,
     "user": "i worship you",
     "avatar": "https://a.ppy.sh/36629914?1750240866.jpeg",
@@ -2912,7 +2912,7 @@
     }
   },
   {
-    "rank": 321001,
+    "rank": 321307,
     "id": 27129386,
     "user": "Breadi10",
     "avatar": "https://a.ppy.sh/27129386?1702843401.jpeg",
@@ -2938,7 +2938,7 @@
     }
   },
   {
-    "rank": 321516,
+    "rank": 321828,
     "id": 10689304,
     "user": "dee1an",
     "avatar": "https://a.ppy.sh/10689304?1586954102.jpeg",
@@ -2964,7 +2964,7 @@
     }
   },
   {
-    "rank": 324823,
+    "rank": 325146,
     "id": 17196758,
     "user": "SEZAROO",
     "avatar": "https://a.ppy.sh/17196758?1605113476.jpeg",
@@ -2990,7 +2990,7 @@
     }
   },
   {
-    "rank": 325625,
+    "rank": 325952,
     "id": 18030184,
     "user": "Abuyd",
     "avatar": "https://a.ppy.sh/18030184?1660397973.png",
@@ -3016,7 +3016,7 @@
     }
   },
   {
-    "rank": 334183,
+    "rank": 334513,
     "id": 38230984,
     "user": "HighTierMage",
     "avatar": "https://a.ppy.sh/38230984?1787618076.png",
@@ -3042,20 +3042,20 @@
     }
   },
   {
-    "rank": 337282,
+    "rank": 337623,
     "id": 26231802,
     "user": "Ali_TheMLGpro",
     "avatar": "https://a.ppy.sh/26231802?1633557531.jpeg",
     "pp": 2693.55,
     "accuracy": 91.2164,
-    "play_count": 20913,
-    "play_time": 1774626,
-    "total_score": 30266237550,
-    "total_hits": 5529961,
+    "play_count": 20914,
+    "play_time": 1774851,
+    "total_score": 30271000544,
+    "total_hits": 5530439,
     "ss_count": 2,
     "s_count": 22,
     "medals": 0,
-    "last_active": "2026-08-29T01:32:32+00:00",
+    "last_active": "2026-08-29T06:27:23+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Tear Rain",
@@ -3068,7 +3068,7 @@
     }
   },
   {
-    "rank": 337295,
+    "rank": 337637,
     "id": 16086554,
     "user": "noel-san",
     "avatar": "https://a.ppy.sh/16086554?1697919141.png",
@@ -3094,7 +3094,7 @@
     }
   },
   {
-    "rank": 338084,
+    "rank": 338440,
     "id": 37476960,
     "user": "CirclesLover",
     "avatar": "https://a.ppy.sh/37476960?1783178830.jpeg",
@@ -3120,7 +3120,7 @@
     }
   },
   {
-    "rank": 339125,
+    "rank": 339483,
     "id": 26760037,
     "user": "alixbrine00",
     "avatar": "https://a.ppy.sh/26760037?1748413606.jpeg",
@@ -3146,7 +3146,7 @@
     }
   },
   {
-    "rank": 340593,
+    "rank": 340953,
     "id": 9363838,
     "user": "eyeC1",
     "avatar": "https://a.ppy.sh/9363838?1561418655.jpeg",
@@ -3172,7 +3172,7 @@
     }
   },
   {
-    "rank": 343727,
+    "rank": 344089,
     "id": 18291177,
     "user": "Anonoki",
     "avatar": "https://a.ppy.sh/18291177?1740969502.jpeg",
@@ -3198,7 +3198,7 @@
     }
   },
   {
-    "rank": 344142,
+    "rank": 344497,
     "id": 9121492,
     "user": "RevengeMaster69",
     "avatar": "https://a.ppy.sh/9121492?1552508856.jpeg",
@@ -3224,7 +3224,7 @@
     }
   },
   {
-    "rank": 349593,
+    "rank": 349950,
     "id": 21195197,
     "user": "A L M R 3 B",
     "avatar": "https://a.ppy.sh/21195197?1753317781.jpeg",
@@ -3250,7 +3250,7 @@
     }
   },
   {
-    "rank": 350347,
+    "rank": 350697,
     "id": 8818758,
     "user": "soraittoki",
     "avatar": "https://a.ppy.sh/8818758?1700915824.jpeg",
@@ -3276,7 +3276,7 @@
     }
   },
   {
-    "rank": 352447,
+    "rank": 352804,
     "id": 25339741,
     "user": "ahmed09",
     "avatar": "https://a.ppy.sh/25339741?1655410672.jpeg",
@@ -3302,7 +3302,7 @@
     }
   },
   {
-    "rank": 352665,
+    "rank": 353016,
     "id": 26514192,
     "user": "covch",
     "avatar": "https://a.ppy.sh/26514192?1687552134.jpeg",
@@ -3328,7 +3328,7 @@
     }
   },
   {
-    "rank": 352870,
+    "rank": 353219,
     "id": 11966219,
     "user": "muhamedbarzan",
     "avatar": "https://a.ppy.sh/11966219?1548704320.jpeg",
@@ -3354,7 +3354,7 @@
     }
   },
   {
-    "rank": 353440,
+    "rank": 353789,
     "id": 26706167,
     "user": "TakoDaOsuBoi",
     "avatar": "https://a.ppy.sh/26706167?1766011719.jpeg",
@@ -3380,7 +3380,7 @@
     }
   },
   {
-    "rank": 360954,
+    "rank": 361308,
     "id": 32766435,
     "user": "0rr4r",
     "avatar": "https://a.ppy.sh/32766435?1721310101.jpeg",
@@ -3406,7 +3406,7 @@
     }
   },
   {
-    "rank": 365301,
+    "rank": 365657,
     "id": 15679574,
     "user": "Yamiii",
     "avatar": "https://a.ppy.sh/15679574?1658682988.jpeg",
@@ -3432,21 +3432,21 @@
     }
   },
   {
-    "rank": 369837,
+    "rank": 370191,
     "id": 38515271,
     "user": "thebest85787",
     "avatar": "https://a.ppy.sh/38515271?1785247044.jpeg",
     "pp": 2515.54,
     "accuracy": 93.0971,
-    "play_count": 11361,
-    "play_time": 561626,
-    "total_score": 5261328380,
-    "total_hits": 1755297,
+    "play_count": 11385,
+    "play_time": 562560,
+    "total_score": 5269141252,
+    "total_hits": 1758645,
     "ss_count": 1,
     "s_count": 13,
     "medals": 0,
-    "last_active": "2026-08-28T21:17:20+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T20:39:32+00:00",
+    "daily_pp": 975.0869999999999,
     "top_play": {
       "title": "Watch Me",
       "diff": "xDarxen's Hard",
@@ -3458,7 +3458,7 @@
     }
   },
   {
-    "rank": 370899,
+    "rank": 371254,
     "id": 33701668,
     "user": "FakeBoxnetic",
     "avatar": "https://a.ppy.sh/33701668?1699624419.png",
@@ -3484,7 +3484,7 @@
     }
   },
   {
-    "rank": 372663,
+    "rank": 373038,
     "id": 25874137,
     "user": "xX_ACE-CHASE_Xx",
     "avatar": "https://a.ppy.sh/25874137?1651599408.jpeg",
@@ -3510,7 +3510,7 @@
     }
   },
   {
-    "rank": 375248,
+    "rank": 375620,
     "id": 17192251,
     "user": "darkrami",
     "avatar": "https://a.ppy.sh/17192251?1611219281.jpeg",
@@ -3536,7 +3536,7 @@
     }
   },
   {
-    "rank": 380394,
+    "rank": 380781,
     "id": 7920275,
     "user": "Yawar1",
     "avatar": "https://a.ppy.sh/7920275?1701130313.jpeg",
@@ -3562,7 +3562,7 @@
     }
   },
   {
-    "rank": 383580,
+    "rank": 383957,
     "id": 12880671,
     "user": "Dark Knight666",
     "avatar": "https://a.ppy.sh/12880671?1579466435.jpeg",
@@ -3588,21 +3588,21 @@
     }
   },
   {
-    "rank": 386155,
+    "rank": 386341,
     "id": 38693523,
     "user": "Them and i",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
     "pp": 2433.4,
     "accuracy": 90.8911,
-    "play_count": 5045,
-    "play_time": 230408,
-    "total_score": 2168237155,
-    "total_hits": 865474,
+    "play_count": 5046,
+    "play_time": 230423,
+    "total_score": 2168279013,
+    "total_hits": 865521,
     "ss_count": 0,
     "s_count": 13,
     "medals": 0,
-    "last_active": "2026-08-28T19:21:02+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T13:43:53+00:00",
+    "daily_pp": 83.3275,
     "top_play": {
       "title": "PADORU / PADORU",
       "diff": "A r M i N's Extra",
@@ -3614,7 +3614,7 @@
     }
   },
   {
-    "rank": 388486,
+    "rank": 388864,
     "id": 17073416,
     "user": "FalconVirus",
     "avatar": "https://a.ppy.sh/17073416?1761440598.jpeg",
@@ -3640,7 +3640,7 @@
     }
   },
   {
-    "rank": 390442,
+    "rank": 390836,
     "id": 20929393,
     "user": "Wiz___XD",
     "avatar": "https://a.ppy.sh/20929393?1614120184.jpeg",
@@ -3666,7 +3666,7 @@
     }
   },
   {
-    "rank": 391448,
+    "rank": 391844,
     "id": 26139165,
     "user": "MrFeKa",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -3692,7 +3692,7 @@
     }
   },
   {
-    "rank": 394194,
+    "rank": 394583,
     "id": 17800223,
     "user": "anas_aldolimi",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -3718,21 +3718,21 @@
     }
   },
   {
-    "rank": 395118,
+    "rank": 395399,
     "id": 37184645,
     "user": "toast123",
     "avatar": "https://a.ppy.sh/37184645?1767727851.png",
-    "pp": 2388.55,
-    "accuracy": 95.8313,
-    "play_count": 7835,
-    "play_time": 583742,
-    "total_score": 10110906632,
-    "total_hits": 1737958,
+    "pp": 2388.56,
+    "accuracy": 95.8314,
+    "play_count": 7842,
+    "play_time": 584378,
+    "total_score": 10127053741,
+    "total_hits": 1740385,
     "ss_count": 1,
     "s_count": 43,
     "medals": 0,
-    "last_active": "2026-08-28T21:35:14+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T19:23:35+00:00",
+    "daily_pp": 609.4517000000001,
     "top_play": {
       "title": "Granat",
       "diff": "Extra",
@@ -3744,7 +3744,7 @@
     }
   },
   {
-    "rank": 395258,
+    "rank": 395655,
     "id": 34774616,
     "user": "fnafnov",
     "avatar": "https://a.ppy.sh/34774616?1741839292.jpeg",
@@ -3770,7 +3770,7 @@
     }
   },
   {
-    "rank": 398746,
+    "rank": 399159,
     "id": 34222343,
     "user": "Runelight",
     "avatar": "https://a.ppy.sh/34222343?1770626227.jpeg",
@@ -3796,7 +3796,7 @@
     }
   },
   {
-    "rank": 403894,
+    "rank": 404301,
     "id": 32297067,
     "user": "Anas2",
     "avatar": "https://a.ppy.sh/32297067?1772873426.jpeg",
@@ -3822,7 +3822,7 @@
     }
   },
   {
-    "rank": 416097,
+    "rank": 416509,
     "id": 22073839,
     "user": "XxWamedxX",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -3848,7 +3848,7 @@
     }
   },
   {
-    "rank": 420628,
+    "rank": 421046,
     "id": 21002468,
     "user": "rawshtdandy123",
     "avatar": "https://a.ppy.sh/21002468?1750071941.jpeg",
@@ -3874,7 +3874,7 @@
     }
   },
   {
-    "rank": 427731,
+    "rank": 428151,
     "id": 3713081,
     "user": "iiM0NST3R",
     "avatar": "https://a.ppy.sh/3713081?1635615852.jpeg",
@@ -3900,7 +3900,7 @@
     }
   },
   {
-    "rank": 428017,
+    "rank": 428435,
     "id": 30999253,
     "user": "Kenz0_",
     "avatar": "https://a.ppy.sh/30999253?1707352343.jpeg",
@@ -3926,7 +3926,7 @@
     }
   },
   {
-    "rank": 429916,
+    "rank": 430334,
     "id": 13577820,
     "user": "rethawissam",
     "avatar": "https://a.ppy.sh/13577820?1572754232.jpeg",
@@ -3939,7 +3939,7 @@
     "ss_count": 17,
     "s_count": 151,
     "medals": 0,
-    "last_active": "2026-08-28T14:01:04+00:00",
+    "last_active": "2026-08-29T12:34:08+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Blade Dance",
@@ -3952,7 +3952,7 @@
     }
   },
   {
-    "rank": 438682,
+    "rank": 439110,
     "id": 26586150,
     "user": "_BSHR",
     "avatar": "https://a.ppy.sh/26586150?1718911355.jpeg",
@@ -3978,7 +3978,7 @@
     }
   },
   {
-    "rank": 440262,
+    "rank": 440685,
     "id": 15210805,
     "user": "moho_CR",
     "avatar": "https://a.ppy.sh/15210805?1580038645.jpeg",
@@ -4004,7 +4004,7 @@
     }
   },
   {
-    "rank": 440716,
+    "rank": 441147,
     "id": 16449151,
     "user": "zhera01",
     "avatar": "https://a.ppy.sh/16449151?1585166703.jpeg",
@@ -4030,7 +4030,7 @@
     }
   },
   {
-    "rank": 443281,
+    "rank": 443721,
     "id": 22217875,
     "user": "kamuiii",
     "avatar": "https://a.ppy.sh/22217875?1749234608.jpeg",
@@ -4056,7 +4056,7 @@
     }
   },
   {
-    "rank": 444187,
+    "rank": 444631,
     "id": 6452742,
     "user": "Street Jimmy",
     "avatar": "https://a.ppy.sh/6452742?1551723901.png",
@@ -4082,7 +4082,7 @@
     }
   },
   {
-    "rank": 447956,
+    "rank": 448419,
     "id": 15655633,
     "user": "ZEROTOW",
     "avatar": "https://a.ppy.sh/15655633?1575974314.jpeg",
@@ -4108,7 +4108,7 @@
     }
   },
   {
-    "rank": 448062,
+    "rank": 448522,
     "id": 13672208,
     "user": "oAWEs",
     "avatar": "https://a.ppy.sh/13672208?1581150995.jpeg",
@@ -4134,7 +4134,7 @@
     }
   },
   {
-    "rank": 451112,
+    "rank": 451566,
     "id": 15231775,
     "user": "xalixcraft",
     "avatar": "https://a.ppy.sh/15231775?1624737426.jpeg",
@@ -4160,7 +4160,7 @@
     }
   },
   {
-    "rank": 455289,
+    "rank": 455739,
     "id": 6354263,
     "user": "Jinardo",
     "avatar": "https://a.ppy.sh/6354263?1458378381.png",
@@ -4173,7 +4173,7 @@
     "ss_count": 2,
     "s_count": 29,
     "medals": 0,
-    "last_active": "2026-08-27T16:42:43+00:00",
+    "last_active": "2026-08-29T20:43:58+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Harebare Fanfare",
@@ -4186,7 +4186,7 @@
     }
   },
   {
-    "rank": 458470,
+    "rank": 458921,
     "id": 6188870,
     "user": "Ishaqs60",
     "avatar": "https://a.ppy.sh/6188870?1588189134.jpeg",
@@ -4212,7 +4212,7 @@
     }
   },
   {
-    "rank": 460808,
+    "rank": 461264,
     "id": 22956209,
     "user": "N19ht Fury",
     "avatar": "https://a.ppy.sh/22956209?1619460178.jpeg",
@@ -4238,7 +4238,7 @@
     }
   },
   {
-    "rank": 462373,
+    "rank": 462831,
     "id": 31067439,
     "user": "d4za1ii",
     "avatar": "https://a.ppy.sh/31067439?1664055581.jpeg",
@@ -4264,7 +4264,7 @@
     }
   },
   {
-    "rank": 463184,
+    "rank": 463630,
     "id": 28609789,
     "user": "watermouse",
     "avatar": "https://a.ppy.sh/28609789?1643994351.jpeg",
@@ -4290,7 +4290,7 @@
     }
   },
   {
-    "rank": 464741,
+    "rank": 465186,
     "id": 36519675,
     "user": "vaati1",
     "avatar": "https://a.ppy.sh/36519675?1740570106.jpeg",
@@ -4316,7 +4316,7 @@
     }
   },
   {
-    "rank": 469048,
+    "rank": 469498,
     "id": 34724531,
     "user": "tearsinmyeyes",
     "avatar": "https://a.ppy.sh/34724531?1770597342.jpeg",
@@ -4342,21 +4342,21 @@
     }
   },
   {
-    "rank": 474788,
+    "rank": 472896,
     "id": 35237547,
     "user": "nxro1",
     "avatar": "https://a.ppy.sh/35237547?1783005791.jpeg",
-    "pp": 2038.05,
-    "accuracy": 94.678,
-    "play_count": 3209,
-    "play_time": 276994,
-    "total_score": 3336035635,
-    "total_hits": 771500,
+    "pp": 2048.03,
+    "accuracy": 94.7095,
+    "play_count": 3262,
+    "play_time": 280905,
+    "total_score": 3403187945,
+    "total_hits": 784440,
     "ss_count": 0,
-    "s_count": 94,
+    "s_count": 95,
     "medals": 0,
-    "last_active": "2026-08-28T17:50:44+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T20:37:36+00:00",
+    "daily_pp": 1092.9662,
     "top_play": {
       "title": "I Don't Know (Nightcore & Cut Ver.)",
       "diff": "Ram's Another",
@@ -4368,7 +4368,33 @@
     }
   },
   {
-    "rank": 475816,
+    "rank": 476398,
+    "id": 14700342,
+    "user": "4KZ",
+    "avatar": "https://a.ppy.sh/14700342?1658904818.jpeg",
+    "pp": 2033.52,
+    "accuracy": 87.9486,
+    "play_count": 5777,
+    "play_time": 267345,
+    "total_score": 1494414111,
+    "total_hits": 690364,
+    "ss_count": 3,
+    "s_count": 32,
+    "medals": 0,
+    "last_active": "2026-08-29T20:12:37+00:00",
+    "daily_pp": 664.4364,
+    "top_play": {
+      "title": "Miniministop Hitoyasumi no Uta[Mokuyoubi]Gakusei no Uta",
+      "diff": "Chromstrata's Hitoyasumi",
+      "cover": "https://assets.ppy.sh/beatmaps/705423/covers/card.jpg?1645788448",
+      "stars": 3.71379,
+      "mods": "+DT",
+      "pp": 146.12,
+      "acc": 95.28619528619528
+    }
+  },
+  {
+    "rank": 476255,
     "id": 16544306,
     "user": "skullkrusherz",
     "avatar": "https://a.ppy.sh/16544306?1615284170.jpeg",
@@ -4394,7 +4420,7 @@
     }
   },
   {
-    "rank": 476158,
+    "rank": 476606,
     "id": 12792060,
     "user": "xSinonX1",
     "avatar": "https://a.ppy.sh/12792060?1690811534.jpeg",
@@ -4420,7 +4446,7 @@
     }
   },
   {
-    "rank": 482676,
+    "rank": 483163,
     "id": 22937996,
     "user": "Senpai077",
     "avatar": "https://a.ppy.sh/22937996?1636400138.jpeg",
@@ -4446,7 +4472,7 @@
     }
   },
   {
-    "rank": 483349,
+    "rank": 483834,
     "id": 27628325,
     "user": "Ze4lot",
     "avatar": "https://a.ppy.sh/27628325?1639413852.jpeg",
@@ -4472,7 +4498,7 @@
     }
   },
   {
-    "rank": 485877,
+    "rank": 486369,
     "id": 7615490,
     "user": "ThisIsNotAName1",
     "avatar": "https://a.ppy.sh/7615490?1769364432.png",
@@ -4498,7 +4524,7 @@
     }
   },
   {
-    "rank": 494718,
+    "rank": 495216,
     "id": 20910374,
     "user": "IAMmanger",
     "avatar": "https://a.ppy.sh/20910374?1613663680.jpeg",
@@ -4524,7 +4550,7 @@
     }
   },
   {
-    "rank": 494887,
+    "rank": 495384,
     "id": 34588858,
     "user": "user11680",
     "avatar": "https://a.ppy.sh/34588858?1776840639.jpeg",
@@ -4550,7 +4576,7 @@
     }
   },
   {
-    "rank": 495574,
+    "rank": 496066,
     "id": 28885167,
     "user": "DoniaGamer",
     "avatar": "https://a.ppy.sh/28885167?1645548095.jpeg",
@@ -4576,7 +4602,7 @@
     }
   },
   {
-    "rank": 500393,
+    "rank": 500877,
     "id": 28726785,
     "user": "im_p06_",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -4602,7 +4628,7 @@
     }
   },
   {
-    "rank": 506490,
+    "rank": 506981,
     "id": 32832996,
     "user": "marcyy",
     "avatar": "https://a.ppy.sh/32832996?1776054422.jpeg",
@@ -4628,7 +4654,7 @@
     }
   },
   {
-    "rank": 507428,
+    "rank": 507929,
     "id": 34347033,
     "user": "SaifHaitham2005",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -4654,7 +4680,7 @@
     }
   },
   {
-    "rank": 508751,
+    "rank": 509260,
     "id": 25696169,
     "user": "Z O M B I E",
     "avatar": "https://a.ppy.sh/25696169?1644296721.jpeg",
@@ -4680,7 +4706,7 @@
     }
   },
   {
-    "rank": 509204,
+    "rank": 509720,
     "id": 28071464,
     "user": "Nii-Sann",
     "avatar": "https://a.ppy.sh/28071464?1664133968.jpeg",
@@ -4706,7 +4732,33 @@
     }
   },
   {
-    "rank": 514423,
+    "rank": 510045,
+    "id": 19941349,
+    "user": "ITsShaDoW_old_2",
+    "avatar": "https://a.ppy.sh/19941349?1765925111.jpeg",
+    "pp": 1904.87,
+    "accuracy": 91.0489,
+    "play_count": 2787,
+    "play_time": 316958,
+    "total_score": 5698874851,
+    "total_hits": 858351,
+    "ss_count": 0,
+    "s_count": 26,
+    "medals": 0,
+    "last_active": "2026-08-29T18:51:44+00:00",
+    "daily_pp": 1115.7725,
+    "top_play": {
+      "title": "Take a Hint feat. Victoria Justice & Elizabeth Gillies (Speed Up Ver.)",
+      "diff": "Apollo's Insane",
+      "cover": "https://assets.ppy.sh/beatmaps/984684/covers/card.jpg?1650681093",
+      "stars": 4.7006,
+      "mods": "",
+      "pp": 96.5608,
+      "acc": 93.85964912280701
+    }
+  },
+  {
+    "rank": 514943,
     "id": 9591824,
     "user": "ameerasda",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -4732,33 +4784,7 @@
     }
   },
   {
-    "rank": 514958,
-    "id": 19941349,
-    "user": "ITsShaDoW_old_2",
-    "avatar": "https://a.ppy.sh/19941349?1765925111.jpeg",
-    "pp": 1885.07,
-    "accuracy": 90.7488,
-    "play_count": 2740,
-    "play_time": 310982,
-    "total_score": 5484441146,
-    "total_hits": 837884,
-    "ss_count": 0,
-    "s_count": 25,
-    "medals": 0,
-    "last_active": "2026-08-28T22:37:07+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "Take a Hint feat. Victoria Justice & Elizabeth Gillies (Speed Up Ver.)",
-      "diff": "Apollo's Insane",
-      "cover": "https://assets.ppy.sh/beatmaps/984684/covers/card.jpg?1650681093",
-      "stars": 4.7006,
-      "mods": "",
-      "pp": 96.5608,
-      "acc": 93.85964912280701
-    }
-  },
-  {
-    "rank": 514977,
+    "rank": 515497,
     "id": 39264239,
     "user": "rona13",
     "avatar": "https://a.ppy.sh/39264239?1772021590.jpeg",
@@ -4784,7 +4810,7 @@
     }
   },
   {
-    "rank": 515199,
+    "rank": 515723,
     "id": 15982061,
     "user": "riceframer",
     "avatar": "https://a.ppy.sh/15982061?1729369532.jpeg",
@@ -4810,33 +4836,7 @@
     }
   },
   {
-    "rank": 518558,
-    "id": 14700342,
-    "user": "4KZ",
-    "avatar": "https://a.ppy.sh/14700342?1658904818.jpeg",
-    "pp": 1872.55,
-    "accuracy": 87.306,
-    "play_count": 5671,
-    "play_time": 263973,
-    "total_score": 1454077859,
-    "total_hits": 678592,
-    "ss_count": 3,
-    "s_count": 31,
-    "medals": 0,
-    "last_active": "2026-08-28T22:01:45+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "Harumachi Clover (Swing Arrangement)",
-      "diff": "A r M i N's Extra",
-      "cover": "https://assets.ppy.sh/beatmaps/859783/covers/card.jpg?1650679901",
-      "stars": 5.08073,
-      "mods": "",
-      "pp": 107.954,
-      "acc": 91.53005464480874
-    }
-  },
-  {
-    "rank": 521019,
+    "rank": 521555,
     "id": 30352441,
     "user": "Dr Lako",
     "avatar": "https://a.ppy.sh/30352441?1760379626.png",
@@ -4862,7 +4862,7 @@
     }
   },
   {
-    "rank": 521770,
+    "rank": 522294,
     "id": 31286073,
     "user": "bored_of_life",
     "avatar": "https://a.ppy.sh/31286073?1767594816.jpeg",
@@ -4888,7 +4888,7 @@
     }
   },
   {
-    "rank": 523037,
+    "rank": 523556,
     "id": 38336028,
     "user": "mohope00",
     "avatar": "https://a.ppy.sh/38336028?1771732109.png",
@@ -4914,7 +4914,7 @@
     }
   },
   {
-    "rank": 523828,
+    "rank": 524344,
     "id": 14887928,
     "user": "iYasiRx1",
     "avatar": "https://a.ppy.sh/14887928?1564525065.jpeg",
@@ -4940,7 +4940,7 @@
     }
   },
   {
-    "rank": 523861,
+    "rank": 524378,
     "id": 39510489,
     "user": "M8X1",
     "avatar": "https://a.ppy.sh/39510489?1778395465.png",
@@ -4966,7 +4966,7 @@
     }
   },
   {
-    "rank": 528134,
+    "rank": 528654,
     "id": 35822464,
     "user": "Sarssem",
     "avatar": "https://a.ppy.sh/35822464?1774191907.png",
@@ -4992,7 +4992,7 @@
     }
   },
   {
-    "rank": 536812,
+    "rank": 537342,
     "id": 25992848,
     "user": "munaf",
     "avatar": "https://a.ppy.sh/25992848?1657839855.jpeg",
@@ -5018,7 +5018,7 @@
     }
   },
   {
-    "rank": 538755,
+    "rank": 539276,
     "id": 12386691,
     "user": "AmmarAli45",
     "avatar": "https://a.ppy.sh/12386691?1731421646.jpeg",
@@ -5044,7 +5044,7 @@
     }
   },
   {
-    "rank": 539530,
+    "rank": 539924,
     "id": 38944710,
     "user": "velhiem",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -5058,7 +5058,7 @@
     "s_count": 0,
     "medals": 0,
     "last_active": "2026-08-28T13:25:06+00:00",
-    "daily_pp": 0,
+    "daily_pp": 109.06219999999999,
     "top_play": {
       "title": "WEREWOLF (NIGHTCORE & CUT VER.)",
       "diff": "KUMOCHA'S EXTRA",
@@ -5070,21 +5070,21 @@
     }
   },
   {
-    "rank": 547579,
+    "rank": 547918,
     "id": 30166704,
     "user": "kyleiier",
     "avatar": "https://a.ppy.sh/30166704?1753450684.jpeg",
-    "pp": 1770.66,
+    "pp": 1770.7,
     "accuracy": 99.1819,
-    "play_count": 17598,
-    "play_time": 557446,
-    "total_score": 3794477886,
-    "total_hits": 1054584,
+    "play_count": 17599,
+    "play_time": 557585,
+    "total_score": 3794548414,
+    "total_hits": 1054896,
     "ss_count": 40,
     "s_count": 159,
     "medals": 0,
-    "last_active": "2026-08-28T21:04:04+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T13:22:09+00:00",
+    "daily_pp": 2.58948,
     "top_play": {
       "title": "1HOPE SNIPER",
       "diff": "Akitoshi's NORMAL",
@@ -5096,7 +5096,7 @@
     }
   },
   {
-    "rank": 548959,
+    "rank": 549494,
     "id": 16599804,
     "user": "Danger_",
     "avatar": "https://a.ppy.sh/16599804?1585935510.jpeg",
@@ -5122,7 +5122,7 @@
     }
   },
   {
-    "rank": 553164,
+    "rank": 553699,
     "id": 31083630,
     "user": "Killz-217",
     "avatar": "https://a.ppy.sh/31083630?1779687780.jpeg",
@@ -5148,7 +5148,7 @@
     }
   },
   {
-    "rank": 558175,
+    "rank": 558726,
     "id": 25532637,
     "user": "ZIKQ",
     "avatar": "https://a.ppy.sh/25532637?1639265193.jpeg",
@@ -5174,20 +5174,20 @@
     }
   },
   {
-    "rank": 575612,
+    "rank": 576503,
     "id": 39319509,
     "user": "_T_A_I_",
     "avatar": "https://a.ppy.sh/39319509?1776614630.jpeg",
     "pp": 1677.66,
     "accuracy": 89.5837,
-    "play_count": 4386,
-    "play_time": 277167,
-    "total_score": 1161956900,
-    "total_hits": 701111,
+    "play_count": 4398,
+    "play_time": 277711,
+    "total_score": 1164356788,
+    "total_hits": 702786,
     "ss_count": 2,
     "s_count": 28,
     "medals": 0,
-    "last_active": "2026-08-27T16:40:13+00:00",
+    "last_active": "2026-08-29T18:02:54+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "bad times (sped up & cut ver.)",
@@ -5200,7 +5200,7 @@
     }
   },
   {
-    "rank": 576642,
+    "rank": 577223,
     "id": 35359675,
     "user": "i9be",
     "avatar": "https://a.ppy.sh/35359675?1764607883.jpeg",
@@ -5226,21 +5226,21 @@
     }
   },
   {
-    "rank": 579596,
+    "rank": 579681,
     "id": 39546476,
     "user": "ALASTORX",
     "avatar": "https://a.ppy.sh/39546476?1775055153.jpeg",
     "pp": 1666.57,
     "accuracy": 92.5578,
-    "play_count": 4816,
-    "play_time": 235405,
-    "total_score": 1355824745,
-    "total_hits": 707743,
+    "play_count": 4818,
+    "play_time": 235539,
+    "total_score": 1356525587,
+    "total_hits": 708113,
     "ss_count": 0,
     "s_count": 10,
     "medals": 0,
-    "last_active": "2026-08-29T01:18:21+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T09:06:17+00:00",
+    "daily_pp": 414.558,
     "top_play": {
       "title": "Marshmary",
       "diff": "Insane",
@@ -5252,7 +5252,7 @@
     }
   },
   {
-    "rank": 581531,
+    "rank": 582117,
     "id": 8080864,
     "user": "xxxxameerxxxx",
     "avatar": "https://a.ppy.sh/8080864?1459945980.png",
@@ -5278,7 +5278,7 @@
     }
   },
   {
-    "rank": 582177,
+    "rank": 582760,
     "id": 16409279,
     "user": "xKillua",
     "avatar": "https://a.ppy.sh/16409279?1661082781.jpeg",
@@ -5304,20 +5304,20 @@
     }
   },
   {
-    "rank": 584023,
+    "rank": 584620,
     "id": 26346364,
     "user": "krefto1",
     "avatar": "https://a.ppy.sh/26346364?1752756491.jpeg",
     "pp": 1650.86,
     "accuracy": 91.9805,
-    "play_count": 4478,
-    "play_time": 339466,
-    "total_score": 2567241624,
-    "total_hits": 969574,
+    "play_count": 4480,
+    "play_time": 339538,
+    "total_score": 2567472628,
+    "total_hits": 969748,
     "ss_count": 7,
     "s_count": 69,
     "medals": 0,
-    "last_active": "2026-08-26T16:18:54+00:00",
+    "last_active": "2026-08-29T14:25:39+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Harumachi Clover (Swing Arrangement)",
@@ -5330,20 +5330,20 @@
     }
   },
   {
-    "rank": 584465,
+    "rank": 584918,
     "id": 38109835,
     "user": "Zen55x",
     "avatar": "https://a.ppy.sh/38109835?1783539460.png",
-    "pp": 1649.48,
-    "accuracy": 78.968,
-    "play_count": 4692,
-    "play_time": 449478,
-    "total_score": 6377490231,
-    "total_hits": 1507963,
+    "pp": 1650.63,
+    "accuracy": 78.9679,
+    "play_count": 4705,
+    "play_time": 450267,
+    "total_score": 6391458125,
+    "total_hits": 1511279,
     "ss_count": 1,
     "s_count": 5,
     "medals": 0,
-    "last_active": "2026-08-27T15:18:51+00:00",
+    "last_active": "2026-08-29T15:10:24+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Mizuoto to Curtain",
@@ -5356,7 +5356,7 @@
     }
   },
   {
-    "rank": 585735,
+    "rank": 586343,
     "id": 12100932,
     "user": "Vex00",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -5382,7 +5382,7 @@
     }
   },
   {
-    "rank": 586022,
+    "rank": 586622,
     "id": 22515357,
     "user": "soccermaster651",
     "avatar": "https://a.ppy.sh/22515357?1705070988.jpeg",
@@ -5408,7 +5408,7 @@
     }
   },
   {
-    "rank": 588511,
+    "rank": 589122,
     "id": 25940005,
     "user": "Medo311312",
     "avatar": "https://a.ppy.sh/25940005?1631854134.jpeg",
@@ -5434,7 +5434,7 @@
     }
   },
   {
-    "rank": 588888,
+    "rank": 589492,
     "id": 27774551,
     "user": "Cheezie_",
     "avatar": "https://a.ppy.sh/27774551?1714146922.jpeg",
@@ -5460,7 +5460,7 @@
     }
   },
   {
-    "rank": 589008,
+    "rank": 589607,
     "id": 15876002,
     "user": "saif_12s",
     "avatar": "https://a.ppy.sh/15876002?1608483335.jpeg",
@@ -5486,7 +5486,7 @@
     }
   },
   {
-    "rank": 590352,
+    "rank": 590965,
     "id": 23892341,
     "user": "Finneas",
     "avatar": "https://a.ppy.sh/23892341?1667315228.jpeg",
@@ -5512,7 +5512,7 @@
     }
   },
   {
-    "rank": 597221,
+    "rank": 597814,
     "id": 17058899,
     "user": "Ahmed-Kun",
     "avatar": "https://a.ppy.sh/17058899?1597861085.jpeg",
@@ -5538,7 +5538,7 @@
     }
   },
   {
-    "rank": 597549,
+    "rank": 598144,
     "id": 18157453,
     "user": "ESF_ALPHA",
     "avatar": "https://a.ppy.sh/18157453?1712515739.jpeg",
@@ -5564,7 +5564,7 @@
     }
   },
   {
-    "rank": 598438,
+    "rank": 599031,
     "id": 4200509,
     "user": "SamuTDN",
     "avatar": "https://a.ppy.sh/4200509?1492607885.png",
@@ -5590,7 +5590,7 @@
     }
   },
   {
-    "rank": 599813,
+    "rank": 600398,
     "id": 7769691,
     "user": "hustleroyal",
     "avatar": "https://a.ppy.sh/7769691?1674531200.jpeg",
@@ -5616,7 +5616,7 @@
     }
   },
   {
-    "rank": 600760,
+    "rank": 601349,
     "id": 11029694,
     "user": "yousif mohammed",
     "avatar": "https://a.ppy.sh/11029694?1512053379.jpg",
@@ -5642,7 +5642,7 @@
     }
   },
   {
-    "rank": 602076,
+    "rank": 602684,
     "id": 23001432,
     "user": "aftertheparty",
     "avatar": "https://a.ppy.sh/23001432?1654255985.jpeg",
@@ -5668,7 +5668,7 @@
     }
   },
   {
-    "rank": 602820,
+    "rank": 603425,
     "id": 27138883,
     "user": "MGSM25",
     "avatar": "https://a.ppy.sh/27138883?1681465610.jpeg",
@@ -5694,7 +5694,7 @@
     }
   },
   {
-    "rank": 603019,
+    "rank": 603620,
     "id": 24906811,
     "user": "zireal121",
     "avatar": "https://a.ppy.sh/24906811?1651753959.jpeg",
@@ -5707,7 +5707,7 @@
     "ss_count": 2,
     "s_count": 129,
     "medals": 0,
-    "last_active": "2026-08-26T10:23:24+00:00",
+    "last_active": "2026-08-29T17:09:46+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Sunflower",
@@ -5720,7 +5720,7 @@
     }
   },
   {
-    "rank": 605912,
+    "rank": 606525,
     "id": 38148071,
     "user": "AbodritaX",
     "avatar": "https://a.ppy.sh/38148071?1787475085.jpeg",
@@ -5746,7 +5746,7 @@
     }
   },
   {
-    "rank": 608488,
+    "rank": 609105,
     "id": 39770414,
     "user": "silent is hell",
     "avatar": "https://a.ppy.sh/39770414?1778920262.jpeg",
@@ -5772,7 +5772,7 @@
     }
   },
   {
-    "rank": 612355,
+    "rank": 613006,
     "id": 37085851,
     "user": "LAWLIMT1",
     "avatar": "https://a.ppy.sh/37085851?1784601111.jpeg",
@@ -5798,7 +5798,7 @@
     }
   },
   {
-    "rank": 622023,
+    "rank": 622675,
     "id": 28322409,
     "user": "ali_mohammed",
     "avatar": "https://a.ppy.sh/28322409?1701023368.jpeg",
@@ -5824,7 +5824,7 @@
     }
   },
   {
-    "rank": 622975,
+    "rank": 623636,
     "id": 20386838,
     "user": "arrow-ll",
     "avatar": "https://a.ppy.sh/20386838?1617456085.jpeg",
@@ -5850,7 +5850,7 @@
     }
   },
   {
-    "rank": 624334,
+    "rank": 625005,
     "id": 27629066,
     "user": "aLi4z",
     "avatar": "https://a.ppy.sh/27629066?1658999492.jpeg",
@@ -5876,7 +5876,7 @@
     }
   },
   {
-    "rank": 628538,
+    "rank": 629190,
     "id": 15215824,
     "user": "Daniel ONeil",
     "avatar": "https://a.ppy.sh/15215824?1734026115.jpeg",
@@ -5902,21 +5902,21 @@
     }
   },
   {
-    "rank": 629399,
+    "rank": 629548,
     "id": 30649729,
     "user": "asterall",
     "avatar": "https://a.ppy.sh/30649729?1731800881.jpeg",
     "pp": 1516.85,
     "accuracy": 78.5445,
-    "play_count": 3858,
-    "play_time": 359038,
-    "total_score": 1349068501,
-    "total_hits": 1265699,
+    "play_count": 3864,
+    "play_time": 359417,
+    "total_score": 1349757292,
+    "total_hits": 1266705,
     "ss_count": 0,
     "s_count": 0,
     "medals": 0,
-    "last_active": "2026-08-29T00:14:50+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T20:26:32+00:00",
+    "daily_pp": 74.0608,
     "top_play": {
       "title": "BUBBLE TEA (feat. juu & cinders)",
       "diff": "Battle's Insane",
@@ -5928,7 +5928,7 @@
     }
   },
   {
-    "rank": 632757,
+    "rank": 633406,
     "id": 5088582,
     "user": "ahmed chan",
     "avatar": "https://a.ppy.sh/5088582?1691488615.jpeg",
@@ -5954,7 +5954,7 @@
     }
   },
   {
-    "rank": 638428,
+    "rank": 639088,
     "id": 17342734,
     "user": "KURONEKO13",
     "avatar": "https://a.ppy.sh/17342734?1753895418.jpeg",
@@ -5980,7 +5980,7 @@
     }
   },
   {
-    "rank": 639931,
+    "rank": 640605,
     "id": 20373860,
     "user": "ROBIN-IRAQ",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -6006,7 +6006,7 @@
     }
   },
   {
-    "rank": 640994,
+    "rank": 641655,
     "id": 18879998,
     "user": "Naznin",
     "avatar": "https://a.ppy.sh/18879998?1725034627.jpeg",
@@ -6032,20 +6032,20 @@
     }
   },
   {
-    "rank": 645295,
+    "rank": 645952,
     "id": 38874590,
     "user": "orashoka",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
     "pp": 1471.22,
     "accuracy": 90.5633,
-    "play_count": 2645,
-    "play_time": 223146,
-    "total_score": 3030918553,
-    "total_hits": 622247,
+    "play_count": 2646,
+    "play_time": 223173,
+    "total_score": 3031219697,
+    "total_hits": 622315,
     "ss_count": 0,
     "s_count": 5,
     "medals": 0,
-    "last_active": "2026-08-28T00:08:33+00:00",
+    "last_active": "2026-08-29T20:42:47+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Marshmary",
@@ -6058,7 +6058,7 @@
     }
   },
   {
-    "rank": 645395,
+    "rank": 646048,
     "id": 37667347,
     "user": "Noreu_",
     "avatar": "https://a.ppy.sh/37667347?1784228793.jpeg",
@@ -6084,7 +6084,7 @@
     }
   },
   {
-    "rank": 650453,
+    "rank": 651124,
     "id": 33810151,
     "user": "hu tao 002",
     "avatar": "https://a.ppy.sh/33810151?1736868443.jpeg",
@@ -6110,7 +6110,33 @@
     }
   },
   {
-    "rank": 653243,
+    "rank": 653758,
+    "id": 34459441,
+    "user": "yousefkh28",
+    "avatar": "https://a.ppy.sh/34459441?1724018511.jpeg",
+    "pp": 1450.1,
+    "accuracy": 84.5229,
+    "play_count": 3704,
+    "play_time": 341495,
+    "total_score": 3947502417,
+    "total_hits": 969839,
+    "ss_count": 1,
+    "s_count": 17,
+    "medals": 0,
+    "last_active": "2026-08-29T15:42:42+00:00",
+    "daily_pp": 106.81637,
+    "top_play": {
+      "title": "Tool",
+      "diff": "Here Comes The Pain!!!!!",
+      "cover": "https://assets.ppy.sh/beatmaps/2494533/covers/card.jpg?1776012765",
+      "stars": 5.13443,
+      "mods": "",
+      "pp": 79.3471,
+      "acc": 79.296875
+    }
+  },
+  {
+    "rank": 653923,
     "id": 27964559,
     "user": "animeomer",
     "avatar": "https://a.ppy.sh/27964559?1662129159.jpeg",
@@ -6136,7 +6162,7 @@
     }
   },
   {
-    "rank": 654276,
+    "rank": 654953,
     "id": 36600682,
     "user": "iDoz",
     "avatar": "https://a.ppy.sh/36600682?1780502866.jpeg",
@@ -6162,7 +6188,7 @@
     }
   },
   {
-    "rank": 654413,
+    "rank": 655090,
     "id": 16740299,
     "user": "[FaZe]Osu",
     "avatar": "https://a.ppy.sh/16740299?1587070015.jpeg",
@@ -6188,33 +6214,7 @@
     }
   },
   {
-    "rank": 655563,
-    "id": 34459441,
-    "user": "yousefkh28",
-    "avatar": "https://a.ppy.sh/34459441?1724018511.jpeg",
-    "pp": 1444.06,
-    "accuracy": 84.3243,
-    "play_count": 3681,
-    "play_time": 338689,
-    "total_score": 3899531136,
-    "total_hits": 960650,
-    "ss_count": 1,
-    "s_count": 17,
-    "medals": 0,
-    "last_active": "2026-08-28T21:50:16+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "Tool",
-      "diff": "Here Comes The Pain!!!!!",
-      "cover": "https://assets.ppy.sh/beatmaps/2494533/covers/card.jpg?1776012765",
-      "stars": 5.13443,
-      "mods": "",
-      "pp": 79.3471,
-      "acc": 79.296875
-    }
-  },
-  {
-    "rank": 655486,
+    "rank": 656175,
     "id": 7472957,
     "user": "Hus613",
     "avatar": "https://a.ppy.sh/7472957?1515181773.jpg",
@@ -6240,7 +6240,7 @@
     }
   },
   {
-    "rank": 659072,
+    "rank": 659609,
     "id": 39281114,
     "user": "dboo3e",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -6254,7 +6254,7 @@
     "s_count": 3,
     "medals": 0,
     "last_active": "2026-08-28T13:24:03+00:00",
-    "daily_pp": 0,
+    "daily_pp": 33.9981,
     "top_play": {
       "title": "Ai no Sukima",
       "diff": "Radiance",
@@ -6266,7 +6266,7 @@
     }
   },
   {
-    "rank": 660024,
+    "rank": 660406,
     "id": 29220958,
     "user": "im_j_chiling",
     "avatar": "https://a.ppy.sh/29220958?1781740068.jpeg",
@@ -6280,7 +6280,7 @@
     "s_count": 148,
     "medals": 0,
     "last_active": "2026-08-28T18:09:01+00:00",
-    "daily_pp": 0,
+    "daily_pp": 252.39314000000002,
     "top_play": {
       "title": "Circulation",
       "diff": "Hard",
@@ -6292,7 +6292,7 @@
     }
   },
   {
-    "rank": 660196,
+    "rank": 660885,
     "id": 25916718,
     "user": "ke_dja",
     "avatar": "https://a.ppy.sh/25916718?1638706869.jpeg",
@@ -6318,7 +6318,7 @@
     }
   },
   {
-    "rank": 662553,
+    "rank": 663210,
     "id": 36835961,
     "user": "Ari_Khoshnaw",
     "avatar": "https://a.ppy.sh/36835961?1764701736.jpeg",
@@ -6344,7 +6344,7 @@
     }
   },
   {
-    "rank": 664920,
+    "rank": 665579,
     "id": 34220488,
     "user": "van1ki",
     "avatar": "https://a.ppy.sh/34220488?1747422985.jpeg",
@@ -6370,7 +6370,7 @@
     }
   },
   {
-    "rank": 669632,
+    "rank": 670312,
     "id": 15244954,
     "user": "Agent Hightower",
     "avatar": "https://a.ppy.sh/15244954?1665657471.jpeg",
@@ -6396,7 +6396,7 @@
     }
   },
   {
-    "rank": 672124,
+    "rank": 672781,
     "id": 9503578,
     "user": "Renne_",
     "avatar": "https://a.ppy.sh/9503578?1485707762.jpg",
@@ -6422,7 +6422,7 @@
     }
   },
   {
-    "rank": 675955,
+    "rank": 676448,
     "id": 35847666,
     "user": "KRmuu",
     "avatar": "https://a.ppy.sh/35847666?1723834381.jpeg",
@@ -6436,7 +6436,7 @@
     "s_count": 1,
     "medals": 0,
     "last_active": "2026-08-28T14:17:30+00:00",
-    "daily_pp": 0,
+    "daily_pp": 155.26080000000002,
     "top_play": {
       "title": "Harumachi Clover (Swing Arrangement) [Dictate Edit]",
       "diff": "Expert",
@@ -6448,7 +6448,7 @@
     }
   },
   {
-    "rank": 677618,
+    "rank": 678300,
     "id": 34102567,
     "user": "MaymoonRM",
     "avatar": "https://a.ppy.sh/34102567?1689920330.jpeg",
@@ -6474,7 +6474,7 @@
     }
   },
   {
-    "rank": 678510,
+    "rank": 679193,
     "id": 5801051,
     "user": "MFC9",
     "avatar": "https://a.ppy.sh/5801051?1584471925.png",
@@ -6500,7 +6500,7 @@
     }
   },
   {
-    "rank": 680709,
+    "rank": 681393,
     "id": 22634155,
     "user": "meonbois12",
     "avatar": "https://a.ppy.sh/22634155?1778021455.jpeg",
@@ -6526,7 +6526,7 @@
     }
   },
   {
-    "rank": 680898,
+    "rank": 681580,
     "id": 38050336,
     "user": "kleuce",
     "avatar": "https://a.ppy.sh/38050336?1750292313.jpeg",
@@ -6552,7 +6552,7 @@
     }
   },
   {
-    "rank": 683840,
+    "rank": 684533,
     "id": 20355491,
     "user": "Giveta",
     "avatar": "https://a.ppy.sh/20355491?1622643391.jpeg",
@@ -6578,7 +6578,7 @@
     }
   },
   {
-    "rank": 685442,
+    "rank": 686151,
     "id": 16979758,
     "user": "Abraxoss",
     "avatar": "https://a.ppy.sh/16979758?1590852530.jpeg",
@@ -6604,7 +6604,7 @@
     }
   },
   {
-    "rank": 686647,
+    "rank": 687366,
     "id": 20391500,
     "user": "zaidalsuhaili",
     "avatar": "https://a.ppy.sh/20391500?1611425831.jpeg",
@@ -6630,7 +6630,7 @@
     }
   },
   {
-    "rank": 687414,
+    "rank": 688132,
     "id": 15112581,
     "user": "Fifal_",
     "avatar": "https://a.ppy.sh/15112581?1631180045.png",
@@ -6656,20 +6656,20 @@
     }
   },
   {
-    "rank": 687695,
+    "rank": 688409,
     "id": 21405279,
     "user": "shaamir",
     "avatar": "https://a.ppy.sh/21405279?1639896838.jpeg",
     "pp": 1357.99,
     "accuracy": 93.0902,
-    "play_count": 24635,
-    "play_time": 1119730,
-    "total_score": 5826132185,
-    "total_hits": 2687936,
+    "play_count": 24636,
+    "play_time": 1119793,
+    "total_score": 5826617543,
+    "total_hits": 2688134,
     "ss_count": 9,
     "s_count": 100,
     "medals": 0,
-    "last_active": "2026-08-20T21:23:10+00:00",
+    "last_active": "2026-08-29T19:33:07+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Aspanga qaraimyn (Cut Ver.)",
@@ -6682,7 +6682,7 @@
     }
   },
   {
-    "rank": 688444,
+    "rank": 689155,
     "id": 36627951,
     "user": "abashsan",
     "avatar": "https://a.ppy.sh/36627951?1735223835.jpeg",
@@ -6708,7 +6708,7 @@
     }
   },
   {
-    "rank": 689873,
+    "rank": 690584,
     "id": 38171406,
     "user": "Muhammad01",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -6734,7 +6734,7 @@
     }
   },
   {
-    "rank": 696231,
+    "rank": 696970,
     "id": 26662494,
     "user": "NTB0",
     "avatar": "https://a.ppy.sh/26662494?1752595315.jpeg",
@@ -6760,7 +6760,7 @@
     }
   },
   {
-    "rank": 697753,
+    "rank": 698492,
     "id": 34528226,
     "user": "LUCKY9029",
     "avatar": "https://a.ppy.sh/34528226?1775580852.jpeg",
@@ -6786,7 +6786,7 @@
     }
   },
   {
-    "rank": 698230,
+    "rank": 698975,
     "id": 37460782,
     "user": "ThelQgovernment",
     "avatar": "https://a.ppy.sh/37460782?1739375922.jpeg",
@@ -6812,7 +6812,7 @@
     }
   },
   {
-    "rank": 701262,
+    "rank": 701992,
     "id": 27135337,
     "user": "ixkyrito",
     "avatar": "https://a.ppy.sh/27135337?1761658614.jpeg",
@@ -6838,7 +6838,7 @@
     }
   },
   {
-    "rank": 706730,
+    "rank": 707470,
     "id": 29042790,
     "user": "KSH_",
     "avatar": "https://a.ppy.sh/29042790?1647854856.jpeg",
@@ -6864,7 +6864,7 @@
     }
   },
   {
-    "rank": 707413,
+    "rank": 708146,
     "id": 27442324,
     "user": "ALI GAMES AXD",
     "avatar": "https://a.ppy.sh/27442324?1774911575.jpeg",
@@ -6890,7 +6890,7 @@
     }
   },
   {
-    "rank": 709043,
+    "rank": 709774,
     "id": 9727994,
     "user": "mustafa_emad",
     "avatar": "https://a.ppy.sh/9727994?1629897708.jpeg",
@@ -6916,7 +6916,7 @@
     }
   },
   {
-    "rank": 712181,
+    "rank": 712917,
     "id": 22044006,
     "user": "Sirblitz2",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -6942,7 +6942,7 @@
     }
   },
   {
-    "rank": 713201,
+    "rank": 713926,
     "id": 12795080,
     "user": "Bilind",
     "avatar": "https://a.ppy.sh/12795080?1778443349.jpeg",
@@ -6968,20 +6968,20 @@
     }
   },
   {
-    "rank": 715866,
+    "rank": 716234,
     "id": 16749853,
     "user": "meerosu",
     "avatar": "https://a.ppy.sh/16749853?1698608703.png",
-    "pp": 1288.17,
+    "pp": 1289.61,
     "accuracy": 86.6712,
-    "play_count": 4653,
-    "play_time": 153041,
-    "total_score": 624804502,
-    "total_hits": 394921,
+    "play_count": 4664,
+    "play_time": 153480,
+    "total_score": 628768873,
+    "total_hits": 396058,
     "ss_count": 7,
     "s_count": 17,
     "medals": 0,
-    "last_active": "2026-08-27T21:29:19+00:00",
+    "last_active": "2026-08-29T15:49:36+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Gu Niang De Jiu Wo",
@@ -6994,7 +6994,7 @@
     }
   },
   {
-    "rank": 715910,
+    "rank": 716632,
     "id": 32037639,
     "user": "6ft3",
     "avatar": "https://a.ppy.sh/32037639?1673789958.jpeg",
@@ -7020,7 +7020,7 @@
     }
   },
   {
-    "rank": 716721,
+    "rank": 717450,
     "id": 34511352,
     "user": "mudovir",
     "avatar": "https://a.ppy.sh/34511352?1758649255.jpeg",
@@ -7046,7 +7046,7 @@
     }
   },
   {
-    "rank": 717064,
+    "rank": 717798,
     "id": 38120151,
     "user": "pain9991",
     "avatar": "https://a.ppy.sh/38120151?1752001697.jpeg",
@@ -7072,7 +7072,7 @@
     }
   },
   {
-    "rank": 719119,
+    "rank": 719860,
     "id": 17534207,
     "user": "Nali_N",
     "avatar": "https://a.ppy.sh/17534207?1597340146.png",
@@ -7098,7 +7098,7 @@
     }
   },
   {
-    "rank": 723757,
+    "rank": 724515,
     "id": 26961615,
     "user": "Rinkesan",
     "avatar": "https://a.ppy.sh/26961615?1748963735.jpeg",
@@ -7124,7 +7124,7 @@
     }
   },
   {
-    "rank": 725216,
+    "rank": 725977,
     "id": 12856590,
     "user": "max craft",
     "avatar": "https://a.ppy.sh/12856590?1718947825.jpeg",
@@ -7150,7 +7150,7 @@
     }
   },
   {
-    "rank": 727990,
+    "rank": 728734,
     "id": 17522428,
     "user": "darinispro",
     "avatar": "https://a.ppy.sh/17522428?1594506107.jpeg",
@@ -7176,7 +7176,7 @@
     }
   },
   {
-    "rank": 731438,
+    "rank": 732189,
     "id": 27526375,
     "user": "Alhemeri",
     "avatar": "https://a.ppy.sh/27526375?1772304568.jpeg",
@@ -7202,7 +7202,7 @@
     }
   },
   {
-    "rank": 731482,
+    "rank": 732233,
     "id": 14277470,
     "user": "Thehunter1352",
     "avatar": "https://a.ppy.sh/14277470?1639417492.jpeg",
@@ -7228,20 +7228,20 @@
     }
   },
   {
-    "rank": 736365,
+    "rank": 737136,
     "id": 24454086,
     "user": "cokieee",
     "avatar": "https://a.ppy.sh/24454086?1658855627.png",
     "pp": 1239.84,
     "accuracy": 82.9256,
-    "play_count": 6586,
-    "play_time": 312944,
-    "total_score": 1545407328,
-    "total_hits": 880032,
+    "play_count": 6588,
+    "play_time": 313209,
+    "total_score": 1546092906,
+    "total_hits": 881015,
     "ss_count": 0,
     "s_count": 1,
     "medals": 0,
-    "last_active": "2026-08-13T23:41:10+00:00",
+    "last_active": "2026-08-29T18:12:34+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Ai no Sukima",
@@ -7254,7 +7254,33 @@
     }
   },
   {
-    "rank": 748469,
+    "rank": 745140,
+    "id": 37635103,
+    "user": "azalhussam",
+    "avatar": "https://a.ppy.sh/37635103?1787055742.jpeg",
+    "pp": 1222.28,
+    "accuracy": 86.3776,
+    "play_count": 3103,
+    "play_time": 205138,
+    "total_score": 1567133240,
+    "total_hits": 529660,
+    "ss_count": 1,
+    "s_count": 6,
+    "medals": 0,
+    "last_active": "2026-08-29T20:01:29+00:00",
+    "daily_pp": 771.3199999999999,
+    "top_play": {
+      "title": "Chikatto Chika Chika (TV Size)",
+      "diff": "Hazu's Expert",
+      "cover": "https://assets.ppy.sh/beatmaps/921889/covers/card.jpg?1650675795",
+      "stars": 5.00061,
+      "mods": "",
+      "pp": 73.6799,
+      "acc": 90.21065675340768
+    }
+  },
+  {
+    "rank": 749253,
     "id": 20130989,
     "user": "noore",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -7280,7 +7306,7 @@
     }
   },
   {
-    "rank": 748687,
+    "rank": 749466,
     "id": 38716430,
     "user": "yuaufjf",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -7306,7 +7332,7 @@
     }
   },
   {
-    "rank": 749543,
+    "rank": 750323,
     "id": 34563476,
     "user": "HexisZ",
     "avatar": "https://a.ppy.sh/34563476?1712694356.jpeg",
@@ -7332,7 +7358,7 @@
     }
   },
   {
-    "rank": 751335,
+    "rank": 752137,
     "id": 29199724,
     "user": "Freddie44",
     "avatar": "https://a.ppy.sh/29199724?1659998433.jpeg",
@@ -7358,7 +7384,7 @@
     }
   },
   {
-    "rank": 753220,
+    "rank": 754021,
     "id": 37753234,
     "user": "gh20uc",
     "avatar": "https://a.ppy.sh/37753234?1772225689.png",
@@ -7384,7 +7410,7 @@
     }
   },
   {
-    "rank": 757186,
+    "rank": 757978,
     "id": 7014993,
     "user": "Adooom",
     "avatar": "https://a.ppy.sh/7014993?1575488637.jpeg",
@@ -7410,7 +7436,7 @@
     }
   },
   {
-    "rank": 758493,
+    "rank": 759271,
     "id": 20869658,
     "user": "KillerZone",
     "avatar": "https://a.ppy.sh/20869658?1612883381.jpeg",
@@ -7436,7 +7462,7 @@
     }
   },
   {
-    "rank": 759393,
+    "rank": 760167,
     "id": 33555110,
     "user": "LanaIsLana",
     "avatar": "https://a.ppy.sh/33555110?1722504917.jpeg",
@@ -7462,7 +7488,7 @@
     }
   },
   {
-    "rank": 760097,
+    "rank": 760867,
     "id": 36939772,
     "user": "Vakaika",
     "avatar": "https://a.ppy.sh/36939772?1731607354.jpeg",
@@ -7475,7 +7501,7 @@
     "ss_count": 0,
     "s_count": 2,
     "medals": 0,
-    "last_active": "2026-08-18T18:06:53+00:00",
+    "last_active": "2026-08-29T18:04:28+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Make a Move (Speed Up Ver.)",
@@ -7488,21 +7514,21 @@
     }
   },
   {
-    "rank": 765094,
+    "rank": 765703,
     "id": 27935485,
     "user": "NstR",
     "avatar": "https://a.ppy.sh/27935485?1784757864.jpeg",
-    "pp": 1174.79,
-    "accuracy": 87.2012,
-    "play_count": 7097,
-    "play_time": 479791,
-    "total_score": 3724295738,
-    "total_hits": 1036727,
+    "pp": 1175.22,
+    "accuracy": 87.1841,
+    "play_count": 7125,
+    "play_time": 480501,
+    "total_score": 3730357753,
+    "total_hits": 1038658,
     "ss_count": 3,
     "s_count": 59,
     "medals": 0,
-    "last_active": "2026-08-28T05:43:46+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T05:54:34+00:00",
+    "daily_pp": 98.8106,
     "top_play": {
       "title": "Lucky (Nightcore & Cut Ver.)",
       "diff": "Hard",
@@ -7514,7 +7540,7 @@
     }
   },
   {
-    "rank": 768043,
+    "rank": 768848,
     "id": 30641047,
     "user": "nidhal",
     "avatar": "https://a.ppy.sh/30641047?1772873008.jpeg",
@@ -7540,33 +7566,7 @@
     }
   },
   {
-    "rank": 770286,
-    "id": 37635103,
-    "user": "azalhussam",
-    "avatar": "https://a.ppy.sh/37635103?1787055742.jpeg",
-    "pp": 1164.51,
-    "accuracy": 85.778,
-    "play_count": 3064,
-    "play_time": 202513,
-    "total_score": 1550920583,
-    "total_hits": 521525,
-    "ss_count": 1,
-    "s_count": 6,
-    "medals": 0,
-    "last_active": "2026-08-28T19:28:32+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "MONTAGEM BATCHI",
-      "diff": "LIGHT INSANE",
-      "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
-      "stars": 4.46042,
-      "mods": "",
-      "pp": 61.5589,
-      "acc": 88.17567567567568
-    }
-  },
-  {
-    "rank": 772910,
+    "rank": 773711,
     "id": 24671835,
     "user": "7s0_ny",
     "avatar": "https://a.ppy.sh/24671835?1626906494.jpeg",
@@ -7592,7 +7592,7 @@
     }
   },
   {
-    "rank": 776431,
+    "rank": 777235,
     "id": 9702304,
     "user": "6K3aRoTo",
     "avatar": "https://a.ppy.sh/9702304?1505420145.png",
@@ -7618,7 +7618,7 @@
     }
   },
   {
-    "rank": 777817,
+    "rank": 778618,
     "id": 29101208,
     "user": "SAJADX",
     "avatar": "https://a.ppy.sh/29101208?1666285950.jpeg",
@@ -7644,7 +7644,7 @@
     }
   },
   {
-    "rank": 778444,
+    "rank": 779234,
     "id": 30518630,
     "user": "Kumbaow",
     "avatar": "https://a.ppy.sh/30518630?1668915295.jpeg",
@@ -7670,7 +7670,7 @@
     }
   },
   {
-    "rank": 779496,
+    "rank": 780292,
     "id": 18281062,
     "user": "WildCROW",
     "avatar": "https://a.ppy.sh/18281062?1747565116.jpeg",
@@ -7696,7 +7696,7 @@
     }
   },
   {
-    "rank": 779711,
+    "rank": 780508,
     "id": 9370069,
     "user": "SasukeX40",
     "avatar": "https://a.ppy.sh/9370069?1535129796.jpeg",
@@ -7722,7 +7722,7 @@
     }
   },
   {
-    "rank": 781327,
+    "rank": 782137,
     "id": 18338947,
     "user": "TK911",
     "avatar": "https://a.ppy.sh/18338947?1654467576.jpeg",
@@ -7748,7 +7748,7 @@
     }
   },
   {
-    "rank": 781519,
+    "rank": 782331,
     "id": 37392276,
     "user": "Ali3del",
     "avatar": "https://a.ppy.sh/37392276?1752132767.jpeg",
@@ -7774,7 +7774,7 @@
     }
   },
   {
-    "rank": 789732,
+    "rank": 790541,
     "id": 16242155,
     "user": "diary22",
     "avatar": "https://a.ppy.sh/16242155?1600989365.jpeg",
@@ -7800,7 +7800,33 @@
     }
   },
   {
-    "rank": 796389,
+    "rank": 794830,
+    "id": 36439102,
+    "user": "Slowpoke1578",
+    "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
+    "pp": 1113.95,
+    "accuracy": 85.0488,
+    "play_count": 1016,
+    "play_time": 94449,
+    "total_score": 1057824525,
+    "total_hits": 246957,
+    "ss_count": 0,
+    "s_count": 1,
+    "medals": 0,
+    "last_active": "2026-08-29T18:27:46+00:00",
+    "daily_pp": 43.7025,
+    "top_play": {
+      "title": "Granat",
+      "diff": "Extra",
+      "cover": "https://assets.ppy.sh/beatmaps/497769/covers/card.jpg?1645785838",
+      "stars": 5.05263,
+      "mods": "+NF",
+      "pp": 61.966,
+      "acc": 84.76702508960572
+    }
+  },
+  {
+    "rank": 797209,
     "id": 14014269,
     "user": "ali-just",
     "avatar": "https://a.ppy.sh/14014269?1750681615.jpeg",
@@ -7826,7 +7852,7 @@
     }
   },
   {
-    "rank": 799278,
+    "rank": 800084,
     "id": 18620729,
     "user": "DARK_DRAGON_X",
     "avatar": "https://a.ppy.sh/18620729?1643979112.jpeg",
@@ -7852,33 +7878,7 @@
     }
   },
   {
-    "rank": 800808,
-    "id": 36439102,
-    "user": "Slowpoke1578",
-    "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
-    "pp": 1099.91,
-    "accuracy": 85.0059,
-    "play_count": 959,
-    "play_time": 91583,
-    "total_score": 1013430280,
-    "total_hits": 237081,
-    "ss_count": 0,
-    "s_count": 1,
-    "medals": 0,
-    "last_active": "2026-08-28T18:15:21+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "Granat",
-      "diff": "Extra",
-      "cover": "https://assets.ppy.sh/beatmaps/497769/covers/card.jpg?1645785838",
-      "stars": 5.05263,
-      "mods": "+NF",
-      "pp": 61.966,
-      "acc": 84.76702508960572
-    }
-  },
-  {
-    "rank": 803688,
+    "rank": 804489,
     "id": 17402115,
     "user": "CrixPlayZ",
     "avatar": "https://a.ppy.sh/17402115?1772751312.jpeg",
@@ -7904,7 +7904,7 @@
     }
   },
   {
-    "rank": 803791,
+    "rank": 804594,
     "id": 39278215,
     "user": "Hatagori",
     "avatar": "https://a.ppy.sh/39278215?1770815910.jpeg",
@@ -7930,7 +7930,7 @@
     }
   },
   {
-    "rank": 808356,
+    "rank": 809175,
     "id": 37409273,
     "user": "Anmar abo al3rk",
     "avatar": "https://a.ppy.sh/37409273?1749982360.png",
@@ -7956,7 +7956,33 @@
     }
   },
   {
-    "rank": 809319,
+    "rank": 809976,
+    "id": 39479729,
+    "user": "sunshoo",
+    "avatar": "https://a.ppy.sh/39479729?1783409573.png",
+    "pp": 1081.68,
+    "accuracy": 74.5322,
+    "play_count": 3572,
+    "play_time": 215377,
+    "total_score": 1481387386,
+    "total_hits": 596414,
+    "ss_count": 0,
+    "s_count": 0,
+    "medals": 0,
+    "last_active": "2026-08-29T09:57:24+00:00",
+    "daily_pp": 729.7743000000002,
+    "top_play": {
+      "title": "Dream Catcher (Nightcore & Cut Ver.)",
+      "diff": "geiboi77's Extra",
+      "cover": "https://assets.ppy.sh/beatmaps/2502997/covers/card.jpg?1776968254",
+      "stars": 5.96241,
+      "mods": "",
+      "pp": 67.8897,
+      "acc": 68.11894882434302
+    }
+  },
+  {
+    "rank": 810159,
     "id": 38934036,
     "user": "whisky shot",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -7982,7 +8008,7 @@
     }
   },
   {
-    "rank": 813498,
+    "rank": 814365,
     "id": 38658226,
     "user": "xTHE_CRUISERx",
     "avatar": "https://a.ppy.sh/38658226?1763947307.png",
@@ -8008,7 +8034,7 @@
     }
   },
   {
-    "rank": 814852,
+    "rank": 815722,
     "id": 30089370,
     "user": "mei_nex",
     "avatar": "https://a.ppy.sh/30089370?1654336575.jpeg",
@@ -8034,7 +8060,7 @@
     }
   },
   {
-    "rank": 818064,
+    "rank": 818932,
     "id": 19422690,
     "user": "AHM_Habibi",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -8060,7 +8086,7 @@
     }
   },
   {
-    "rank": 818678,
+    "rank": 819538,
     "id": 33100478,
     "user": "itsmeFADI",
     "avatar": "https://a.ppy.sh/33100478?1732495435.jpeg",
@@ -8086,7 +8112,7 @@
     }
   },
   {
-    "rank": 819638,
+    "rank": 820518,
     "id": 13580417,
     "user": "Demo485",
     "avatar": "https://a.ppy.sh/13580417?1581261558.jpeg",
@@ -8112,7 +8138,7 @@
     }
   },
   {
-    "rank": 823085,
+    "rank": 823945,
     "id": 24948907,
     "user": "Xxabody_2xX",
     "avatar": "https://a.ppy.sh/24948907?1657371417.jpeg",
@@ -8138,7 +8164,7 @@
     }
   },
   {
-    "rank": 824274,
+    "rank": 825136,
     "id": 16805429,
     "user": "Beokse_uwu",
     "avatar": "https://a.ppy.sh/16805429?1590514786.jpeg",
@@ -8164,7 +8190,7 @@
     }
   },
   {
-    "rank": 825259,
+    "rank": 826130,
     "id": 33682447,
     "user": "MazePenny",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -8190,7 +8216,7 @@
     }
   },
   {
-    "rank": 825277,
+    "rank": 826148,
     "id": 13375093,
     "user": "SORA-yuuto",
     "avatar": "https://a.ppy.sh/13375093?1571509452.jpeg",
@@ -8216,7 +8242,7 @@
     }
   },
   {
-    "rank": 826772,
+    "rank": 827631,
     "id": 38343613,
     "user": "mkawoi14",
     "avatar": "https://a.ppy.sh/38343613?1780490227.jpeg",
@@ -8242,33 +8268,7 @@
     }
   },
   {
-    "rank": 827781,
-    "id": 39479729,
-    "user": "sunshoo",
-    "avatar": "https://a.ppy.sh/39479729?1783409573.png",
-    "pp": 1045.59,
-    "accuracy": 74.6484,
-    "play_count": 3530,
-    "play_time": 211351,
-    "total_score": 1423393263,
-    "total_hits": 583058,
-    "ss_count": 0,
-    "s_count": 0,
-    "medals": 0,
-    "last_active": "2026-08-29T01:33:56+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "made for you (nightcore & cut ver.)",
-      "diff": "mimari's all your lies",
-      "cover": "https://assets.ppy.sh/beatmaps/2530233/covers/card.jpg?1777760143",
-      "stars": 5.39746,
-      "mods": "",
-      "pp": 56.6068,
-      "acc": 67.58747697974218
-    }
-  },
-  {
-    "rank": 827553,
+    "rank": 828414,
     "id": 24962482,
     "user": "AceBlack01",
     "avatar": "https://a.ppy.sh/24962482?1707763621.jpeg",
@@ -8294,7 +8294,7 @@
     }
   },
   {
-    "rank": 827794,
+    "rank": 828665,
     "id": 14420528,
     "user": "RoyDJM30",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -8320,7 +8320,7 @@
     }
   },
   {
-    "rank": 829427,
+    "rank": 830319,
     "id": 27346142,
     "user": "_ToxicGG",
     "avatar": "https://a.ppy.sh/27346142?1638129556.jpeg",
@@ -8346,7 +8346,7 @@
     }
   },
   {
-    "rank": 830527,
+    "rank": 831432,
     "id": 11918515,
     "user": "aya_love",
     "avatar": "https://a.ppy.sh/11918515?1576161085.jpeg",
@@ -8372,7 +8372,7 @@
     }
   },
   {
-    "rank": 835685,
+    "rank": 836578,
     "id": 12338771,
     "user": "ahmed0p0",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -8398,7 +8398,7 @@
     }
   },
   {
-    "rank": 839767,
+    "rank": 840632,
     "id": 22655448,
     "user": "avasoswag",
     "avatar": "https://a.ppy.sh/22655448?1623326489.jpeg",
@@ -8424,7 +8424,7 @@
     }
   },
   {
-    "rank": 841351,
+    "rank": 842235,
     "id": 22148102,
     "user": "raqxxi",
     "avatar": "https://a.ppy.sh/22148102?1739420078.jpeg",
@@ -8450,7 +8450,33 @@
     }
   },
   {
-    "rank": 845235,
+    "rank": 845965,
+    "id": 40049592,
+    "user": "peliofilth",
+    "avatar": "https://a.ppy.sh/40049592?1782753086.jpeg",
+    "pp": 1010.62,
+    "accuracy": 86.0115,
+    "play_count": 1639,
+    "play_time": 90412,
+    "total_score": 683408268,
+    "total_hits": 198267,
+    "ss_count": 0,
+    "s_count": 12,
+    "medals": 0,
+    "last_active": "2026-08-29T14:28:56+00:00",
+    "daily_pp": 634.47557,
+    "top_play": {
+      "title": "WONDERFUL WONDER (TV Size)",
+      "diff": "Simple Heart",
+      "cover": "https://assets.ppy.sh/beatmaps/1280506/covers/card.jpg?1645786525",
+      "stars": 4.92603,
+      "mods": "",
+      "pp": 52.4246,
+      "acc": 83.8358458961474
+    }
+  },
+  {
+    "rank": 846134,
     "id": 22886639,
     "user": "mslmalklaby",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -8476,7 +8502,7 @@
     }
   },
   {
-    "rank": 847756,
+    "rank": 848672,
     "id": 30547660,
     "user": "pot_to",
     "avatar": "https://a.ppy.sh/30547660?1724927732.jpeg",
@@ -8502,7 +8528,7 @@
     }
   },
   {
-    "rank": 849933,
+    "rank": 850861,
     "id": 35793562,
     "user": "sfkdon",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -8528,7 +8554,7 @@
     }
   },
   {
-    "rank": 850834,
+    "rank": 851764,
     "id": 37985741,
     "user": "saidkratos",
     "avatar": "https://a.ppy.sh/37985741?1749077147.jpeg",
@@ -8554,7 +8580,7 @@
     }
   },
   {
-    "rank": 853055,
+    "rank": 853974,
     "id": 29325644,
     "user": "plt",
     "avatar": "https://a.ppy.sh/29325644?1704843111.jpeg",
@@ -8580,7 +8606,7 @@
     }
   },
   {
-    "rank": 853246,
+    "rank": 854160,
     "id": 20025040,
     "user": "mmjgh",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -8606,7 +8632,7 @@
     }
   },
   {
-    "rank": 856641,
+    "rank": 857569,
     "id": 26016407,
     "user": "iMustafa_IQ",
     "avatar": "https://a.ppy.sh/26016407?1634895751.jpeg",
@@ -8632,7 +8658,33 @@
     }
   },
   {
-    "rank": 863062,
+    "rank": 861882,
+    "id": 39690193,
+    "user": "Paranoid2007",
+    "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
+    "pp": 979.986,
+    "accuracy": 89.8915,
+    "play_count": 2617,
+    "play_time": 253223,
+    "total_score": 2416393379,
+    "total_hits": 488333,
+    "ss_count": 7,
+    "s_count": 66,
+    "medals": 0,
+    "last_active": "1970-01-01T00:00:00.000Z",
+    "daily_pp": 388.78796600000004,
+    "top_play": {
+      "title": "Dark Flight Dreamer",
+      "diff": "Ar3's Hard",
+      "cover": "https://assets.ppy.sh/beatmaps/185250/covers/card.jpg?1650631939",
+      "stars": 3.74906,
+      "mods": "",
+      "pp": 55.5278,
+      "acc": 95.00674763832659
+    }
+  },
+  {
+    "rank": 864020,
     "id": 12936715,
     "user": "Killua42069",
     "avatar": "https://a.ppy.sh/12936715?1564602450.jpeg",
@@ -8658,7 +8710,7 @@
     }
   },
   {
-    "rank": 863265,
+    "rank": 864224,
     "id": 14532051,
     "user": "ITzMody",
     "avatar": "https://a.ppy.sh/14532051?1562418706.jpeg",
@@ -8684,7 +8736,7 @@
     }
   },
   {
-    "rank": 863642,
+    "rank": 864596,
     "id": 22372667,
     "user": "R_loy",
     "avatar": "https://a.ppy.sh/22372667?1630135475.jpeg",
@@ -8710,47 +8762,21 @@
     }
   },
   {
-    "rank": 863945,
-    "id": 39690193,
-    "user": "Paranoid2007",
-    "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
-    "pp": 974.24,
-    "accuracy": 89.6607,
-    "play_count": 2569,
-    "play_time": 247695,
-    "total_score": 2333844822,
-    "total_hits": 475755,
-    "ss_count": 7,
-    "s_count": 63,
-    "medals": 0,
-    "last_active": "1970-01-01T00:00:00.000Z",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "Dark Flight Dreamer",
-      "diff": "Ar3's Hard",
-      "cover": "https://assets.ppy.sh/beatmaps/185250/covers/card.jpg?1650631939",
-      "stars": 3.74906,
-      "mods": "",
-      "pp": 55.5278,
-      "acc": 95.00674763832659
-    }
-  },
-  {
-    "rank": 868104,
+    "rank": 868236,
     "id": 36946888,
     "user": "Bawann",
     "avatar": "https://a.ppy.sh/36946888?1765844550.jpeg",
     "pp": 967.964,
     "accuracy": 84.908,
-    "play_count": 4506,
-    "play_time": 225066,
-    "total_score": 700104937,
-    "total_hits": 564062,
+    "play_count": 4508,
+    "play_time": 225130,
+    "total_score": 700259215,
+    "total_hits": 564252,
     "ss_count": 4,
     "s_count": 9,
     "medals": 0,
-    "last_active": "2026-08-29T01:30:23+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T17:48:35+00:00",
+    "daily_pp": 54.8118,
     "top_play": {
       "title": "Bass Slut (Original Mix)",
       "diff": "Reform's Filthy Expert",
@@ -8762,7 +8788,7 @@
     }
   },
   {
-    "rank": 874040,
+    "rank": 875035,
     "id": 39567231,
     "user": "KIRA132",
     "avatar": "https://a.ppy.sh/39567231?1775897484.jpeg",
@@ -8788,7 +8814,7 @@
     }
   },
   {
-    "rank": 876683,
+    "rank": 877705,
     "id": 18400829,
     "user": "tStrangerr",
     "avatar": "https://a.ppy.sh/18400829?1612990129.jpeg",
@@ -8814,33 +8840,7 @@
     }
   },
   {
-    "rank": 877267,
-    "id": 40049592,
-    "user": "peliofilth",
-    "avatar": "https://a.ppy.sh/40049592?1782753086.jpeg",
-    "pp": 949.465,
-    "accuracy": 86.0362,
-    "play_count": 1516,
-    "play_time": 84038,
-    "total_score": 624503624,
-    "total_hits": 180916,
-    "ss_count": 0,
-    "s_count": 11,
-    "medals": 0,
-    "last_active": "2026-08-28T11:33:14+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "WONDERFUL WONDER (TV Size)",
-      "diff": "Insane",
-      "cover": "https://assets.ppy.sh/beatmaps/1280506/covers/card.jpg?1645786525",
-      "stars": 4.28508,
-      "mods": "",
-      "pp": 47.3529,
-      "acc": 87.63440860215054
-    }
-  },
-  {
-    "rank": 880186,
+    "rank": 881163,
     "id": 22236982,
     "user": "hammond2000",
     "avatar": "https://a.ppy.sh/22236982?1627907526.png",
@@ -8866,7 +8866,7 @@
     }
   },
   {
-    "rank": 886830,
+    "rank": 887825,
     "id": 30278463,
     "user": "AnwarIHG",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -8892,7 +8892,7 @@
     }
   },
   {
-    "rank": 887128,
+    "rank": 888121,
     "id": 14476345,
     "user": "SoulTakerHD",
     "avatar": "https://a.ppy.sh/14476345?1609678559.png",
@@ -8918,7 +8918,7 @@
     }
   },
   {
-    "rank": 887715,
+    "rank": 888706,
     "id": 12183516,
     "user": "Waii5",
     "avatar": "https://a.ppy.sh/12183516?1720915223.png",
@@ -8944,7 +8944,7 @@
     }
   },
   {
-    "rank": 888552,
+    "rank": 889537,
     "id": 26570061,
     "user": "soply360",
     "avatar": "https://a.ppy.sh/26570061?1745177046.jpeg",
@@ -8970,7 +8970,7 @@
     }
   },
   {
-    "rank": 888897,
+    "rank": 889889,
     "id": 17844260,
     "user": "black753night",
     "avatar": "https://a.ppy.sh/17844260?1603318013.jpeg",
@@ -8996,7 +8996,7 @@
     }
   },
   {
-    "rank": 897850,
+    "rank": 898824,
     "id": 23514761,
     "user": "Sakta-Senpai",
     "avatar": "https://a.ppy.sh/23514761?1621429021.jpeg",
@@ -9022,7 +9022,7 @@
     }
   },
   {
-    "rank": 898386,
+    "rank": 899256,
     "id": 37529521,
     "user": "elneragero",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -9048,7 +9048,7 @@
     }
   },
   {
-    "rank": 898499,
+    "rank": 899486,
     "id": 13580477,
     "user": "HAINI311",
     "avatar": "https://a.ppy.sh/13580477?1569080155.jpeg",
@@ -9074,7 +9074,7 @@
     }
   },
   {
-    "rank": 901918,
+    "rank": 902921,
     "id": 26779554,
     "user": "akimi-110",
     "avatar": "https://a.ppy.sh/26779554?1732680907.jpeg",
@@ -9100,7 +9100,7 @@
     }
   },
   {
-    "rank": 902839,
+    "rank": 903851,
     "id": 35031439,
     "user": "laeth1009",
     "avatar": "https://a.ppy.sh/35031439?1703269986.jpeg",
@@ -9126,7 +9126,7 @@
     }
   },
   {
-    "rank": 907866,
+    "rank": 908875,
     "id": 33630746,
     "user": "mananqw1re",
     "avatar": "https://a.ppy.sh/33630746?1713424577.jpeg",
@@ -9152,7 +9152,7 @@
     }
   },
   {
-    "rank": 909037,
+    "rank": 910052,
     "id": 20180857,
     "user": "Zaid118",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -9178,7 +9178,7 @@
     }
   },
   {
-    "rank": 910169,
+    "rank": 911194,
     "id": 21698284,
     "user": "Musical4real",
     "avatar": "https://a.ppy.sh/21698284?1666625986.gif",
@@ -9204,7 +9204,7 @@
     }
   },
   {
-    "rank": 910657,
+    "rank": 911685,
     "id": 36072064,
     "user": "karwan",
     "avatar": "https://a.ppy.sh/36072064?1724800109.jpeg",
@@ -9230,7 +9230,7 @@
     }
   },
   {
-    "rank": 914062,
+    "rank": 915086,
     "id": 14457531,
     "user": "amarsaad29",
     "avatar": "https://a.ppy.sh/14457531?1557767342.jpeg",
@@ -9256,7 +9256,7 @@
     }
   },
   {
-    "rank": 917146,
+    "rank": 918179,
     "id": 37032314,
     "user": "vampsbyte",
     "avatar": "https://a.ppy.sh/37032314?1734802925.jpeg",
@@ -9282,20 +9282,20 @@
     }
   },
   {
-    "rank": 918649,
+    "rank": 920295,
     "id": 25337305,
     "user": "Sniper-_-kill",
     "avatar": "https://a.ppy.sh/25337305?1759850888.jpeg",
-    "pp": 876.177,
-    "accuracy": 90.0918,
-    "play_count": 1644,
-    "play_time": 133418,
-    "total_score": 906788602,
-    "total_hits": 314674,
+    "pp": 876.2,
+    "accuracy": 90.0951,
+    "play_count": 1648,
+    "play_time": 133724,
+    "total_score": 907650002,
+    "total_hits": 315049,
     "ss_count": 1,
     "s_count": 12,
     "medals": 0,
-    "last_active": "2026-08-25T08:29:58+00:00",
+    "last_active": "2026-08-29T19:36:24+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
@@ -9308,21 +9308,21 @@
     }
   },
   {
-    "rank": 919567,
+    "rank": 920619,
     "id": 39970177,
     "user": "cainssu",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
-    "pp": 874.609,
-    "accuracy": 83.7593,
-    "play_count": 1611,
-    "play_time": 128220,
-    "total_score": 1287358369,
-    "total_hits": 305914,
+    "pp": 875.134,
+    "accuracy": 83.7814,
+    "play_count": 1665,
+    "play_time": 131901,
+    "total_score": 1329544859,
+    "total_hits": 315894,
     "ss_count": 0,
     "s_count": 0,
     "medals": 0,
-    "last_active": "2026-08-28T21:17:16+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T14:03:02+00:00",
+    "daily_pp": 27.4694,
     "top_play": {
       "title": "What's up, people?! (TV Size)",
       "diff": "Insane",
@@ -9334,7 +9334,7 @@
     }
   },
   {
-    "rank": 921446,
+    "rank": 922461,
     "id": 17306428,
     "user": "StrangeBee22",
     "avatar": "https://a.ppy.sh/17306428?1591465079.jpeg",
@@ -9360,7 +9360,7 @@
     }
   },
   {
-    "rank": 923914,
+    "rank": 924933,
     "id": 37547614,
     "user": "LovelyDL",
     "avatar": "https://a.ppy.sh/37547614?1742008509.jpeg",
@@ -9386,7 +9386,7 @@
     }
   },
   {
-    "rank": 924257,
+    "rank": 925277,
     "id": 28568971,
     "user": "LizN",
     "avatar": "https://a.ppy.sh/28568971?1710318590.jpeg",
@@ -9412,7 +9412,7 @@
     }
   },
   {
-    "rank": 924606,
+    "rank": 925632,
     "id": 26305665,
     "user": "TRX234",
     "avatar": "https://a.ppy.sh/26305665?1786592595.jpeg",
@@ -9438,7 +9438,7 @@
     }
   },
   {
-    "rank": 925275,
+    "rank": 926309,
     "id": 36564453,
     "user": "rqdemon12",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -9464,7 +9464,7 @@
     }
   },
   {
-    "rank": 926762,
+    "rank": 927783,
     "id": 32422364,
     "user": "AseelLu",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -9490,7 +9490,7 @@
     }
   },
   {
-    "rank": 931183,
+    "rank": 932216,
     "id": 37908869,
     "user": "THERE0550",
     "avatar": "https://a.ppy.sh/37908869?1747598429.jpeg",
@@ -9516,7 +9516,7 @@
     }
   },
   {
-    "rank": 937289,
+    "rank": 938315,
     "id": 17570412,
     "user": "ankido55",
     "avatar": "https://a.ppy.sh/17570412?1596431559.jpeg",
@@ -9542,7 +9542,7 @@
     }
   },
   {
-    "rank": 939794,
+    "rank": 940830,
     "id": 36604203,
     "user": "xyizax",
     "avatar": "https://a.ppy.sh/36604203?1757528820.jpeg",
@@ -9568,7 +9568,7 @@
     }
   },
   {
-    "rank": 941044,
+    "rank": 942076,
     "id": 30047102,
     "user": "SanByNature",
     "avatar": "https://a.ppy.sh/30047102?1747858487.jpeg",
@@ -9594,7 +9594,7 @@
     }
   },
   {
-    "rank": 949253,
+    "rank": 950320,
     "id": 35849417,
     "user": "surrlender",
     "avatar": "https://a.ppy.sh/35849417?1777952673.jpeg",
@@ -9620,7 +9620,7 @@
     }
   },
   {
-    "rank": 950954,
+    "rank": 952029,
     "id": 36520000,
     "user": "Lastsom1",
     "avatar": "https://a.ppy.sh/36520000?1724406403.jpeg",
@@ -9646,7 +9646,7 @@
     }
   },
   {
-    "rank": 951095,
+    "rank": 952173,
     "id": 25750478,
     "user": "yousifkkiller",
     "avatar": "https://a.ppy.sh/25750478?1653218019.jpeg",
@@ -9672,7 +9672,7 @@
     }
   },
   {
-    "rank": 955936,
+    "rank": 957010,
     "id": 23287520,
     "user": "Imslex",
     "avatar": "https://a.ppy.sh/23287520?1755196047.jpeg",
@@ -9698,7 +9698,7 @@
     }
   },
   {
-    "rank": 970103,
+    "rank": 971214,
     "id": 39878144,
     "user": "teto abo tez",
     "avatar": "https://a.ppy.sh/39878144?1781404865.jpeg",
@@ -9724,7 +9724,7 @@
     }
   },
   {
-    "rank": 976464,
+    "rank": 977578,
     "id": 29854372,
     "user": "ayman63",
     "avatar": "https://a.ppy.sh/29854372?1667198405.jpeg",
@@ -9750,7 +9750,7 @@
     }
   },
   {
-    "rank": 976919,
+    "rank": 978043,
     "id": 36748556,
     "user": "muhammed aa",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -9776,7 +9776,7 @@
     }
   },
   {
-    "rank": 977731,
+    "rank": 978852,
     "id": 21423561,
     "user": "lFLASHl",
     "avatar": "https://a.ppy.sh/21423561?1715936345.jpeg",
@@ -9802,20 +9802,20 @@
     }
   },
   {
-    "rank": 983447,
+    "rank": 984033,
     "id": 33727953,
     "user": "yatroll",
     "avatar": "https://a.ppy.sh/33727953?1761671307.jpeg",
-    "pp": 771.168,
-    "accuracy": 83.7512,
-    "play_count": 4380,
-    "play_time": 201348,
-    "total_score": 834045036,
-    "total_hits": 513265,
+    "pp": 772.532,
+    "accuracy": 83.7463,
+    "play_count": 4384,
+    "play_time": 201562,
+    "total_score": 834435540,
+    "total_hits": 513681,
     "ss_count": 0,
     "s_count": 0,
     "medals": 0,
-    "last_active": "2026-08-06T19:48:32+00:00",
+    "last_active": "2026-08-29T14:21:14+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "I Don't Know (Nightcore & Cut Ver.)",
@@ -9828,7 +9828,7 @@
     }
   },
   {
-    "rank": 986130,
+    "rank": 987264,
     "id": 25797772,
     "user": "Balbo9",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -9854,7 +9854,7 @@
     }
   },
   {
-    "rank": 992836,
+    "rank": 993950,
     "id": 15600968,
     "user": "WardenHuman",
     "avatar": "https://a.ppy.sh/15600968?1598835777.jpeg",
@@ -9880,7 +9880,7 @@
     }
   },
   {
-    "rank": 993235,
+    "rank": 994358,
     "id": 39671334,
     "user": "xiga master",
     "avatar": "https://a.ppy.sh/39671334?1783294373.jpeg",
@@ -9893,7 +9893,7 @@
     "ss_count": 18,
     "s_count": 19,
     "medals": 0,
-    "last_active": "2026-08-27T17:43:25+00:00",
+    "last_active": "2026-08-29T19:53:29+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "Emotional Uplifting Orchestral",
@@ -9906,7 +9906,7 @@
     }
   },
   {
-    "rank": 993925,
+    "rank": 995044,
     "id": 35808022,
     "user": "rushy32",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -9932,7 +9932,7 @@
     }
   },
   {
-    "rank": 994400,
+    "rank": 995518,
     "id": 39308073,
     "user": "smknf",
     "avatar": "https://a.ppy.sh/39308073?1778471646.jpeg",
@@ -9958,7 +9958,7 @@
     }
   },
   {
-    "rank": 997166,
+    "rank": 998313,
     "id": 22888110,
     "user": "Hartx",
     "avatar": "https://a.ppy.sh/22888110?1775129544.jpeg",
@@ -9984,7 +9984,7 @@
     }
   },
   {
-    "rank": 998003,
+    "rank": 999153,
     "id": 19855377,
     "user": "Hussain214",
     "avatar": "https://a.ppy.sh/19855377?1611313590.jpeg",
@@ -10010,7 +10010,7 @@
     }
   },
   {
-    "rank": 999913,
+    "rank": 1001063,
     "id": 39965677,
     "user": "Alighp613",
     "avatar": "https://a.ppy.sh/39965677?1781503176.jpeg",
@@ -10036,7 +10036,7 @@
     }
   },
   {
-    "rank": 1000289,
+    "rank": 1001433,
     "id": 14801048,
     "user": "P1CKP0CK3T",
     "avatar": "https://a.ppy.sh/14801048?1786028937.jpeg",
@@ -10062,7 +10062,33 @@
     }
   },
   {
-    "rank": 1000998,
+    "rank": 1001668,
+    "id": 40012180,
+    "user": "Tokbro",
+    "avatar": "https://a.ppy.sh/40012180?1787912466.jpeg",
+    "pp": 745.57,
+    "accuracy": 90.5593,
+    "play_count": 1544,
+    "play_time": 113701,
+    "total_score": 839115536,
+    "total_hits": 236272,
+    "ss_count": 1,
+    "s_count": 32,
+    "medals": 0,
+    "last_active": "2026-08-29T18:20:13+00:00",
+    "daily_pp": 414.03720000000004,
+    "top_play": {
+      "title": "humanly",
+      "diff": "Firika's Normal",
+      "cover": "https://assets.ppy.sh/beatmaps/1886627/covers/card.jpg?1679474677",
+      "stars": 2.97204,
+      "mods": "+HDHR",
+      "pp": 40.5588,
+      "acc": 97.41727199354318
+    }
+  },
+  {
+    "rank": 1002142,
     "id": 39826905,
     "user": "detrox354",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -10088,7 +10114,7 @@
     }
   },
   {
-    "rank": 1005565,
+    "rank": 1006701,
     "id": 21749344,
     "user": "Sssirius",
     "avatar": "https://a.ppy.sh/21749344?1756245546.png",
@@ -10114,7 +10140,7 @@
     }
   },
   {
-    "rank": 1006779,
+    "rank": 1007911,
     "id": 40102420,
     "user": "Salvastore",
     "avatar": "https://a.ppy.sh/40102420?1783450797.jpeg",
@@ -10140,7 +10166,7 @@
     }
   },
   {
-    "rank": 1007065,
+    "rank": 1008199,
     "id": 18971784,
     "user": "mrweed",
     "avatar": "https://a.ppy.sh/18971784?1622596592.jpeg",
@@ -10166,7 +10192,7 @@
     }
   },
   {
-    "rank": 1007943,
+    "rank": 1009080,
     "id": 35365802,
     "user": "Spawned",
     "avatar": "https://a.ppy.sh/35365802?1737054900.jpeg",
@@ -10192,7 +10218,7 @@
     }
   },
   {
-    "rank": 1008387,
+    "rank": 1009528,
     "id": 25022817,
     "user": "vero ZXXX",
     "avatar": "https://a.ppy.sh/25022817?1631800963.jpeg",
@@ -10218,7 +10244,7 @@
     }
   },
   {
-    "rank": 1009220,
+    "rank": 1010365,
     "id": 36004355,
     "user": "SODATHEGRATE",
     "avatar": "https://a.ppy.sh/36004355?1730080105.jpeg",
@@ -10244,33 +10270,7 @@
     }
   },
   {
-    "rank": 1010505,
-    "id": 40012180,
-    "user": "Tokbro",
-    "avatar": "https://a.ppy.sh/40012180?1787912466.jpeg",
-    "pp": 731.885,
-    "accuracy": 90.8497,
-    "play_count": 1491,
-    "play_time": 110679,
-    "total_score": 811626442,
-    "total_hits": 227880,
-    "ss_count": 1,
-    "s_count": 32,
-    "medals": 0,
-    "last_active": "2026-08-28T20:30:10+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "humanly",
-      "diff": "Firika's Normal",
-      "cover": "https://assets.ppy.sh/beatmaps/1886627/covers/card.jpg?1679474677",
-      "stars": 2.97204,
-      "mods": "+HDHR",
-      "pp": 40.5588,
-      "acc": 97.41727199354318
-    }
-  },
-  {
-    "rank": 1013355,
+    "rank": 1014510,
     "id": 23742033,
     "user": "AboNazo14",
     "avatar": "https://a.ppy.sh/23742033?1628862220.jpeg",
@@ -10296,7 +10296,33 @@
     }
   },
   {
-    "rank": 1025272,
+    "rank": 1016338,
+    "id": 31252807,
+    "user": "ttheonlysam",
+    "avatar": "https://a.ppy.sh/31252807?1783769986.jpeg",
+    "pp": 725.154,
+    "accuracy": 74.59,
+    "play_count": 1539,
+    "play_time": 72765,
+    "total_score": 313199147,
+    "total_hits": 161623,
+    "ss_count": 0,
+    "s_count": 1,
+    "medals": 0,
+    "last_active": "2026-08-29T20:23:25+00:00",
+    "daily_pp": 129.9451,
+    "top_play": {
+      "title": "I Don't Know (Nightcore & Cut Ver.)",
+      "diff": "Ram's Another",
+      "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
+      "stars": 4.56194,
+      "mods": "",
+      "pp": 41.4672,
+      "acc": 67.36111111111111
+    }
+  },
+  {
+    "rank": 1026406,
     "id": 21548817,
     "user": "jsj r3b",
     "avatar": "https://a.ppy.sh/21548817?1623165139.jpeg",
@@ -10322,7 +10348,7 @@
     }
   },
   {
-    "rank": 1029028,
+    "rank": 1030192,
     "id": 39040472,
     "user": "ChaosTheory123",
     "avatar": "https://a.ppy.sh/39040472?1779727982.jpeg",
@@ -10348,7 +10374,7 @@
     }
   },
   {
-    "rank": 1029518,
+    "rank": 1030681,
     "id": 26584195,
     "user": "MrFreez",
     "avatar": "https://a.ppy.sh/26584195?1647723887.jpeg",
@@ -10374,33 +10400,7 @@
     }
   },
   {
-    "rank": 1031705,
-    "id": 31252807,
-    "user": "ttheonlysam",
-    "avatar": "https://a.ppy.sh/31252807?1783769986.jpeg",
-    "pp": 701.241,
-    "accuracy": 74.7546,
-    "play_count": 1505,
-    "play_time": 71262,
-    "total_score": 303540721,
-    "total_hits": 157628,
-    "ss_count": 0,
-    "s_count": 1,
-    "medals": 0,
-    "last_active": "2026-08-28T16:31:04+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
-      "diff": "Kosi's Another",
-      "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535",
-      "stars": 4.51592,
-      "mods": "",
-      "pp": 36.74,
-      "acc": 55.81395348837209
-    }
-  },
-  {
-    "rank": 1031390,
+    "rank": 1032566,
     "id": 35394344,
     "user": "DevillishSinner",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -10426,7 +10426,7 @@
     }
   },
   {
-    "rank": 1033352,
+    "rank": 1034539,
     "id": 29770282,
     "user": "ali kill",
     "avatar": "https://a.ppy.sh/29770282?1654380437.jpeg",
@@ -10452,7 +10452,7 @@
     }
   },
   {
-    "rank": 1035925,
+    "rank": 1037111,
     "id": 21192903,
     "user": "FARMAN123",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -10478,7 +10478,7 @@
     }
   },
   {
-    "rank": 1040120,
+    "rank": 1041297,
     "id": 27267877,
     "user": "Mr_3Essa_",
     "avatar": "https://a.ppy.sh/27267877?1640806343.jpeg",
@@ -10504,7 +10504,7 @@
     }
   },
   {
-    "rank": 1041968,
+    "rank": 1043143,
     "id": 38885403,
     "user": "Mahok",
     "avatar": "https://a.ppy.sh/38885403?1778437833.jpeg",
@@ -10530,7 +10530,7 @@
     }
   },
   {
-    "rank": 1048143,
+    "rank": 1049328,
     "id": 36170324,
     "user": "12121212GGGGG",
     "avatar": "https://a.ppy.sh/36170324?1739824697.jpeg",
@@ -10556,7 +10556,7 @@
     }
   },
   {
-    "rank": 1057464,
+    "rank": 1058674,
     "id": 23320722,
     "user": "SlaPz11",
     "avatar": "https://a.ppy.sh/23320722?1621497557.jpeg",
@@ -10582,7 +10582,7 @@
     }
   },
   {
-    "rank": 1064950,
+    "rank": 1066182,
     "id": 26542789,
     "user": "saichopath",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -10608,7 +10608,7 @@
     }
   },
   {
-    "rank": 1068478,
+    "rank": 1069721,
     "id": 23075298,
     "user": "Sevarya",
     "avatar": "https://a.ppy.sh/23075298?1635801415.jpeg",
@@ -10634,7 +10634,7 @@
     }
   },
   {
-    "rank": 1073587,
+    "rank": 1074845,
     "id": 21129851,
     "user": "kiButsuJimoZan",
     "avatar": "https://a.ppy.sh/21129851?1614520652.jpeg",
@@ -10660,21 +10660,21 @@
     }
   },
   {
-    "rank": 1077178,
+    "rank": 1077750,
     "id": 40102698,
     "user": "kattykitty",
     "avatar": "https://a.ppy.sh/40102698?1784645516.jpeg",
-    "pp": 640.111,
-    "accuracy": 76.7765,
-    "play_count": 1257,
-    "play_time": 104463,
-    "total_score": 610625934,
-    "total_hits": 206450,
+    "pp": 641.067,
+    "accuracy": 76.7503,
+    "play_count": 1261,
+    "play_time": 104757,
+    "total_score": 613547660,
+    "total_hits": 207414,
     "ss_count": 0,
     "s_count": 2,
     "medals": 0,
     "last_active": "1970-01-01T00:00:00.000Z",
-    "daily_pp": 0,
+    "daily_pp": 135.10248,
     "top_play": {
       "title": "Make a Move (Speed Up Ver.)",
       "diff": "Insane",
@@ -10686,7 +10686,7 @@
     }
   },
   {
-    "rank": 1077530,
+    "rank": 1078777,
     "id": 19423149,
     "user": "Scuffed_Shadow",
     "avatar": "https://a.ppy.sh/19423149?1722015408.png",
@@ -10712,7 +10712,7 @@
     }
   },
   {
-    "rank": 1079464,
+    "rank": 1080722,
     "id": 38960652,
     "user": "NODA_walt",
     "avatar": "https://a.ppy.sh/38960652?1778036019.jpeg",
@@ -10738,7 +10738,7 @@
     }
   },
   {
-    "rank": 1090673,
+    "rank": 1091930,
     "id": 27787910,
     "user": "math3ool",
     "avatar": "https://a.ppy.sh/27787910?1750063915.jpeg",
@@ -10764,7 +10764,7 @@
     }
   },
   {
-    "rank": 1093081,
+    "rank": 1094330,
     "id": 37455673,
     "user": "miyav0v",
     "avatar": "https://a.ppy.sh/37455673?1739575144.jpeg",
@@ -10790,7 +10790,7 @@
     }
   },
   {
-    "rank": 1094538,
+    "rank": 1095804,
     "id": 39126561,
     "user": "mazethemenace",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -10816,7 +10816,7 @@
     }
   },
   {
-    "rank": 1095550,
+    "rank": 1096819,
     "id": 10579559,
     "user": "MyiMina",
     "avatar": "https://a.ppy.sh/10579559?1640685279.jpeg",
@@ -10842,7 +10842,7 @@
     }
   },
   {
-    "rank": 1105060,
+    "rank": 1106350,
     "id": 16968500,
     "user": "gamerzxa-mobile",
     "avatar": "https://a.ppy.sh/16968500?1588805229.jpeg",
@@ -10868,7 +10868,7 @@
     }
   },
   {
-    "rank": 1117484,
+    "rank": 1118797,
     "id": 36744728,
     "user": "charmzeroz",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -10894,7 +10894,7 @@
     }
   },
   {
-    "rank": 1122480,
+    "rank": 1123784,
     "id": 21908493,
     "user": "NO NAME122",
     "avatar": "https://a.ppy.sh/21908493?1630485524.jpeg",
@@ -10920,7 +10920,7 @@
     }
   },
   {
-    "rank": 1123447,
+    "rank": 1124753,
     "id": 29829528,
     "user": "tiddyenjoyer",
     "avatar": "https://a.ppy.sh/29829528?1763732059.jpeg",
@@ -10946,7 +10946,7 @@
     }
   },
   {
-    "rank": 1127837,
+    "rank": 1129146,
     "id": 32801387,
     "user": "itschaiuwu",
     "avatar": "https://a.ppy.sh/32801387?1676076953.jpeg",
@@ -10972,7 +10972,7 @@
     }
   },
   {
-    "rank": 1130507,
+    "rank": 1131838,
     "id": 31460383,
     "user": "waleedalhayali1",
     "avatar": "https://a.ppy.sh/31460383?1724825069.jpeg",
@@ -10998,7 +10998,7 @@
     }
   },
   {
-    "rank": 1137159,
+    "rank": 1138513,
     "id": 38143438,
     "user": "MANATO28",
     "avatar": "https://a.ppy.sh/38143438?1752096034.jpeg",
@@ -11024,7 +11024,7 @@
     }
   },
   {
-    "rank": 1141371,
+    "rank": 1142726,
     "id": 23013482,
     "user": "Hemo_sama",
     "avatar": "https://a.ppy.sh/23013482?1756333535.jpeg",
@@ -11050,7 +11050,7 @@
     }
   },
   {
-    "rank": 1143939,
+    "rank": 1145299,
     "id": 37339910,
     "user": "Ho 770",
     "avatar": "https://a.ppy.sh/37339910?1785826667.jpeg",
@@ -11076,21 +11076,21 @@
     }
   },
   {
-    "rank": 1149538,
+    "rank": 1146568,
     "id": 36127678,
     "user": "fdel",
     "avatar": "https://a.ppy.sh/36127678?1786300726.jpeg",
-    "pp": 551.833,
-    "accuracy": 87.8379,
-    "play_count": 821,
-    "play_time": 58599,
-    "total_score": 441934645,
-    "total_hits": 108186,
+    "pp": 556.478,
+    "accuracy": 88.215,
+    "play_count": 852,
+    "play_time": 60670,
+    "total_score": 459590220,
+    "total_hits": 111819,
     "ss_count": 0,
-    "s_count": 19,
+    "s_count": 20,
     "medals": 0,
-    "last_active": "2026-08-28T18:07:34+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T11:22:37+00:00",
+    "daily_pp": 37.7964,
     "top_play": {
       "title": "Presenter* (Cut Ver.)",
       "diff": "Amats' Hard",
@@ -11102,7 +11102,7 @@
     }
   },
   {
-    "rank": 1150442,
+    "rank": 1151807,
     "id": 39131518,
     "user": "Z3nnie",
     "avatar": "https://a.ppy.sh/39131518?1769164372.jpeg",
@@ -11128,7 +11128,7 @@
     }
   },
   {
-    "rank": 1150456,
+    "rank": 1151820,
     "id": 37858180,
     "user": "ka4z0",
     "avatar": "https://a.ppy.sh/37858180?1746608442.jpeg",
@@ -11154,7 +11154,7 @@
     }
   },
   {
-    "rank": 1152115,
+    "rank": 1153469,
     "id": 36252256,
     "user": "Mohamd_91",
     "avatar": "https://a.ppy.sh/36252256?1731802645.jpeg",
@@ -11180,7 +11180,7 @@
     }
   },
   {
-    "rank": 1152998,
+    "rank": 1154355,
     "id": 39136025,
     "user": "ibamn_",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -11206,7 +11206,7 @@
     }
   },
   {
-    "rank": 1156560,
+    "rank": 1157943,
     "id": 36928997,
     "user": "4m33r",
     "avatar": "https://a.ppy.sh/36928997?1785453898.png",
@@ -11232,7 +11232,33 @@
     }
   },
   {
-    "rank": 1157005,
+    "rank": 1158478,
+    "id": 36473293,
+    "user": "osaka00",
+    "avatar": "https://a.ppy.sh/36473293?1780502867.jpeg",
+    "pp": 543.247,
+    "accuracy": 77.5555,
+    "play_count": 3597,
+    "play_time": 282758,
+    "total_score": 1405589429,
+    "total_hits": 1165180,
+    "ss_count": 0,
+    "s_count": 1,
+    "medals": 0,
+    "last_active": "2026-08-29T20:42:54+00:00",
+    "daily_pp": 790.54272,
+    "top_play": {
+      "title": "Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.)",
+      "diff": "High Cortisol",
+      "cover": "https://assets.ppy.sh/beatmaps/2510616/covers/card.jpg?1772320588",
+      "stars": 3.67767,
+      "mods": "+HR",
+      "pp": 32.6138,
+      "acc": 65.95744680851064
+    }
+  },
+  {
+    "rank": 1158393,
     "id": 14614220,
     "user": "thehero5678",
     "avatar": "https://a.ppy.sh/14614220?1656239676.jpeg",
@@ -11258,33 +11284,7 @@
     }
   },
   {
-    "rank": 1161373,
-    "id": 36473293,
-    "user": "osaka00",
-    "avatar": "https://a.ppy.sh/36473293?1780502867.jpeg",
-    "pp": 537.918,
-    "accuracy": 77.798,
-    "play_count": 3577,
-    "play_time": 281944,
-    "total_score": 1398960812,
-    "total_hits": 1160926,
-    "ss_count": 0,
-    "s_count": 1,
-    "medals": 0,
-    "last_active": "2026-08-29T01:30:18+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.)",
-      "diff": "High Cortisol",
-      "cover": "https://assets.ppy.sh/beatmaps/2510616/covers/card.jpg?1772320588",
-      "stars": 3.67767,
-      "mods": "+HR",
-      "pp": 32.6138,
-      "acc": 65.95744680851064
-    }
-  },
-  {
-    "rank": 1161833,
+    "rank": 1163217,
     "id": 33452467,
     "user": "Majestic Elyas",
     "avatar": "https://a.ppy.sh/33452467?1779679668.jpeg",
@@ -11310,7 +11310,7 @@
     }
   },
   {
-    "rank": 1162430,
+    "rank": 1163813,
     "id": 40196316,
     "user": "JimothyBobert",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -11336,7 +11336,7 @@
     }
   },
   {
-    "rank": 1163955,
+    "rank": 1165347,
     "id": 32449095,
     "user": "husain44_44",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -11362,7 +11362,7 @@
     }
   },
   {
-    "rank": 1169447,
+    "rank": 1170830,
     "id": 37898931,
     "user": "ShadowUR",
     "avatar": "https://a.ppy.sh/37898931?1751457400.jpeg",
@@ -11388,7 +11388,7 @@
     }
   },
   {
-    "rank": 1175978,
+    "rank": 1177368,
     "id": 20730345,
     "user": "zanon44",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -11414,7 +11414,7 @@
     }
   },
   {
-    "rank": 1176595,
+    "rank": 1177977,
     "id": 39403942,
     "user": "kleinme",
     "avatar": "https://a.ppy.sh/39403942?1772912281.jpeg",
@@ -11440,7 +11440,7 @@
     }
   },
   {
-    "rank": 1178844,
+    "rank": 1180229,
     "id": 39990988,
     "user": "short_ano",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -11466,7 +11466,7 @@
     }
   },
   {
-    "rank": 1178949,
+    "rank": 1180338,
     "id": 37308217,
     "user": "healdsinnns",
     "avatar": "https://a.ppy.sh/37308217?1737129937.jpeg",
@@ -11492,7 +11492,7 @@
     }
   },
   {
-    "rank": 1182717,
+    "rank": 1184119,
     "id": 26921739,
     "user": "R3tr0__old_2",
     "avatar": "https://a.ppy.sh/26921739?1636645514.jpeg",
@@ -11518,7 +11518,7 @@
     }
   },
   {
-    "rank": 1183019,
+    "rank": 1184422,
     "id": 35167191,
     "user": "SAIYAF",
     "avatar": "https://a.ppy.sh/35167191?1708587690.jpeg",
@@ -11544,7 +11544,7 @@
     }
   },
   {
-    "rank": 1184222,
+    "rank": 1185627,
     "id": 38675408,
     "user": "bleeeghhh",
     "avatar": "https://a.ppy.sh/38675408?1781702089.jpeg",
@@ -11570,7 +11570,7 @@
     }
   },
   {
-    "rank": 1184502,
+    "rank": 1185912,
     "id": 36011785,
     "user": "mjtaba_213",
     "avatar": "https://a.ppy.sh/36011785?1716577822.jpeg",
@@ -11596,7 +11596,7 @@
     }
   },
   {
-    "rank": 1185557,
+    "rank": 1186949,
     "id": 35888329,
     "user": "Lenki",
     "avatar": "https://a.ppy.sh/35888329?1736617327.jpeg",
@@ -11622,7 +11622,7 @@
     }
   },
   {
-    "rank": 1185630,
+    "rank": 1187021,
     "id": 26624417,
     "user": "Hamadraedmuhi",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -11648,7 +11648,7 @@
     }
   },
   {
-    "rank": 1185909,
+    "rank": 1187300,
     "id": 25075871,
     "user": "MrREXO",
     "avatar": "https://a.ppy.sh/25075871?1787520251.gif",
@@ -11661,7 +11661,7 @@
     "ss_count": 0,
     "s_count": 2,
     "medals": 0,
-    "last_active": "2026-08-29T00:21:09+00:00",
+    "last_active": "2026-08-29T20:42:13+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "MAYDAY (Nightcore Mix)",
@@ -11674,7 +11674,7 @@
     }
   },
   {
-    "rank": 1190486,
+    "rank": 1191887,
     "id": 31044379,
     "user": "PHONIEX76",
     "avatar": "https://a.ppy.sh/31044379?1781813327.jpeg",
@@ -11700,7 +11700,7 @@
     }
   },
   {
-    "rank": 1190699,
+    "rank": 1192097,
     "id": 37221409,
     "user": "juninquad",
     "avatar": "https://a.ppy.sh/37221409?1767068873.jpeg",
@@ -11713,8 +11713,8 @@
     "ss_count": 0,
     "s_count": 5,
     "medals": 0,
-    "last_active": "2026-08-28T19:48:55+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T13:20:44+00:00",
+    "daily_pp": 146.12,
     "top_play": {
       "title": "Yoru ni Kakeru",
       "diff": "Hard",
@@ -11726,7 +11726,7 @@
     }
   },
   {
-    "rank": 1192637,
+    "rank": 1194040,
     "id": 15276722,
     "user": "mohaemn556",
     "avatar": "https://a.ppy.sh/15276722?1733837340.jpeg",
@@ -11752,7 +11752,7 @@
     }
   },
   {
-    "rank": 1194819,
+    "rank": 1196249,
     "id": 29778035,
     "user": "narotu",
     "avatar": "https://a.ppy.sh/29778035?1748903289.jpeg",
@@ -11778,7 +11778,7 @@
     }
   },
   {
-    "rank": 1196009,
+    "rank": 1197442,
     "id": 18626307,
     "user": "spawnnyxd",
     "avatar": "https://a.ppy.sh/18626307?1745781658.jpeg",
@@ -11804,7 +11804,7 @@
     }
   },
   {
-    "rank": 1197213,
+    "rank": 1198648,
     "id": 35061499,
     "user": "MGO",
     "avatar": "https://a.ppy.sh/35061499?1710688339.jpeg",
@@ -11830,7 +11830,7 @@
     }
   },
   {
-    "rank": 1198868,
+    "rank": 1200310,
     "id": 12471322,
     "user": "hamzah2006",
     "avatar": "https://a.ppy.sh/12471322?1603029467.png",
@@ -11856,7 +11856,7 @@
     }
   },
   {
-    "rank": 1199495,
+    "rank": 1200929,
     "id": 24653665,
     "user": "aliamar210",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -11882,7 +11882,33 @@
     }
   },
   {
-    "rank": 1201708,
+    "rank": 1202578,
+    "id": 33924120,
+    "user": "Fl4m3",
+    "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
+    "pp": 495.906,
+    "accuracy": 82.6384,
+    "play_count": 2869,
+    "play_time": 187420,
+    "total_score": 886674492,
+    "total_hits": 418337,
+    "ss_count": 0,
+    "s_count": 17,
+    "medals": 0,
+    "last_active": "2026-08-29T20:15:16+00:00",
+    "daily_pp": 0,
+    "top_play": {
+      "title": "Xrocus",
+      "diff": "Seijiro's Normal",
+      "cover": "https://assets.ppy.sh/beatmaps/1508694/covers/card.jpg?1637616421",
+      "stars": 2.49117,
+      "mods": "+HRDT",
+      "pp": 23.2394,
+      "acc": 76.30906768837804
+    }
+  },
+  {
+    "rank": 1203120,
     "id": 25047753,
     "user": "VOLCANO-AK47",
     "avatar": "https://a.ppy.sh/25047753?1664640401.jpeg",
@@ -11908,33 +11934,7 @@
     }
   },
   {
-    "rank": 1202266,
-    "id": 33924120,
-    "user": "Fl4m3",
-    "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
-    "pp": 494.045,
-    "accuracy": 82.8904,
-    "play_count": 2843,
-    "play_time": 185593,
-    "total_score": 874180635,
-    "total_hits": 413025,
-    "ss_count": 0,
-    "s_count": 17,
-    "medals": 0,
-    "last_active": "2026-08-22T18:53:29+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "Xrocus",
-      "diff": "Seijiro's Normal",
-      "cover": "https://assets.ppy.sh/beatmaps/1508694/covers/card.jpg?1637616421",
-      "stars": 2.49117,
-      "mods": "+HRDT",
-      "pp": 23.2394,
-      "acc": 76.30906768837804
-    }
-  },
-  {
-    "rank": 1218142,
+    "rank": 1219648,
     "id": 28336897,
     "user": "Bete69420",
     "avatar": "https://a.ppy.sh/28336897?1680864021.jpeg",
@@ -11960,7 +11960,7 @@
     }
   },
   {
-    "rank": 1220395,
+    "rank": 1221903,
     "id": 21234354,
     "user": "Enzo_V1be",
     "avatar": "https://a.ppy.sh/21234354?1613788237.jpeg",
@@ -11986,7 +11986,7 @@
     }
   },
   {
-    "rank": 1220913,
+    "rank": 1222422,
     "id": 30995115,
     "user": "ysf_unex",
     "avatar": "https://a.ppy.sh/30995115?1663945165.gif",
@@ -12012,7 +12012,7 @@
     }
   },
   {
-    "rank": 1222951,
+    "rank": 1224442,
     "id": 23381443,
     "user": "xmax12",
     "avatar": "https://a.ppy.sh/23381443?1699811965.jpeg",
@@ -12038,7 +12038,7 @@
     }
   },
   {
-    "rank": 1223604,
+    "rank": 1225093,
     "id": 21227331,
     "user": "Xoovy",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12064,7 +12064,7 @@
     }
   },
   {
-    "rank": 1223646,
+    "rank": 1225135,
     "id": 25021441,
     "user": "starben",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12090,7 +12090,7 @@
     }
   },
   {
-    "rank": 1227101,
+    "rank": 1228594,
     "id": 15111575,
     "user": "markipie",
     "avatar": "https://a.ppy.sh/15111575?1766334541.jpeg",
@@ -12116,7 +12116,7 @@
     }
   },
   {
-    "rank": 1229820,
+    "rank": 1230634,
     "id": 38103429,
     "user": "ABODDD2009",
     "avatar": "https://a.ppy.sh/38103429?1786442457.jpeg",
@@ -12129,8 +12129,8 @@
     "ss_count": 0,
     "s_count": 10,
     "medals": 0,
-    "last_active": "2026-08-28T18:19:49+00:00",
-    "daily_pp": 0,
+    "last_active": "2026-08-29T20:10:38+00:00",
+    "daily_pp": 101.72942,
     "top_play": {
       "title": "As the wind blows",
       "diff": "AJT x Renumi's Easy",
@@ -12142,7 +12142,7 @@
     }
   },
   {
-    "rank": 1229704,
+    "rank": 1231192,
     "id": 38381244,
     "user": "ode7",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12168,7 +12168,7 @@
     }
   },
   {
-    "rank": 1232480,
+    "rank": 1233953,
     "id": 31448983,
     "user": "Nooella",
     "avatar": "https://a.ppy.sh/31448983?1665253972.jpeg",
@@ -12194,7 +12194,7 @@
     }
   },
   {
-    "rank": 1233799,
+    "rank": 1235268,
     "id": 28822182,
     "user": "3nter",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12220,7 +12220,7 @@
     }
   },
   {
-    "rank": 1234806,
+    "rank": 1236289,
     "id": 36380469,
     "user": "ez06ezzoz",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12246,7 +12246,7 @@
     }
   },
   {
-    "rank": 1235091,
+    "rank": 1236575,
     "id": 25833831,
     "user": "13assam",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12272,7 +12272,7 @@
     }
   },
   {
-    "rank": 1235478,
+    "rank": 1236958,
     "id": 36345847,
     "user": "Z A C H A R Y",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12298,7 +12298,7 @@
     }
   },
   {
-    "rank": 1242986,
+    "rank": 1244497,
     "id": 21324933,
     "user": "GhostMd05",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12324,7 +12324,7 @@
     }
   },
   {
-    "rank": 1247873,
+    "rank": 1248094,
     "id": 37117177,
     "user": "deviateofgod",
     "avatar": "https://a.ppy.sh/37117177?1785738125.jpeg",
@@ -12338,7 +12338,7 @@
     "s_count": 0,
     "medals": 0,
     "last_active": "2026-08-29T01:21:08+00:00",
-    "daily_pp": 0,
+    "daily_pp": 30.970929999999996,
     "top_play": {
       "title": "Contradiction (feat. Tyler Carter) (TV Size)",
       "diff": "Normal",
@@ -12350,7 +12350,7 @@
     }
   },
   {
-    "rank": 1253319,
+    "rank": 1254820,
     "id": 36949383,
     "user": "Arnold9129",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12376,7 +12376,7 @@
     }
   },
   {
-    "rank": 1254770,
+    "rank": 1256287,
     "id": 33284483,
     "user": "ardex_yt",
     "avatar": "https://a.ppy.sh/33284483?1680262110.jpeg",
@@ -12402,7 +12402,7 @@
     }
   },
   {
-    "rank": 1257191,
+    "rank": 1258695,
     "id": 39757916,
     "user": "RasBen",
     "avatar": "https://a.ppy.sh/39757916?1778437520.jpeg",
@@ -12428,7 +12428,7 @@
     }
   },
   {
-    "rank": 1261534,
+    "rank": 1263040,
     "id": 26201576,
     "user": "Airicutie",
     "avatar": "https://a.ppy.sh/26201576?1633023963.jpeg",
@@ -12454,20 +12454,20 @@
     }
   },
   {
-    "rank": 1262374,
+    "rank": 1263729,
     "id": 40101048,
     "user": "Yormum",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
     "pp": 435.66,
     "accuracy": 66.2883,
-    "play_count": 2586,
-    "play_time": 124731,
-    "total_score": 588925217,
-    "total_hits": 316599,
+    "play_count": 2619,
+    "play_time": 125871,
+    "total_score": 596415993,
+    "total_hits": 320533,
     "ss_count": 0,
     "s_count": 0,
     "medals": 0,
-    "last_active": "2026-08-28T20:58:40+00:00",
+    "last_active": "2026-08-29T15:31:57+00:00",
     "daily_pp": 0,
     "top_play": {
       "title": "JoJo Sono Chi no Kioku~end of THE WORLD~",
@@ -12480,7 +12480,7 @@
     }
   },
   {
-    "rank": 1262802,
+    "rank": 1264313,
     "id": 28692069,
     "user": "sosofla7",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12506,7 +12506,7 @@
     }
   },
   {
-    "rank": 1264612,
+    "rank": 1266125,
     "id": 15778416,
     "user": "Darone12",
     "avatar": "https://a.ppy.sh/15778416?1629028956.jpeg",
@@ -12532,7 +12532,7 @@
     }
   },
   {
-    "rank": 1271361,
+    "rank": 1272882,
     "id": 39879477,
     "user": "total_loser",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12558,7 +12558,7 @@
     }
   },
   {
-    "rank": 1272436,
+    "rank": 1273959,
     "id": 26147979,
     "user": "saifking123",
     "avatar": "https://a.ppy.sh/26147979?1636408040.jpeg",
@@ -12584,7 +12584,7 @@
     }
   },
   {
-    "rank": 1272444,
+    "rank": 1273967,
     "id": 38785086,
     "user": "yanurys",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12610,7 +12610,7 @@
     }
   },
   {
-    "rank": 1281090,
+    "rank": 1282635,
     "id": 14623310,
     "user": "sans-310",
     "avatar": "https://a.ppy.sh/14623310?1637842601.jpeg",
@@ -12636,7 +12636,7 @@
     }
   },
   {
-    "rank": 1281809,
+    "rank": 1283353,
     "id": 29708470,
     "user": "RyanFingerBreak",
     "avatar": "https://a.ppy.sh/29708470?1650717581.jpeg",
@@ -12662,7 +12662,7 @@
     }
   },
   {
-    "rank": 1284962,
+    "rank": 1286510,
     "id": 35996927,
     "user": "axizyte",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12688,7 +12688,7 @@
     }
   },
   {
-    "rank": 1286337,
+    "rank": 1287887,
     "id": 27079918,
     "user": "HEtakeREashke",
     "avatar": "https://a.ppy.sh/27079918?1637048783.jpeg",
@@ -12714,7 +12714,7 @@
     }
   },
   {
-    "rank": 1286486,
+    "rank": 1288034,
     "id": 24026973,
     "user": "IxReSo",
     "avatar": "https://a.ppy.sh/24026973?1634417267.jpeg",
@@ -12740,7 +12740,7 @@
     }
   },
   {
-    "rank": 1287219,
+    "rank": 1288772,
     "id": 35497499,
     "user": "El_Srphoenixz",
     "avatar": "https://a.ppy.sh/35497499?1728670935.jpeg",
@@ -12766,7 +12766,7 @@
     }
   },
   {
-    "rank": 1292444,
+    "rank": 1294040,
     "id": 38184514,
     "user": "MJ_",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12792,7 +12792,7 @@
     }
   },
   {
-    "rank": 1294659,
+    "rank": 1296242,
     "id": 16785772,
     "user": "jafarthenoob",
     "avatar": "https://a.ppy.sh/16785772?1623157768.jpeg",
@@ -12806,7 +12806,7 @@
     "s_count": 9,
     "medals": 0,
     "last_active": "2026-08-28T12:58:39+00:00",
-    "daily_pp": 0,
+    "daily_pp": 651.7976,
     "top_play": {
       "title": "quaver",
       "diff": "Myxo's Easy",
@@ -12818,7 +12818,7 @@
     }
   },
   {
-    "rank": 1295586,
+    "rank": 1297163,
     "id": 10761527,
     "user": "AB AL HA",
     "avatar": "https://a.ppy.sh/10761527?1560629088.jpeg",
@@ -12844,7 +12844,33 @@
     }
   },
   {
-    "rank": 1301268,
+    "rank": 1302471,
+    "id": 40277621,
+    "user": "gf7yef675rf3",
+    "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
+    "pp": 401.247,
+    "accuracy": 87.5799,
+    "play_count": 427,
+    "play_time": 44845,
+    "total_score": 351370257,
+    "total_hits": 75143,
+    "ss_count": 0,
+    "s_count": 4,
+    "medals": 0,
+    "last_active": "2026-08-29T11:17:40+00:00",
+    "daily_pp": 194.38045,
+    "top_play": {
+      "title": "Rockefeller Street (Nightcore Mix)",
+      "diff": "Hero",
+      "cover": "https://assets.ppy.sh/beatmaps/33842/covers/card.jpg?1622048627",
+      "stars": 2.44036,
+      "mods": "+DT",
+      "pp": 30.5644,
+      "acc": 87.66025641025641
+    }
+  },
+  {
+    "rank": 1302855,
     "id": 38767230,
     "user": "KamalAH",
     "avatar": "https://a.ppy.sh/38767230?1764344742.jpeg",
@@ -12870,7 +12896,7 @@
     }
   },
   {
-    "rank": 1301872,
+    "rank": 1303462,
     "id": 26150925,
     "user": "kay_op",
     "avatar": "https://a.ppy.sh/26150925?1634423013.jpeg",
@@ -12896,7 +12922,7 @@
     }
   },
   {
-    "rank": 1305626,
+    "rank": 1307240,
     "id": 33744252,
     "user": "L2 LOKA",
     "avatar": "https://a.ppy.sh/33744252?1685151680.jpeg",
@@ -12922,7 +12948,7 @@
     }
   },
   {
-    "rank": 1306256,
+    "rank": 1307858,
     "id": 34434923,
     "user": "LostHope",
     "avatar": "https://a.ppy.sh/34434923?1694545062.jpeg",
@@ -12948,7 +12974,7 @@
     }
   },
   {
-    "rank": 1306651,
+    "rank": 1308254,
     "id": 33987392,
     "user": "M7fss",
     "avatar": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png",
@@ -12971,32 +12997,6 @@
       "mods": "",
       "pp": 30.6234,
       "acc": 83.27740492170022
-    }
-  },
-  {
-    "rank": 1306735,
-    "id": 16848978,
-    "user": "iibeast91",
-    "avatar": "https://a.ppy.sh/16848978?1618154539.jpeg",
-    "pp": 395.837,
-    "accuracy": 81.2683,
-    "play_count": 2601,
-    "play_time": 119190,
-    "total_score": 292303333,
-    "total_hits": 244749,
-    "ss_count": 0,
-    "s_count": 2,
-    "medals": 0,
-    "last_active": "2026-07-23T23:23:25+00:00",
-    "daily_pp": 0,
-    "top_play": {
-      "title": "Samurai (Spirix Remix)",
-      "diff": "Hard",
-      "cover": "https://assets.ppy.sh/beatmaps/592509/covers/card.jpg?1622117088",
-      "stars": 3.4365,
-      "mods": "",
-      "pp": 30.0242,
-      "acc": 95.08856682769726
     }
   }
 ]
