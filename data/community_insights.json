@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 181,
-    "longest": 181,
-    "last_updated": "2026-08-27"
+    "current": 182,
+    "longest": 182,
+    "last_updated": "2026-08-28"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -54573,6 +54573,309 @@
         "title": "Guren no Yumiya (TV Size)",
         "cover": "https://assets.ppy.sh/beatmaps/87630/covers/card.jpg?1650616252",
         "unique_players": 26
+      }
+    },
+    "2026-08-28": {
+      "total_scores": 713,
+      "peak_hour_baghdad": 17,
+      "top_grinder": {
+        "user": "pq7wh",
+        "user_id": 39498643,
+        "count": 30,
+        "scores": [
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359792423,
+            "rank": "B",
+            "accuracy": 0.8594902749832327,
+            "pp": 61.8936,
+            "mods": [],
+            "combo": 154,
+            "created_at": "2026-08-28T00:27:04Z",
+            "beatmapset": {
+              "id": 417408,
+              "title": "Lune",
+              "cover": "https://assets.ppy.sh/beatmaps/417408/covers/card.jpg?1650639378",
+              "stars": 5.27804
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359749434,
+            "rank": "C",
+            "accuracy": 0.8383233532934131,
+            "pp": 31.0608,
+            "mods": [],
+            "combo": 169,
+            "created_at": "2026-08-28T00:16:35Z",
+            "beatmapset": {
+              "id": 417408,
+              "title": "Lune",
+              "cover": "https://assets.ppy.sh/beatmaps/417408/covers/card.jpg?1650639378",
+              "stars": 4.88475
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359737287,
+            "rank": "B",
+            "accuracy": 0.8589487691284099,
+            "pp": 37.2391,
+            "mods": [
+              "HD"
+            ],
+            "combo": 167,
+            "created_at": "2026-08-28T00:13:39Z",
+            "beatmapset": {
+              "id": 417408,
+              "title": "Lune",
+              "cover": "https://assets.ppy.sh/beatmaps/417408/covers/card.jpg?1650639378",
+              "stars": 4.88475
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359724447,
+            "rank": "B",
+            "accuracy": 0.864604125083167,
+            "pp": 36.5266,
+            "mods": [],
+            "combo": 159,
+            "created_at": "2026-08-28T00:10:31Z",
+            "beatmapset": {
+              "id": 417408,
+              "title": "Lune",
+              "cover": "https://assets.ppy.sh/beatmaps/417408/covers/card.jpg?1650639378",
+              "stars": 4.88475
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359715946,
+            "rank": "C",
+            "accuracy": 0.8293413173652695,
+            "pp": 30.6842,
+            "mods": [],
+            "combo": 159,
+            "created_at": "2026-08-28T00:08:29Z",
+            "beatmapset": {
+              "id": 417408,
+              "title": "Lune",
+              "cover": "https://assets.ppy.sh/beatmaps/417408/covers/card.jpg?1650639378",
+              "stars": 4.88475
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359694831,
+            "rank": "C",
+            "accuracy": 0.8143159006867406,
+            "pp": 46.5737,
+            "mods": [],
+            "combo": 315,
+            "created_at": "2026-08-28T00:03:14Z",
+            "beatmapset": {
+              "id": 891366,
+              "title": "Illusion of Inflict",
+              "cover": "https://assets.ppy.sh/beatmaps/891366/covers/card.jpg?1650672764",
+              "stars": 5.6169
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359671766,
+            "rank": "A",
+            "accuracy": 0.9606879606879607,
+            "pp": 144.155,
+            "mods": [],
+            "combo": 186,
+            "created_at": "2026-08-27T23:57:38Z",
+            "beatmapset": {
+              "id": 444335,
+              "title": "Kira Kira Days",
+              "cover": "https://assets.ppy.sh/beatmaps/444335/covers/card.jpg?1650638834",
+              "stars": 5.59753
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359664645,
+            "rank": "B",
+            "accuracy": 0.9021294021294022,
+            "pp": 89.2145,
+            "mods": [],
+            "combo": 116,
+            "created_at": "2026-08-27T23:55:56Z",
+            "beatmapset": {
+              "id": 444335,
+              "title": "Kira Kira Days",
+              "cover": "https://assets.ppy.sh/beatmaps/444335/covers/card.jpg?1650638834",
+              "stars": 5.59753
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359556727,
+            "rank": "C",
+            "accuracy": 0.7812837108953614,
+            "pp": 55.1961,
+            "mods": [],
+            "combo": 252,
+            "created_at": "2026-08-27T23:29:49Z",
+            "beatmapset": {
+              "id": 2211964,
+              "title": "Hatsukoi no Ehon feat. Miou Aida (CV: Toyosaki Aki)",
+              "cover": "https://assets.ppy.sh/beatmaps/2211964/covers/card.jpg?1760866207",
+              "stars": 5.81341
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359482670,
+            "rank": "A",
+            "accuracy": 0.9495472186287193,
+            "pp": 76.1168,
+            "mods": [],
+            "combo": 799,
+            "created_at": "2026-08-27T23:12:18Z",
+            "beatmapset": {
+              "id": 2069184,
+              "title": "Imperfect Cherry Blossom",
+              "cover": "https://assets.ppy.sh/beatmaps/2069184/covers/card.jpg?1724380098",
+              "stars": 4.64754
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359442370,
+            "rank": "A",
+            "accuracy": 0.9341016548463357,
+            "pp": 82.6391,
+            "mods": [],
+            "combo": 214,
+            "created_at": "2026-08-27T23:03:01Z",
+            "beatmapset": {
+              "id": 52401,
+              "title": "Solar Sect of Mystic Wisdom ~ Nuclear Fusion",
+              "cover": "https://assets.ppy.sh/beatmaps/52401/covers/card.jpg?1650623859",
+              "stars": 5.13852
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359415532,
+            "rank": "B",
+            "accuracy": 0.8617886178861789,
+            "pp": 36.9348,
+            "mods": [],
+            "combo": 140,
+            "created_at": "2026-08-27T22:56:50Z",
+            "beatmapset": {
+              "id": 721804,
+              "title": "Teo",
+              "cover": "https://assets.ppy.sh/beatmaps/721804/covers/card.jpg?1650659527",
+              "stars": 5.64513
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359398157,
+            "rank": "B",
+            "accuracy": 0.8840125391849529,
+            "pp": 54.4871,
+            "mods": [],
+            "combo": 573,
+            "created_at": "2026-08-27T22:52:56Z",
+            "beatmapset": {
+              "id": 867737,
+              "title": "The Big Black",
+              "cover": "https://assets.ppy.sh/beatmaps/867737/covers/card.jpg?1645785490",
+              "stars": 5.00835
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359329955,
+            "rank": "C",
+            "accuracy": 0.8209255533199196,
+            "pp": 68.0681,
+            "mods": [],
+            "combo": 268,
+            "created_at": "2026-08-27T22:37:39Z",
+            "beatmapset": {
+              "id": 417408,
+              "title": "Lune",
+              "cover": "https://assets.ppy.sh/beatmaps/417408/covers/card.jpg?1650639378",
+              "stars": 5.27804
+            }
+          },
+          {
+            "user": "pq7wh",
+            "user_id": 39498643,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7359320663,
+            "rank": "B",
+            "accuracy": 0.8809048569527611,
+            "pp": 45.1019,
+            "mods": [],
+            "combo": 185,
+            "created_at": "2026-08-27T22:35:36Z",
+            "beatmapset": {
+              "id": 417408,
+              "title": "Lune",
+              "cover": "https://assets.ppy.sh/beatmaps/417408/covers/card.jpg?1650639378",
+              "stars": 4.88475
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Jumper",
+        "cover": "https://assets.ppy.sh/beatmaps/2520551/covers/card.jpg?1774371349",
+        "unique_players": 20
       }
     }
   }
