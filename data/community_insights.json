@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 182,
-    "longest": 182,
-    "last_updated": "2026-08-28"
+    "current": 183,
+    "longest": 183,
+    "last_updated": "2026-08-29"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -54876,6 +54876,307 @@
         "title": "Jumper",
         "cover": "https://assets.ppy.sh/beatmaps/2520551/covers/card.jpg?1774371349",
         "unique_players": 20
+      }
+    },
+    "2026-08-29": {
+      "total_scores": 776,
+      "peak_hour_baghdad": 20,
+      "top_grinder": {
+        "user": "Moody_XD",
+        "user_id": 24992843,
+        "count": 44,
+        "scores": [
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368346214,
+            "rank": "A",
+            "accuracy": 0.9473995271867612,
+            "pp": 51.2088,
+            "mods": [],
+            "combo": 683,
+            "created_at": "2026-08-29T08:10:03Z",
+            "beatmapset": {
+              "id": 1788765,
+              "title": "Bug",
+              "cover": "https://assets.ppy.sh/beatmaps/1788765/covers/card.jpg?1671149760",
+              "stars": 3.08082
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368317408,
+            "rank": "S",
+            "accuracy": 0.9839615076182838,
+            "pp": 61.0834,
+            "mods": [],
+            "combo": 642,
+            "created_at": "2026-08-29T08:02:26Z",
+            "beatmapset": {
+              "id": 2201473,
+              "title": "SILVER BULLET",
+              "cover": "https://assets.ppy.sh/beatmaps/2201473/covers/card.jpg?1733370802",
+              "stars": 2.8657
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368305068,
+            "rank": "S",
+            "accuracy": 0.9509933774834437,
+            "pp": 54.2805,
+            "mods": [],
+            "combo": 530,
+            "created_at": "2026-08-29T07:59:15Z",
+            "beatmapset": {
+              "id": 1139247,
+              "title": "Heart Function",
+              "cover": "https://assets.ppy.sh/beatmaps/1139247/covers/card.jpg?1650693891",
+              "stars": 3.05058
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368294615,
+            "rank": "S",
+            "accuracy": 0.9967558799675588,
+            "pp": 7.80145,
+            "mods": [],
+            "combo": 411,
+            "created_at": "2026-08-29T07:56:33Z",
+            "beatmapset": {
+              "id": 1971987,
+              "title": "Aresene's Bazaar",
+              "cover": "https://assets.ppy.sh/beatmaps/1971987/covers/card.jpg?1705780068",
+              "stars": 1.16459
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368281603,
+            "rank": "S",
+            "accuracy": 0.9658445879819926,
+            "pp": 74.2459,
+            "mods": [],
+            "combo": 644,
+            "created_at": "2026-08-29T07:53:13Z",
+            "beatmapset": {
+              "id": 2224035,
+              "title": "Konton Boogie",
+              "cover": "https://assets.ppy.sh/beatmaps/2224035/covers/card.jpg?1732465307",
+              "stars": 3.38708
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368263157,
+            "rank": "S",
+            "accuracy": 0.9701243554746739,
+            "pp": null,
+            "mods": [],
+            "combo": 560,
+            "created_at": "2026-08-29T07:48:26Z",
+            "beatmapset": {
+              "id": 706674,
+              "title": "Sink to the Deep Sea World",
+              "cover": "https://assets.ppy.sh/beatmaps/706674/covers/card.jpg?1636542039",
+              "stars": 3.22214
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368248711,
+            "rank": "S",
+            "accuracy": 0.9701715137956749,
+            "pp": 52.013,
+            "mods": [],
+            "combo": 1514,
+            "created_at": "2026-08-29T07:44:43Z",
+            "beatmapset": {
+              "id": 1954374,
+              "title": "Wolves Standing Towards Enemies",
+              "cover": "https://assets.ppy.sh/beatmaps/1954374/covers/card.jpg?1734120001",
+              "stars": 2.83104
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368236850,
+            "rank": "S",
+            "accuracy": 0.9573737373737373,
+            "pp": 39.1977,
+            "mods": [],
+            "combo": 764,
+            "created_at": "2026-08-29T07:41:38Z",
+            "beatmapset": {
+              "id": 1906295,
+              "title": "Surprise",
+              "cover": "https://assets.ppy.sh/beatmaps/1906295/covers/card.jpg?1743830764",
+              "stars": 2.6152
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368224599,
+            "rank": "S",
+            "accuracy": 0.9792425345957757,
+            "pp": 56.6905,
+            "mods": [],
+            "combo": 719,
+            "created_at": "2026-08-29T07:38:21Z",
+            "beatmapset": {
+              "id": 2481624,
+              "title": "Rainbow Road",
+              "cover": "https://assets.ppy.sh/beatmaps/2481624/covers/card.jpg?1783526038",
+              "stars": 2.85294
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368206437,
+            "rank": "A",
+            "accuracy": 0.916820323704159,
+            "pp": 40.8856,
+            "mods": [],
+            "combo": 314,
+            "created_at": "2026-08-29T07:33:28Z",
+            "beatmapset": {
+              "id": 2145489,
+              "title": "Singularity (Long Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2145489/covers/card.jpg?1733662127",
+              "stars": 3.12822
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368179476,
+            "rank": "S",
+            "accuracy": 0.9900497512437811,
+            "pp": 59.0181,
+            "mods": [],
+            "combo": 1541,
+            "created_at": "2026-08-29T07:26:15Z",
+            "beatmapset": {
+              "id": 2344392,
+              "title": "Tower Of Heaven (You Are Slaves)",
+              "cover": "https://assets.ppy.sh/beatmaps/2344392/covers/card.jpg?1743613907",
+              "stars": 2.74884
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7368150761,
+            "rank": "S",
+            "accuracy": 0.9632737772965169,
+            "pp": 54.1574,
+            "mods": [],
+            "combo": 1569,
+            "created_at": "2026-08-29T07:18:32Z",
+            "beatmapset": {
+              "id": 2299672,
+              "title": "Medic: A Doll",
+              "cover": "https://assets.ppy.sh/beatmaps/2299672/covers/card.jpg?1743124294",
+              "stars": 2.95277
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7364073192,
+            "rank": "S",
+            "accuracy": 0.9754327191513121,
+            "pp": 23.2663,
+            "mods": [],
+            "combo": 597,
+            "created_at": "2026-08-28T16:52:46Z",
+            "beatmapset": {
+              "id": 2241760,
+              "title": "World is Mine (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2241760/covers/card.jpg?1733461973",
+              "stars": 2.0307
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7364056779,
+            "rank": "S",
+            "accuracy": 0.9782051282051282,
+            "pp": 42.848,
+            "mods": [],
+            "combo": 780,
+            "created_at": "2026-08-28T16:50:00Z",
+            "beatmapset": {
+              "id": 862546,
+              "title": "DRAGONLADY",
+              "cover": "https://assets.ppy.sh/beatmaps/862546/covers/card.jpg?1734915810",
+              "stars": 2.58487
+            }
+          },
+          {
+            "user": "Moody_XD",
+            "user_id": 24992843,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7364041873,
+            "rank": "A",
+            "accuracy": 0.932967032967033,
+            "pp": 43.9792,
+            "mods": [],
+            "combo": 314,
+            "created_at": "2026-08-28T16:47:30Z",
+            "beatmapset": {
+              "id": 862546,
+              "title": "DRAGONLADY",
+              "cover": "https://assets.ppy.sh/beatmaps/862546/covers/card.jpg?1734915810",
+              "stars": 3.06228
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535",
+        "unique_players": 19
       }
     }
   }
