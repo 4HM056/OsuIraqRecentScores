@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 183,
-    "longest": 183,
-    "last_updated": "2026-08-29"
+    "current": 184,
+    "longest": 184,
+    "last_updated": "2026-08-30"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -55177,6 +55177,313 @@
         "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535",
         "unique_players": 19
+      }
+    },
+    "2026-08-30": {
+      "total_scores": 608,
+      "peak_hour_baghdad": 22,
+      "top_grinder": {
+        "user": "4KZ",
+        "user_id": 14700342,
+        "count": 36,
+        "scores": [
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372248269,
+            "rank": "C",
+            "accuracy": 0.7762430939226519,
+            "pp": 39.8227,
+            "mods": [],
+            "combo": 201,
+            "created_at": "2026-08-29T19:50:46Z",
+            "beatmapset": {
+              "id": 234919,
+              "title": "SeventH-HeaveN feat. Hatsune Miku",
+              "cover": "https://assets.ppy.sh/beatmaps/234919/covers/card.jpg?1650627096",
+              "stars": 5.22317
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372167597,
+            "rank": "S",
+            "accuracy": 0.9482323232323232,
+            "pp": 103.029,
+            "mods": [
+              "DT"
+            ],
+            "combo": 188,
+            "created_at": "2026-08-29T19:37:18Z",
+            "beatmapset": {
+              "id": 584575,
+              "title": "sans.",
+              "cover": "https://assets.ppy.sh/beatmaps/584575/covers/card.jpg?1650649660",
+              "stars": 3.3263
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372160617,
+            "rank": "A",
+            "accuracy": 0.9558080808080808,
+            "pp": 95.5841,
+            "mods": [
+              "DT"
+            ],
+            "combo": 153,
+            "created_at": "2026-08-29T19:36:08Z",
+            "beatmapset": {
+              "id": 584575,
+              "title": "sans.",
+              "cover": "https://assets.ppy.sh/beatmaps/584575/covers/card.jpg?1650649660",
+              "stars": 3.3263
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372143901,
+            "rank": "B",
+            "accuracy": 0.8952020202020202,
+            "pp": 62.95,
+            "mods": [
+              "DT"
+            ],
+            "combo": 95,
+            "created_at": "2026-08-29T19:33:20Z",
+            "beatmapset": {
+              "id": 584575,
+              "title": "sans.",
+              "cover": "https://assets.ppy.sh/beatmaps/584575/covers/card.jpg?1650649660",
+              "stars": 3.3263
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372135922,
+            "rank": "C",
+            "accuracy": 0.7833333333333333,
+            "pp": 50.9743,
+            "mods": [],
+            "combo": 34,
+            "created_at": "2026-08-29T19:31:58Z",
+            "beatmapset": {
+              "id": 798007,
+              "title": "Despacito ft. R3 Music Box",
+              "cover": "https://assets.ppy.sh/beatmaps/798007/covers/card.jpg?1650665377",
+              "stars": 5.52651
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372070725,
+            "rank": "C",
+            "accuracy": 0.8251028806584362,
+            "pp": 90.5462,
+            "mods": [],
+            "combo": 67,
+            "created_at": "2026-08-29T19:21:08Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 5.63988
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372059914,
+            "rank": "B",
+            "accuracy": 0.8596491228070176,
+            "pp": 77.6703,
+            "mods": [],
+            "combo": 60,
+            "created_at": "2026-08-29T19:19:22Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 5.6154
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372053782,
+            "rank": "B",
+            "accuracy": 0.8901808785529716,
+            "pp": 65.3704,
+            "mods": [],
+            "combo": 83,
+            "created_at": "2026-08-29T19:18:21Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 4.81056
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372028278,
+            "rank": "B",
+            "accuracy": 0.8873239436619719,
+            "pp": 56.2305,
+            "mods": [],
+            "combo": 133,
+            "created_at": "2026-08-29T19:14:04Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 4.49211
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372024455,
+            "rank": "C",
+            "accuracy": 0.8145539906103286,
+            "pp": 46.6271,
+            "mods": [],
+            "combo": 64,
+            "created_at": "2026-08-29T19:13:24Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 4.49211
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372019926,
+            "rank": "B",
+            "accuracy": 0.8628841607565012,
+            "pp": 74.1833,
+            "mods": [],
+            "combo": 56,
+            "created_at": "2026-08-29T19:12:40Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 5.27938
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372012553,
+            "rank": "B",
+            "accuracy": 0.8849765258215962,
+            "pp": 101.56,
+            "mods": [],
+            "combo": 76,
+            "created_at": "2026-08-29T19:11:26Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 5.58008
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372006381,
+            "rank": "B",
+            "accuracy": 0.8501291989664083,
+            "pp": 55.3251,
+            "mods": [],
+            "combo": 71,
+            "created_at": "2026-08-29T19:10:24Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 4.81056
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7372002321,
+            "rank": "B",
+            "accuracy": 0.8708010335917312,
+            "pp": 58.3815,
+            "mods": [],
+            "combo": 63,
+            "created_at": "2026-08-29T19:09:44Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 4.81056
+            }
+          },
+          {
+            "user": "4KZ",
+            "user_id": 14700342,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7371753869,
+            "rank": "C",
+            "accuracy": 0.7887323943661971,
+            "pp": 79.1159,
+            "mods": [],
+            "combo": 48,
+            "created_at": "2026-08-29T18:29:23Z",
+            "beatmapset": {
+              "id": 2253247,
+              "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+              "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+              "stars": 5.58008
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
+        "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+        "unique_players": 15
       }
     }
   }
