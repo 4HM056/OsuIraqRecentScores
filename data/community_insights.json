@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 184,
-    "longest": 184,
-    "last_updated": "2026-08-30"
+    "current": 185,
+    "longest": 185,
+    "last_updated": "2026-09-01"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -55483,6 +55483,324 @@
       "most_played_map": {
         "title": "El Sonidito x Athletic Theme (DitzyFlama Mashup)",
         "cover": "https://assets.ppy.sh/beatmaps/2253247/covers/card.jpg?1737229904",
+        "unique_players": 15
+      }
+    },
+    "2026-09-01": {
+      "total_scores": 673,
+      "peak_hour_baghdad": 23,
+      "top_grinder": {
+        "user": "osaka00",
+        "user_id": 36473293,
+        "count": 103,
+        "scores": [
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387458583,
+            "rank": "B",
+            "accuracy": 0.8736263736263736,
+            "pp": 10.7627,
+            "mods": [],
+            "combo": 68,
+            "created_at": "2026-09-01T02:43:38Z",
+            "beatmapset": {
+              "id": 649373,
+              "title": "Harumachi Clover",
+              "cover": "https://assets.ppy.sh/beatmaps/649373/covers/card.jpg?1650653987",
+              "stars": 1.55678
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387451936,
+            "rank": "B",
+            "accuracy": 0.9125,
+            "pp": 22.6136,
+            "mods": [
+              "DT"
+            ],
+            "combo": 18,
+            "created_at": "2026-09-01T02:41:44Z",
+            "beatmapset": {
+              "id": 649373,
+              "title": "Harumachi Clover",
+              "cover": "https://assets.ppy.sh/beatmaps/649373/covers/card.jpg?1650653987",
+              "stars": 0.845777
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387448058,
+            "rank": "C",
+            "accuracy": 0.8333333333333334,
+            "pp": 6.9119,
+            "mods": [],
+            "combo": 45,
+            "created_at": "2026-09-01T02:40:35Z",
+            "beatmapset": {
+              "id": 649373,
+              "title": "Harumachi Clover",
+              "cover": "https://assets.ppy.sh/beatmaps/649373/covers/card.jpg?1650653987",
+              "stars": 1.77722
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387437728,
+            "rank": "S",
+            "accuracy": 0.9733333333333334,
+            "pp": 53.4622,
+            "mods": [
+              "DT"
+            ],
+            "combo": 75,
+            "created_at": "2026-09-01T02:37:34Z",
+            "beatmapset": {
+              "id": 788001,
+              "title": "Applause",
+              "cover": "https://assets.ppy.sh/beatmaps/788001/covers/card.jpg?1650664386",
+              "stars": 1.00288
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387433394,
+            "rank": "S",
+            "accuracy": 0.9789915966386554,
+            "pp": 44.7209,
+            "mods": [],
+            "combo": 119,
+            "created_at": "2026-09-01T02:36:19Z",
+            "beatmapset": {
+              "id": 6505,
+              "title": "Boogie Boogie Hedgehog",
+              "cover": "https://assets.ppy.sh/beatmaps/6505/covers/card.jpg?1622024368",
+              "stars": 1.07109
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387351817,
+            "rank": "A",
+            "accuracy": 0.954225352112676,
+            "pp": 40.586,
+            "mods": [
+              "HR"
+            ],
+            "combo": 141,
+            "created_at": "2026-09-01T02:13:04Z",
+            "beatmapset": {
+              "id": 2591038,
+              "title": "BRAINROT GIGACHADS CHOIR (COVER)",
+              "cover": "https://assets.ppy.sh/beatmaps/2591038/covers/card.jpg?1785170600",
+              "stars": 1.46801
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387344706,
+            "rank": "S",
+            "accuracy": 0.9912280701754386,
+            "pp": 50.2577,
+            "mods": [
+              "HR"
+            ],
+            "combo": 114,
+            "created_at": "2026-09-01T02:11:02Z",
+            "beatmapset": {
+              "id": 2577547,
+              "title": "Be the Hero! feat. Airi Suzuki (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2577547/covers/card.jpg?1785603878",
+              "stars": 1.13475
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387331856,
+            "rank": "A",
+            "accuracy": 0.9365671641791045,
+            "pp": 21.58,
+            "mods": [],
+            "combo": 60,
+            "created_at": "2026-09-01T02:07:24Z",
+            "beatmapset": {
+              "id": 788001,
+              "title": "Applause",
+              "cover": "https://assets.ppy.sh/beatmaps/788001/covers/card.jpg?1650664386",
+              "stars": 1.58297
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387327558,
+            "rank": "B",
+            "accuracy": 0.8880597014925373,
+            "pp": 12.8777,
+            "mods": [],
+            "combo": 66,
+            "created_at": "2026-09-01T02:06:10Z",
+            "beatmapset": {
+              "id": 788001,
+              "title": "Applause",
+              "cover": "https://assets.ppy.sh/beatmaps/788001/covers/card.jpg?1650664386",
+              "stars": 1.58297
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387322905,
+            "rank": "C",
+            "accuracy": 0.8208955223880597,
+            "pp": 6.62359,
+            "mods": [],
+            "combo": 44,
+            "created_at": "2026-09-01T02:04:51Z",
+            "beatmapset": {
+              "id": 788001,
+              "title": "Applause",
+              "cover": "https://assets.ppy.sh/beatmaps/788001/covers/card.jpg?1650664386",
+              "stars": 1.58297
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387308530,
+            "rank": "A",
+            "accuracy": 0.9533333333333334,
+            "pp": 62.3071,
+            "mods": [
+              "HR",
+              "DT"
+            ],
+            "combo": 64,
+            "created_at": "2026-09-01T02:00:45Z",
+            "beatmapset": {
+              "id": 788001,
+              "title": "Applause",
+              "cover": "https://assets.ppy.sh/beatmaps/788001/covers/card.jpg?1650664386",
+              "stars": 1.00288
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387305005,
+            "rank": "A",
+            "accuracy": 0.9466666666666667,
+            "pp": 36.7557,
+            "mods": [
+              "DT"
+            ],
+            "combo": 75,
+            "created_at": "2026-09-01T01:59:44Z",
+            "beatmapset": {
+              "id": 788001,
+              "title": "Applause",
+              "cover": "https://assets.ppy.sh/beatmaps/788001/covers/card.jpg?1650664386",
+              "stars": 1.00288
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387297906,
+            "rank": "S",
+            "accuracy": 0.9642857142857143,
+            "pp": 32.8707,
+            "mods": [
+              "DT"
+            ],
+            "combo": 28,
+            "created_at": "2026-09-01T01:57:45Z",
+            "beatmapset": {
+              "id": 808072,
+              "title": "Aozora Morning Glory (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/808072/covers/card.jpg?1622142855",
+              "stars": 0.888422
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387284157,
+            "rank": "A",
+            "accuracy": 0.9492753623188406,
+            "pp": 25.9202,
+            "mods": [
+              "HR"
+            ],
+            "combo": 47,
+            "created_at": "2026-09-01T01:53:56Z",
+            "beatmapset": {
+              "id": 1898835,
+              "title": "Aozora Morning Glory (Kageminori TwoRoom Edit)",
+              "cover": "https://assets.ppy.sh/beatmaps/1898835/covers/card.jpg?1699935357",
+              "stars": 1.78488
+            }
+          },
+          {
+            "user": "osaka00",
+            "user_id": 36473293,
+            "country": "IQ",
+            "mode": "taiko",
+            "score_id": 7387280028,
+            "rank": "A",
+            "accuracy": 0.9420289855072463,
+            "pp": 18.9181,
+            "mods": [],
+            "combo": 45,
+            "created_at": "2026-09-01T01:52:47Z",
+            "beatmapset": {
+              "id": 1898835,
+              "title": "Aozora Morning Glory (Kageminori TwoRoom Edit)",
+              "cover": "https://assets.ppy.sh/beatmaps/1898835/covers/card.jpg?1699935357",
+              "stars": 1.78488
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Miniministop Hitoyasumi no Uta[Mokuyoubi]Gakusei no Uta",
+        "cover": "https://assets.ppy.sh/beatmaps/705423/covers/card.jpg?1645788448",
         "unique_players": 15
       }
     }
