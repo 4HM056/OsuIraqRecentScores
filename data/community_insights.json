@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 185,
-    "longest": 185,
-    "last_updated": "2026-09-01"
+    "current": 186,
+    "longest": 186,
+    "last_updated": "2026-09-02"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -55802,6 +55802,309 @@
         "title": "Miniministop Hitoyasumi no Uta[Mokuyoubi]Gakusei no Uta",
         "cover": "https://assets.ppy.sh/beatmaps/705423/covers/card.jpg?1645788448",
         "unique_players": 15
+      }
+    },
+    "2026-09-02": {
+      "total_scores": 1026,
+      "peak_hour_baghdad": 17,
+      "top_grinder": {
+        "user": "Paranoid2007",
+        "user_id": 39690193,
+        "count": 70,
+        "scores": [
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391648587,
+            "rank": "B",
+            "accuracy": 0.9129411764705883,
+            "pp": 29.4137,
+            "mods": [],
+            "combo": 390,
+            "created_at": "2026-09-01T18:39:24Z",
+            "beatmapset": {
+              "id": 734864,
+              "title": "18 (Dan Winter Edit)",
+              "cover": "https://assets.ppy.sh/beatmaps/734864/covers/card.jpg?1650660203",
+              "stars": 3.24099
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391631035,
+            "rank": "C",
+            "accuracy": 0.8568627450980392,
+            "pp": 24.4322,
+            "mods": [],
+            "combo": 542,
+            "created_at": "2026-09-01T18:36:15Z",
+            "beatmapset": {
+              "id": 734864,
+              "title": "18 (Dan Winter Edit)",
+              "cover": "https://assets.ppy.sh/beatmaps/734864/covers/card.jpg?1650660203",
+              "stars": 3.24099
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391599340,
+            "rank": "B",
+            "accuracy": 0.930089485458613,
+            "pp": 13.5138,
+            "mods": [],
+            "combo": 354,
+            "created_at": "2026-09-01T18:30:30Z",
+            "beatmapset": {
+              "id": 868749,
+              "title": "Fukashigi no Karte",
+              "cover": "https://assets.ppy.sh/beatmaps/868749/covers/card.jpg?1650675166",
+              "stars": 2.40049
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391565783,
+            "rank": "C",
+            "accuracy": 0.75,
+            "pp": null,
+            "mods": [],
+            "combo": 122,
+            "created_at": "2026-09-01T18:24:34Z",
+            "beatmapset": {
+              "id": 147210,
+              "title": "FREEDOM DiVE",
+              "cover": "https://assets.ppy.sh/beatmaps/147210/covers/card.jpg?1640420931",
+              "stars": 3.5239
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391538652,
+            "rank": "C",
+            "accuracy": 0.8579335793357934,
+            "pp": 18.3157,
+            "mods": [],
+            "combo": 476,
+            "created_at": "2026-09-01T18:19:48Z",
+            "beatmapset": {
+              "id": 476691,
+              "title": "Flower Dance",
+              "cover": "https://assets.ppy.sh/beatmaps/476691/covers/card.jpg?1650642192",
+              "stars": 3.09807
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391515970,
+            "rank": "B",
+            "accuracy": 0.9063670411985019,
+            "pp": 24.3964,
+            "mods": [],
+            "combo": 160,
+            "created_at": "2026-09-01T18:15:44Z",
+            "beatmapset": {
+              "id": 21219,
+              "title": "Everytime We Touch (Nightcore Mix)",
+              "cover": "https://assets.ppy.sh/beatmaps/21219/covers/card.jpg?1622040334",
+              "stars": 3.46749
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391500459,
+            "rank": "S",
+            "accuracy": 0.9755102040816327,
+            "pp": 16.5659,
+            "mods": [
+              "HR"
+            ],
+            "combo": 431,
+            "created_at": "2026-09-01T18:12:58Z",
+            "beatmapset": {
+              "id": 2491861,
+              "title": "End Of Fake!",
+              "cover": "https://assets.ppy.sh/beatmaps/2491861/covers/card.jpg?1784064172",
+              "stars": 2.20188
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391479876,
+            "rank": "B",
+            "accuracy": 0.9166666666666666,
+            "pp": 22.5369,
+            "mods": [],
+            "combo": 273,
+            "created_at": "2026-09-01T18:09:16Z",
+            "beatmapset": {
+              "id": 2491861,
+              "title": "End Of Fake!",
+              "cover": "https://assets.ppy.sh/beatmaps/2491861/covers/card.jpg?1784064172",
+              "stars": 3.33295
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391459356,
+            "rank": "B",
+            "accuracy": 0.8687106918238994,
+            "pp": 17.477,
+            "mods": [],
+            "combo": 132,
+            "created_at": "2026-09-01T18:05:37Z",
+            "beatmapset": {
+              "id": 78889,
+              "title": "Electronic Bitch (Nightcore Mix)",
+              "cover": "https://assets.ppy.sh/beatmaps/78889/covers/card.jpg?1622062216",
+              "stars": 3.0535
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391448566,
+            "rank": "C",
+            "accuracy": 0.8364779874213837,
+            "pp": 13.3588,
+            "mods": [],
+            "combo": 132,
+            "created_at": "2026-09-01T18:03:40Z",
+            "beatmapset": {
+              "id": 78889,
+              "title": "Electronic Bitch (Nightcore Mix)",
+              "cover": "https://assets.ppy.sh/beatmaps/78889/covers/card.jpg?1622062216",
+              "stars": 3.0535
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391175701,
+            "rank": "C",
+            "accuracy": 0.8192771084337349,
+            "pp": 13.9732,
+            "mods": [],
+            "combo": 109,
+            "created_at": "2026-09-01T17:15:27Z",
+            "beatmapset": {
+              "id": 2322138,
+              "title": "Hello! World",
+              "cover": "https://assets.ppy.sh/beatmaps/2322138/covers/card.jpg?1783116247",
+              "stars": 3.44376
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391158796,
+            "rank": "A",
+            "accuracy": 0.8762886597938144,
+            "pp": 29.2446,
+            "mods": [],
+            "combo": 152,
+            "created_at": "2026-09-01T17:12:29Z",
+            "beatmapset": {
+              "id": 842412,
+              "title": "Harumachi Clover (Swing Arrangement) [Dictate Edit]",
+              "cover": "https://assets.ppy.sh/beatmaps/842412/covers/card.jpg?1650668705",
+              "stars": 3.26757
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391154856,
+            "rank": "B",
+            "accuracy": 0.872852233676976,
+            "pp": 24.9986,
+            "mods": [],
+            "combo": 117,
+            "created_at": "2026-09-01T17:11:47Z",
+            "beatmapset": {
+              "id": 842412,
+              "title": "Harumachi Clover (Swing Arrangement) [Dictate Edit]",
+              "cover": "https://assets.ppy.sh/beatmaps/842412/covers/card.jpg?1650668705",
+              "stars": 3.26757
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391150718,
+            "rank": "C",
+            "accuracy": 0.7578616352201258,
+            "pp": 29.7922,
+            "mods": [],
+            "combo": 114,
+            "created_at": "2026-09-01T17:11:02Z",
+            "beatmapset": {
+              "id": 842412,
+              "title": "Harumachi Clover (Swing Arrangement) [Dictate Edit]",
+              "cover": "https://assets.ppy.sh/beatmaps/842412/covers/card.jpg?1650668705",
+              "stars": 3.81718
+            }
+          },
+          {
+            "user": "Paranoid2007",
+            "user_id": 39690193,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7391146881,
+            "rank": "C",
+            "accuracy": 0.7641509433962265,
+            "pp": 30.7002,
+            "mods": [],
+            "combo": 136,
+            "created_at": "2026-09-01T17:10:21Z",
+            "beatmapset": {
+              "id": 842412,
+              "title": "Harumachi Clover (Swing Arrangement) [Dictate Edit]",
+              "cover": "https://assets.ppy.sh/beatmaps/842412/covers/card.jpg?1650668705",
+              "stars": 3.81718
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "I'm a chud im a chud",
+        "cover": "https://assets.ppy.sh/beatmaps/2570946/covers/card.jpg?1786975546",
+        "unique_players": 13
       }
     }
   }
