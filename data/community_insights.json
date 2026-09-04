@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 186,
-    "longest": 186,
-    "last_updated": "2026-09-02"
+    "current": 187,
+    "longest": 187,
+    "last_updated": "2026-09-03"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -56105,6 +56105,315 @@
         "title": "I'm a chud im a chud",
         "cover": "https://assets.ppy.sh/beatmaps/2570946/covers/card.jpg?1786975546",
         "unique_players": 13
+      }
+    },
+    "2026-09-03": {
+      "total_scores": 799,
+      "peak_hour_baghdad": 16,
+      "top_grinder": {
+        "user": "Biscuits0",
+        "user_id": 23843313,
+        "count": 81,
+        "scores": [
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7401031711,
+            "rank": "S",
+            "accuracy": 0.9724719101123596,
+            "pp": 37.7686,
+            "mods": [],
+            "combo": 279,
+            "created_at": "2026-09-03T09:08:10Z",
+            "beatmapset": {
+              "id": 1226466,
+              "title": "Elif to Shiro Kura no Yoru -Called-",
+              "cover": "https://assets.ppy.sh/beatmaps/1226466/covers/card.jpg?1622194529",
+              "stars": 2.36917
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7401020208,
+            "rank": "S",
+            "accuracy": 0.9975845410628019,
+            "pp": 52.7909,
+            "mods": [
+              "DT"
+            ],
+            "combo": 414,
+            "created_at": "2026-09-03T09:04:27Z",
+            "beatmapset": {
+              "id": 2048850,
+              "title": "Sigma Anthem (feat. Christian Bale) (Sped Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2048850/covers/card.jpg?1696114432",
+              "stars": 1.9436
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7401013042,
+            "rank": "S",
+            "accuracy": 0.9927536231884058,
+            "pp": 49.8903,
+            "mods": [
+              "DT"
+            ],
+            "combo": 414,
+            "created_at": "2026-09-03T09:02:08Z",
+            "beatmapset": {
+              "id": 2048850,
+              "title": "Sigma Anthem (feat. Christian Bale) (Sped Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2048850/covers/card.jpg?1696114432",
+              "stars": 1.9436
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7401008707,
+            "rank": "S",
+            "accuracy": 0.9863123993558777,
+            "pp": 48.5451,
+            "mods": [
+              "DT"
+            ],
+            "combo": 353,
+            "created_at": "2026-09-03T09:00:45Z",
+            "beatmapset": {
+              "id": 2048850,
+              "title": "Sigma Anthem (feat. Christian Bale) (Sped Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2048850/covers/card.jpg?1696114432",
+              "stars": 1.9436
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7401004318,
+            "rank": "S",
+            "accuracy": 0.9770531400966184,
+            "pp": 45.5815,
+            "mods": [
+              "DT"
+            ],
+            "combo": 310,
+            "created_at": "2026-09-03T08:59:20Z",
+            "beatmapset": {
+              "id": 2048850,
+              "title": "Sigma Anthem (feat. Christian Bale) (Sped Up Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2048850/covers/card.jpg?1696114432",
+              "stars": 1.9436
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7400925222,
+            "rank": "S",
+            "accuracy": 0.9839378238341969,
+            "pp": 41.8699,
+            "mods": [],
+            "combo": 375,
+            "created_at": "2026-09-03T08:33:04Z",
+            "beatmapset": {
+              "id": 1698761,
+              "title": "Mesheer",
+              "cover": "https://assets.ppy.sh/beatmaps/1698761/covers/card.jpg?1649230543",
+              "stars": 2.41455
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7400917243,
+            "rank": "S",
+            "accuracy": 0.9665587918015103,
+            "pp": 35.8421,
+            "mods": [],
+            "combo": 225,
+            "created_at": "2026-09-03T08:30:24Z",
+            "beatmapset": {
+              "id": 780992,
+              "title": "K.O.K.O.R.O",
+              "cover": "https://assets.ppy.sh/beatmaps/780992/covers/card.jpg?1650665199",
+              "stars": 2.40477
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7400913030,
+            "rank": "S",
+            "accuracy": 0.9544228694714132,
+            "pp": 33.7635,
+            "mods": [],
+            "combo": 251,
+            "created_at": "2026-09-03T08:28:59Z",
+            "beatmapset": {
+              "id": 780992,
+              "title": "K.O.K.O.R.O",
+              "cover": "https://assets.ppy.sh/beatmaps/780992/covers/card.jpg?1650665199",
+              "stars": 2.40477
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7400903760,
+            "rank": "S",
+            "accuracy": 0.9639208173690932,
+            "pp": 39.4161,
+            "mods": [],
+            "combo": 371,
+            "created_at": "2026-09-03T08:25:53Z",
+            "beatmapset": {
+              "id": 1955444,
+              "title": "Orthoplexed",
+              "cover": "https://assets.ppy.sh/beatmaps/1955444/covers/card.jpg?1708012077",
+              "stars": 2.49732
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7400882890,
+            "rank": "S",
+            "accuracy": 0.9608047173083594,
+            "pp": 37.9027,
+            "mods": [],
+            "combo": 261,
+            "created_at": "2026-09-03T08:18:47Z",
+            "beatmapset": {
+              "id": 1997707,
+              "title": "QZKago Requiem",
+              "cover": "https://assets.ppy.sh/beatmaps/1997707/covers/card.jpg?1702146935",
+              "stars": 2.49073
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7400875338,
+            "rank": "S",
+            "accuracy": 0.9683995922528033,
+            "pp": 38.625,
+            "mods": [],
+            "combo": 508,
+            "created_at": "2026-09-03T08:16:16Z",
+            "beatmapset": {
+              "id": 1701849,
+              "title": "Lagtrain (HowToPlayLN's 5/4 Swing Rearrangement) (Short Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/1701849/covers/card.jpg?1651142015",
+              "stars": 2.48712
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7400869132,
+            "rank": "A",
+            "accuracy": 0.9415437003405221,
+            "pp": 31.9223,
+            "mods": [],
+            "combo": 203,
+            "created_at": "2026-09-03T08:14:10Z",
+            "beatmapset": {
+              "id": 1864043,
+              "title": "Hikari Sasu Mio no Yuzuriha",
+              "cover": "https://assets.ppy.sh/beatmaps/1864043/covers/card.jpg?1671899262",
+              "stars": 2.47736
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7400862481,
+            "rank": "S",
+            "accuracy": 0.9578636607622115,
+            "pp": 37.1427,
+            "mods": [],
+            "combo": 384,
+            "created_at": "2026-09-03T08:11:59Z",
+            "beatmapset": {
+              "id": 1737101,
+              "title": "FORTALiCE",
+              "cover": "https://assets.ppy.sh/beatmaps/1737101/covers/card.jpg?1650732674",
+              "stars": 2.47406
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7400853978,
+            "rank": "S",
+            "accuracy": 0.9554238032498902,
+            "pp": 36.5288,
+            "mods": [],
+            "combo": 320,
+            "created_at": "2026-09-03T08:09:12Z",
+            "beatmapset": {
+              "id": 2294403,
+              "title": "Hikari (Game Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2294403/covers/card.jpg?1735601787",
+              "stars": 2.47581
+            }
+          },
+          {
+            "user": "Biscuits0",
+            "user_id": 23843313,
+            "country": "IQ",
+            "mode": "mania",
+            "score_id": 7400837205,
+            "rank": "S",
+            "accuracy": 0.9765258215962441,
+            "pp": 41.227,
+            "mods": [],
+            "combo": 386,
+            "created_at": "2026-09-03T08:03:32Z",
+            "beatmapset": {
+              "id": 2180255,
+              "title": "Mesmerizer",
+              "cover": "https://assets.ppy.sh/beatmaps/2180255/covers/card.jpg?1749447419",
+              "stars": 2.42311
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Fly Again!! (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/2541133/covers/card.jpg?1787645311",
+        "unique_players": 19
       }
     }
   }
