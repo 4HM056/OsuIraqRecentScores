@@ -7,9 +7,9 @@
     "fruits",
     "mania"
   ],
-  "generated_at": "2026-09-05T08:19:22.475Z",
+  "generated_at": "2026-09-05T08:37:33.343Z",
   "complete": false,
-  "players_checked": 1000,
+  "players_checked": 2000,
   "players_total": 2555,
   "scores": [
     {
@@ -2218,6 +2218,25 @@
       }
     },
     {
+      "user": "parq555666777",
+      "user_id": 39742196,
+      "country": "IQ",
+      "mode": "fruits",
+      "score_id": 7412909127,
+      "rank": "A",
+      "accuracy": 0.9715346534653465,
+      "pp": null,
+      "mods": [],
+      "combo": 103,
+      "created_at": "2026-09-05T02:16:48Z",
+      "beatmapset": {
+        "id": 1232509,
+        "title": "KISS OF DEATH (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/1232509/covers/card.jpg?1772445108",
+        "stars": 1.66221
+      }
+    },
+    {
       "user": "mohope00",
       "user_id": 38336028,
       "country": "IQ",
@@ -2302,6 +2321,44 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7412896174,
+      "rank": "D",
+      "accuracy": 0.6130952380952381,
+      "pp": null,
+      "mods": [],
+      "combo": 63,
+      "created_at": "2026-09-05T02:13:37Z",
+      "beatmapset": {
+        "id": 647973,
+        "title": "Sorry",
+        "cover": "https://assets.ppy.sh/beatmaps/647973/covers/card.jpg?1511016059",
+        "stars": 2.22169
+      }
+    },
+    {
+      "user": "parq555666777",
+      "user_id": 39742196,
+      "country": "IQ",
+      "mode": "fruits",
+      "score_id": 7412895274,
+      "rank": "A",
+      "accuracy": 0.9450915141430949,
+      "pp": null,
+      "mods": [],
+      "combo": 69,
+      "created_at": "2026-09-05T02:13:24Z",
+      "beatmapset": {
+        "id": 2028982,
+        "title": "Vita Philosophica (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/2028982/covers/card.jpg?1696883453",
+        "stars": 1.93017
+      }
+    },
+    {
       "user": "mohope00",
       "user_id": 38336028,
       "country": "IQ",
@@ -2378,6 +2435,25 @@
       }
     },
     {
+      "user": "parq555666777",
+      "user_id": 39742196,
+      "country": "IQ",
+      "mode": "fruits",
+      "score_id": 7412880172,
+      "rank": "A",
+      "accuracy": 0.9557867360208062,
+      "pp": 9.14235,
+      "mods": [],
+      "combo": 91,
+      "created_at": "2026-09-05T02:09:39Z",
+      "beatmapset": {
+        "id": 2180590,
+        "title": "Mugen (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/2180590/covers/card.jpg?1715691813",
+        "stars": 1.86386
+      }
+    },
+    {
       "user": "Kaiju13",
       "user_id": 26916963,
       "country": "IQ",
@@ -2397,6 +2473,25 @@
         "title": "way up (nightcore & cut ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2543600/covers/card.jpg?1786809187",
         "stars": 5.57804
+      }
+    },
+    {
+      "user": "parq555666777",
+      "user_id": 39742196,
+      "country": "IQ",
+      "mode": "fruits",
+      "score_id": 7412870890,
+      "rank": "B",
+      "accuracy": 0.9258064516129032,
+      "pp": null,
+      "mods": [],
+      "combo": 51,
+      "created_at": "2026-09-05T02:07:20Z",
+      "beatmapset": {
+        "id": 1739060,
+        "title": "Honey Jet Coaster (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/1739060/covers/card.jpg?1652632265",
+        "stars": 1.92948
       }
     },
     {
@@ -2548,6 +2643,25 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7412841772,
+      "rank": "D",
+      "accuracy": 0.6523517382413088,
+      "pp": 3.57114,
+      "mods": [],
+      "combo": 53,
+      "created_at": "2026-09-05T02:00:02Z",
+      "beatmapset": {
+        "id": 672960,
+        "title": "Zankoku na Tenshi no These <TV.Size Version>",
+        "cover": "https://assets.ppy.sh/beatmaps/672960/covers/card.jpg?1650654389",
+        "stars": 2.62891
+      }
+    },
+    {
       "user": "im_j_chiling",
       "user_id": 29220958,
       "country": "IQ",
@@ -2629,6 +2743,25 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7412826177,
+      "rank": "D",
+      "accuracy": 0.6612021857923497,
+      "pp": 3.52506,
+      "mods": [],
+      "combo": 58,
+      "created_at": "2026-09-05T01:56:09Z",
+      "beatmapset": {
+        "id": 672960,
+        "title": "Zankoku na Tenshi no These <TV.Size Version>",
+        "cover": "https://assets.ppy.sh/beatmaps/672960/covers/card.jpg?1650654389",
+        "stars": 2.2688
+      }
+    },
+    {
       "user": "Kaiju13",
       "user_id": 26916963,
       "country": "IQ",
@@ -2648,6 +2781,25 @@
         "title": "made for you (nightcore & cut ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2530233/covers/card.jpg?1777760143",
         "stars": 5.39746
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7412818784,
+      "rank": "D",
+      "accuracy": 0.5752688172043011,
+      "pp": null,
+      "mods": [],
+      "combo": 77,
+      "created_at": "2026-09-05T01:54:22Z",
+      "beatmapset": {
+        "id": 1092719,
+        "title": "Fly Me to the Moon (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/1092719/covers/card.jpg?1772114287",
+        "stars": 1.884
       }
     },
     {
@@ -2746,6 +2898,25 @@
         "title": "Night of Knights",
         "cover": "https://assets.ppy.sh/beatmaps/5445/covers/card.jpg?1650601665",
         "stars": 2.58188
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7412792761,
+      "rank": "D",
+      "accuracy": 0.6941747572815534,
+      "pp": 0.105308,
+      "mods": [],
+      "combo": 31,
+      "created_at": "2026-09-05T01:47:58Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 0.853023
       }
     },
     {
@@ -3811,6 +3982,25 @@
       }
     },
     {
+      "user": "hikarujump",
+      "user_id": 35343757,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7412460680,
+      "rank": "D",
+      "accuracy": 0.4351851851851852,
+      "pp": null,
+      "mods": [],
+      "combo": 11,
+      "created_at": "2026-09-05T00:26:06Z",
+      "beatmapset": {
+        "id": 2589875,
+        "title": "Tool",
+        "cover": "https://assets.ppy.sh/beatmaps/2589875/covers/card.jpg?1787085021",
+        "stars": 0.968883
+      }
+    },
+    {
       "user": "pq7wh",
       "user_id": 39498643,
       "country": "IQ",
@@ -3867,6 +4057,25 @@
         "title": "The Devourer of Gods (Nonstop Mix)",
         "cover": "https://assets.ppy.sh/beatmaps/1205309/covers/card.jpg?1622192654",
         "stars": 7.15668
+      }
+    },
+    {
+      "user": "hikarujump",
+      "user_id": 35343757,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7412450995,
+      "rank": "A",
+      "accuracy": 0.9298245614035088,
+      "pp": null,
+      "mods": [],
+      "combo": 43,
+      "created_at": "2026-09-05T00:23:43Z",
+      "beatmapset": {
+        "id": 2589875,
+        "title": "Tool",
+        "cover": "https://assets.ppy.sh/beatmaps/2589875/covers/card.jpg?1787085021",
+        "stars": 0.685234
       }
     },
     {
@@ -4003,6 +4212,25 @@
       }
     },
     {
+      "user": "hikarujump",
+      "user_id": 35343757,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7412409506,
+      "rank": "D",
+      "accuracy": 0.40625,
+      "pp": 0.281051,
+      "mods": [],
+      "combo": 18,
+      "created_at": "2026-09-05T00:13:31Z",
+      "beatmapset": {
+        "id": 2358414,
+        "title": "ReDIVE NEURON",
+        "cover": "https://assets.ppy.sh/beatmaps/2358414/covers/card.jpg?1746460776",
+        "stars": 1.24359
+      }
+    },
+    {
       "user": "nxro1",
       "user_id": 35237547,
       "country": "IQ",
@@ -4095,6 +4323,25 @@
         "title": "Thick of HiT (S8-10 Opening Mashup)",
         "cover": "https://assets.ppy.sh/beatmaps/2506744/covers/card.jpg?1777821017",
         "stars": 5.0321
+      }
+    },
+    {
+      "user": "hikarujump",
+      "user_id": 35343757,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7412393316,
+      "rank": "D",
+      "accuracy": 0.3923611111111111,
+      "pp": 0.261798,
+      "mods": [],
+      "combo": 18,
+      "created_at": "2026-09-05T00:09:37Z",
+      "beatmapset": {
+        "id": 2358414,
+        "title": "ReDIVE NEURON",
+        "cover": "https://assets.ppy.sh/beatmaps/2358414/covers/card.jpg?1746460776",
+        "stars": 1.24359
       }
     },
     {
@@ -4880,6 +5127,25 @@
         "title": "Cherry Pop (Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2464474/covers/card.jpg?1763827557",
         "stars": 6.08032
+      }
+    },
+    {
+      "user": "SADOBI",
+      "user_id": 38519063,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7411929558,
+      "rank": "D",
+      "accuracy": 0.6142322097378277,
+      "pp": 1.48545,
+      "mods": [],
+      "combo": 48,
+      "created_at": "2026-09-04T22:26:39Z",
+      "beatmapset": {
+        "id": 1585145,
+        "title": "Termination of Desires",
+        "cover": "https://assets.ppy.sh/beatmaps/1585145/covers/card.jpg?1643713246",
+        "stars": 1.63988
       }
     },
     {
@@ -6138,6 +6404,25 @@
       }
     },
     {
+      "user": "aosuguy",
+      "user_id": 40423365,
+      "country": "IQ",
+      "mode": "fruits",
+      "score_id": 7411262640,
+      "rank": "B",
+      "accuracy": 0.9131985731272295,
+      "pp": 1.88264,
+      "mods": [],
+      "combo": 63,
+      "created_at": "2026-09-04T20:25:23Z",
+      "beatmapset": {
+        "id": 630264,
+        "title": "Deadlocked",
+        "cover": "https://assets.ppy.sh/beatmaps/630264/covers/card.jpg?1650651153",
+        "stars": 0.835546
+      }
+    },
+    {
       "user": "Biscuits0",
       "user_id": 23843313,
       "country": "IQ",
@@ -6239,6 +6524,25 @@
       }
     },
     {
+      "user": "aosuguy",
+      "user_id": 40423365,
+      "country": "IQ",
+      "mode": "fruits",
+      "score_id": 7411241472,
+      "rank": "C",
+      "accuracy": 0.8634361233480177,
+      "pp": 1.11835,
+      "mods": [],
+      "combo": 37,
+      "created_at": "2026-09-04T20:21:52Z",
+      "beatmapset": {
+        "id": 2399278,
+        "title": "Jumper",
+        "cover": "https://assets.ppy.sh/beatmaps/2399278/covers/card.jpg?1755992389",
+        "stars": 1.53435
+      }
+    },
+    {
       "user": "Biscuits0",
       "user_id": 23843313,
       "country": "IQ",
@@ -6327,6 +6631,44 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7411216513,
+      "rank": "C",
+      "accuracy": 0.85,
+      "pp": 1.00637,
+      "mods": [],
+      "combo": 98,
+      "created_at": "2026-09-04T20:17:43Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7411205872,
+      "rank": "B",
+      "accuracy": 0.8388888888888889,
+      "pp": 1.15767,
+      "mods": [],
+      "combo": 116,
+      "created_at": "2026-09-04T20:15:58Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
+      }
+    },
+    {
       "user": "Biscuits0",
       "user_id": 23843313,
       "country": "IQ",
@@ -6349,6 +6691,25 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7411193460,
+      "rank": "A",
+      "accuracy": 0.8972222222222223,
+      "pp": 1.48922,
+      "mods": [],
+      "combo": 117,
+      "created_at": "2026-09-04T20:13:55Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
+      }
+    },
+    {
       "user": "Biscuits0",
       "user_id": 23843313,
       "country": "IQ",
@@ -6367,6 +6728,25 @@
         "title": "vampire",
         "cover": "https://assets.ppy.sh/beatmaps/2056689/covers/card.jpg?1711152045",
         "stars": 7.92385
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7411185309,
+      "rank": "B",
+      "accuracy": 0.8388888888888889,
+      "pp": 1.20026,
+      "mods": [],
+      "combo": 117,
+      "created_at": "2026-09-04T20:12:35Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
       }
     },
     {
@@ -6431,6 +6811,25 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7411171857,
+      "rank": "C",
+      "accuracy": 0.8222222222222222,
+      "pp": 0.911178,
+      "mods": [],
+      "combo": 81,
+      "created_at": "2026-09-04T20:10:23Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
+      }
+    },
+    {
       "user": "Biscuits0",
       "user_id": 23843313,
       "country": "IQ",
@@ -6452,6 +6851,25 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7411163655,
+      "rank": "B",
+      "accuracy": 0.8611111111111112,
+      "pp": 1.22448,
+      "mods": [],
+      "combo": 116,
+      "created_at": "2026-09-04T20:09:02Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
+      }
+    },
+    {
       "user": "Biscuits0",
       "user_id": 23843313,
       "country": "IQ",
@@ -6470,6 +6888,25 @@
         "title": "Christmas Slop",
         "cover": "https://assets.ppy.sh/beatmaps/2472271/covers/card.jpg?1765043571",
         "stars": 7.12706
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7411153583,
+      "rank": "C",
+      "accuracy": 0.7666666666666667,
+      "pp": 1.02872,
+      "mods": [],
+      "combo": 116,
+      "created_at": "2026-09-04T20:07:24Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
       }
     },
     {
@@ -6638,6 +7075,25 @@
         "title": "Jump Pack 4",
         "cover": "https://assets.ppy.sh/beatmaps/2469041/covers/card.jpg?1766912447",
         "stars": 7.49732
+      }
+    },
+    {
+      "user": "animeomer",
+      "user_id": 27964559,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7411053233,
+      "rank": "C",
+      "accuracy": 0.84375,
+      "pp": 2.08763,
+      "mods": [],
+      "combo": 47,
+      "created_at": "2026-09-04T19:51:03Z",
+      "beatmapset": {
+        "id": 1147361,
+        "title": "DADDY ! DADDY ! DO ! feat. Suzuki Airi (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/1147361/covers/card.jpg?1645786245",
+        "stars": 0.741334
       }
     },
     {
@@ -6852,6 +7308,25 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410937704,
+      "rank": "D",
+      "accuracy": 0.6271186440677966,
+      "pp": 2.40922,
+      "mods": [],
+      "combo": 76,
+      "created_at": "2026-09-04T19:32:23Z",
+      "beatmapset": {
+        "id": 328095,
+        "title": "Asayake no Starmine (Anime Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/328095/covers/card.jpg?1650630752",
+        "stars": 1.77089
+      }
+    },
+    {
       "user": "Biscuits0",
       "user_id": 23843313,
       "country": "IQ",
@@ -6896,6 +7371,25 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410920340,
+      "rank": "C",
+      "accuracy": 0.8449275362318841,
+      "pp": 2.18789,
+      "mods": [],
+      "combo": 127,
+      "created_at": "2026-09-04T19:29:38Z",
+      "beatmapset": {
+        "id": 328095,
+        "title": "Asayake no Starmine (Anime Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/328095/covers/card.jpg?1650630752",
+        "stars": 1.49275
+      }
+    },
+    {
       "user": "Biscuits0",
       "user_id": 23843313,
       "country": "IQ",
@@ -6915,6 +7409,44 @@
         "title": "AaAaAaAAaAaAAa",
         "cover": "https://assets.ppy.sh/beatmaps/1017271/covers/card.jpg?1650683889",
         "stars": 6.18022
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410904368,
+      "rank": "B",
+      "accuracy": 0.8511904761904762,
+      "pp": 2.34744,
+      "mods": [],
+      "combo": 202,
+      "created_at": "2026-09-04T19:27:04Z",
+      "beatmapset": {
+        "id": 328095,
+        "title": "Asayake no Starmine (Anime Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/328095/covers/card.jpg?1650630752",
+        "stars": 1.40647
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410892598,
+      "rank": "D",
+      "accuracy": 0.5636645962732919,
+      "pp": 2.13567,
+      "mods": [],
+      "combo": 67,
+      "created_at": "2026-09-04T19:25:10Z",
+      "beatmapset": {
+        "id": 2134935,
+        "title": "It's Going Down Now",
+        "cover": "https://assets.ppy.sh/beatmaps/2134935/covers/card.jpg?1726356148",
+        "stars": 2.57288
       }
     },
     {
@@ -6957,6 +7489,25 @@
         "title": "Dadadada Tenshi",
         "cover": "https://assets.ppy.sh/beatmaps/1079554/covers/card.jpg?1622175779",
         "stars": 6.16835
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410873665,
+      "rank": "D",
+      "accuracy": 0.5460662525879917,
+      "pp": 2.30011,
+      "mods": [],
+      "combo": 55,
+      "created_at": "2026-09-04T19:22:08Z",
+      "beatmapset": {
+        "id": 2134935,
+        "title": "It's Going Down Now",
+        "cover": "https://assets.ppy.sh/beatmaps/2134935/covers/card.jpg?1726356148",
+        "stars": 2.57288
       }
     },
     {
@@ -7017,6 +7568,47 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410784601,
+      "rank": "D",
+      "accuracy": 0.7111111111111111,
+      "pp": 3.159,
+      "mods": [
+        "HR",
+        "DT"
+      ],
+      "combo": 116,
+      "created_at": "2026-09-04T19:08:03Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410767821,
+      "rank": "B",
+      "accuracy": 0.8972222222222223,
+      "pp": 1.19436,
+      "mods": [],
+      "combo": 97,
+      "created_at": "2026-09-04T19:05:24Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
+      }
+    },
+    {
       "user": "ttheonlysam",
       "user_id": 31252807,
       "country": "IQ",
@@ -7033,6 +7625,44 @@
         "title": "misery",
         "cover": "https://assets.ppy.sh/beatmaps/2575859/covers/card.jpg?1784892643",
         "stars": 3.35016
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410756714,
+      "rank": "B",
+      "accuracy": 0.8083333333333333,
+      "pp": 1.12986,
+      "mods": [],
+      "combo": 117,
+      "created_at": "2026-09-04T19:03:39Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410748457,
+      "rank": "C",
+      "accuracy": 0.7944444444444444,
+      "pp": 0.735708,
+      "mods": [],
+      "combo": 63,
+      "created_at": "2026-09-04T19:02:20Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
       }
     },
     {
@@ -7055,6 +7685,25 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410738929,
+      "rank": "C",
+      "accuracy": 0.7888888888888889,
+      "pp": 0.860738,
+      "mods": [],
+      "combo": 84,
+      "created_at": "2026-09-04T19:00:51Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
+      }
+    },
+    {
       "user": "ttheonlysam",
       "user_id": 31252807,
       "country": "IQ",
@@ -7071,6 +7720,27 @@
         "title": "MAYDAY (Nightcore Mix)",
         "cover": "https://assets.ppy.sh/beatmaps/754219/covers/card.jpg?1650661061",
         "stars": 4.10382
+      }
+    },
+    {
+      "user": "L-A-Z",
+      "user_id": 40151139,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410712617,
+      "rank": "C",
+      "accuracy": 0.6802259887005649,
+      "pp": 0.83984,
+      "mods": [
+        "EZ"
+      ],
+      "combo": 58,
+      "created_at": "2026-09-04T18:56:40Z",
+      "beatmapset": {
+        "id": 140662,
+        "title": "Tear Rain",
+        "cover": "https://assets.ppy.sh/beatmaps/140662/covers/card.jpg?1622070421",
+        "stars": 1.87759
       }
     },
     {
@@ -7111,6 +7781,46 @@
         "title": "Absolute Secret (ED Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/1187485/covers/card.jpg?1650699280",
         "stars": 3.4235
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410683285,
+      "rank": "C",
+      "accuracy": 0.8222222222222222,
+      "pp": 0.733104,
+      "mods": [],
+      "combo": 57,
+      "created_at": "2026-09-04T18:52:02Z",
+      "beatmapset": {
+        "id": 328095,
+        "title": "Asayake no Starmine (Anime Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/328095/covers/card.jpg?1650630752",
+        "stars": 1.23155
+      }
+    },
+    {
+      "user": "L-A-Z",
+      "user_id": 40151139,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410676250,
+      "rank": "D",
+      "accuracy": 0.46799116997792495,
+      "pp": 0.47466,
+      "mods": [
+        "EZ"
+      ],
+      "combo": 32,
+      "created_at": "2026-09-04T18:50:55Z",
+      "beatmapset": {
+        "id": 1323877,
+        "title": "Blaze",
+        "cover": "https://assets.ppy.sh/beatmaps/1323877/covers/card.jpg?1631515934",
+        "stars": 1.8757
       }
     },
     {
@@ -7157,6 +7867,25 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410650908,
+      "rank": "C",
+      "accuracy": 0.7019607843137254,
+      "pp": 1.63775,
+      "mods": [],
+      "combo": 55,
+      "created_at": "2026-09-04T18:46:56Z",
+      "beatmapset": {
+        "id": 131044,
+        "title": "Rain",
+        "cover": "https://assets.ppy.sh/beatmaps/131044/covers/card.jpg?1622069463",
+        "stars": 1.96107
+      }
+    },
+    {
       "user": "veqr8",
       "user_id": 40124087,
       "country": "IQ",
@@ -7197,6 +7926,25 @@
       }
     },
     {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410616321,
+      "rank": "D",
+      "accuracy": 0.5990338164251208,
+      "pp": 1.95386,
+      "mods": [],
+      "combo": 54,
+      "created_at": "2026-09-04T18:41:28Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.77504
+      }
+    },
+    {
       "user": "animeomer",
       "user_id": 27964559,
       "country": "IQ",
@@ -7215,6 +7963,63 @@
         "title": "Daten (TV Size)",
         "cover": "https://assets.ppy.sh/beatmaps/1810487/covers/card.jpg?1663040494",
         "stars": 2.42853
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410606245,
+      "rank": "B",
+      "accuracy": 0.8055555555555556,
+      "pp": 1.13823,
+      "mods": [],
+      "combo": 117,
+      "created_at": "2026-09-04T18:39:53Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410597785,
+      "rank": "C",
+      "accuracy": 0.7083333333333334,
+      "pp": 0.587346,
+      "mods": [],
+      "combo": 31,
+      "created_at": "2026-09-04T18:38:34Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
+      }
+    },
+    {
+      "user": "guts445",
+      "user_id": 32731790,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7410587864,
+      "rank": "D",
+      "accuracy": 0.5388888888888889,
+      "pp": 0.549737,
+      "mods": [],
+      "combo": 61,
+      "created_at": "2026-09-04T18:37:00Z",
+      "beatmapset": {
+        "id": 101575,
+        "title": "Yuuzora no Kamihikouki (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/101575/covers/card.jpg?1622065635",
+        "stars": 1.13535
       }
     },
     {
@@ -8247,6 +9052,25 @@
       }
     },
     {
+      "user": "auraSolyn",
+      "user_id": 40343442,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7409531577,
+      "rank": "C",
+      "accuracy": 0.7776073619631901,
+      "pp": 1.82843,
+      "mods": [],
+      "combo": 80,
+      "created_at": "2026-09-04T15:54:59Z",
+      "beatmapset": {
+        "id": 33842,
+        "title": "Rockefeller Street (Nightcore Mix)",
+        "cover": "https://assets.ppy.sh/beatmaps/33842/covers/card.jpg?1622048627",
+        "stars": 1.47277
+      }
+    },
+    {
       "user": "cainssu",
       "user_id": 39970177,
       "country": "IQ",
@@ -8263,6 +9087,44 @@
         "title": "AIZO (TV Size)",
         "cover": "https://assets.ppy.sh/beatmaps/2490388/covers/card.jpg?1767983660",
         "stars": 4.71818
+      }
+    },
+    {
+      "user": "auraSolyn",
+      "user_id": 40343442,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7409514429,
+      "rank": "C",
+      "accuracy": 0.8420245398773006,
+      "pp": 6.66507,
+      "mods": [],
+      "combo": 106,
+      "created_at": "2026-09-04T15:52:23Z",
+      "beatmapset": {
+        "id": 33842,
+        "title": "Rockefeller Street (Nightcore Mix)",
+        "cover": "https://assets.ppy.sh/beatmaps/33842/covers/card.jpg?1622048627",
+        "stars": 1.47277
+      }
+    },
+    {
+      "user": "auraSolyn",
+      "user_id": 40343442,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7409497847,
+      "rank": "C",
+      "accuracy": 0.7822085889570553,
+      "pp": 2.57793,
+      "mods": [],
+      "combo": 160,
+      "created_at": "2026-09-04T15:49:53Z",
+      "beatmapset": {
+        "id": 33842,
+        "title": "Rockefeller Street (Nightcore Mix)",
+        "cover": "https://assets.ppy.sh/beatmaps/33842/covers/card.jpg?1622048627",
+        "stars": 1.47277
       }
     },
     {
@@ -9951,6 +10813,44 @@
       }
     },
     {
+      "user": "m_y6y",
+      "user_id": 39927137,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7408719405,
+      "rank": "B",
+      "accuracy": 0.8880597014925373,
+      "pp": 11.7146,
+      "mods": [],
+      "combo": 37,
+      "created_at": "2026-09-04T13:51:15Z",
+      "beatmapset": {
+        "id": 2530646,
+        "title": "FLOP ERA",
+        "cover": "https://assets.ppy.sh/beatmaps/2530646/covers/card.jpg?1782447977",
+        "stars": 1.36455
+      }
+    },
+    {
+      "user": "m_y6y",
+      "user_id": 39927137,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7408697575,
+      "rank": "C",
+      "accuracy": 0.7701149425287356,
+      "pp": 4.57465,
+      "mods": [],
+      "combo": 74,
+      "created_at": "2026-09-04T13:47:49Z",
+      "beatmapset": {
+        "id": 120071,
+        "title": "Cirno's Perfect Math Class",
+        "cover": "https://assets.ppy.sh/beatmaps/120071/covers/card.jpg?1650619650",
+        "stars": 1.80685
+      }
+    },
+    {
       "user": "9loosh",
       "user_id": 40412505,
       "country": "IQ",
@@ -10072,6 +10972,25 @@
       }
     },
     {
+      "user": "m_y6y",
+      "user_id": 39927137,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7408673909,
+      "rank": "C",
+      "accuracy": 0.8170289855072463,
+      "pp": 6.24001,
+      "mods": [],
+      "combo": 61,
+      "created_at": "2026-09-04T13:43:59Z",
+      "beatmapset": {
+        "id": 2209334,
+        "title": "Help me, ERINNNNNN!! (Game Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/2209334/covers/card.jpg?1751639309",
+        "stars": 1.62965
+      }
+    },
+    {
       "user": "FaZe Kawan",
       "user_id": 12813974,
       "country": "IQ",
@@ -10154,6 +11073,27 @@
       }
     },
     {
+      "user": "_fa1led",
+      "user_id": 40428101,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7408660231,
+      "rank": "C",
+      "accuracy": 0.7598039215686274,
+      "pp": null,
+      "mods": [
+        "TD"
+      ],
+      "combo": 45,
+      "created_at": "2026-09-04T13:41:46Z",
+      "beatmapset": {
+        "id": 1011011,
+        "title": "new beginnings",
+        "cover": "https://assets.ppy.sh/beatmaps/1011011/covers/card.jpg?1645787013",
+        "stars": 1.16737
+      }
+    },
+    {
       "user": "FaZe Kawan",
       "user_id": 12813974,
       "country": "IQ",
@@ -10193,6 +11133,25 @@
         "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
         "cover": "https://assets.ppy.sh/beatmaps/2295884/covers/card.jpg?1751383816",
         "stars": 4.25257
+      }
+    },
+    {
+      "user": "m_y6y",
+      "user_id": 39927137,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7408656474,
+      "rank": "C",
+      "accuracy": 0.8128654970760234,
+      "pp": 4.28824,
+      "mods": [],
+      "combo": 25,
+      "created_at": "2026-09-04T13:41:09Z",
+      "beatmapset": {
+        "id": 2544035,
+        "title": "HoYoHoYo ni Shite Ageru",
+        "cover": "https://assets.ppy.sh/beatmaps/2544035/covers/card.jpg?1785938505",
+        "stars": 1.33111
       }
     },
     {
@@ -10379,6 +11338,25 @@
       }
     },
     {
+      "user": "m_y6y",
+      "user_id": 39927137,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7408623997,
+      "rank": "A",
+      "accuracy": 0.9377880184331797,
+      "pp": 21.8294,
+      "mods": [],
+      "combo": 156,
+      "created_at": "2026-09-04T13:35:52Z",
+      "beatmapset": {
+        "id": 2437286,
+        "title": "PPPP feat. Hatsune Miku, Kasane Teto",
+        "cover": "https://assets.ppy.sh/beatmaps/2437286/covers/card.jpg?1761501851",
+        "stars": 1.36623
+      }
+    },
+    {
       "user": "Ds_Jinx",
       "user_id": 37410533,
       "country": "IQ",
@@ -10419,6 +11397,25 @@
         "title": "PADORU / PADORU",
         "cover": "https://assets.ppy.sh/beatmaps/2279697/covers/card.jpg?1733354216",
         "stars": 4.90901
+      }
+    },
+    {
+      "user": "m_y6y",
+      "user_id": 39927137,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7408605724,
+      "rank": "C",
+      "accuracy": 0.8647798742138365,
+      "pp": 9.57402,
+      "mods": [],
+      "combo": 45,
+      "created_at": "2026-09-04T13:32:51Z",
+      "beatmapset": {
+        "id": 1646430,
+        "title": "Sound In Motion vs. AH (Fauxami Mashup) (Cut Ver.)",
+        "cover": "https://assets.ppy.sh/beatmaps/1646430/covers/card.jpg?1645200545",
+        "stars": 1.37331
       }
     },
     {
@@ -11067,6 +12064,27 @@
       }
     },
     {
+      "user": "_fa1led",
+      "user_id": 40428101,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7408436045,
+      "rank": "D",
+      "accuracy": 0.5804988662131519,
+      "pp": 0.551432,
+      "mods": [
+        "TD"
+      ],
+      "combo": 22,
+      "created_at": "2026-09-04T13:03:55Z",
+      "beatmapset": {
+        "id": 2412244,
+        "title": "Rift Walker",
+        "cover": "https://assets.ppy.sh/beatmaps/2412244/covers/card.jpg?1759157730",
+        "stars": 1.93081
+      }
+    },
+    {
       "user": "kilkimash",
       "user_id": 40329070,
       "country": "IQ",
@@ -11709,6 +12727,25 @@
         "title": "TEST ME (TV SIZE)",
         "cover": "https://assets.ppy.sh/beatmaps/2496666/covers/card.jpg?1786307505",
         "stars": 3.69474
+      }
+    },
+    {
+      "user": "Zheeb",
+      "user_id": 40144086,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 7408195189,
+      "rank": "D",
+      "accuracy": 0.6344086021505376,
+      "pp": 2.78383,
+      "mods": [],
+      "combo": 17,
+      "created_at": "2026-09-04T12:19:36Z",
+      "beatmapset": {
+        "id": 957,
+        "title": "DOTA  (Sped Up)",
+        "cover": "https://assets.ppy.sh/beatmaps/957/covers/card.jpg?1622018990",
+        "stars": 2.49279
       }
     },
     {
@@ -12728,24 +13765,41 @@
       }
     },
     {
-      "user": "mrskillissue",
-      "user_id": 38127769,
+      "user": "NutellaChipss1",
+      "user_id": 38359235,
       "country": "IQ",
-      "mode": "osu",
-      "score_id": 0,
+      "mode": "taiko",
+      "score_id": 7407746427,
       "rank": "B",
-      "accuracy": 0.9047619047619048,
-      "pp": null,
-      "mods": [
-        "NF"
-      ],
-      "combo": 77,
-      "created_at": "2026-09-04T10:39:39Z",
+      "accuracy": 0.8714285714285714,
+      "pp": 3.77274,
+      "mods": [],
+      "combo": 70,
+      "created_at": "2026-09-04T10:40:29Z",
       "beatmapset": {
-        "id": 1487623,
-        "title": "A FOOL MOON NIGHT (SHORT VER.)",
-        "cover": "https://assets.ppy.sh/beatmaps/1487623/covers/card.jpg?1642726818",
-        "stars": 1.73771
+        "id": 2608417,
+        "title": "almost gone out",
+        "cover": "https://assets.ppy.sh/beatmaps/2608417/covers/card.jpg?1787742215",
+        "stars": 1.38462
+      }
+    },
+    {
+      "user": "NutellaChipss1",
+      "user_id": 38359235,
+      "country": "IQ",
+      "mode": "taiko",
+      "score_id": 7407741327,
+      "rank": "D",
+      "accuracy": 0.6857142857142857,
+      "pp": 0.791814,
+      "mods": [],
+      "combo": 24,
+      "created_at": "2026-09-04T10:39:12Z",
+      "beatmapset": {
+        "id": 2608417,
+        "title": "almost gone out",
+        "cover": "https://assets.ppy.sh/beatmaps/2608417/covers/card.jpg?1787742215",
+        "stars": 1.38462
       }
     },
     {
@@ -12765,6 +13819,25 @@
         "title": "No title",
         "cover": "https://assets.ppy.sh/beatmaps/320118/covers/card.jpg?1650632079",
         "stars": 1.96747
+      }
+    },
+    {
+      "user": "NutellaChipss1",
+      "user_id": 38359235,
+      "country": "IQ",
+      "mode": "fruits",
+      "score_id": 7407734884,
+      "rank": "S",
+      "accuracy": 0.9965870307167235,
+      "pp": 7.49728,
+      "mods": [],
+      "combo": 94,
+      "created_at": "2026-09-04T10:37:37Z",
+      "beatmapset": {
+        "id": 2495222,
+        "title": "Jubilife City (Day)",
+        "cover": "https://assets.ppy.sh/beatmaps/2495222/covers/card.jpg?1787309764",
+        "stars": 0.83691
       }
     },
     {
@@ -13931,6 +15004,25 @@
       }
     },
     {
+      "user": "iampepsii",
+      "user_id": 40369338,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 5072680348,
+      "rank": "D",
+      "accuracy": 0.6901565995525727,
+      "pp": 0.961855,
+      "mods": [],
+      "combo": 49,
+      "created_at": "2026-09-04T08:54:23Z",
+      "beatmapset": {
+        "id": 1388906,
+        "title": "My Love",
+        "cover": "https://assets.ppy.sh/beatmaps/1388906/covers/card.jpg?1650707731",
+        "stars": 2.01848
+      }
+    },
+    {
       "user": "Mostlime12195",
       "user_id": 23405272,
       "country": "IQ",
@@ -13987,6 +15079,25 @@
         "title": "IRIS OUT",
         "cover": "https://assets.ppy.sh/beatmaps/2441218/covers/card.jpg?1760228824",
         "stars": 3.59961
+      }
+    },
+    {
+      "user": "iampepsii",
+      "user_id": 40369338,
+      "country": "IQ",
+      "mode": "osu",
+      "score_id": 0,
+      "rank": "A",
+      "accuracy": 0.8774509803921569,
+      "pp": null,
+      "mods": [],
+      "combo": 34,
+      "created_at": "2026-09-04T08:47:12Z",
+      "beatmapset": {
+        "id": 1011011,
+        "title": "new beginnings",
+        "cover": "https://assets.ppy.sh/beatmaps/1011011/covers/card.jpg?1645787013",
+        "stars": 1.16737
       }
     },
     {
