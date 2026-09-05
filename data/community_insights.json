@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 187,
-    "longest": 187,
-    "last_updated": "2026-09-03"
+    "current": 188,
+    "longest": 188,
+    "last_updated": "2026-09-04"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -56414,6 +56414,307 @@
         "title": "Fly Again!! (TV Size)",
         "cover": "https://assets.ppy.sh/beatmaps/2541133/covers/card.jpg?1787645311",
         "unique_players": 19
+      }
+    },
+    "2026-09-04": {
+      "total_scores": 814,
+      "peak_hour_baghdad": 18,
+      "top_grinder": {
+        "user": "Hatagori",
+        "user_id": 39278215,
+        "count": 66,
+        "scores": [
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402878123,
+            "rank": "D",
+            "accuracy": 0.6904761904761905,
+            "pp": 61.5357,
+            "mods": [],
+            "combo": 124,
+            "created_at": "2026-09-03T15:33:32Z",
+            "beatmapset": {
+              "id": 2479183,
+              "title": "I Don't Know (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
+              "stars": 5.00917
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402871392,
+            "rank": "D",
+            "accuracy": 0.5620437956204379,
+            "pp": 34.7662,
+            "mods": [],
+            "combo": 48,
+            "created_at": "2026-09-03T15:32:25Z",
+            "beatmapset": {
+              "id": 2479183,
+              "title": "I Don't Know (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
+              "stars": 4.99519
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402865351,
+            "rank": "C",
+            "accuracy": 0.7766776677667767,
+            "pp": 41.5027,
+            "mods": [],
+            "combo": 152,
+            "created_at": "2026-09-03T15:31:26Z",
+            "beatmapset": {
+              "id": 2533966,
+              "title": "Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix] (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2533966/covers/card.jpg?1787131220",
+              "stars": 4.98242
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402842403,
+            "rank": "C",
+            "accuracy": 0.7674731182795699,
+            "pp": 53.489,
+            "mods": [],
+            "combo": 60,
+            "created_at": "2026-09-03T15:27:44Z",
+            "beatmapset": {
+              "id": 2479183,
+              "title": "I Don't Know (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2479183/covers/card.jpg?1768172625",
+              "stars": 4.97143
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402833288,
+            "rank": "C",
+            "accuracy": 0.7606060606060606,
+            "pp": 50.9337,
+            "mods": [],
+            "combo": 141,
+            "created_at": "2026-09-03T15:26:15Z",
+            "beatmapset": {
+              "id": 2390209,
+              "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2390209/covers/card.jpg?1760399535",
+              "stars": 4.97091
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402809658,
+            "rank": "C",
+            "accuracy": 0.7803921568627451,
+            "pp": 50.7237,
+            "mods": [],
+            "combo": 184,
+            "created_at": "2026-09-03T15:22:26Z",
+            "beatmapset": {
+              "id": 596704,
+              "title": "Hitorigoto -TV MIX-",
+              "cover": "https://assets.ppy.sh/beatmaps/596704/covers/card.jpg?1650648964",
+              "stars": 4.95234
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402775953,
+            "rank": "D",
+            "accuracy": 0.5458333333333333,
+            "pp": 37.6967,
+            "mods": [],
+            "combo": 55,
+            "created_at": "2026-09-03T15:16:57Z",
+            "beatmapset": {
+              "id": 2570946,
+              "title": "I'm a chud im a chud",
+              "cover": "https://assets.ppy.sh/beatmaps/2570946/covers/card.jpg?1786975546",
+              "stars": 4.92819
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402754559,
+            "rank": "D",
+            "accuracy": 0.6441570881226054,
+            "pp": 26.8961,
+            "mods": [],
+            "combo": 119,
+            "created_at": "2026-09-03T15:13:29Z",
+            "beatmapset": {
+              "id": 2436628,
+              "title": "No title -10 Years Later Edition- (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2436628/covers/card.jpg?1760618037",
+              "stars": 4.88639
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402730845,
+            "rank": "B",
+            "accuracy": 0.8682399213372665,
+            "pp": 70.0251,
+            "mods": [],
+            "combo": 218,
+            "created_at": "2026-09-03T15:09:36Z",
+            "beatmapset": {
+              "id": 983911,
+              "title": "Bass Slut (Original Mix)",
+              "cover": "https://assets.ppy.sh/beatmaps/983911/covers/card.jpg?1650683411",
+              "stars": 4.87049
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402719141,
+            "rank": "C",
+            "accuracy": 0.8343166175024582,
+            "pp": 47.1713,
+            "mods": [],
+            "combo": 140,
+            "created_at": "2026-09-03T15:07:41Z",
+            "beatmapset": {
+              "id": 983911,
+              "title": "Bass Slut (Original Mix)",
+              "cover": "https://assets.ppy.sh/beatmaps/983911/covers/card.jpg?1650683411",
+              "stars": 4.87049
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402706142,
+            "rank": "D",
+            "accuracy": 0.5953878406708596,
+            "pp": 26.3393,
+            "mods": [],
+            "combo": 79,
+            "created_at": "2026-09-03T15:05:33Z",
+            "beatmapset": {
+              "id": 2572861,
+              "title": "MONTAGEM BATCHI",
+              "cover": "https://assets.ppy.sh/beatmaps/2572861/covers/card.jpg?1786064954",
+              "stars": 4.8701
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402699393,
+            "rank": "C",
+            "accuracy": 0.7369878183831672,
+            "pp": 40.3931,
+            "mods": [],
+            "combo": 141,
+            "created_at": "2026-09-03T15:04:28Z",
+            "beatmapset": {
+              "id": 2533966,
+              "title": "Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix] (Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2533966/covers/card.jpg?1787131220",
+              "stars": 4.86023
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402654238,
+            "rank": "C",
+            "accuracy": 0.7798546209761164,
+            "pp": 51.8937,
+            "mods": [],
+            "combo": 117,
+            "created_at": "2026-09-03T14:57:07Z",
+            "beatmapset": {
+              "id": 596704,
+              "title": "Hitorigoto -TV MIX-",
+              "cover": "https://assets.ppy.sh/beatmaps/596704/covers/card.jpg?1650648964",
+              "stars": 4.78929
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402480297,
+            "rank": "C",
+            "accuracy": 0.8291316526610645,
+            "pp": 68.3159,
+            "mods": [],
+            "combo": 124,
+            "created_at": "2026-09-03T14:28:33Z",
+            "beatmapset": {
+              "id": 2282704,
+              "title": "Bubblegum Bitch (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2282704/covers/card.jpg?1756038849",
+              "stars": 4.78718
+            }
+          },
+          {
+            "user": "Hatagori",
+            "user_id": 39278215,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 7402415506,
+            "rank": "C",
+            "accuracy": 0.7805280528052805,
+            "pp": 45.1342,
+            "mods": [],
+            "combo": 185,
+            "created_at": "2026-09-03T14:17:28Z",
+            "beatmapset": {
+              "id": 935111,
+              "title": "Gold Dust",
+              "cover": "https://assets.ppy.sh/beatmaps/935111/covers/card.jpg?1650676791",
+              "stars": 4.78625
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "IRIS OUT",
+        "cover": "https://assets.ppy.sh/beatmaps/2441218/covers/card.jpg?1760228824",
+        "unique_players": 24
       }
     }
   }
