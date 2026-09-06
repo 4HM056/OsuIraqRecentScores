@@ -1,8 +1,8 @@
 {
   "community_streak": {
-    "current": 188,
-    "longest": 188,
-    "last_updated": "2026-09-04"
+    "current": 189,
+    "longest": 189,
+    "last_updated": "2026-09-05"
   },
   "daily_stats": {
     "2026-02-26": {
@@ -56715,6 +56715,309 @@
         "title": "IRIS OUT",
         "cover": "https://assets.ppy.sh/beatmaps/2441218/covers/card.jpg?1760228824",
         "unique_players": 24
+      }
+    },
+    "2026-09-05": {
+      "total_scores": 1041,
+      "peak_hour_baghdad": 16,
+      "top_grinder": {
+        "user": "-Leno",
+        "user_id": 17936461,
+        "count": 61,
+        "scores": [
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5073001560,
+            "rank": "B",
+            "accuracy": 0.8685897435897436,
+            "pp": null,
+            "mods": [],
+            "combo": 55,
+            "created_at": "2026-09-05T02:35:40Z",
+            "beatmapset": {
+              "id": 1742920,
+              "title": "TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA",
+              "cover": "https://assets.ppy.sh/beatmaps/1742920/covers/card.jpg?1693291316",
+              "stars": 5.67992
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5073001377,
+            "rank": "B",
+            "accuracy": 0.907051282051282,
+            "pp": null,
+            "mods": [],
+            "combo": 46,
+            "created_at": "2026-09-05T02:34:51Z",
+            "beatmapset": {
+              "id": 1742920,
+              "title": "TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA",
+              "cover": "https://assets.ppy.sh/beatmaps/1742920/covers/card.jpg?1693291316",
+              "stars": 5.67992
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5073001193,
+            "rank": "A",
+            "accuracy": 0.9326923076923077,
+            "pp": null,
+            "mods": [],
+            "combo": 75,
+            "created_at": "2026-09-05T02:33:58Z",
+            "beatmapset": {
+              "id": 1742920,
+              "title": "TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA",
+              "cover": "https://assets.ppy.sh/beatmaps/1742920/covers/card.jpg?1693291316",
+              "stars": 5.67992
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072996564,
+            "rank": "A",
+            "accuracy": 0.9522522522522523,
+            "pp": 136.038,
+            "mods": [],
+            "combo": 213,
+            "created_at": "2026-09-05T02:12:18Z",
+            "beatmapset": {
+              "id": 2573210,
+              "title": "Ren'ai Circulation (TV Size)",
+              "cover": "https://assets.ppy.sh/beatmaps/2573210/covers/card.jpg?1782538676",
+              "stars": 5.88356
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072848047,
+            "rank": "A",
+            "accuracy": 0.957345971563981,
+            "pp": 189.029,
+            "mods": [],
+            "combo": 155,
+            "created_at": "2026-09-04T17:44:16Z",
+            "beatmapset": {
+              "id": 1464487,
+              "title": "Chug Jug With You, but i can't anymore",
+              "cover": "https://assets.ppy.sh/beatmaps/1464487/covers/card.jpg?1734631109",
+              "stars": 6.40411
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072847327,
+            "rank": "A",
+            "accuracy": 0.9410852713178295,
+            "pp": 139.283,
+            "mods": [],
+            "combo": 163,
+            "created_at": "2026-09-04T17:42:20Z",
+            "beatmapset": {
+              "id": 2352698,
+              "title": "American Girls (Juztan Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/2352698/covers/card.jpg?1748119114",
+              "stars": 6.34245
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072846016,
+            "rank": "A",
+            "accuracy": 0.9348837209302325,
+            "pp": 133.852,
+            "mods": [],
+            "combo": 125,
+            "created_at": "2026-09-04T17:38:49Z",
+            "beatmapset": {
+              "id": 2352698,
+              "title": "American Girls (Juztan Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/2352698/covers/card.jpg?1748119114",
+              "stars": 6.34245
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072845721,
+            "rank": "A",
+            "accuracy": 0.9364341085271318,
+            "pp": 132.054,
+            "mods": [],
+            "combo": 132,
+            "created_at": "2026-09-04T17:37:54Z",
+            "beatmapset": {
+              "id": 2352698,
+              "title": "American Girls (Juztan Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/2352698/covers/card.jpg?1748119114",
+              "stars": 6.34245
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072845412,
+            "rank": "A",
+            "accuracy": 0.9480620155038759,
+            "pp": 148.064,
+            "mods": [],
+            "combo": 123,
+            "created_at": "2026-09-04T17:37:04Z",
+            "beatmapset": {
+              "id": 2352698,
+              "title": "American Girls (Juztan Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/2352698/covers/card.jpg?1748119114",
+              "stars": 6.34245
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072844643,
+            "rank": "B",
+            "accuracy": 0.905829596412556,
+            "pp": 116.981,
+            "mods": [],
+            "combo": 158,
+            "created_at": "2026-09-04T17:35:01Z",
+            "beatmapset": {
+              "id": 2352698,
+              "title": "American Girls (Juztan Remix)",
+              "cover": "https://assets.ppy.sh/beatmaps/2352698/covers/card.jpg?1748119114",
+              "stars": 6.51428
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072842204,
+            "rank": "A",
+            "accuracy": 0.9803921568627451,
+            "pp": 211.062,
+            "mods": [],
+            "combo": 1192,
+            "created_at": "2026-09-04T17:28:13Z",
+            "beatmapset": {
+              "id": 1193588,
+              "title": "Sunglow",
+              "cover": "https://assets.ppy.sh/beatmaps/1193588/covers/card.jpg?1645781099",
+              "stars": 5.96256
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072840226,
+            "rank": "A",
+            "accuracy": 0.9333333333333333,
+            "pp": 182.759,
+            "mods": [
+              "DT"
+            ],
+            "combo": 199,
+            "created_at": "2026-09-04T17:22:41Z",
+            "beatmapset": {
+              "id": 2295884,
+              "title": "Pretty Little Psycho (Nightcore & Cut Ver.)",
+              "cover": "https://assets.ppy.sh/beatmaps/2295884/covers/card.jpg?1751383816",
+              "stars": 4.65449
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072839558,
+            "rank": "A",
+            "accuracy": 0.979002624671916,
+            "pp": 178.573,
+            "mods": [],
+            "combo": 364,
+            "created_at": "2026-09-04T17:20:51Z",
+            "beatmapset": {
+              "id": 1068768,
+              "title": "Yume Chizu",
+              "cover": "https://assets.ppy.sh/beatmaps/1068768/covers/card.jpg?1645787898",
+              "stars": 5.73684
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072838755,
+            "rank": "A",
+            "accuracy": 0.9799416484318016,
+            "pp": 208.516,
+            "mods": [],
+            "combo": 981,
+            "created_at": "2026-09-04T17:18:47Z",
+            "beatmapset": {
+              "id": 352570,
+              "title": "Night of Knights",
+              "cover": "https://assets.ppy.sh/beatmaps/352570/covers/card.jpg?1650634611",
+              "stars": 5.90185
+            }
+          },
+          {
+            "user": "-Leno",
+            "user_id": 17936461,
+            "country": "IQ",
+            "mode": "osu",
+            "score_id": 5072837524,
+            "rank": "A",
+            "accuracy": 0.9331476323119777,
+            "pp": 153.641,
+            "mods": [],
+            "combo": 138,
+            "created_at": "2026-09-04T17:15:31Z",
+            "beatmapset": {
+              "id": 1608572,
+              "title": "Gourmet Race",
+              "cover": "https://assets.ppy.sh/beatmaps/1608572/covers/card.jpg?1645787270",
+              "stars": 6.35721
+            }
+          }
+        ]
+      },
+      "most_played_map": {
+        "title": "Natsuzora Yell (TV Size)",
+        "cover": "https://assets.ppy.sh/beatmaps/1028594/covers/card.jpg?1650684669",
+        "unique_players": 19
       }
     }
   }
